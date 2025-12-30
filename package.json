@@ -10,7 +10,7 @@
     "astro": "astro",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "sync": "git add -A && node -e \"try{require('child_process').execSync('git commit -m \\\"Quick Sync: '+Math.random().toString(36).substring(7)+'\\\"',{stdio:'inherit'})}catch(e){console.log('No changes to commit, pushing existing...')}\" && git push"
+    "sync": "node scripts/sync.js"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.6",
