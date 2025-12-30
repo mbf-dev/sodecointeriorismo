@@ -4,11 +4,8 @@
 @plugin "daisyui" {
   themes:
     light --default,
-    dark --prefersdark;
+    dark --prefers-color-scheme;
   root: ':root';
-  include: ;
-  exclude: ;
-  prefix: ;
   logs: true;
 }
 

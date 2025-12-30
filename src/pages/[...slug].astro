@@ -18,7 +18,7 @@ try {
     const data = await response.json();
     
     // Normalized comparison helper
-    const matchesSlug = (path) => {
+    const matchesSlug = (path: string) => {
         if (!path) return false;
         // WP path comes as /some-slug/, we treat it as some-slug
         // Homepage / matched to string ''
@@ -28,25 +28,25 @@ try {
 
     // Search in Pages
     if (data.pages) {
-        const found = data.pages.find(p => matchesSlug(p.path));
+        const found = data.pages.find((p: any) => matchesSlug(p.path));
         if (found) pageData = { type: 'page', ...found };
     }
 
     // Search in Posts (if not found yet)
     if (!pageData && data.posts) {
-        const found = data.posts.find(p => matchesSlug(p.path));
+        const found = data.posts.find((p: any) => matchesSlug(p.path));
         if (found) pageData = { type: 'post', ...found };
     }
 
     // Search in Categories
     if (!pageData && data.categories) {
-        const found = data.categories.find(c => matchesSlug(c.path));
+        const found = data.categories.find((c: any) => matchesSlug(c.path));
         if (found) pageData = { type: 'category', ...found };
     }
 
      // Search in Tags
     if (!pageData && data.tags) {
-        const found = data.tags.find(t => matchesSlug(t.path));
+        const found = data.tags.find((t: any) => matchesSlug(t.path));
         if (found) pageData = { type: 'tag', ...found };
     }
   }
