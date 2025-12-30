@@ -1,0 +1,111 @@
+---
+import { Menu, Search, User, Heart, ShoppingBag, ChevronDown } from 'lucide-astro';
+---
+
+<header class="w-full">
+  <!-- Top Section / Mobile Header -->
+  <div class="container py-3 flex items-center justify-between">
+    <!-- Mobile Menu Toggle -->
+    <div class="lg:hidden">
+      <button class="btn btn-ghost btn-circle">
+        <Menu class="w-6 h-6" />
+      </button>
+    </div>
+
+    <!-- Logo -->
+    <div class="flex-1 lg:flex-none flex justify-center lg:justify-start">
+      <div class="flex items-center gap-2">
+        <img src="https://placehold.co/140x40" alt="Sodeco Logo" class="w-auto h-auto" />
+      </div>
+    </div>
+
+    <!-- Desktop Search Bar -->
+    <div class="hidden lg:flex flex-1 max-w-2xl mx-8">
+      <div class="join w-full bg-white border-2 border-primary rounded-lg h-12">
+        <input
+          class="input join-item pl-4 w-full h-full shadow-none focus:outline-none rounded-lg border-none"
+          placeholder="Buscar..."
+        />
+
+        <button
+          class="btn btn-ghost border-none hover:bg-base-200 text-sm text-base-content/70 join-item h-full font-normal"
+          popovertarget="popover-1"
+          style="anchor-name:--anchor-1"
+        >
+          Categorías
+          <span class="w-5 h-5 icon-[iconamoon--arrow-down-2-thin]"></span>
+        </button>
+        <ul
+          class="dropdown dropdown-end menu w-52 border border-solid border-base-200 x bg-base-100 shadow-md mt-0.5"
+          popover
+          id="popover-1"
+          style="position-anchor:--anchor-1"
+        >
+          <li><a>Item 1</a></li>
+          <li><a>Item 2</a></li>
+        </ul>
+
+        <button class="btn btn-ghost border-none hover:bg-base-200 text-sm join-item h-full">
+          <span class="w-5 h-5 icon-[iconamoon--search-thin] text-base-content"></span>
+          <span class="w-5 h-5 icon-[iconamoon--search-light] text-base-content"></span>
+        </button>
+      </div>
+    </div>
+
+    <!-- Icons -->
+    <div class="flex items-center gap-1 lg:gap-4">
+      <button class="btn btn-ghost btn-circle lg:hidden">
+        <Search class="w-6 h-6" />
+      </button>
+      <button class="btn btn-ghost btn-circle">
+        <User class="w-6 h-6" />
+      </button>
+      <div class="indicator">
+        <button class="btn btn-ghost btn-circle">
+          <Heart class="w-6 h-6" />
+        </button>
+        <span class="badge badge-sm badge-primary indicator-item text-[10px] font-bold">0</span>
+      </div>
+      <div class="indicator group">
+        <button class="btn btn-ghost btn-circle flex items-center">
+          <ShoppingBag class="w-6 h-6" />
+          <ChevronDown class="w-4 h-4 ml-1 hidden lg:block" />
+        </button>
+        <span class="badge badge-sm badge-primary indicator-item text-[10px] font-bold">0</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bottom Section (Desktop Navigation) -->
+
+  <div class="container">
+    <nav class="bg-neutral px-4 text-neutral-content rounded-lg h-16 flex items-center">
+      <div class="flex items-center gap-2 cursor-pointer">
+        <Menu class="w-5 h-5" />
+        <span class="font-medium">Menu</span>
+      </div>
+      <ul class="flex items-center space-x-8 px-8 font-medium whitespace-nowrap">
+        <li>
+          <a href="#" class="hover:text-primary transition-colors text-sm">Paneles Acústicos</a>
+        </li>
+        <li>
+          <a href="#" class="hover:text-primary transition-colors text-sm">Mobiliario</a>
+        </li>
+        <li>
+          <a href="#" class="text-primary transition-colors text-sm">Presupuesto</a>
+        </li>
+        <li>
+          <a href="#" class="hover:text-primary transition-colors text-sm">Sobre Nosotros</a>
+        </li>
+        <li>
+          <a href="#" class="hover:text-primary transition-colors text-sm">Contacto</a>
+        </li>
+        <li>
+          <a href="#" class="hover:text-primary transition-colors text-sm">Mi Cuenta</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<style></style>
