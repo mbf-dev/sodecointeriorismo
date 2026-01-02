@@ -1,7 +1,7 @@
 @import 'tailwindcss';
-@plugin "@iconify/tailwind4";
+@plugin '@iconify/tailwind4';
 
-@plugin "daisyui" {
+@plugin 'daisyui' {
   themes:
     light --default,
     dark --prefers-color-scheme;
@@ -9,7 +9,7 @@
   logs: true;
 }
 
-@plugin "daisyui/theme" {
+@plugin 'daisyui/theme' {
   name: 'light';
   default: false;
   prefersdark: false;
@@ -44,7 +44,7 @@
   --noise: 0;
 }
 
-@plugin "daisyui/theme" {
+@plugin 'daisyui/theme' {
   name: 'dark';
   default: false;
   prefersdark: false;
@@ -79,8 +79,8 @@
   --noise: 0;
 }
 
-@layer base {
+@layer utilities {
   .container {
-    @apply mx-auto px-3 md:px-6 overflow-hidden;
+    @apply mx-auto max-w-none overflow-hidden px-[20px] md:max-w-[1440px] md:px-[10px];
   }
 }

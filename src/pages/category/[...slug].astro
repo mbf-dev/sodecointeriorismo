@@ -1,0 +1,26 @@
+---
+import LayoutCategory from '../../layouts/LayoutCategory.astro';
+import categoriesData from '../../data/categories.json';
+
+// SSR Mode
+export const prerender = false;
+
+const { slug } = Astro.params;
+// Reconstruct full path for matching, assuming standard WP structure /category/slug/
+// Or match by slug directly if unique within categories
+const currentSlug = slug ? slug.replace(/^\/|\/$/g, '') : '';
+
+// Find category by slug (more robust than path for sub-routes if we just want the term)
+const category = categoriesData.find((c: any) => {
+    // We match against the slug part of the path, or the explicit slug field
+    return c.slug === currentSlug || c.path.replace(/^\/|\/$/g, '') === `category/${currentSlug}`; 
+});
+
+if (!category) {
+    return Astro.redirect('/404');
+}
+---
+
+<LayoutCategory {...category}>
+    <p class="text-sm">Rendered via: src/pages/category/[...slug].astro</p>
+</LayoutCategory>

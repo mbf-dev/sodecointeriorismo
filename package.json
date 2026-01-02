@@ -17,12 +17,14 @@
   "dependencies": {
     "@astrojs/check": "^0.9.6",
     "@astrojs/node": "^9.5.1",
+    "@astrojs/svelte": "^7.2.4",
     "astro": "^5.16.6",
+    "svelte": "^5.46.1",
     "typescript": "^5.9.3"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.2",
-    "@iconify/json": "^2.2.421",
+    "@iconify/json": "^2.2.422",
     "@iconify/tailwind4": "^1.2.0",
     "@tailwindcss/vite": "^4.1.18",
     "daisyui": "^5.5.14",
@@ -31,7 +33,9 @@
     "lucide-astro": "^0.556.0",
     "prettier": "^3.7.4",
     "prettier-plugin-astro": "^0.14.1",
+    "prettier-plugin-tailwindcss": "^0.7.2",
     "tailwindcss": "^4.1.18",
-    "typescript-eslint": "^8.50.1"
+    "typescript-eslint": "^8.51.0",
+    "vite-plugin-mkcert": "^1.17.9"
   }
 }

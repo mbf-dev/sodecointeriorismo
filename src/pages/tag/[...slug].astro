@@ -1,0 +1,23 @@
+---
+import LayoutTag from '../../layouts/LayoutTag.astro';
+import tagsData from '../../data/tags.json';
+
+// SSR Mode
+export const prerender = false;
+
+const { slug } = Astro.params;
+const currentSlug = slug ? slug.replace(/^\/|\/$/g, '') : '';
+
+// Find tag
+const tag = tagsData.find((t: any) => {
+    return t.slug === currentSlug || t.path.replace(/^\/|\/$/g, '') === `tag/${currentSlug}`;
+});
+
+if (!tag) {
+    return Astro.redirect('/404');
+}
+---
+
+<LayoutTag {...tag}>
+     <p class="text-sm">Rendered via: src/pages/tag/[...slug].astro</p>
+</LayoutTag>

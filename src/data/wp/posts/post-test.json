@@ -1,0 +1,18 @@
+{
+  "id": 23870,
+  "title": "Post Test",
+  "content": "",
+  "excerpt": "",
+  "date": "2025-12-30 13:51:27",
+  "featured_image": {
+    "url": "https://sodeco.dev.net.pe/wp-content/uploads/2025/07/cusi-3-1024x1024.jpg.webp",
+    "alt": "",
+    "local_url": "/imgs/wp-uploads/2025/07/cusi-3-1024x1024.jpg.webp"
+  },
+  "categories": [
+    "articles"
+  ],
+  "tags": [
+    "test"
+  ]
+}

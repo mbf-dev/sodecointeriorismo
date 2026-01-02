@@ -1,0 +1,29 @@
+---
+import Layout from './Layout.astro';
+
+interface Props {
+  name: string;
+  [key: string]: any;
+}
+
+const { name, ...props } = Astro.props;
+---
+
+<Layout title={`Etiqueta: ${name}`}>
+    <!-- Specific structure for Tag Archives -->
+    <div class="tag-container container mx-auto py-12">
+        <header class="mb-12 text-center">
+            <h1 class="text-3xl font-bold"># {name}</h1>
+        </header>
+        
+        <main class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <slot />
+             <div class="col-span-full text-center py-20 bg-base-200 rounded">
+                <p>Posts etiquetados con {name}...</p>
+                 <div class="debug-data mt-4 text-left p-4 text-xs opacity-50">
+                    <pre>{JSON.stringify(props, null, 2)}</pre>
+                </div>
+             </div>
+        </main>
+    </div>
+</Layout>

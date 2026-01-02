@@ -1,0 +1,23 @@
+[
+    {
+        "id": 23870,
+        "title": "Post Test",
+        "slug": "post-test",
+        "link": "https:\/\/sodeco.dev.net.pe\/post-test\/",
+        "path": "\/post-test\/",
+        "categories": [
+            {
+                "id": 66,
+                "slug": "articles",
+                "name": "Articles"
+            }
+        ],
+        "tags": [
+            {
+                "id": 670,
+                "slug": "test",
+                "name": "Test"
+            }
+        ]
+    }
+]

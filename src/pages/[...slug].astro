@@ -1,105 +1,66 @@
 ---
-import Layout from '../layouts/Layout.astro';
+import LayoutPage from '../layouts/LayoutPage.astro';
+import LayoutPost from '../layouts/LayoutPost.astro';
+import fs from 'node:fs/promises';
+import path from 'node:path';
 
-// SSR Mode: Explicitly set prerender to false to avoid GetStaticPathsRequired error
+// SSR Mode
 export const prerender = false;
 
-// We fetch data at runtime for every request.
-
 const { slug } = Astro.params;
-const currentPath = slug ? slug.replace(/^\/|\/$/g, '') : ''; // Sanitize current slug (empty string for homepage)
+// Handle root path or sanitize slug
+const currentSlug = slug ? slug.replace(/^\/|\/$/g, '') : 'inicio'; 
 
-const WP_API_URL = 'https://sodeco.dev.net.pe/wp-json/mbf-sodeco/v1/structure';
-let pageData = null;
+const DATA_DIR = path.join(process.cwd(), 'src/data/wp');
 
-try {
-  const response = await fetch(WP_API_URL);
-  if (response.ok) {
-    const data = await response.json();
-    
-    // Normalized comparison helper
-    const matchesSlug = (path: string) => {
-        if (!path) return false;
-        // WP path comes as /some-slug/, we treat it as some-slug
-        // Homepage / matched to string ''
-        const cleanPath = path.replace(/^\/|\/$/g, '');
-        return cleanPath === currentPath;
-    };
-
-    // Search in Pages
-    if (data.pages) {
-        const found = data.pages.find((p: any) => matchesSlug(p.path));
-        if (found) pageData = { type: 'page', ...found };
+// Helper to attempt reading a JSON file
+async function findData(type: 'pages' | 'posts', slugName: string) {
+    try {
+        const filePath = path.join(DATA_DIR, type, `${slugName}.json`);
+        // Check availability
+        await fs.access(filePath);
+        // Read file
+        const raw = await fs.readFile(filePath, 'utf-8');
+        return JSON.parse(raw);
+    } catch {
+        return null;
     }
-
-    // Search in Posts (if not found yet)
-    if (!pageData && data.posts) {
-        const found = data.posts.find((p: any) => matchesSlug(p.path));
-        if (found) pageData = { type: 'post', ...found };
-    }
-
-    // Search in Categories
-    if (!pageData && data.categories) {
-        const found = data.categories.find((c: any) => matchesSlug(c.path));
-        if (found) pageData = { type: 'category', ...found };
-    }
-
-     // Search in Tags
-    if (!pageData && data.tags) {
-        const found = data.tags.find((t: any) => matchesSlug(t.path));
-        if (found) pageData = { type: 'tag', ...found };
-    }
-  }
-} catch (error) {
-  console.error("Error fetching WP data:", error);
 }
 
-// 404 Handling: If no data found for this slug, return 404
-if (!pageData) {
+// Strategy: Pages first, then Posts
+let pageData = null;
+let Layout = null;
+
+// 1. Try Page
+pageData = await findData('pages', currentSlug);
+if (pageData) {
+    Layout = LayoutPage;
+} else {
+    // 2. Try Post
+    pageData = await findData('posts', currentSlug);
+    if (pageData) {
+        Layout = LayoutPost;
+    }
+}
+
+// 404 or redirect
+if (!pageData || !Layout) {
     return Astro.redirect('/404');
 }
-
-const { title, type, link, categories, tags } = pageData;
 ---
-<!-- 
-  Astro SSR Dynamic Route
-  Fetches content mapping from WordPress at runtime.
--->
 
-<Layout title={title || 'Sodeco'}>
-    <div class="container mx-auto p-4">
-        <h1 class="text-3xl font-bold mb-4">{title}</h1>
-
-        <div class="bg-gray-100 p-6 rounded-lg shadow-md">
-            <p class="mb-2"><strong>Type:</strong> {type}</p>
-            <p class="mb-2"><strong>Slug:</strong> {currentPath || '(Home)'}</p>
-            <p class="mb-2"><strong>WP Link:</strong> <a href={link} target="_blank" class="text-blue-500 underline">{link}</a></p>
-            
-            {categories && categories.length > 0 && (
-                <div class="mt-4">
-                    <strong>Categories:</strong>
-                    <ul class="list-disc pl-5">
-                        {categories.map((cat: any) => (
-                            <li>{cat.name} ({cat.slug})</li>
-                        ))}
-                    </ul>
-                </div>
-            )}
-
-            {tags && tags.length > 0 && (
-                <div class="mt-4">
-                    <strong>Tags:</strong>
-                    <ul class="list-disc pl-5">
-                        {tags.map((tag: any) => (
-                            <li>{tag.name} ({tag.slug})</li>
-                        ))}
-                    </ul>
-                </div>
-            )}
-        </div>
-        
-        <div class="mt-8 text-sm text-gray-500">
-            <p>Mode: SSR (Server Side Rendering). Data fetched at runtime.</p>
-        </div>
-    </div>
+<Layout {...pageData}>
+    {/* 
+       Si el objeto JSON trae Content (HTML) ya renderizado por WP, lo inyectamos.
+       Si trae bloques, iteramos.
+       Por ahora asumimos que 'content' viene en el JSON.
+    */}
+    {pageData.data?.content && <Fragment set:html={pageData.data.content} />}
+    
+    {!pageData.data?.content && (
+         <div class="container mx-auto py-12">
+            <h1 class="text-3xl font-bold mb-4">{pageData.data?.title || pageData.title}</h1>
+            <p>Contenido no disponible.</p>
+         </div>
+    )}
 </Layout>
