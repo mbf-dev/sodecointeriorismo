@@ -8,8 +8,6 @@ interface Props {
   [key: string]: any;
 }
 
-import { Picture } from 'astro:assets';
-
 const { title, categories, tags, featured_image, ...props } = Astro.props;
 ---
 
@@ -33,28 +31,42 @@ const { title, categories, tags, featured_image, ...props } = Astro.props;
                 )}
             </div>
 
-            {featured_image && featured_image.local_url && (
-                <div class="featured-image mb-8 rounded-xl overflow-hidden shadow-lg">
-                    {/* 
-                      OPTIMIZACION CRITICA:
-                      Usamos http://localhost:8686 explícitamente para que el servidor de Astro
-                      lea la imagen de sí mismo por la red interna (Loopback) en lugar de salir 
-                      a internet a buscar "sodeco.dev.net.pe" o la URL pública.
-                      Esto reduce el tiempo de "Descarga" de ms/segundos a microsegundos.
-                    */}
-                    <Picture 
-                        src={`http://localhost:8686${featured_image.local_url}`}
-                        alt={featured_image.alt || title} 
-                        width={1200}
-                        height={600}
-                        formats={['avif', 'webp']}
-                        widths={[240, 540, 720, 1024, 1200]}
-                        sizes={`(max-width: 360px) 240px, (max-width: 720px) 540px, (max-width: 1024px) 720px, 1200px`}
-                        class="w-full h-auto object-cover max-h-[600px]"
-                        loading="eager"
-                        decoding="async"
-                    />
+            {/* 
+              Renderizado ULTRA RÁPIDO con Optimización Pre-Sync 
+              - Usa 'optimized.lqip' (Base64 tiny) para carga instantánea.
+              - Usa 'optimized.sources' para WebP/AVIF servidos desde disco (sin procesar al vuelo).
+            */}
+            {featured_image && featured_image.optimized ? (
+                <div 
+                    class="featured-image mb-8 rounded-xl overflow-hidden shadow-lg relative bg-cover bg-center"
+                    style={`background-image: url('${featured_image.optimized.lqip}');`}
+                >
+                    {/* Filtro blur para el LQIP de fondo */}
+                    <div class="absolute inset-0 backdrop-blur-xl z-0"></div>
+
+                    <picture class="relative z-10 block w-full h-auto">
+                        {featured_image.optimized.sources.map((source: any) => (
+                            <source srcset={source.srcset} type={source.type} sizes="(max-width: 640px) 640px, (max-width: 1024px) 1024px, 1600px" />
+                        ))}
+                        <img 
+                            src={featured_image.optimized.src} 
+                            alt={featured_image.alt || title} 
+                            width={featured_image.optimized.width}
+                            height={featured_image.optimized.height}
+                            loading="eager"
+                            decoding="async"
+                            class="w-full h-auto object-cover max-h-[600px] transition-opacity duration-500 opacity-0 onload-opacity"
+                            onload="this.style.opacity=1"
+                        />
+                    </picture>
                 </div>
+            ) : (
+               /* Fallback por si no hay optimización (legacy) */
+               featured_image && featured_image.url && (
+                 <div class="mb-8">
+                    <img src={featured_image.url} alt={title} class="w-full h-auto rounded-xl" />
+                 </div>
+               )
             )}
         </header>
         

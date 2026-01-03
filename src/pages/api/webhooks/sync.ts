@@ -24,9 +24,10 @@ export const POST: APIRoute = async ({ request }) => {
 
     // 2. Procesar Imagen Destacada si existe (Smart Sync)
     if (data.featured_image && data.featured_image.url) {
-      const localUrl = await smartSyncImage(data.featured_image.url);
-      if (localUrl) {
-        data.featured_image.local_url = localUrl; // Guardamos ambas por si acaso
+      const optimizedData = await smartSyncImage(data.featured_image.url);
+      if (optimizedData) {
+        // Guardamos el objeto completo con sources, lqip y fallback
+        data.featured_image.optimized = optimizedData;
       }
     }
 
