@@ -35,8 +35,15 @@ const { title, categories, tags, featured_image, ...props } = Astro.props;
 
             {featured_image && featured_image.local_url && (
                 <div class="featured-image mb-8 rounded-xl overflow-hidden shadow-lg">
+                    {/* 
+                      OPTIMIZACION CRITICA:
+                      Usamos http://localhost:8686 explícitamente para que el servidor de Astro
+                      lea la imagen de sí mismo por la red interna (Loopback) en lugar de salir 
+                      a internet a buscar "sodeco.dev.net.pe" o la URL pública.
+                      Esto reduce el tiempo de "Descarga" de ms/segundos a microsegundos.
+                    */}
                     <Picture 
-                        src={new URL(featured_image.local_url, Astro.url).href} 
+                        src={`http://localhost:8686${featured_image.local_url}`}
                         alt={featured_image.alt || title} 
                         width={1200}
                         height={600}
