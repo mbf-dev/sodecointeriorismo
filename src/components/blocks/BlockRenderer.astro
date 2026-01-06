@@ -1,0 +1,27 @@
+---
+import MbfBlock1 from './MbfBlock1.astro';
+import MbfSimpleButton from './MbfSimpleButton.astro';
+import CoreParagraph from './CoreParagraph.astro';
+import CoreHeading from './CoreHeading.astro';
+
+const { blocks } = Astro.props;
+
+const BLOCK_MAP = {
+  'mbf/block-1': MbfBlock1,
+  'mbf/simple-button': MbfSimpleButton,
+  'core/paragraph': CoreParagraph,
+  'core/heading': CoreHeading,
+  // Añadir más mapeos aquí
+};
+---
+
+{
+  blocks && blocks.map((block: any) => {
+    const Component = BLOCK_MAP[block.name as keyof typeof BLOCK_MAP];
+    if (Component) {
+      return <Component {...block.attributes} innerBlocks={block.innerBlocks} />;
+    }
+    // Fallback simple para bloques no mapeados (opcional)
+    return null;
+  })
+}

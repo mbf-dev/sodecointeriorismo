@@ -1,0 +1,42 @@
+{
+  "id": 331,
+  "title": "Home",
+  "blocks": [
+    {
+      "name": "mbf/block-1",
+      "attributes": {
+        "title": "Lorem ipsum dolor sit amet dsfsd fsdfds",
+        "description": "Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. fsdfsd",
+        "padding": {
+          "top": "pt-0",
+          "bottom": "pb-0"
+        },
+        "buttons": {
+          "align": "center",
+          "items": [
+            {
+              "text": "Click me",
+              "url": "#",
+              "variant": "btn-primary"
+            },
+            {
+              "text": "Nuevo Botón",
+              "url": "#",
+              "variant": "btn-outline"
+            },
+            {
+              "text": "Botón 1",
+              "url": "#",
+              "variant": "btn-accent"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "excerpt": "",
+  "date": "2023-09-04 06:54:02",
+  "modified": "2026-01-06 23:09:56",
+  "featured_image": null,
+  "slug": "home"
+}

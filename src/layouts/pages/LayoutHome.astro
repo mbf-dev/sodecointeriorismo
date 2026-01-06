@@ -1,0 +1,35 @@
+---
+import Layout from '../Layout.astro';
+
+interface Props {
+  title: string;
+  [key: string]: any;
+}
+
+const { title, ...props } = Astro.props;
+---
+
+<Layout title={title}>
+    <!-- Hero Section Especial de HOME -->
+    <header class="hero min-h-screen bg-base-200">
+        <div class="hero-content text-center">
+            <div class="max-w-md">
+                <h1 class="text-5xl font-bold">{title}</h1>
+                <p class="py-6">
+                    Bienvenido a Sodeco Interiorismo. 
+                    (Este es el LayoutHome.astro especial)
+                </p>
+                <a href="/blog" class="btn btn-primary">Ver Blog</a>
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto py-12">
+        <slot />
+        
+        <div class="mt-8 p-4 bg-gray-100 rounded">
+            <h3 class="font-bold mb-2">Debug Data (Home):</h3>
+            <pre class="text-xs overflow-auto">{JSON.stringify(props, null, 2)}</pre>
+        </div>
+    </main>
+</Layout>

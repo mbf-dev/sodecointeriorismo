@@ -1,23 +1,74 @@
 ---
-import LayoutTag from '../../layouts/LayoutTag.astro';
-import tagsData from '../../data/tags.json';
+import LayoutPage from '../../layouts/pages/LayoutPage.astro';
+import fs from 'node:fs/promises';
+import path from 'node:path';
 
-// SSR Mode
 export const prerender = false;
 
 const { slug } = Astro.params;
 const currentSlug = slug ? slug.replace(/^\/|\/$/g, '') : '';
 
-// Find tag
-const tag = tagsData.find((t: any) => {
-    return t.slug === currentSlug || t.path.replace(/^\/|\/$/g, '') === `tag/${currentSlug}`;
+// 1. Resolver ID del Tag
+const DATA_DIR = path.join(process.cwd(), 'src/data/wp');
+const ROUTES_FILE = path.join(DATA_DIR, 'routes.json');
+let tagId = null;
+let tagData = null;
+
+try {
+    const routesRaw = await fs.readFile(ROUTES_FILE, 'utf-8');
+    const routes = JSON.parse(routesRaw);
+    tagId = routes.tags?.[currentSlug];
+
+    if (tagId) {
+        const tagFile = path.join(DATA_DIR, 'tags', `${tagId}.json`);
+        try {
+            const raw = await fs.readFile(tagFile, 'utf-8');
+            tagData = JSON.parse(raw);
+        } catch {
+             tagData = { name: currentSlug, id: tagId };
+        }
+    }
+} catch (e) {}
+
+if (!tagId) return Astro.redirect('/404');
+
+// 2. Cargar TODOS los posts y filtrar
+const postsParams = import.meta.glob('/src/data/wp/posts/*.json', { eager: true });
+const posts = Object.values(postsParams).map((p: any) => p.default || p).filter((post: any) => {
+    return post.tags?.some((t: any) => t.id === tagId || t.slug === currentSlug);
 });
 
-if (!tag) {
-    return Astro.redirect('/404');
-}
 ---
 
-<LayoutTag {...tag}>
-     <p class="text-sm">Rendered via: src/pages/tag/[...slug].astro</p>
-</LayoutTag>
+<LayoutPage title={`Etiqueta: ${tagData?.name || currentSlug}`}>
+    <div class="container mx-auto py-12">
+        <header class="mb-12">
+             <h1 class="text-4xl font-bold mb-4">Etiqueta: #{tagData?.name}</h1>
+             {tagData?.description && <p class="text-lg text-gray-600">{tagData.description}</p>}
+        </header>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {posts.length > 0 ? (
+                posts.map(post => (
+                    <a href={`/${post.slug}`} class="card bg-base-100 shadow-xl hover:shadow-2xl transition-shadow">
+                        {post.featured_image?.optimized?.lqip && (
+                            <figure class="aspect-video overflow-hidden">
+                                <img 
+                                    src={post.featured_image.optimized.src} 
+                                    alt={post.title}
+                                    class="w-full h-full object-cover"
+                                />
+                            </figure>
+                        )}
+                        <div class="card-body">
+                            <h2 class="card-title">{post.title}</h2>
+                            <p class="text-sm text-gray-500 line-clamp-3">{post.excerpt?.replace(/<[^>]*>?/gm, '')}</p>
+                        </div>
+                    </a>
+                ))
+            ) : (
+                <p>No hay artículos con esta etiqueta.</p>
+            )}
+        </div>
+    </div>
+</LayoutPage>

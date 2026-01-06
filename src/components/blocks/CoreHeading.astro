@@ -1,0 +1,5 @@
+---
+const { content, level } = Astro.props;
+const Tag = `h${level}`;
+---
+<Tag set:html={content} />

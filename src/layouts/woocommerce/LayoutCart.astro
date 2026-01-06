@@ -1,0 +1,21 @@
+---
+import Layout from '../Layout.astro';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<Layout title={title}>
+  <div class="container mx-auto py-12 px-4">
+    <h1 class="text-3xl font-bold mb-8 text-primary">Carrito de Compras</h1>
+    <div class="alert alert-warning">
+        <span>Funcionalidad de Carrito en desarrollo.</span>
+    </div>
+    <div class="mt-8">
+        <slot />
+    </div>
+  </div>
+</Layout>

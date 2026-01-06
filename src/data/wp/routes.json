@@ -1,0 +1,27 @@
+{
+  "posts": {
+    "post-test": 23870
+  },
+  "tags": {
+    "lolco": 671,
+    "test": 670
+  },
+  "pages": {
+    "blog": 333,
+    "home": 331,
+    "gracias": 17861,
+    "politica-de-cookies": 11817,
+    "politica-de-privacidad": 11815,
+    "aviso-legal": 11813,
+    "contacto": 10855,
+    "wishlist": 11,
+    "my-account": 8,
+    "checkout": 7,
+    "cart": 6,
+    "shop": 5
+  },
+  "categories": {
+    "articles": 66,
+    "buying": 69
+  }
+}

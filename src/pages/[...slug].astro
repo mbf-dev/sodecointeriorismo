@@ -1,6 +1,17 @@
 ---
-import LayoutPage from '../layouts/LayoutPage.astro';
-import LayoutPost from '../layouts/LayoutPost.astro';
+import LayoutPage from '../layouts/pages/LayoutPage.astro';
+import LayoutPost from '../layouts/posts/LayoutPost.astro';
+import LayoutHome from '../layouts/pages/LayoutHome.astro';
+import LayoutBlog from '../layouts/posts/LayoutBlog.astro';
+// import LayoutNoHome from '../layouts/pages/LayoutNoHome.astro'; // Removed as file seems missing/unused
+
+// WooCommerce Layouts
+import LayoutShop from '../layouts/woocommerce/LayoutShop.astro';
+import LayoutCart from '../layouts/woocommerce/LayoutCart.astro';
+import LayoutCheckout from '../layouts/woocommerce/LayoutCheckout.astro';
+import LayoutMyAccount from '../layouts/woocommerce/LayoutMyAccount.astro';
+import BlockRenderer from '../components/blocks/BlockRenderer.astro';
+
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
@@ -8,58 +19,165 @@ import path from 'node:path';
 export const prerender = false;
 
 const { slug } = Astro.params;
-// Handle root path or sanitize slug
-const currentSlug = slug ? slug.replace(/^\/|\/$/g, '') : 'inicio'; 
+// No forzamos 'inicio' por defecto. Si es undefined, es la root.
+const isRoot = !slug;
+const currentSlug = slug ? slug.replace(/^\/|\/$/g, '') : '';
 
 const DATA_DIR = path.join(process.cwd(), 'src/data/wp');
+const ROUTES_FILE = path.join(DATA_DIR, 'routes.json');
 
-// Helper to attempt reading a JSON file
+// Helper to look up ID by slug and read file
 async function findData(type: 'pages' | 'posts', slugName: string) {
     try {
-        const filePath = path.join(DATA_DIR, type, `${slugName}.json`);
-        // Check availability
-        await fs.access(filePath);
-        // Read file
+        const routesRaw = await fs.readFile(ROUTES_FILE, 'utf-8');
+        const routes = JSON.parse(routesRaw);
+        
+        const typeKey = type; 
+        const id = routes[typeKey]?.[slugName];
+
+        if (!id) return null;
+
+        const filePath = path.join(DATA_DIR, type, `${id}.json`);
         const raw = await fs.readFile(filePath, 'utf-8');
         return JSON.parse(raw);
-    } catch {
-        return null;
+    } catch (e) {
+        return null; 
     }
 }
+
+// Helper para leer por ID directo (cuando sabemos el ID por settings)
+async function findDataById(id: number) {
+    try {
+        // Buscamos en 'pages' primero, luego 'posts'
+        let filePath = path.join(DATA_DIR, 'pages', `${id}.json`);
+        try {
+            const raw = await fs.readFile(filePath, 'utf-8');
+            return JSON.parse(raw);
+        } catch {
+             filePath = path.join(DATA_DIR, 'posts', `${id}.json`);
+             const raw = await fs.readFile(filePath, 'utf-8');
+             return JSON.parse(raw);
+        }
+    } catch { return null; }
+}
+
 
 // Strategy: Pages first, then Posts
 let pageData = null;
 let Layout = null;
+let isHome = false;
+let isBlog = false;
 
-// 1. Try Page
-pageData = await findData('pages', currentSlug);
-if (pageData) {
-    Layout = LayoutPage;
+// 0. Cargar Global Settings
+let siteSettings: any = { home_id: 0, blog_id: 0, woocommerce: {} };
+try {
+    const settingsRaw = await fs.readFile(path.join(DATA_DIR, 'site-settings.json'), 'utf-8');
+    siteSettings = JSON.parse(settingsRaw);
+} catch {}
+
+// ---------------------------------------------------------
+// LÓGICA DE ROUTING PRINCIPAL
+// ---------------------------------------------------------
+
+console.log(`[Router] Request: /${currentSlug} (isRoot: ${isRoot})`);
+// console.log(`[Router] Settings:`, JSON.stringify(siteSettings));
+
+if (isRoot) {
+    // CASO 1: ESTAMOS EN LA HOME (/)
+    
+    if (siteSettings.home_id === 0) {
+        console.log('[Router] Root -> No Home ID -> LayoutBlog (Latest Posts)');
+        isHome = true;
+        Layout = LayoutBlog;
+        pageData = { title: 'Inicio', content: '' }; 
+    } else {
+        console.log(`[Router] Root -> Home ID: ${siteSettings.home_id}`);
+        // B) Configuración "Una página estática"
+        pageData = await findDataById(siteSettings.home_id);
+        
+        if (pageData) {
+            console.log('[Router] Home Data Found -> LayoutHome');
+            isHome = true;
+            Layout = LayoutHome;
+        } else {
+            console.log('[Router] Home Data NOT Found (Fallback) -> LayoutBlog');
+             Layout = LayoutBlog;
+             pageData = { title: 'Inicio (Fallback)', content: 'Sincroniza tu página de inicio en WP.' };
+        }
+    }
+
 } else {
-    // 2. Try Post
-    pageData = await findData('posts', currentSlug);
+    // CASO 2: PÁGINA INTERNA (/slug)
+    console.log(`[Router] Internal Page: ${currentSlug}`);
+
+
+    // 2.1 Intentar Página
+    pageData = await findData('pages', currentSlug);
+    
     if (pageData) {
-        Layout = LayoutPost;
+        Layout = LayoutPage; // Default para páginas
+        
+        // 2.1.A Chequear si es Blog Page
+        if (pageData.id === siteSettings.blog_id) {
+            isBlog = true;
+            Layout = LayoutBlog;
+        }
+        
+        // 2.1.B Chequear si es Home Page (accedida por slug)
+        if (pageData.id === siteSettings.home_id) {
+             isHome = true;
+             Layout = LayoutHome;
+        }
+
+        // 2.1.C Chequear IDs de WooCommerce
+        const wc = siteSettings.woocommerce || {};
+        if (wc.shop_id && pageData.id === wc.shop_id) {
+            Layout = LayoutShop;
+        } else if (wc.cart_id && pageData.id === wc.cart_id) {
+            Layout = LayoutCart;
+        } else if (wc.checkout_id && pageData.id === wc.checkout_id) {
+            Layout = LayoutCheckout;
+        } else if (wc.myaccount_id && pageData.id === wc.myaccount_id) {
+            Layout = LayoutMyAccount;
+        }
+
+    } else {
+        // 2.2 Intentar Post
+        pageData = await findData('posts', currentSlug);
+        if (pageData) {
+            Layout = LayoutPost;
+        }
     }
 }
 
-// 404 or redirect
+
 if (!pageData || !Layout) {
     return Astro.redirect('/404');
 }
+
+// Inyección de props especiales
+const props = { ...pageData, isHome, isBlog };
 ---
 
-<Layout {...pageData}>
+<Layout {...props}>
     {/* 
        Si el objeto JSON trae Content (HTML) ya renderizado por WP, lo inyectamos.
        Si trae bloques, iteramos.
        Por ahora asumimos que 'content' viene en el JSON.
     */}
-    {pageData.data?.content && <Fragment set:html={pageData.data.content} />}
+    {/* 
+       Prioridad 1: Renderizado por Bloques (Headless puro)
+       Prioridad 2: Renderizado por Content (HTML legacy)
+    */}
+    {pageData.blocks && pageData.blocks.length > 0 ? (
+        <BlockRenderer blocks={pageData.blocks} />
+    ) : (
+        pageData.content && <Fragment set:html={pageData.content} />
+    )}
     
-    {!pageData.data?.content && (
+    {(!pageData.blocks || pageData.blocks.length === 0) && !pageData.content && (
          <div class="container mx-auto py-12">
-            <h1 class="text-3xl font-bold mb-4">{pageData.data?.title || pageData.title}</h1>
+            <h1 class="text-3xl font-bold mb-4">{pageData.title}</h1>
             <p>Contenido no disponible.</p>
          </div>
     )}

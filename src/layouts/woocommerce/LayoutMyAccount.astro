@@ -1,0 +1,24 @@
+---
+import Layout from '../Layout.astro';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<Layout title={title}>
+  <div class="container mx-auto py-12 px-4">
+    <h1 class="text-3xl font-bold mb-8 text-primary">Mi Cuenta</h1>
+    <div class="card bg-base-200 shadow-xl">
+        <div class="card-body">
+            <h2 class="card-title">Bienvenido</h2>
+            <p>Área de usuario (Pedidos, Direcciones, Detalles de cuenta).</p>
+            <div class="mt-4">
+                <slot />
+            </div>
+        </div>
+    </div>
+  </div>
+</Layout>

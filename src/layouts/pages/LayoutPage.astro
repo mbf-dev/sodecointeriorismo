@@ -1,0 +1,56 @@
+---
+import Layout from '../Layout.astro';
+
+interface Props {
+  title: string;
+  [key: string]: any;
+}
+
+const { title, featured_image, ...props } = Astro.props;
+---
+
+<Layout title={title}>
+    <!-- Specific structure for Pages -->
+    <div class="page-container container mx-auto py-12">
+        <header class="mb-8">
+            <h1 class="text-4xl font-bold mb-6">{title}</h1>
+
+            {featured_image && featured_image.optimized ? (
+                <div 
+                    class="featured-image mb-8 rounded-xl overflow-hidden shadow-lg relative bg-cover bg-center"
+                    style={`background-image: url('${featured_image.optimized.lqip}');`}
+                >
+                    <div class="absolute inset-0 backdrop-blur-xl z-0"></div>
+                    <picture class="relative z-10 block w-full h-auto">
+                        {featured_image.optimized.sources.map((source: any) => (
+                            <source srcset={source.srcset} type={source.type} sizes="(max-width: 640px) 640px, (max-width: 1024px) 1024px, 1600px" />
+                        ))}
+                        <img 
+                            src={featured_image.optimized.src} 
+                            alt={featured_image.alt || title} 
+                            width={featured_image.optimized.width}
+                            height={featured_image.optimized.height}
+                            loading="eager"
+                            decoding="async"
+                            class="w-full h-auto object-cover max-h-[500px] transition-opacity duration-500 opacity-0 onload-opacity"
+                            onload="this.style.opacity=1"
+                        />
+                    </picture>
+                </div>
+            ) : (
+                featured_image && featured_image.url && (
+                    <div class="mb-8">
+                        <img src={featured_image.url} alt={title} class="w-full h-auto rounded-xl" />
+                    </div>
+                )
+            )}
+        </header>
+        
+        <main class="prose max-w-none">
+            <slot />
+            <div class="debug-data mt-8 p-4 bg-base-200 rounded text-xs opacity-50">
+               <pre>{JSON.stringify(props, null, 2)}</pre>
+            </div>
+        </main>
+    </div>
+</Layout>

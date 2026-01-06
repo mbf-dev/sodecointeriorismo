@@ -1,26 +1,80 @@
 ---
-import LayoutCategory from '../../layouts/LayoutCategory.astro';
-import categoriesData from '../../data/categories.json';
+import LayoutPage from '../../layouts/pages/LayoutPage.astro';
+import fs from 'node:fs/promises';
+import path from 'node:path';
 
-// SSR Mode
 export const prerender = false;
 
 const { slug } = Astro.params;
-// Reconstruct full path for matching, assuming standard WP structure /category/slug/
-// Or match by slug directly if unique within categories
 const currentSlug = slug ? slug.replace(/^\/|\/$/g, '') : '';
 
-// Find category by slug (more robust than path for sub-routes if we just want the term)
-const category = categoriesData.find((c: any) => {
-    // We match against the slug part of the path, or the explicit slug field
-    return c.slug === currentSlug || c.path.replace(/^\/|\/$/g, '') === `category/${currentSlug}`; 
+// 1. Resolver ID de la Categoría
+const DATA_DIR = path.join(process.cwd(), 'src/data/wp');
+const ROUTES_FILE = path.join(DATA_DIR, 'routes.json');
+let categoryId = null;
+let categoryData = null;
+
+try {
+    const routesRaw = await fs.readFile(ROUTES_FILE, 'utf-8');
+    const routes = JSON.parse(routesRaw);
+    categoryId = routes.categories?.[currentSlug];
+
+    if (categoryId) {
+        const catFile = path.join(DATA_DIR, 'categories', `${categoryId}.json`);
+        // Si no existe el archivo de la categoría, usamos datos básicos o 404
+        try {
+            const raw = await fs.readFile(catFile, 'utf-8');
+            categoryData = JSON.parse(raw);
+        } catch {
+             // Fallback si solo tenemos ID pero no sync data
+             categoryData = { name: currentSlug, id: categoryId };
+        }
+    }
+} catch (e) {}
+
+if (!categoryId) return Astro.redirect('/404');
+
+// 2. Cargar TODOS los posts y filtrar
+// En una app real con miles de posts, esto debería ser un índice pre-generado.
+// Para <500 posts, esto es milisegundos.
+const postsParams = import.meta.glob('/src/data/wp/posts/*.json', { eager: true });
+const posts = Object.values(postsParams).map((p: any) => p.default || p).filter((post: any) => {
+    // Check si el post tiene esta categoría
+    // post.categories es array de objetos con { id, slug ... }
+    return post.categories?.some((c: any) => c.id === categoryId || c.slug === currentSlug);
 });
 
-if (!category) {
-    return Astro.redirect('/404');
-}
 ---
 
-<LayoutCategory {...category}>
-    <p class="text-sm">Rendered via: src/pages/category/[...slug].astro</p>
-</LayoutCategory>
+<LayoutPage title={`Categoría: ${categoryData?.name || currentSlug}`}>
+    <div class="container mx-auto py-12">
+        <header class="mb-12">
+             <h1 class="text-4xl font-bold mb-4">Categoría: {categoryData?.name}</h1>
+             {categoryData?.description && <p class="text-lg text-gray-600">{categoryData.description}</p>}
+        </header>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {posts.length > 0 ? (
+                posts.map(post => (
+                    <a href={`/${post.slug}`} class="card bg-base-100 shadow-xl hover:shadow-2xl transition-shadow">
+                        {post.featured_image?.optimized?.lqip && (
+                            <figure class="aspect-video overflow-hidden">
+                                <img 
+                                    src={post.featured_image.optimized.src} 
+                                    alt={post.title}
+                                    class="w-full h-full object-cover"
+                                />
+                            </figure>
+                        )}
+                        <div class="card-body">
+                            <h2 class="card-title">{post.title}</h2>
+                            <p class="text-sm text-gray-500 line-clamp-3">{post.excerpt?.replace(/<[^>]*>?/gm, '')}</p>
+                        </div>
+                    </a>
+                ))
+            ) : (
+                <p>No hay artículos en esta categoría.</p>
+            )}
+        </div>
+    </div>
+</LayoutPage>

@@ -1,0 +1,71 @@
+---
+import Layout from '../Layout.astro';
+
+interface Props {
+  title: string;
+  [key: string]: any;
+}
+
+const { title, ...props } = Astro.props;
+
+// Cargar posts para el listado (Max 12 recientes)
+const postsParams = import.meta.glob('/src/data/wp/posts/*.json', { eager: true });
+const allPosts = Object.values(postsParams).map((p: any) => p.default || p);
+
+// Ordenar por fecha (más reciente primero)
+const posts = allPosts.sort((a: any, b: any) => {
+    return new Date(b.date).getTime() - new Date(a.date).getTime();
+}).slice(0, 12); // Paginación simple (top 12)
+---
+
+<Layout title={title || "Blog"}>
+    <div class="bg-base-200 py-12">
+        <div class="container mx-auto px-4">
+             <h1 class="text-4xl font-bold border-b pb-4 mb-8">{title || 'Últimas Entradas'}</h1>
+             
+             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {posts.map((post: any) => (
+                    <a href={`/${post.slug}`} class="card bg-base-100 shadow-xl hover:shadow-2xl transition-all duration-300 group">
+                        {post.featured_image?.optimized?.lqip ? (
+                            <figure class="aspect-video overflow-hidden relative">
+                                <img 
+                                    src={post.featured_image.optimized.src} 
+                                    alt={post.title}
+                                    class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                                    loading="lazy"
+                                />
+                                <div class="absolute inset-0 bg-black/10 group-hover:bg-transparent transition-colors"></div>
+                            </figure>
+                        ) : (
+                            <div class="aspect-video bg-neutral text-neutral-content flex items-center justify-center">
+                                <span class="text-xs uppercase tracking-widest">Sin imagen</span>
+                            </div>
+                        )}
+                        
+                        <div class="card-body">
+                            <div class="flex gap-2 text-xs opacity-60 uppercase tracking-widest mb-2">
+                                <time>{new Date(post.date).toLocaleDateString('es-ES', { day: 'numeric', month: 'long', year: 'numeric' })}</time>
+                            </div>
+                            <h2 class="card-title group-hover:text-primary transition-colors">
+                                {post.title}
+                            </h2>
+                            <p class="text-sm text-gray-500 line-clamp-3">
+                                {post.excerpt?.replace(/<[^>]*>?/gm, '') || 'Sin resumen disponible.'}
+                            </p>
+                            <div class="card-actions justify-end mt-4">
+                                <span class="btn btn-sm btn-ghost">Leer más &rarr;</span>
+                            </div>
+                        </div>
+                    </a>
+                ))}
+
+                {posts.length === 0 && (
+                    <div class="col-span-full py-20 text-center text-gray-500">
+                        <p class="text-xl">Aún no hay publicaciones.</p>
+                        <p class="text-sm mt-2">Publica algo en WordPress para verlo aquí.</p>
+                    </div>
+                )}
+             </div>
+        </div>
+    </div>
+</Layout>

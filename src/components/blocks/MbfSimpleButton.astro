@@ -1,0 +1,12 @@
+---
+const { text, url, variant = 'btn-primary', opensInNewTab } = Astro.props;
+---
+
+<a 
+  href={url || '#'} 
+  class:list={['btn', variant]} 
+  target={opensInNewTab ? '_blank' : undefined}
+  rel={opensInNewTab ? 'noopener noreferrer' : undefined}
+>
+  {text}
+</a>

@@ -24,6 +24,8 @@ export const POST: APIRoute = async ({ request }) => {
 
     // 2. Procesar Imagen Destacada si existe (Smart Sync)
     if (data.featured_image && data.featured_image.url) {
+      console.log(`[Webhook] 📸 Received Featured Image URL: ${data.featured_image.url}`);
+
       const optimizedData = await smartSyncImage(data.featured_image.url);
       if (optimizedData) {
         // Guardamos el objeto completo con sources, lqip y fallback

@@ -1,0 +1,32 @@
+---
+const today = new Date();
+---
+
+<footer class="footer p-10 bg-neutral text-neutral-content">
+  <aside>
+    <svg width="50" height="50" viewBox="0 0 24 24" fill="none" class="fill-current text-primary mb-4">
+       <!-- Icono Sodeco provisional -->
+       <path d="M12 2L2 7l10 5 10-5-10-5zm0 9l2.5-1.25L12 8.5l-2.5 1.25L12 11zm0 2.5l-5-2.5-5 2.5L12 22l10-8.5-5-2.5-5 2.5z" fill="currentColor"></path>
+    </svg>
+    <p class="font-bold text-lg">Sodeco Interiorismo</p>
+    <p>Diseño acústico y mobiliario de vanguardia.</p>
+    <p class="text-sm opacity-70 mt-4">&copy; {today.getFullYear()} Todos los derechos reservados.</p>
+  </aside> 
+  <nav>
+    <h6 class="footer-title">Servicios</h6> 
+    <a href="/category/proyectos" class="link link-hover">Proyectos</a>
+    <a href="/category/acustica" class="link link-hover">Acústica</a>
+    <a href="/category/mobiliario" class="link link-hover">Mobiliario</a>
+  </nav> 
+  <nav>
+    <h6 class="footer-title">Empresa</h6> 
+    <a href="/about" class="link link-hover">Sobre Nosotros</a>
+    <a href="/contact" class="link link-hover">Contacto</a>
+    <a href="/blog" class="link link-hover">Blog</a>
+  </nav> 
+  <nav>
+    <h6 class="footer-title">Legal</h6> 
+    <a href="/terms" class="link link-hover">Términos de uso</a>
+    <a href="/privacy" class="link link-hover">Política de privacidad</a>
+  </nav>
+</footer>

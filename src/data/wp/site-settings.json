@@ -1,0 +1,76 @@
+{
+  "home_id": 331,
+  "blog_id": 333,
+  "logos": {
+    "desktop_dark": {
+      "id": 23903,
+      "url": "https://sodeco.dev.net.pe/wp-content/uploads/2026/01/logo-sodeco-desktop-dark.svg",
+      "mime": "image/svg+xml",
+      "alt": "",
+      "optimized": {
+        "src": "/wp-content/uploads/2026/01/logo-sodeco-desktop-dark.svg",
+        "width": 0,
+        "height": 0,
+        "lqip": "",
+        "sources": []
+      }
+    },
+    "desktop_light": {
+      "id": 23904,
+      "url": "https://sodeco.dev.net.pe/wp-content/uploads/2026/01/logo-sodeco-desktop-light.svg",
+      "mime": "image/svg+xml",
+      "alt": "",
+      "optimized": {
+        "src": "/wp-content/uploads/2026/01/logo-sodeco-desktop-light.svg",
+        "width": 0,
+        "height": 0,
+        "lqip": "",
+        "sources": []
+      }
+    },
+    "mobile_dark": {
+      "id": 23905,
+      "url": "https://sodeco.dev.net.pe/wp-content/uploads/2026/01/logo-sodeco-mobile-dark.svg",
+      "mime": "image/svg+xml",
+      "alt": "",
+      "optimized": {
+        "src": "/wp-content/uploads/2026/01/logo-sodeco-mobile-dark.svg",
+        "width": 0,
+        "height": 0,
+        "lqip": "",
+        "sources": []
+      }
+    },
+    "mobile_light": {
+      "id": 23906,
+      "url": "https://sodeco.dev.net.pe/wp-content/uploads/2026/01/logo-sodeco-mobile-light.svg",
+      "mime": "image/svg+xml",
+      "alt": "",
+      "optimized": {
+        "src": "/wp-content/uploads/2026/01/logo-sodeco-mobile-light.svg",
+        "width": 0,
+        "height": 0,
+        "lqip": "",
+        "sources": []
+      }
+    }
+  },
+  "socials": [
+    {
+      "_type": "_",
+      "network": "instagram",
+      "url": "https://sodeco.dev.net.pe"
+    },
+    {
+      "_type": "_",
+      "network": "facebook",
+      "url": "https://sodeco.dev.net.pe"
+    }
+  ],
+  "woocommerce": {
+    "shop_id": 5,
+    "cart_id": 6,
+    "checkout_id": 7,
+    "myaccount_id": 8
+  }
+}

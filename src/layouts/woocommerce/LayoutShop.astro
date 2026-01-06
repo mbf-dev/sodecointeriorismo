@@ -1,0 +1,21 @@
+---
+import Layout from '../Layout.astro';
+
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<Layout title={title}>
+  <div class="container mx-auto py-12 px-4">
+    <h1 class="text-3xl font-bold mb-8 text-primary">Tienda</h1>
+    <div class="alert alert-info">
+        <span>Componente de Tienda en construcción (WooCommerce Headless)</span>
+    </div>
+    <div class="mt-8">
+        <slot />
+    </div>
+  </div>
+</Layout>

@@ -1,0 +1,41 @@
+---
+import BlockRenderer from './BlockRenderer.astro';
+
+
+const { title, description, buttons, padding } = Astro.props;
+
+// Extraer items y configuración desde la nueva estructura anidada
+const buttonItems = buttons?.items || [];
+const itemsAlign = buttons?.align || 'center'; // Ahora viene como 'align' directamente del parser
+const paddingTop = padding?.top || 'pt-16';
+const paddingBottom = padding?.bottom || 'pb-16';
+
+// Mapeo seguro de alineación a clases Tailwind
+const alignMap: Record<string, string> = {
+  'start': 'justify-start',
+  'center': 'justify-center',
+  'end': 'justify-end',
+  'space-between': 'justify-between'
+};
+const justifyClass = alignMap[itemsAlign] || 'justify-center';
+---
+
+<section class={`bg-base-100 text-base-content w-full ${paddingTop} ${paddingBottom}`}>
+  <div class="container mx-auto px-4">
+    <div class="flex flex-col gap-6 max-w-4xl mx-auto text-center">
+      {title && <h2 class="text-4xl font-bold tracking-tight">{title}</h2>}
+      {description && <p class="text-lg opacity-80">{description}</p>}
+      
+      {/* Renderizar botones desde atributos */}
+      {buttonItems.length > 0 && (
+        <div class={`flex flex-wrap gap-4 mt-4 ${justifyClass}`}>
+          {buttonItems.map((btn: any) => (
+            <a href={btn.url} class={`btn ${btn.variant}`}>
+              {btn.text}
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  </div>
+</section>

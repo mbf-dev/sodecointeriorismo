@@ -1,0 +1,16 @@
+{
+  "src": "/wp-content/uploads/2025/06/vicshape-3d-duo-variation-images-Grey-xl@VicShape_3D_Duo_Grey-1600w.avif",
+  "width": 1440,
+  "height": 1080,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAM0lEQVR4nGP48umDVHNj/f6JfR1baqsrJRg+vn+nkJiY+L+ytOBtfnaGMgOSiq293V0SAMt/Gx8+EsSkAAAAAElFTkSuQmCC",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2025/06/vicshape-3d-duo-variation-images-Grey-xl@VicShape_3D_Duo_Grey-640w.avif 640w, /wp-content/uploads/2025/06/vicshape-3d-duo-variation-images-Grey-xl@VicShape_3D_Duo_Grey-1024w.avif 1024w, /wp-content/uploads/2025/06/vicshape-3d-duo-variation-images-Grey-xl@VicShape_3D_Duo_Grey-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2025/06/vicshape-3d-duo-variation-images-Grey-xl@VicShape_3D_Duo_Grey-640w.webp 640w, /wp-content/uploads/2025/06/vicshape-3d-duo-variation-images-Grey-xl@VicShape_3D_Duo_Grey-1024w.webp 1024w, /wp-content/uploads/2025/06/vicshape-3d-duo-variation-images-Grey-xl@VicShape_3D_Duo_Grey-1600w.webp 1600w"
+    }
+  ]
+}
