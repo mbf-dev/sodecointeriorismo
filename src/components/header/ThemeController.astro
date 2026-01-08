@@ -1,0 +1,33 @@
+---
+
+---
+
+<label class="btn btn-circle btn-ghost bg-base-200 hover:bg-base-200 swap swap-rotate border-0 shadow-none">
+  <!-- this hidden checkbox controls the state -->
+  <input type="checkbox" id="theme-toggle" class="theme-controller" />
+
+    <!-- moon icon (visible when light mode is ON) -->
+  <span class="icon-[iconamoon--mode-dark-light] size-7 swap-off"></span>
+
+  <!-- sun icon (visible when dark mode is ON) -->
+  <span class="icon-[iconamoon--mode-light-light] size-7 swap-on"></span>
+
+
+</label>
+
+<script is:inline>
+  const themeToggle = document.getElementById("theme-toggle");
+  const html = document.documentElement;
+
+  // Inicializar estado del checkbox basándose en el tema actual
+  const currentTheme = localStorage.getItem("theme") || "light";
+  if (themeToggle) {
+    themeToggle.checked = currentTheme === "dark";
+  }
+
+  themeToggle?.addEventListener("change", (e) => {
+    const newTheme = e.target.checked ? "dark" : "light";
+    html.setAttribute("data-theme", newTheme);
+    localStorage.setItem("theme", newTheme);
+  });
+</script>

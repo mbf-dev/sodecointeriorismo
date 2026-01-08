@@ -79,8 +79,8 @@
   --noise: 0;
 }
 
-@layer utilities {
-  .container {
-    @apply mx-auto max-w-none overflow-hidden px-[20px] md:max-w-[1440px] md:px-[10px];
-  }
+@utility container {
+  @apply mx-auto max-w-none overflow-hidden px-[20px] md:max-w-[1440px] md:px-[10px];
 }
+
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));

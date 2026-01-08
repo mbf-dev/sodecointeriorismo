@@ -5,11 +5,11 @@
     {
       "name": "mbf/block-1",
       "attributes": {
-        "title": "Lorem ipsum dolor sit amet dsfsd fsdfds",
-        "description": "Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. fsdfsd",
+        "title": "Lorem ipsumsafasf asfasfsa fsafsafs afsafasfa  ",
+        "description": "Consectetur <strong>adipiscin</strong>g elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. fsdfsd",
         "padding": {
-          "top": "pt-0",
-          "bottom": "pb-0"
+          "top": "pt-16",
+          "bottom": "pb-16"
         },
         "buttons": {
           "align": "center",
@@ -32,11 +32,37 @@
           ]
         }
       }
+    },
+    {
+      "name": "mbf/block-1",
+      "attributes": {
+        "title": "Lorem ipsumsafasf asfasfsa fsafsafs afsafasfa sfasfs",
+        "description": "Consectetur <strong>adipiscin</strong>g elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. fsdfsd",
+        "padding": {
+          "top": "pt-16",
+          "bottom": "pb-16"
+        },
+        "buttons": {
+          "align": "center",
+          "items": [
+            {
+              "text": "Click me",
+              "url": "#",
+              "variant": "btn-primary"
+            },
+            {
+              "text": "Nuevo Botón",
+              "url": "#",
+              "variant": "btn-outline"
+            }
+          ]
+        }
+      }
     }
   ],
   "excerpt": "",
   "date": "2023-09-04 06:54:02",
-  "modified": "2026-01-06 23:09:56",
+  "modified": "2026-01-08 02:55:07",
   "featured_image": null,
   "slug": "home"
 }
