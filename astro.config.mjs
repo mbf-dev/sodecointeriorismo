@@ -2,13 +2,18 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
+import node from '@astrojs/node';
 import mkcert from 'vite-plugin-mkcert';
 
 import svelte from '@astrojs/svelte';
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'static',
+  output: 'server',
+  adapter: node({
+    mode: 'standalone',
+  }),
+
   server: {
     port: 8686,
   },
