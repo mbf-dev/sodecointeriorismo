@@ -2,14 +2,13 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
-import netlify from '@astrojs/netlify';
 import mkcert from 'vite-plugin-mkcert';
 
 import svelte from '@astrojs/svelte';
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'server',
+  output: 'static',
   server: {
     port: 8686,
   },
@@ -22,8 +21,6 @@ export default defineConfig({
     ],
     remotePatterns: [{ protocol: 'https' }],
   },
-
-  adapter: netlify(),
 
   vite: {
     plugins: [tailwindcss(), mkcert()],

@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.6",
-    "@astrojs/netlify": "^6.6.4",
     "@astrojs/svelte": "^7.2.4",
     "astro": "^5.16.6",
     "fuse.js": "^7.1.0",
