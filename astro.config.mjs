@@ -2,7 +2,7 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
 
 import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
-import node from '@astrojs/node';
+import netlify from '@astrojs/netlify';
 import mkcert from 'vite-plugin-mkcert';
 
 import svelte from '@astrojs/svelte';
@@ -23,7 +23,7 @@ export default defineConfig({
     remotePatterns: [{ protocol: 'https' }],
   },
 
-  adapter: node({ mode: 'standalone' }),
+  adapter: netlify(),
 
   vite: {
     plugins: [tailwindcss(), mkcert()],
