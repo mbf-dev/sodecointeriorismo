@@ -1,0 +1,62 @@
+{
+  "id": 9351,
+  "name": "Smile",
+  "slug": "smile",
+  "permalink": "https://wpadmin.buildmaster.dev/product/smile/",
+  "date_created": "2024-08-12 18:45:24",
+  "date_modified": "2025-10-28 13:18:43",
+  "type": "simple",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Papelera a pared para exterior, realizada en acero inoxidable AISI 304 con fondo perforado para evacuar el agua de lluvia. Equipado con cerradura de seguridad.</p>\n",
+  "short_description": "<p>Papelera a pared para exterior, realizada en acero inoxidable AISI 304 con fondo perforado para evacuar el agua de lluvia. Equipado con cerradura de seguridad.</p>\n",
+  "sku": "CAI-058",
+  "price": "368.00",
+  "regular_price": "368.00",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>445,28&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9352,
+  "gallery_images": [
+    9353,
+    9354
+  ],
+  "categories": [
+    486,
+    487,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": []
+}

@@ -5,9 +5,19 @@ import { IMAGE_CONFIG } from '../config/images';
 
 // Tipos básicos para el Sync
 export interface SyncPayload {
-  type: 'page' | 'post' | 'category' | 'tag' | 'settings';
-  slug: string; // El slug actual que viene del webhook
-  data: any; // El contenido completo (incluye ID)
+  type:
+    | 'page'
+    | 'post'
+    | 'category'
+    | 'tag'
+    | 'settings'
+    | 'menus'
+    | 'menu'
+    | 'product'
+    | 'product_category'
+    | 'product_tag';
+  slug: string;
+  data: any;
 }
 
 export interface OptimizedImage {
@@ -63,76 +73,81 @@ async function updateSlugMap(type: string, slug: string, id: number) {
 /**
  * Guarda el JSON del contenido usando el ID como nombre de archivo.
  * También actualiza el mapa de slugs.
+ * OPTIMIZADO: No procesa imágenes - eso se hace en build time.
  */
-export async function saveContentJson(type: SyncPayload['type'], slug: string, data: any) {
-  // CASO ESPECIAL: Settings Globales (Home/Blog ID)
+export async function saveContentJson(type: string, slug: string, data: any) {
+  // CASO ESPECIAL: Settings Globales
   if (type === 'settings') {
-    // Procesar logos si existen
-    if (data.logos) {
-      for (const [key, logoData] of Object.entries(data.logos)) {
-        // logoData es { id, url, mime } gracias al PHP actualizado
-        if (logoData && (logoData as any).url) {
-          console.log(`[Sync] Optimizing Settings Logo: ${key}`);
-          const optimized = await smartSyncImage((logoData as any).url);
-          if (optimized) {
-            (data.logos as any)[key] = {
-              ...(logoData as any),
-              optimized,
-            };
-          }
-        }
-      }
-    }
-
     const settingsPath = path.join(DATA_DIR, 'site-settings.json');
     await fs.writeFile(settingsPath, JSON.stringify(data, null, 2), 'utf-8');
-    console.log(`[Sync] Updated Site Settings`);
+    return;
+  }
+
+  // CASO ESPECIAL: Menus Globales
+  if (type === 'menus' || type === 'menu') {
+    const menusPath = path.join(DATA_DIR, 'menus.json');
+
+    // Si es menu individual, merge con existente
+    if (type === 'menu') {
+      let existingMenus: Record<string, any> = {};
+      try {
+        const content = await fs.readFile(menusPath, 'utf-8');
+        existingMenus = JSON.parse(content);
+      } catch {
+        /* No existe */
+      }
+      existingMenus[slug] = data;
+      await fs.writeFile(menusPath, JSON.stringify(existingMenus, null, 2), 'utf-8');
+    } else {
+      await fs.writeFile(menusPath, JSON.stringify(data, null, 2), 'utf-8');
+    }
     return;
   }
 
   if (!data.id) {
-    console.error('[Sync] Error: Content has no ID', data);
+    console.error('[Sync] Error: Content has no ID', type, slug);
     return;
   }
 
   // Determine proper plural
   let pluralType = `${type}s`;
-  if (type === 'category') {
-    pluralType = 'categories';
-  }
+  if (type === 'category') pluralType = 'categories';
+  if (type === 'product_category') pluralType = 'product-categories';
+  if (type === 'product_tag') pluralType = 'product-tags';
 
-  // 1. Guardar archivo ID.json
-  const dir = path.join(DATA_DIR, pluralType); // pages, posts, categories...
+  // Guardar archivo ID.json
+  const dir = path.join(DATA_DIR, pluralType);
   await fs.mkdir(dir, { recursive: true });
 
   const filePath = path.join(dir, `${data.id}.json`);
 
-  // Inyectar el slug en la data por seguridad
+  // Handle Deletion
+  if (data.deleted) {
+    try {
+      await fs.unlink(filePath);
+      console.log(`[Sync] Deleted ${type} (ID: ${data.id})`);
+    } catch {
+      // Already gone
+    }
+    return;
+  }
+
+  // Inject slug
   data.slug = slug;
 
   await fs.writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8');
-  console.log(`[Sync] Saved ${type} (ID: ${data.id})`);
 
-  // 2. Actualizar Mapa de Rutas
+  // Actualizar Mapa de Rutas
   await updateSlugMap(pluralType, slug, data.id);
 
-  // 3. DEEP SYNC: Si es un POST, asegurarnos de que sus categorías y tags existan.
-  if (type === 'post') {
-    if (Array.isArray(data.categories)) {
-      for (const cat of data.categories) {
-        if (cat.id && cat.slug) {
-          // Guardamos la categoría recursivamente
-          // Notar que 'cat' ya tiene { name, slug, id } gracias al hook de WP
-          await saveContentJson('category', cat.slug, cat);
-        }
-      }
-    }
-    if (Array.isArray(data.tags)) {
-      for (const tag of data.tags) {
-        if (tag.id && tag.slug) {
-          await saveContentJson('tag', tag.slug, tag);
-        }
-      }
+  // Trigger Search Index Update if Product
+  if (type === 'product' && !data.deleted) {
+    try {
+      const { main: generateSearchIndex } = await import('../../scripts/generate-search-index.js');
+      await generateSearchIndex();
+      console.log('[Sync] Search index regenerated');
+    } catch (err) {
+      console.error('[Sync] Error regenerating search index:', err);
     }
   }
 }
@@ -188,7 +203,7 @@ export async function smartSyncImage(remoteUrl: string): Promise<OptimizedImage 
 
     // Fetch con bypass SSL
     const agent = new (await import('https')).Agent({ rejectUnauthorized: false });
-    const response = await fetch(remoteUrl, ({ agent } as any) || {});
+    const response = await fetch(remoteUrl, { agent } as any);
 
     if (!response.ok) throw new Error(`Failed to fetch ${remoteUrl}`);
     const arrayBuffer = await response.arrayBuffer();
@@ -316,4 +331,48 @@ export async function smartSyncImage(remoteUrl: string): Promise<OptimizedImage 
     console.error(`[Sync] Error optimizing image ${remoteUrl}:`, error);
     return null;
   }
+}
+
+/**
+ * Recursively traverse a payload to find and sync images.
+ * Replaces remote URLs with local paths and adds 'optimized' data for 'url' fields.
+ */
+export async function deepSyncImages(obj: any): Promise<any> {
+  if (Array.isArray(obj)) {
+    await Promise.all(
+      obj.map(async (item, index) => {
+        obj[index] = await deepSyncImages(item);
+      })
+    );
+    return obj;
+  }
+
+  if (obj && typeof obj === 'object') {
+    for (const key in obj) {
+      const val = obj[key];
+
+      if (
+        typeof val === 'string' &&
+        val.startsWith('http') &&
+        val.includes('/wp-content/uploads/')
+      ) {
+        // Found a candidate Image URL
+        // console.log(`[Sync] Deep Sync traversing: found image at key '${key}'`);
+        const optimized = await smartSyncImage(val);
+
+        if (optimized) {
+          // 1. Replace the string with the local path
+          obj[key] = optimized.src;
+
+          // 2. If the key was specific (like 'url' or 'src' or 'image'), inject the full optimized object nearby
+          if (key === 'url' || key === 'src' || key === 'image') {
+            obj['optimized'] = optimized;
+          }
+        }
+      } else if (typeof val === 'object') {
+        obj[key] = await deepSyncImages(val);
+      }
+    }
+  }
+  return obj;
 }

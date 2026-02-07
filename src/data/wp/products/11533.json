@@ -1,0 +1,184 @@
+{
+  "id": 11533,
+  "name": "Luthea",
+  "slug": "luthea-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/luthea-2/",
+  "date_created": "2024-09-23 11:31:13",
+  "date_modified": "2025-10-28 13:11:40",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Luthea es un perchero de pie realizado en acero y zamak, y barnizado con polvos epoxi. Disponible en dos versiones dotadas de 3 ganchos y 3 pomos o de 6 ganchos y 6 pomos, respectivamente. Los colgadores se insertan perpendicularmente en el tronco, generando un desarrollo helicoidal asimétrico que confiere dinamismo a la pieza.</p>\n<p>DISEÑO INCLUSIVO<br />\nEste objeto constituye un ejemplo de diseño inclusivo. Se trata de perchero dotado de 6 ganchos y 6 pomos, concebido para ser utilizado fácilmente por personas con movilidad reducida o de baja estatura. De hecho, los colgadores situados en la parte inferior están al alcance de personas en silla de ruedas o de niños, accesibles para todos los usuarios, independientemente de sus capacidades, edad u otras circunstancias. Pequeños y sencillos detalles que marcan la diferencia para un elevado número de personas.</p>\n",
+  "short_description": "",
+  "sku": "CAI-010",
+  "price": "257.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>310,97&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>360,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 310,97&nbsp;&euro; hasta 360,58&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 11467,
+  "gallery_images": [
+    11468,
+    11469,
+    11470,
+    11471
+  ],
+  "categories": [
+    477,
+    475,
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Unidades",
+      "slug": "Unidades",
+      "options": [
+        "6 ganchos",
+        "12 ganchos"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        411,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12242,
+      "attributes": {
+        "unidades": "6 ganchos",
+        "pa_color": "marron"
+      },
+      "price": "257.00",
+      "regular_price": "257.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-010",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11467,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12243,
+      "attributes": {
+        "unidades": "6 ganchos",
+        "pa_color": "negro"
+      },
+      "price": "257.00",
+      "regular_price": "257.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-010",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11467,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12244,
+      "attributes": {
+        "unidades": "12 ganchos",
+        "pa_color": "marron"
+      },
+      "price": "298.00",
+      "regular_price": "298.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-010",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11467,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12245,
+      "attributes": {
+        "unidades": "12 ganchos",
+        "pa_color": "negro"
+      },
+      "price": "298.00",
+      "regular_price": "298.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-010",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11467,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

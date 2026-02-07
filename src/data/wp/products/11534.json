@@ -1,0 +1,967 @@
+{
+  "id": 11534,
+  "name": "Clip",
+  "slug": "clip-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/clip-2/",
+  "date_created": "2024-09-23 11:31:51",
+  "date_modified": "2025-10-28 13:11:30",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Clip presenta un sistema patentado de mamparas divisorias que otorga modularidad a la laureada tecnología Snowsound, que se plasma en los paneles fonoabsorbentes que lo componen. El producto dispone de un montante cuádruple para gestionar los espacios mediante configuraciones personalizadas caracterizadas por un elevado rendimiento acústico. El sistema está equipado con clips autoblocantes especiales que permiten fijar a presión el panel al montante sin utilizar tornillos ni herramientas especiales, lo que simplifica y acelera el montaje.</p>\n",
+  "short_description": "",
+  "sku": "CAI-009",
+  "price": "673.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>814,33&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.282,60&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 814,33&nbsp;&euro; hasta 1.282,60&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 11458,
+  "gallery_images": [
+    11459,
+    11460,
+    11461,
+    11462,
+    11463,
+    11464,
+    11465
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    481,
+    501
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "120x119 cm",
+        "160x119 cm",
+        "180x119 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        615,
+        619,
+        620,
+        614,
+        610,
+        611,
+        613,
+        612,
+        616,
+        621,
+        617,
+        618
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12220,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "azul-turquesa-6075"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12221,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "beige-1008"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12222,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "bianco-0001"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12223,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "blanco-frio-8002"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12224,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "gris-oscuro-8007"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12225,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "gris-plata-8004"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12226,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "naranja-4030"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12227,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "negro-8033"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12228,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "rojo-4027"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12229,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "verde-claro-7004"
+      },
+      "price": "1060.00",
+      "regular_price": "1060.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12171,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "azul-claro-6046"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12172,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "azul-turquesa-6075"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12177,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "gris-plata-8004"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12179,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "negro-8033"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12180,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "rojo-4027"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12176,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "gris-oscuro-8007"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12198,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "bianco-0001"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12170,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "amarillo-3008"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12173,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "beige-1008"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12174,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "bianco-0001"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12181,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "verde-claro-7004"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12196,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "azul-turquesa-6075"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12200,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "gris-oscuro-8007"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12195,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "azul-claro-6046"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12199,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "blanco-frio-8002"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12175,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "blanco-frio-8002"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12202,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "naranja-4030"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12204,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "rojo-4027"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12205,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "verde-claro-7004"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12178,
+      "attributes": {
+        "tamano": "120x119 cm",
+        "pa_textura": "naranja-4030"
+      },
+      "price": "920.00",
+      "regular_price": "920.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12218,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "amarillo-3008"
+      },
+      "price": "673.00",
+      "regular_price": "673.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12219,
+      "attributes": {
+        "tamano": "180x119 cm",
+        "pa_textura": "azul-claro-6046"
+      },
+      "price": "673.00",
+      "regular_price": "673.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12201,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "gris-plata-8004"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12203,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "negro-8033"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12197,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "beige-1008"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12194,
+      "attributes": {
+        "tamano": "160x119 cm",
+        "pa_textura": "amarillo-3008"
+      },
+      "price": "1050",
+      "regular_price": "1050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11458,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

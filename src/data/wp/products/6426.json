@@ -1,0 +1,213 @@
+{
+  "id": 6426,
+  "name": "Suspended Baffle VMT 3D",
+  "slug": "suspended-baffle-vmt-3d-4",
+  "permalink": "https://wpadmin.buildmaster.dev/product/suspended-baffle-vmt-3d-4/",
+  "date_created": "2024-07-23 14:29:49",
+  "date_modified": "2025-11-19 13:56:29",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>El Suspended Baffle VMT 3D es fabricado con lana BulPET, un material textil no tejido producido principalmente a partir de botellas de plástico recicladas. 1190 x 595 x 40mm</p>\n<p>Al ser un elemento acústico suspendido, presenta el doble de área de material absorbente expuesta a un panel acústico común, lo que lo convierte en una solución muy eficiente para controlar la acumulación de ruido en grandes espacios públicos o industriales.</p>\n<p>Estos deflectores se pueden instalar tanto en posición horizontal como vertical y se pueden personalizar. Es fácil de instalar utilizando un simple sistema de fijación de cable de acero, que se puede ajustar fácilmente en altura hasta 150 cm.</p>\n<p>Gracias a su naturaleza ecológica, reciclable y segura para los seres humanos y a sus propiedades acústicas, Suspended Baffle VMT 3D puede contribuir al desarrollo de proyectos sostenibles y, por lo tanto, puede ayudarlo a obtener créditos normalmente disponibles en los esquemas de certificación de edificios ecológicos como WELL, HQE, DGNB, CASBEE. , BREAM, etc.</p>\n<p>Características:<br />\n/ Alto Rendimiento en medias y altas frecuencias<br />\n/ Certificación <b>Indoor Advantage™ Gold Building Materials</b> , por SCS Global Services<br />\n/ Ligero<br />\n/ Fácil de instalar<br />\n/ Fácil de limpiar y mantener</p>\n",
+  "short_description": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+  "sku": "VIC-027",
+  "price": "879",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.063,59&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4191,
+  "gallery_images": [
+    4192,
+    4193,
+    4194
+  ],
+  "categories": [
+    395,
+    392,
+    477,
+    475,
+    390,
+    397
+  ],
+  "tags": [
+    329,
+    332,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        412,
+        410,
+        406,
+        407,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "8 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6596,
+      "attributes": {
+        "pa_color": "negro",
+        "caja": "8 Unidades"
+      },
+      "price": "879",
+      "regular_price": "879",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6597,
+      "attributes": {
+        "pa_color": "gris",
+        "caja": "8 Unidades"
+      },
+      "price": "879",
+      "regular_price": "879",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4195,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6598,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "caja": "8 Unidades"
+      },
+      "price": "879",
+      "regular_price": "879",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6594,
+      "attributes": {
+        "pa_color": "beige",
+        "caja": "8 Unidades"
+      },
+      "price": "879",
+      "regular_price": "879",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4227,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6595,
+      "attributes": {
+        "pa_color": "azul",
+        "caja": "8 Unidades"
+      },
+      "price": "879",
+      "regular_price": "879",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4228,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

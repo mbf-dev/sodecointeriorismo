@@ -1,0 +1,489 @@
+{
+  "id": 6420,
+  "name": "Bulstrip Square",
+  "slug": "bulstrip-square",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulstrip-square/",
+  "date_created": "2024-07-23 14:29:48",
+  "date_modified": "2025-11-19 13:47:00",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>El nuevo tamaño de los paneles de lamas permite combinar BulStrip en diferentes tamaños, completar determinadas superficies que pueden no coincidir con los tamaños originales de los paneles y mezclar los paneles en diferentes disposiciones o con otros paneles acústicos cuadrados.</p>\n<p>Al ser un panel acústico de menor tamaño, BulStrip Square es aún más flexible para cortar y ajustar a cualquier entorno.</p>\n<p><strong>Principales características</strong></p>\n<ul>\n<li>Lana BulPET laminada de alta densidad resistente al fuego</li>\n<li>Ligero, fácil de transportar, aplicar, cortar y reajustar</li>\n<li>Se puede pegar o atornillar a paredes y techos</li>\n<li>Libre de madera, clavos de metal y con juntas casi invisibles</li>\n<li>Sostenible, producido principalmente a partir de botellas de plástico recicladas</li>\n<li>Material de bajas emisiones, para una buena calidad del aire</li>\n</ul>\n<p>Material de bajas emisiones, para una buena calidad del aire. BulStrip Square está disponible en un tamaño de 595x595x12mm y en seis patrones: roble natural, roble marrón, nogal natural, nogal Lincoln, blanco mate y negro mate.</p>\n",
+  "short_description": "<p>Panel acústico de lamas para pared y techo</p>\n<p>&nbsp;</p>\n",
+  "sku": "VIC-033",
+  "price": "359",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>434,39&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4036,
+  "gallery_images": [
+    4037,
+    4038,
+    4039,
+    4040
+  ],
+  "categories": [
+    395,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    330,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "8 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6548,
+      "attributes": {
+        "pa_textura": "swatch_natural_oak-gy_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5117,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6549,
+      "attributes": {
+        "pa_textura": "swatch_brown_oak-gy_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5118,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6544,
+      "attributes": {
+        "pa_textura": "swatch_natural_walnut-gy_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5113,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6545,
+      "attributes": {
+        "pa_textura": "swatch_dark_walnut-gy_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5114,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6546,
+      "attributes": {
+        "pa_textura": "swatch_black_matte-gy_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6547,
+      "attributes": {
+        "pa_textura": "swatch_white_matte-gy_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5116,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6542,
+      "attributes": {
+        "pa_textura": "swatch_garnet_red-gy_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5081,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6543,
+      "attributes": {
+        "pa_textura": "swatch_reed_green-gy_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5082,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6557,
+      "attributes": {
+        "pa_textura": "swatch_natural_oak-bk_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4052,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6552,
+      "attributes": {
+        "pa_textura": "swatch_brown_oak-bk",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4053,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6553,
+      "attributes": {
+        "pa_textura": "swatch_natural_walnut-bk_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4054,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6554,
+      "attributes": {
+        "pa_textura": "swatch_dark_walnut-bk_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4055,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6555,
+      "attributes": {
+        "pa_textura": "swatch_black_matte-bk_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4056,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6556,
+      "attributes": {
+        "pa_textura": "swatch_white_matte-bk_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4057,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6551,
+      "attributes": {
+        "pa_textura": "swatch_garnet_red-bk_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4036,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6550,
+      "attributes": {
+        "pa_textura": "swatch_reed_green-bk_pet",
+        "caja": "8 Unidades"
+      },
+      "price": "359",
+      "regular_price": "359",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-033",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5119,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

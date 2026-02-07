@@ -1,0 +1,385 @@
+{
+  "id": 8789,
+  "name": "Baffle",
+  "slug": "baffle",
+  "permalink": "https://wpadmin.buildmaster.dev/product/baffle/",
+  "date_created": "2024-08-10 20:55:33",
+  "date_modified": "2025-10-28 13:38:30",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p><span style=\"font-size: 16px;\">Baffle es un sistema patentado para colgar del techo los paneles fonoabsorbentes Snowsound, acentuando su elegancia y ligereza características. Gracias a la posibilidad de ajustar la longitud de los cables y el surtido de colores y medidas disponibles, se pueden personalizar estéticamente y acústicamente las configuraciones.</span></p>\n<div class=\"woocommerce-product-details__short-description \">\n<p>El sistema patentado de unión del panel con los cables es totalmente oculto: el sistema de fijación queda escondido dentro de un pequeño empalme cilíndrico.<br />\nLas sujeciones Baffle se pueden colocar a lo largo del borde superior del panel, sin limitaciones especiales de distancia entre los cables, para que resulte más sencilla la instalación en el techo.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design Marc Sadler</h2>\n",
+  "sku": "CAI-177",
+  "price": "258",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>312,18&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8790,
+  "gallery_images": [
+    8791,
+    8792,
+    8793
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        615,
+        619,
+        620,
+        614,
+        610,
+        611,
+        613,
+        612,
+        616,
+        621,
+        617,
+        618
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "Baffle 44x75"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 18284,
+      "attributes": {
+        "pa_textura": "rojo-4027",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18285,
+      "attributes": {
+        "pa_textura": "verde-claro-7004",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18274,
+      "attributes": {
+        "pa_textura": "amarillo-3008",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18275,
+      "attributes": {
+        "pa_textura": "azul-claro-6046",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18276,
+      "attributes": {
+        "pa_textura": "azul-turquesa-6075",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18277,
+      "attributes": {
+        "pa_textura": "beige-1008",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18278,
+      "attributes": {
+        "pa_textura": "bianco-0001",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18279,
+      "attributes": {
+        "pa_textura": "blanco-frio-8002",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18280,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18281,
+      "attributes": {
+        "pa_textura": "gris-plata-8004",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18282,
+      "attributes": {
+        "pa_textura": "naranja-4030",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18283,
+      "attributes": {
+        "pa_textura": "negro-8033",
+        "tamano": "Baffle 44x75"
+      },
+      "price": "258",
+      "regular_price": "258",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-177",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8790,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

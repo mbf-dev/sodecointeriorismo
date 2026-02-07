@@ -1,0 +1,124 @@
+{
+  "id": 9475,
+  "name": "Battista tape stanchions",
+  "slug": "battista-tape-stanchions",
+  "permalink": "https://wpadmin.buildmaster.dev/product/battista-tape-stanchions/",
+  "date_created": "2024-08-13 11:41:56",
+  "date_modified": "2025-10-28 13:16:59",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Columna Battista con cinta extensible se obtiene mediante un sofisticado proceso del tubo de acero que se conifica para poder pasar de un ø 70 mm a un ø 32 mm. Esta tecnología permite realizar una columna de forma sinuosa, delgada en la parte inferior, para reducir el impacto visual. La columna es de acero pintado con polvos epoxi y base de hierro fundido pintado con polvos epoxi o en acero inoxidable, detalles en aluminio pulido y acero inoxidable. Los expositores del sistema Koala pueden fijarse según las diferentes configuraciones mono o bi-frontales a las columnitas.</p>\n",
+  "short_description": "<h2>Design Michele De Lucchi &amp; Sezgin Aksu</h2>\n",
+  "sku": "CAI-041",
+  "price": "338.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>408,98&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9476,
+  "gallery_images": [
+    9477,
+    9478,
+    9479,
+    9480
+  ],
+  "categories": [
+    481,
+    496,
+    498,
+    501
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        412,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12535,
+      "attributes": {
+        "pa_color": "azul"
+      },
+      "price": "338.00",
+      "regular_price": "338.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9476,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12536,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "338.00",
+      "regular_price": "338.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9476,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

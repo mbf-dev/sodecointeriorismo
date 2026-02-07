@@ -1,0 +1,18 @@
+{
+  "id": 17921,
+  "src": "/wp-content/uploads/2025/06/clover-2-814x1024-1600w.avif",
+  "width": 858,
+  "height": 1080,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAFCAIAAADtz9qMAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAASklEQVR4nGPwcrAoCrRJcjd/9+4NQ0yA55TmykldTY8fP2RIC3JpTPAujfO9/+guQ6iLVW6oY0FaQE1NDoOPi0NVYkBtWviUjgYAiewbS4Atl9cAAAAASUVORK5CYII=",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2025/06/clover-2-814x1024-640w.avif 640w, /wp-content/uploads/2025/06/clover-2-814x1024-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2025/06/clover-2-814x1024-640w.webp 640w, /wp-content/uploads/2025/06/clover-2-814x1024-1600w.webp 1600w"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "id": 8996,
+  "name": "Giotto Wall Oval",
+  "slug": "giotto-wall-oval",
+  "permalink": "https://wpadmin.buildmaster.dev/product/giotto-wall-oval/",
+  "date_created": "2024-08-11 20:14:51",
+  "date_modified": "2025-10-28 13:27:46",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Giotto es una línea de paneles fonoabsorbentes Snowsound de forma ovalada o circular, que se propone en dos versiones: Giotto ceiling, con un sistema de suspensión fijado al techo mediante cables que permiten regular la altura, y Giotto wall, que presenta una peculiar sujeción a la pared elaborada en acero que sostiene el panel desde el orificio central mediante un sistema de encastre.</p>\n",
+  "short_description": "<h2>Design Sezgin Aksu</h2>\n",
+  "sku": "CAI-108",
+  "price": "695",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>840,95&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>871,20&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 840,95&nbsp;&euro; hasta 871,20&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8997,
+  "gallery_images": [
+    8998,
+    8999,
+    9000,
+    9001
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        614,
+        610,
+        612,
+        616
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Soporte",
+      "slug": "Soporte",
+      "options": [
+        "Negro",
+        "Cromado"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "119 x 159 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9681,
+      "attributes": {
+        "pa_textura": "bianco-0001",
+        "soporte": "Negro",
+        "dimension": "119 x 159 cm"
+      },
+      "price": "695",
+      "regular_price": "695",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-108",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8997,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9682,
+      "attributes": {
+        "pa_textura": "bianco-0001",
+        "soporte": "Cromado",
+        "dimension": "119 x 159 cm"
+      },
+      "price": "720",
+      "regular_price": "720",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-108",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8997,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9683,
+      "attributes": {
+        "pa_textura": "gris-plata-8004",
+        "soporte": "Negro",
+        "dimension": "119 x 159 cm"
+      },
+      "price": "695",
+      "regular_price": "695",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-108",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8997,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9684,
+      "attributes": {
+        "pa_textura": "gris-plata-8004",
+        "soporte": "Cromado",
+        "dimension": "119 x 159 cm"
+      },
+      "price": "720",
+      "regular_price": "720",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-108",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8997,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9685,
+      "attributes": {
+        "pa_textura": "beige-1008",
+        "soporte": "Negro",
+        "dimension": "119 x 159 cm"
+      },
+      "price": "695",
+      "regular_price": "695",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-108",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8997,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9686,
+      "attributes": {
+        "pa_textura": "beige-1008",
+        "soporte": "Cromado",
+        "dimension": "119 x 159 cm"
+      },
+      "price": "720",
+      "regular_price": "720",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-108",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8997,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9687,
+      "attributes": {
+        "pa_textura": "naranja-4030",
+        "soporte": "Negro",
+        "dimension": "119 x 159 cm"
+      },
+      "price": "695",
+      "regular_price": "695",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-108",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8997,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9688,
+      "attributes": {
+        "pa_textura": "naranja-4030",
+        "soporte": "Cromado",
+        "dimension": "119 x 159 cm"
+      },
+      "price": "720",
+      "regular_price": "720",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-108",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8997,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

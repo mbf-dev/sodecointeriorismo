@@ -1,0 +1,155 @@
+{
+  "id": 6400,
+  "name": "BulStudio VMT Box",
+  "slug": "bulstudio-vmt-box",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulstudio-vmt-box/",
+  "date_created": "2024-07-23 14:28:34",
+  "date_modified": "2025-10-28 12:58:44",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>VicStudio VMT Box es un kit acústico que puedes adquirir para tratar tu Project Studio. Dependiendo de sus objetivos y/o el presupuesto disponible para la habitación, puede adquirir una o varias cajas. ¡Es solo cuestión de cuántas cajas compras!</p>\n",
+  "short_description": "<p class=\"h6\">Kit con 6 Flat Panel VMT + 6 VicSpacers Plus + 4 Multifuser DC3</p>\n",
+  "sku": "VIC-037",
+  "price": "1700",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>2.057,00&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "65.62",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6399,
+    6398,
+    6401,
+    6177
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4822,
+  "gallery_images": [
+    4823,
+    4824,
+    4825
+  ],
+  "categories": [
+    478,
+    476,
+    403,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    346,
+    360,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Color",
+      "slug": "Color",
+      "options": [
+        "Gris",
+        "Blanco",
+        "Negro"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6411,
+      "attributes": {
+        "color": "Gris"
+      },
+      "price": "1700",
+      "regular_price": "1700",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-037",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4828,
+      "weight": "65.62",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6412,
+      "attributes": {
+        "color": "Blanco"
+      },
+      "price": "1700",
+      "regular_price": "1700",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-037",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4829,
+      "weight": "65.62",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6413,
+      "attributes": {
+        "color": "Negro"
+      },
+      "price": "1700",
+      "regular_price": "1700",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-037",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4832,
+      "weight": "65.62",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

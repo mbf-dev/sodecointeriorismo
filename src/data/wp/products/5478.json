@@ -1,0 +1,165 @@
+{
+  "id": 5478,
+  "name": "Bulcycle",
+  "slug": "bulcycle",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulcycle/",
+  "date_created": "2024-07-23 10:22:54",
+  "date_modified": "2025-10-28 13:04:41",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Las mantas actúan como barreras de sonido cuando se aplican a techos, paredes y pisos. Su flexibilidad, diseño delgado y alta resistencia los convierten en materiales fáciles de usar. Son más efectivos cuando se utilizan en proyectos de construcción que involucran varias capas de diferentes materiales. La densidad de 4,5 kg/m2 en la versión Pro y 6,5 kg/m2 en la versión estándar, garantiza un alto nivel de aislamiento al disminuir el sonido emitido por las uniones entre el piso y el resto de la construcción.</p>\n",
+  "short_description": "<p>Producto de espumas recicladas destinadas a reducir la transmisión del sonido.</p>\n<p>BulCycle es un producto resultante de los procesos de reciclaje de espumas de poliuretano flexibles. Está diseñado para resolver los problemas acústicos más complejos en los edificios, que consiste en una estructura celular porosa con características físicas y mecánicas únicas, con el objetivo de reducir la transmisión del sonido.</p>\n<p>Comúnmente utilizado en trabajos modernos de aislamiento acústico, para cumplir con los requisitos legales y prácticos.</p>\n<p>&nbsp;</p>\n",
+  "sku": "VIC-064",
+  "price": "79",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>95,59&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>143,99&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 95,59&nbsp;&euro; hasta 143,99&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    5482,
+    5481,
+    5480,
+    5477,
+    5475,
+    5476,
+    5479
+  ],
+  "cross_sell_ids": [
+    5485,
+    5483,
+    5482,
+    5484,
+    5481,
+    5480,
+    5477,
+    5487,
+    5475,
+    5476,
+    5479
+  ],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4999,
+  "gallery_images": [],
+  "categories": [
+    478,
+    477,
+    475,
+    476,
+    393,
+    390
+  ],
+  "tags": [
+    376,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Espesor",
+      "slug": "Espesor",
+      "options": [
+        "20mm / 15 Unidades",
+        "40 mm / 8 Unidades",
+        "60 mm / 5 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12165,
+      "attributes": {
+        "espesor": "20mm / 15 Unidades"
+      },
+      "price": "79",
+      "regular_price": "79",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-064",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5503,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5488,
+      "attributes": {
+        "espesor": "40 mm / 8 Unidades"
+      },
+      "price": "119",
+      "regular_price": "119",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-064",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5502,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5489,
+      "attributes": {
+        "espesor": "60 mm / 5 Unidades"
+      },
+      "price": "119",
+      "regular_price": "119",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-064",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5503,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

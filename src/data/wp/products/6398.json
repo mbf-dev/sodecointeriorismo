@@ -1,0 +1,224 @@
+{
+  "id": 6398,
+  "name": "BulCinema VMT Kit",
+  "slug": "bulcinema-vmt-kit",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulcinema-vmt-kit/",
+  "date_created": "2024-07-23 14:28:34",
+  "date_modified": "2025-10-28 12:59:00",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Kit de paredes y techo</p>\n<p>4 unidades de VicSpacer Plus con pantalla plana VMT</p>\n<p>4 unidades de VicPattern Ultra Triangles</p>\n<p>4 unidades de VicFix J Profile 1190 mm</p>\n<p>Disponible en 6 acabados:</p>\n<p>Pantalla plana VMT gris oscuro con triángulos VicPattern Ultra negro mate</p>\n<p>Patrón de panel plano VMT gris oscuro con triángulos VicPattern Ultra negro mate</p>\n<p>Panel plano VMT verde romero con roble natural VicPattern Ultra Triangles</p>\n<p>Patrón de panel plano VMT verde romero con roble natural VicPattern Ultra Triangles</p>\n<p>Panel plano VMT gris con triángulos VicPattern Ultra de roble natural</p>\n<p>Patrón gris VMT de panel plano con triángulos VicPattern Ultra de roble natural</p>\n",
+  "short_description": "<p>Solución acústica para Home Cinema</p>\n",
+  "sku": "VIC-039",
+  "price": "1400",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.694,00&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4796,
+  "gallery_images": [
+    4797,
+    4798,
+    4799,
+    4800,
+    4801
+  ],
+  "categories": [
+    478,
+    476,
+    403,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    346,
+    360,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Color",
+      "slug": "Color",
+      "options": [
+        "Rosemary Patrón Verde",
+        "Patrón Gris",
+        "Patrón Gris Oscuro",
+        "Rosemary Verde",
+        "Gris",
+        "Gris Oscuro"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6404,
+      "attributes": {
+        "color": "Rosemary Patrón Verde"
+      },
+      "price": "1400",
+      "regular_price": "1400",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-039",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4796,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6405,
+      "attributes": {
+        "color": "Patrón Gris"
+      },
+      "price": "1400",
+      "regular_price": "1400",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-039",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4802,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6406,
+      "attributes": {
+        "color": "Patrón Gris Oscuro"
+      },
+      "price": "1400",
+      "regular_price": "1400",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-039",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4806,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6407,
+      "attributes": {
+        "color": "Rosemary Verde"
+      },
+      "price": "1400",
+      "regular_price": "1400",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-039",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4807,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6402,
+      "attributes": {
+        "color": "Gris"
+      },
+      "price": "1400",
+      "regular_price": "1400",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-039",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4810,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6403,
+      "attributes": {
+        "color": "Gris Oscuro"
+      },
+      "price": "1400",
+      "regular_price": "1400",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-039",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4811,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

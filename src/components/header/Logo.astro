@@ -3,48 +3,54 @@ import siteSettings from '../../data/wp/site-settings.json';
 
 const { logos } = siteSettings;
 
-// Logos (Optimized Paths)
-const desktopDark = logos.desktop_dark.optimized.src; // Show on Light Theme (Desktop)
-const desktopLight = logos.desktop_light.optimized.src; // Show on Dark Theme (Desktop)
-const mobileDark = logos.mobile_dark.optimized.src;   // Show on Light Theme (Mobile)
-const mobileLight = logos.mobile_light.optimized.src; // Show on Dark Theme (Mobile)
+// Helper to get logo src - handles both optimized and direct URL formats
+const getLogoSrc = (logo: any) => {
+  if (!logo) return '/images/logo-placeholder.svg';
+  // If optimized exists (raster images), use that
+  if (logo.optimized?.src) return logo.optimized.src;
+  // Otherwise use direct URL (SVGs)
+  return logo.url || '/images/logo-placeholder.svg';
+};
+
+// Logos (handle both formats)
+const desktop = getLogoSrc(logos?.desktop);
+const mobile = getLogoSrc(logos?.mobile);
+
+const { class: className, imageClass = "h-10", theme = 'auto', device = 'auto' } = Astro.props;
+
+// Determine invert class based on theme prop
+const themeClass: Record<string, string> = {
+  'auto': 'dark:invert',
+  'light': 'brightness-0 invert',
+  'dark': ''
+};
+const textClass = themeClass[theme] || 'dark:invert';
+
+// Device Visibility Classes
+// auto: standard responsive behavior
+// desktop: force show desktop logo always
+// mobile: force show mobile logo always
+const desktopVisibility = device === 'desktop' ? 'block' : (device === 'mobile' ? 'hidden' : 'hidden md:block');
+const mobileVisibility = device === 'mobile' ? 'block' : (device === 'desktop' ? 'hidden' : 'block md:hidden');
 ---
 
-<a href="/" class="flex items-center gap-2">
+<a href="/" class:list={["flex items-center gap-2", className]}>
   
-  <!-- Desktop Dark (Shows on Light Theme) -->
+  <!-- Desktop -->
   <img 
-    src={desktopDark} 
+    src={desktop} 
     width="150" 
     height="40" 
     alt="Sodeco Logo" 
-    class="hidden md:block dark:hidden h-10 w-auto" 
+    class:list={[desktopVisibility, "", textClass, imageClass]} 
   />
 
-  <!-- Desktop Light (Shows on Dark Theme) -->
+  <!-- Mobile -->
   <img 
-    src={desktopLight} 
+    src={mobile} 
     width="150" 
     height="40" 
     alt="Sodeco Logo" 
-    class="hidden dark:md:block h-10 w-auto" 
-  />
-
-  <!-- Mobile Dark (Shows on Light Theme) -->
-  <img 
-    src={mobileDark} 
-    width="150" 
-    height="40" 
-    alt="Sodeco Logo" 
-    class="block lg:hidden dark:hidden h-10 w-auto" 
-  />
-
-  <!-- Mobile Light (Shows on Dark Theme) -->
-  <img 
-    src={mobileLight} 
-    width="150" 
-    height="40" 
-    alt="Sodeco Logo" 
-    class="hidden dark:block dark:lg:hidden h-10 w-auto" 
+    class:list={[mobileVisibility, "", textClass, imageClass]} 
   />
 </a>

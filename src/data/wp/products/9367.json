@@ -1,0 +1,62 @@
+{
+  "id": 9367,
+  "name": "Quadrangolo",
+  "slug": "quadrangolo",
+  "permalink": "https://wpadmin.buildmaster.dev/product/quadrangolo/",
+  "date_created": "2024-08-12 18:59:46",
+  "date_modified": "2025-10-28 13:18:19",
+  "type": "simple",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Percheros de pie con tubo central de sección cuadrada y base de acero recubierto con polvo epoxi acabado blanco mate. La cabeza es de policarbonato acabado blanco mate.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design Sezgin Akso &amp; Silvia Suardi</h2>\n",
+  "sku": "CAI-054",
+  "price": "189.00",
+  "regular_price": "189.00",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>228,69&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9368,
+  "gallery_images": [
+    9369,
+    9370,
+    9371
+  ],
+  "categories": [
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": []
+}

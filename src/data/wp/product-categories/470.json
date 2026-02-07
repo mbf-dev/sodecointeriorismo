@@ -1,0 +1,12 @@
+{
+  "id": 470,
+  "name": "Iluminación",
+  "slug": "iluminacion",
+  "description": "8",
+  "parent_id": 390,
+  "count": 11,
+  "image": {
+    "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/08/IMG_2171.jpeg",
+    "id": "8859"
+  }
+}

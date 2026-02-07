@@ -1,0 +1,138 @@
+{
+  "id": 5880,
+  "name": "Suspended Baffle PET MKII",
+  "slug": "suspended-baffle-pet-mkii",
+  "permalink": "https://wpadmin.buildmaster.dev/product/suspended-baffle-pet-mkii/",
+  "date_created": "2024-07-23 10:42:08",
+  "date_modified": "2025-11-19 13:56:08",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Plafones acústicos suspendidos</p>\n<p>El Suspended Baffle PET MKII es fabricado con lana VicPET, un material textil producido principalmente a partir de botellas de plástico recicladas. Caja de 6 unidades. 1202x602x40mm</p>\n<p>Al ser un elemento acústico suspendido, presenta el doble de área de material absorbente expuesta a un panel acústico común, lo que lo convierte en una solución muy eficiente para controlar la acumulación de ruido en grandes espacios públicos o industriales.</p>\n<p>Estos deflectores se pueden instalar tanto en posición horizontal como vertical y se pueden personalizar. Es fácil de instalar utilizando un simple sistema de fijación de cable de acero, que se puede ajustar fácilmente en altura hasta 150 cm.</p>\n<p>Gracias a su naturaleza ecológica, reciclable y segura para los seres humanos y a sus propiedades acústicas, Suspended Baffle VMT 3D puede contribuir al desarrollo de proyectos sostenibles y, por lo tanto, puede ayudarlo a obtener créditos normalmente disponibles en los esquemas de certificación de edificios ecológicos como WELL, HQE, DGNB, CASBEE. , BREAM, etc.</p>\n<p>Características:<br />\n/ Alto Rendimiento en medias y altas frecuencias<br />\n/ Certificación <b>Indoor Advantage™ Gold Building Materials</b> , por SCS Global Services<br />\n/ Ligero<br />\n/ Fácil de instalar<br />\n/ Fácil de limpiar y mantener</p>\n",
+  "short_description": "",
+  "sku": "VIC-051",
+  "price": "479",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>579,59&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4229,
+  "gallery_images": [
+    4230,
+    4231,
+    4232
+  ],
+  "categories": [
+    395,
+    477,
+    475,
+    402,
+    390,
+    397
+  ],
+  "tags": [
+    329,
+    338,
+    332,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "6 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5902,
+      "attributes": {
+        "pa_color": "negro",
+        "caja": "6 Unidades"
+      },
+      "price": "479",
+      "regular_price": "479",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-051",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4229,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5903,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "caja": "6 Unidades"
+      },
+      "price": "479",
+      "regular_price": "479",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-051",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4237,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

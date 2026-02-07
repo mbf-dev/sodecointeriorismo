@@ -1,0 +1,173 @@
+{
+  "id": 8733,
+  "name": "Teleta",
+  "slug": "teleta",
+  "permalink": "https://wpadmin.buildmaster.dev/product/teleta/",
+  "date_created": "2024-08-10 19:31:36",
+  "date_modified": "2025-10-28 13:31:59",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Lámpara led de suspension en gres o aluminio equipada en la parte superior de la pantalla con un filtro para la purificación del aire.</p>\n<p>AIR PURIFICATION TECHNOLOGY:<br />\nel proyecto Teleta nace con el objetivo de reutilizar la energía calorífica perdida que generan las fuentes LED, mejorando así su sostenibilidad energética. La lámpara calienta el aire en la parte superior, generando un movimiento convectivo. El aire caliente pasa a través de un filtro de malla de aluminio galvanizado, tratado con iones de plata, purificándose.</p>\n",
+  "short_description": "<h2>Design Alessandro Zambelli</h2>\n",
+  "sku": "CAI-129",
+  "price": "690",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>834,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>955,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 834,90&nbsp;&euro; hasta 955,90&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8711,
+    8858,
+    8067,
+    8114,
+    11531,
+    8794,
+    8740,
+    8756,
+    8029,
+    8917
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8734,
+  "gallery_images": [
+    8735,
+    8736,
+    8737,
+    8738,
+    8739
+  ],
+  "categories": [
+    477,
+    475,
+    470,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        421
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tipo iluminación",
+      "slug": "Tipo iluminación",
+      "options": [
+        "6,2w 3000k",
+        "17,3w 3000k"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9717,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tipo-iluminacion": "6,2w 3000k"
+      },
+      "price": "790",
+      "regular_price": "790",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-129",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8734,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9718,
+      "attributes": {
+        "pa_color": "rojo",
+        "tipo-iluminacion": "6,2w 3000k"
+      },
+      "price": "790",
+      "regular_price": "790",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-129",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8734,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9719,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tipo-iluminacion": "17,3w 3000k"
+      },
+      "price": "690",
+      "regular_price": "690",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-129",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8734,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

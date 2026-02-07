@@ -1,0 +1,200 @@
+{
+  "id": 8661,
+  "name": "Fiber 2 Line",
+  "slug": "fiber-2-line",
+  "permalink": "https://wpadmin.buildmaster.dev/product/fiber-2-line/",
+  "date_created": "2024-08-10 18:36:59",
+  "date_modified": "2025-10-28 13:33:17",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>FIBER 2 – tejido acústico ligero de color uniforme, con ligamento de tipo piqué mil rayas. Este tejido se coloca con las rayas en el mismo sentido de la trama (horizontal)<br />\nPIQUÉ MIL RAYAS – este tejido se obtiene con un ligamento constituido por pequeños relieves, y en este caso presenta un rayado muy fino, que suele ser de color blanco o claro con relieves del mismo color (tono sobre tono).</p>\n",
+  "short_description": "",
+  "sku": "CAI-140",
+  "price": "2430",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>2.940,30&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8694,
+    8206,
+    8689,
+    8666,
+    8672,
+    8185,
+    8681,
+    7574,
+    9020,
+    9026,
+    8591
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8662,
+  "gallery_images": [
+    8663,
+    8664,
+    8665,
+    11031,
+    11032,
+    11033,
+    11034
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    469
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        567,
+        568,
+        569,
+        570
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "300cm x 25m"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9773,
+      "attributes": {
+        "pa_textura": "line-200",
+        "dimension": "300cm x 25m"
+      },
+      "price": "2430",
+      "regular_price": "2430",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-140",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8662,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9774,
+      "attributes": {
+        "pa_textura": "line-201",
+        "dimension": "300cm x 25m"
+      },
+      "price": "2430",
+      "regular_price": "2430",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-140",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8662,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9775,
+      "attributes": {
+        "pa_textura": "line-202",
+        "dimension": "300cm x 25m"
+      },
+      "price": "2430",
+      "regular_price": "2430",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-140",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8662,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9776,
+      "attributes": {
+        "pa_textura": "line-203",
+        "dimension": "300cm x 25m"
+      },
+      "price": "2430",
+      "regular_price": "2430",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-140",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8662,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

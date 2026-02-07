@@ -1,0 +1,135 @@
+{
+  "id": 8740,
+  "name": "Scala",
+  "slug": "scala",
+  "permalink": "https://wpadmin.buildmaster.dev/product/scala/",
+  "date_created": "2024-08-10 20:10:23",
+  "date_modified": "2025-10-28 13:31:54",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Este elemento de iluminación colgante se puede equipar con 1 o 3 fuentes de luz de LED, de 10W cada una. Los cuerpos de iluminación son de aluminio pintado y poseen un cable de alimentación transparente, cuya longitud se puede modificar para colocar las lámparas a alturas diferentes. Las fuentes de luz desplazadas hacia atrás garantizan un excelente confort visual.</p>\n",
+  "short_description": "",
+  "sku": "CAI-128",
+  "price": "238",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>287,98&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>955,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 287,98&nbsp;&euro; hasta 955,90&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8711,
+    8858,
+    8114,
+    11531,
+    8794,
+    8756,
+    8029,
+    8733,
+    8917
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8741,
+  "gallery_images": [
+    8741,
+    8742,
+    8743,
+    8744
+  ],
+  "categories": [
+    477,
+    475,
+    470,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "1 fuente de luz",
+        "3 fuentes de luz"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9713,
+      "attributes": {
+        "formato": "1 fuente de luz"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-128",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8741,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9714,
+      "attributes": {
+        "formato": "3 fuentes de luz"
+      },
+      "price": "790",
+      "regular_price": "790",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-128",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8741,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

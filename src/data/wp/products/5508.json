@@ -1,0 +1,357 @@
+{
+  "id": 5508,
+  "name": "Cabina acústica",
+  "slug": "cabina-acustica",
+  "permalink": "https://wpadmin.buildmaster.dev/product/cabina-acustica/",
+  "date_created": "2024-07-23 10:26:21",
+  "date_modified": "2025-10-28 13:01:31",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>El BulBooth Office se desarrolló especialmente para los miembros del equipo que a menudo necesitan encontrar un espacio aislado para realizar una videoconferencia y una llamada telefónica tradicional. Es tan flexible y rentable que las empresas pueden incluso invertir en unidades para uso doméstico de los empleados clave, ayudándoles a encontrar una manera de tener privacidad en las llamadas y lejos de su entorno doméstico.</p>\n<p>Esta cabina consta de módulos configurables de 1 x 1 m:<br />\n/ 1 Puerta con Ventana<br />\n/ 1 Lateral con Ventana Grande<br />\n/ 1 Lateral con Repisa<br />\n/ 1 lado estándar<br />\n/ 1 Unidad de Ventilación Silenciosa<br />\n/ 1 Regleta / Cargador USB</p>\n",
+  "short_description": "<p>Hoy en día, la necesidad de realizar reuniones y videoconferencias, ya sea porque los compañeros trabajan desde casa o para reuniones de negocios en línea, exige un lugar adecuado donde la acústica y el aislamiento acústico sean relevantes para la inteligibilidad y privacidad del habla.</p>\n<p>&nbsp;</p>\n",
+  "sku": "VIC-056",
+  "price": "3690",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>4.464,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>21.743,70&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 4.464,90&nbsp;&euro; hasta 21.743,70&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4247,
+  "gallery_images": [
+    4248,
+    4249,
+    4250,
+    4251,
+    4252,
+    4253
+  ],
+  "categories": [
+    394,
+    477,
+    475,
+    390
+  ],
+  "tags": [
+    344,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "Cabina Telefónica pequeña",
+        "Cabina Telefónica Grande",
+        "Cabina Reuniones",
+        "Cabina Conferencias"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Color",
+      "slug": "Color",
+      "options": [
+        "Roble Natural",
+        "Blanco",
+        "Negro"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5519,
+      "attributes": {
+        "tamano": "Cabina Telefónica pequeña",
+        "color": "Roble Natural"
+      },
+      "price": "3690",
+      "regular_price": "3690",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4254,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5520,
+      "attributes": {
+        "tamano": "Cabina Telefónica pequeña",
+        "color": "Blanco"
+      },
+      "price": "3690",
+      "regular_price": "3690",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4255,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5512,
+      "attributes": {
+        "tamano": "Cabina Telefónica pequeña",
+        "color": "Negro"
+      },
+      "price": "3690",
+      "regular_price": "3690",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4247,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5513,
+      "attributes": {
+        "tamano": "Cabina Telefónica Grande",
+        "color": "Roble Natural"
+      },
+      "price": "8050",
+      "regular_price": "8050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4256,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5514,
+      "attributes": {
+        "tamano": "Cabina Telefónica Grande",
+        "color": "Blanco"
+      },
+      "price": "8050",
+      "regular_price": "8050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4257,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5515,
+      "attributes": {
+        "tamano": "Cabina Telefónica Grande",
+        "color": "Negro"
+      },
+      "price": "8050",
+      "regular_price": "8050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4258,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5516,
+      "attributes": {
+        "tamano": "Cabina Reuniones",
+        "color": "Roble Natural"
+      },
+      "price": "10670",
+      "regular_price": "10670",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4259,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5517,
+      "attributes": {
+        "tamano": "Cabina Reuniones",
+        "color": "Blanco"
+      },
+      "price": "10670",
+      "regular_price": "10670",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4260,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5518,
+      "attributes": {
+        "tamano": "Cabina Reuniones",
+        "color": "Negro"
+      },
+      "price": "10670",
+      "regular_price": "10670",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4261,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5509,
+      "attributes": {
+        "tamano": "Cabina Conferencias",
+        "color": "Roble Natural"
+      },
+      "price": "17970",
+      "regular_price": "17970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4262,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5510,
+      "attributes": {
+        "tamano": "Cabina Conferencias",
+        "color": "Blanco"
+      },
+      "price": "10670",
+      "regular_price": "10670",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-056",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4276,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": 8750,
+  "name": "Snowgems Wall",
+  "slug": "snowgems-wall",
+  "permalink": "https://wpadmin.buildmaster.dev/product/snowgems-wall/",
+  "date_created": "2024-08-10 20:18:38",
+  "date_modified": "2025-10-28 13:31:41",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Sistema fonoabsorbente de pared. Consta de paneles con formas y colores inspirados en las piedras preciosas y realizados aplicando la tecnología Snowsound. En su versión de pared, una estructura tubular de acero sujeta a la pared mediante dos soportes de metal cromado, es la que sostiene los paneles Snowgems. Los paneles pueden girar sobre su propio eje, lo que permite crear configuraciones múltiples.</p>\n<p>«Todo nace del gesto de enhebrar una serie de piedras de diferentes colores y formas en un hilo para crear joyas preciosas, collares y pendientes.» Snowgems es un sistema abierto que da vida a soluciones con formas delicadas, capaces de influir notablemente en la calidad acústica y estética de los espacios.</p>\n",
+  "short_description": "<h2>Design (a+b) Annalisa Dominoni-Benedetto Quaquaro</h2>\n",
+  "sku": "CAI-126",
+  "price": "830",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.004,30&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8751,
+  "gallery_images": [
+    8752,
+    8753,
+    8754
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        625,
+        624,
+        611,
+        613
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensiones",
+      "slug": "Dimensiones",
+      "options": [
+        "57,5x182,5cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12719,
+      "attributes": {
+        "pa_textura": "4067-aquamarina",
+        "dimensiones": "57,5x182,5cm"
+      },
+      "price": "830",
+      "regular_price": "830",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-126",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8751,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12720,
+      "attributes": {
+        "pa_textura": "7074-rosa-quarzo",
+        "dimensiones": "57,5x182,5cm"
+      },
+      "price": "830",
+      "regular_price": "830",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-126",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8751,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12721,
+      "attributes": {
+        "pa_textura": "blanco-frio-8002",
+        "dimensiones": "57,5x182,5cm"
+      },
+      "price": "830",
+      "regular_price": "830",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-126",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8751,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12722,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007",
+        "dimensiones": "57,5x182,5cm"
+      },
+      "price": "830",
+      "regular_price": "830",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-126",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8751,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

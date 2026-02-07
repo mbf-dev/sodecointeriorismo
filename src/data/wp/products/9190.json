@@ -1,0 +1,280 @@
+{
+  "id": 9190,
+  "name": "Design Collection",
+  "slug": "design-collection",
+  "permalink": "https://wpadmin.buildmaster.dev/product/design-collection/",
+  "date_created": "2024-08-12 12:07:05",
+  "date_modified": "2025-10-28 13:22:24",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Papeleras y paragüeros realizados en acero recubierto con polvos epoxídicos.</p>\n",
+  "short_description": "<p>Papeleras y paragüeros realizados en acero recubierto con polvos epoxídicos.</p>\n",
+  "sku": "CAI-084",
+  "price": "78",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>94,38&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>239,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 94,38&nbsp;&euro; hasta 239,58&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9191,
+  "gallery_images": [
+    9192,
+    9193,
+    9194,
+    9195,
+    9196
+  ],
+  "categories": [
+    476
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "Individual 20cm",
+        "Doble 20cm",
+        "Individual 50cm",
+        "Doble 50 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12633,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "formato": "Individual 20cm"
+      },
+      "price": "78",
+      "regular_price": "78",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-084",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12634,
+      "attributes": {
+        "pa_color": "negro",
+        "formato": "Individual 20cm"
+      },
+      "price": "78",
+      "regular_price": "78",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-084",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12635,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "formato": "Doble 20cm"
+      },
+      "price": "78",
+      "regular_price": "78",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-084",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12636,
+      "attributes": {
+        "pa_color": "negro",
+        "formato": "Doble 20cm"
+      },
+      "price": "78",
+      "regular_price": "78",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-084",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12637,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "formato": "Individual 50cm"
+      },
+      "price": "168",
+      "regular_price": "168",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-084",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12638,
+      "attributes": {
+        "pa_color": "negro",
+        "formato": "Individual 50cm"
+      },
+      "price": "168",
+      "regular_price": "168",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-084",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12639,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "formato": "Doble 50 cm"
+      },
+      "price": "198",
+      "regular_price": "198",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-084",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12640,
+      "attributes": {
+        "pa_color": "negro",
+        "formato": "Doble 50 cm"
+      },
+      "price": "198",
+      "regular_price": "198",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-084",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

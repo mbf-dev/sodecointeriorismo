@@ -1,0 +1,170 @@
+{
+  "id": 9080,
+  "name": "Battista Color",
+  "slug": "battista-color",
+  "permalink": "https://wpadmin.buildmaster.dev/product/battista-color/",
+  "date_created": "2024-08-11 22:22:39",
+  "date_modified": "2025-10-28 13:25:57",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Perchero con cabezal de aluminio fundido pintado con polvos epoxi, tubo y base de acero pintado con polvos epoxi.</p>\n",
+  "short_description": "<h2>Design Michele De Lucchi, Sezgin Aksu</h2>\n",
+  "sku": "CAI-096",
+  "price": "298.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>360,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9081,
+  "gallery_images": [
+    9082,
+    9083,
+    9084,
+    9085
+  ],
+  "categories": [
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        411,
+        404,
+        434
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12142,
+      "attributes": {
+        "pa_color": "blanco-natural"
+      },
+      "price": "298.00",
+      "regular_price": "298.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-096",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9081,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12143,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "298.00",
+      "regular_price": "298.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-096",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9081,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12144,
+      "attributes": {
+        "pa_color": "marron"
+      },
+      "price": "298.00",
+      "regular_price": "298.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-096",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9081,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12145,
+      "attributes": {
+        "pa_color": "oro-metalico"
+      },
+      "price": "298.00",
+      "regular_price": "298.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-096",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9081,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

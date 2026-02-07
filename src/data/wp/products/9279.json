@@ -1,0 +1,123 @@
+{
+  "id": 9279,
+  "name": "Ambrogio",
+  "slug": "ambrogio",
+  "permalink": "https://wpadmin.buildmaster.dev/product/ambrogio/",
+  "date_created": "2024-08-12 15:42:41",
+  "date_modified": "2025-10-28 13:20:17",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Sistemas componibles de perchas de pared en aluminio brillante y acero cromado.</p>\n",
+  "short_description": "<h2>Design Angelotti &amp; Cardile</h2>\n<p>Sistemas componibles de perchas de pared en aluminio brillante y acero cromado.</p>\n",
+  "sku": "CAI-069",
+  "price": "214",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>258,94&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>263,78&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 258,94&nbsp;&euro; hasta 263,78&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9280,
+  "gallery_images": [
+    9281,
+    9282,
+    9283,
+    9284,
+    9285
+  ],
+  "categories": [
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Largo",
+      "slug": "Largo",
+      "options": [
+        "99,50 cm",
+        "59,50 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12489,
+      "attributes": {
+        "largo": "99,50 cm"
+      },
+      "price": "218",
+      "regular_price": "218",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-069",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9280,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12490,
+      "attributes": {
+        "largo": "59,50 cm"
+      },
+      "price": "214",
+      "regular_price": "214",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-069",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9280,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

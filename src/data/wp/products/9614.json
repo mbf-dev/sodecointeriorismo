@@ -1,0 +1,121 @@
+{
+  "id": 9614,
+  "name": "Speech Divider",
+  "slug": "speech-divider",
+  "permalink": "https://wpadmin.buildmaster.dev/product/speech-divider/",
+  "date_created": "2024-08-14 11:11:55",
+  "date_modified": "2026-02-07 02:57:37",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Mampara móvil que se caracteriza por su base de aluminio brillante montada sobre ruedas con freno, tejido de poliéster fonoabsorbente Snowsound Fiber Textiles 3. El sistema es desenfundable.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design Angelotti &amp; Cardile</h2>\n",
+  "sku": "CAI-028",
+  "price": "1600",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.936,00&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/08/IMG_2800.jpeg",
+  "gallery_images": [
+    "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/08/IMG_2801.jpeg",
+    "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/08/IMG_2802.jpeg"
+  ],
+  "categories": [
+    476,
+    481,
+    501
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 14263,
+      "attributes": {
+        "pa_color": "gris"
+      },
+      "price": "1600",
+      "regular_price": "1600",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/08/IMG_2800.jpeg",
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12600,
+      "attributes": {
+        "pa_color": "blanco-natural"
+      },
+      "price": "1600",
+      "regular_price": "1600",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/08/IMG_2800.jpeg",
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

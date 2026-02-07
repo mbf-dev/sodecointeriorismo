@@ -1,0 +1,12 @@
+{
+  "id": 403,
+  "name": "Kit",
+  "slug": "kit",
+  "description": "7",
+  "parent_id": 390,
+  "count": 4,
+  "image": {
+    "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/07/8-kits.png",
+    "id": "6684"
+  }
+}

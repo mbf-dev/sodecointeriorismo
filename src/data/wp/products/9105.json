@@ -1,0 +1,231 @@
+{
+  "id": 9105,
+  "name": "Socrate display wall",
+  "slug": "socrate-display-wall",
+  "permalink": "https://wpadmin.buildmaster.dev/product/socrate-display-wall/",
+  "date_created": "2024-08-11 22:37:43",
+  "date_modified": "2025-10-28 13:25:46",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Socrate es un sistema expansible de librerías con estructura en metal caracterizado por la gran flexibilidad de composición, perfecto para hacer frente a necesidades distintas tanto en términos de espacio como de estilo. El sistema Socrate esta’ disponible en versión autoportante y de sujeción en pared.</p>\n<p>Los estantes de acero tienen un borde en la parte anterior de doble espesor redondeado anti-caida. El doblez lateral permite engancharlos directamente al montante.</p>\n<p>Los estantes microperforados facilitan la circulación del aire mejorando la aireación de los libros reduciendo así la peligrosa formación de humedad.</p>\n",
+  "short_description": "",
+  "sku": "CAI-094",
+  "price": "947",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.145,87&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>3.156,89&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 1.145,87&nbsp;&euro; hasta 3.156,89&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9106,
+  "gallery_images": [
+    9107,
+    9108,
+    9109
+  ],
+  "categories": [
+    488,
+    481,
+    502
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensiones",
+      "slug": "Dimensiones",
+      "options": [
+        "100x196cm",
+        "196,5x196cm",
+        "293x196cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12435,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "dimensiones": "100x196cm"
+      },
+      "price": "",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-094",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9106,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12436,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "dimensiones": "196,5x196cm"
+      },
+      "price": "1778",
+      "regular_price": "1778",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-094",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9106,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12437,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "dimensiones": "293x196cm"
+      },
+      "price": "2609",
+      "regular_price": "2609",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-094",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9106,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12438,
+      "attributes": {
+        "pa_color": "gris",
+        "dimensiones": "100x196cm"
+      },
+      "price": "947",
+      "regular_price": "947",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-094",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9106,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12439,
+      "attributes": {
+        "pa_color": "gris",
+        "dimensiones": "196,5x196cm"
+      },
+      "price": "1778",
+      "regular_price": "1778",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-094",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9106,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12440,
+      "attributes": {
+        "pa_color": "gris",
+        "dimensiones": "293x196cm"
+      },
+      "price": "2609",
+      "regular_price": "2609",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-094",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9106,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

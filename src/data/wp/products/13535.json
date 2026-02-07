@@ -1,0 +1,492 @@
+{
+  "id": 13535,
+  "name": "BulWallpaper VMT",
+  "slug": "bulwallpaper-vmt",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulwallpaper-vmt/",
+  "date_created": "2025-01-17 13:13:40",
+  "date_modified": "2025-11-19 13:53:46",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>BulWallpaper VMT es una nueva forma revolucionaria de aislamiento acústico y térmico, para aplicaciones residenciales y comerciales. Este papel tapiz acústico fue desarrollado para funcionar en frecuencias medias a altas, es ideal para mejorar el habla y la inteligibilidad en lugares como salas de reuniones, salas de estar o aulas.</p>\n<p>BulWallpaper VMT está certificado con <b>Indoor Advantage™ Gold Building Materials</b> , por SCS Global Services, lo que significa que contribuye a los créditos en LEED, WELL, RESET, BREAM y otros sistemas de clasificación de edificios ecológicos.</p>\n",
+  "short_description": "<h2>Panel acústico decorativo.</h2>\n<p><b>Este papel tapiz acústico fue desarrollado para funcionar en frecuencias medias a altas.</b></p>\n<p>Fabricado en PET EuroClass B reciclado y resistente al fuego, VicWallpaper VMT es fácil y rápido de instalar.</p>\n",
+  "sku": "VIC-073",
+  "price": "204",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>246,84&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    9846,
+    6419,
+    6418
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 13732,
+  "gallery_images": [
+    4288,
+    4289,
+    4290,
+    4291,
+    4292,
+    4293,
+    4294,
+    4295
+  ],
+  "categories": [
+    395,
+    478,
+    392,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        412,
+        413,
+        410,
+        405,
+        415,
+        406,
+        407,
+        628,
+        629,
+        411,
+        414,
+        404,
+        409,
+        408
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Estilo",
+      "slug": "Estilo",
+      "options": [
+        "Symmetric"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "595x595x10"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "8 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 18286,
+      "attributes": {
+        "pa_color": "azul",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13620,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18287,
+      "attributes": {
+        "pa_color": "azul-bondi",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6657,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18288,
+      "attributes": {
+        "pa_color": "beige",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18289,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18290,
+      "attributes": {
+        "pa_color": "coral",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18291,
+      "attributes": {
+        "pa_color": "gris",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18292,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18293,
+      "attributes": {
+        "pa_color": "hormigon-1",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18294,
+      "attributes": {
+        "pa_color": "hormigon-2",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18295,
+      "attributes": {
+        "pa_color": "marron",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18296,
+      "attributes": {
+        "pa_color": "naranja",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18297,
+      "attributes": {
+        "pa_color": "negro",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18298,
+      "attributes": {
+        "pa_color": "verde-mus",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18299,
+      "attributes": {
+        "pa_color": "verde-musgo",
+        "estilo": "Symmetric",
+        "formato": "595x595x10",
+        "caja": "8 Unidades"
+      },
+      "price": "204",
+      "regular_price": "204",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-073",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 13732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

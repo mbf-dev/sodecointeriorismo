@@ -1,0 +1,53 @@
+---
+import LayoutCategory from '../../layouts/woocommerce/LayoutCategory.astro';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+
+export const prerender = false;
+
+const { slug } = Astro.params;
+const currentSlug = slug ? slug.replace(/^\/|\/$/g, '') : '';
+
+// 1. Resolver ID de la Categoría
+const DATA_DIR = path.join(process.cwd(), 'src/data/wp');
+const ROUTES_FILE = path.join(DATA_DIR, 'routes.json');
+let categoryId = null;
+let categoryData = null;
+
+try {
+    const routesRaw = await fs.readFile(ROUTES_FILE, 'utf-8');
+    const routes = JSON.parse(routesRaw);
+    // Key is 'product-categories' as defined in wp-sync.ts
+    categoryId = routes['product-categories']?.[currentSlug];
+
+    if (categoryId) {
+        const catFile = path.join(DATA_DIR, 'product-categories', `${categoryId}.json`);
+        try {
+            const raw = await fs.readFile(catFile, 'utf-8');
+            categoryData = JSON.parse(raw);
+        } catch {
+             categoryData = { name: currentSlug, id: categoryId, count: 0, description: '' };
+        }
+    }
+} catch (e) {
+    console.error('Error resolving route:', e);
+}
+
+import { decodeHtmlEntities } from '../../utils/formatting';
+
+// ... (existing code)
+
+if (!categoryId || !categoryData) {
+    return Astro.redirect('/404');
+}
+
+// Fix encoding for display
+if (categoryData && categoryData.name) {
+    categoryData.name = decodeHtmlEntities(categoryData.name);
+}
+
+---
+
+<LayoutCategory title={categoryData.name} category={categoryData}>
+    <!-- Productos inyectados por el layout o aquí si fuera necesario -->
+</LayoutCategory>

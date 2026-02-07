@@ -1,0 +1,143 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ProductGrid from '../../components/woocommerce/ProductGrid.svelte';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+
+interface Props {
+  title: string;
+  category: any;
+}
+
+const { title, category } = Astro.props;
+
+import { getImageSrc, getImageMeta } from '../../lib/image-index';
+
+// Load initial products for SSR
+const DATA_DIR = path.join(process.cwd(), 'src/data/wp');
+const productsDir = path.join(DATA_DIR, 'products');
+
+let initialProducts: any[] = [];
+let categoryImageMeta = category.image?.optimized;
+
+const PER_PAGE = 12;
+
+try {
+  // Try to resolve category image if not directly available
+  if (!categoryImageMeta && category.image) {
+     categoryImageMeta = await getImageMeta(category.image);
+  }
+
+  const files = await fs.readdir(productsDir);
+  const allProducts: any[] = [];
+  
+  for (const file of files) {
+    if (!file.endsWith('.json')) continue;
+    
+    try {
+      const content = await fs.readFile(path.join(productsDir, file), 'utf-8');
+      const product = JSON.parse(content);
+      
+      // Check if product belongs to this category
+      if (product.categories && product.categories.includes(category.id)) {
+        allProducts.push(product);
+      }
+    } catch { /* Skip invalid files */ }
+  }
+  
+  // Sort by date (newest first)
+  allProducts.sort((a, b) => {
+    const dateA = new Date(a.date_created || 0).getTime();
+    const dateB = new Date(b.date_created || 0).getTime();
+    return dateB - dateA;
+  });
+  
+  // Get first page without Promise.all inside map since we're at top level await
+  // But wait! Array.map is synchronous. We need Promise.all for async getImageSrc
+  const firstPage = allProducts.slice(0, PER_PAGE);
+  
+  initialProducts = await Promise.all(firstPage.map(async (p) => {
+    // Helper to get AVIF from optimized object
+    const extractBest = (opt: any) => {
+        if (opt?.sources) {
+            const avif = opt.sources.find((s: any) => s.type === 'image/avif');
+            if (avif?.srcset) return avif.srcset.split(',')[0].trim().split(' ')[0];
+        }
+        return opt?.src;
+    };
+
+    // 1. Try direct optimized data present in JSON
+    const direct = p.optimized || p.image?.optimized;
+    let imgUrl = direct ? extractBest(direct) : null;
+    
+    // 2. If not, try lookup by ID (using our new fast index)
+    if (!imgUrl) {
+      imgUrl = await getImageSrc(p.image);
+    }
+
+    // 3. Fallback: If p.image is a string path, use it directly
+    if (!imgUrl && typeof p.image === 'string' && p.image.includes('/')) {
+      imgUrl = p.image;
+    }
+
+    return {
+      id: p.id,
+      name: p.name,
+      slug: p.slug,
+      price: p.price,
+      regular_price: p.regular_price,
+      on_sale: p.on_sale,
+      imageUrl: imgUrl || '',
+      categories: p.categories
+    };
+  }));
+  
+} catch (e) {
+  console.error('Error loading initial products:', e);
+}
+---
+
+<Layout title={title}>
+  <div class="container mx-auto py-12 px-4">
+    <!-- Category Header -->
+    <div class="flex flex-col items-center text-center mb-12">
+      {categoryImageMeta && (
+        <div class="mb-6 rounded-xl overflow-hidden shadow-lg max-w-2xl w-full">
+          <picture>
+            {categoryImageMeta.sources?.map((src: any) => (
+              <source srcset={src.srcset} type={src.type} />
+            ))}
+            <img 
+              src={categoryImageMeta.src} 
+              alt={category.name} 
+              width={categoryImageMeta.width}
+              height={categoryImageMeta.height}
+              class="w-full h-auto object-cover max-h-[400px]" 
+            />
+          </picture>
+        </div>
+      )}
+      <h1 class="text-4xl font-bold mb-4 text-primary">{category.name}</h1>
+      {category.description && (
+        <div class="prose max-w-2xl text-gray-600 mb-6">
+          <p>{category.description}</p>
+        </div>
+      )}
+      
+      {category.count > 0 && (
+        <span class="badge badge-secondary badge-lg">{category.count} Productos</span>
+      )}
+    </div>
+
+    <div class="divider"></div>
+
+    <!-- Product Grid with Infinite Scroll -->
+    <ProductGrid 
+      client:load
+      categoryId={category.id}
+      initialProducts={initialProducts}
+      totalCount={category.count || 0}
+      perPage={PER_PAGE}
+    />
+  </div>
+</Layout>

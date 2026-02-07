@@ -1,0 +1,260 @@
+{
+  "id": 9865,
+  "name": "BulPattern Ultra Beat XL",
+  "slug": "bulpattern-ultra-beat-xl",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulpattern-ultra-beat-xl/",
+  "date_created": "2024-08-20 15:40:57",
+  "date_modified": "2025-11-18 13:50:50",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>La nueva solución añadida a la línea de paneles acústicos BulPattern es un panel extra grande dibujado con un diseño de patrón sin costuras, inspirado en los ritmos musicales. Forma secuencias orgánicas a lo largo de sus cuatro líneas para crear un panel acústico exquisito para el diseño de interiores donde un alto rendimiento acústico es un requisito.</p>\n<p>Los paneles acústicos se mezclan perfectamente, debido a sus articulaciones casi impercebibles.</p>\n<p>La capa de lana BulPET de absorción de sonido de alto rendimiento en el interior ayuda a mejorar la respuesta acústica del panel, al tiempo que contribuye al objetivo de producir productos más ecológicos y respetuosos con el medio ambiente hechos de plástico reciclado.Está cerrado en MDF de alta calidad y laminado de alta presión (HPL), lo que lo convierte en una solución acústica única.</p>\n<p>Dimensiones (L×H×W): 595 × 1190 × 50 mm</p>\n",
+  "short_description": "",
+  "sku": "VIC-006",
+  "price": "444",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>537,24&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 6481,
+  "gallery_images": [
+    6482,
+    6483,
+    6484,
+    6485
+  ],
+  "categories": [
+    395,
+    478,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        433,
+        508,
+        432,
+        506,
+        507,
+        505,
+        504
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 10482,
+      "attributes": {
+        "pa_color": "negro-mate",
+        "caja": "2 Unidades"
+      },
+      "price": "444",
+      "regular_price": "444",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10507,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10483,
+      "attributes": {
+        "pa_color": "blanco-mate",
+        "caja": "2 Unidades"
+      },
+      "price": "444",
+      "regular_price": "444",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10508,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10484,
+      "attributes": {
+        "pa_color": "roble-marron",
+        "caja": "2 Unidades"
+      },
+      "price": "444",
+      "regular_price": "444",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6481,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10485,
+      "attributes": {
+        "pa_color": "cereza-locarno",
+        "caja": "2 Unidades"
+      },
+      "price": "444",
+      "regular_price": "444",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10509,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10479,
+      "attributes": {
+        "pa_color": "roble-natural",
+        "caja": "2 Unidades"
+      },
+      "price": "444",
+      "regular_price": "444",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10504,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10480,
+      "attributes": {
+        "pa_color": "nuez-natural",
+        "caja": "2 Unidades"
+      },
+      "price": "444",
+      "regular_price": "444",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10505,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10481,
+      "attributes": {
+        "pa_color": "nuez-oscuro",
+        "caja": "2 Unidades"
+      },
+      "price": "444",
+      "regular_price": "444",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10506,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

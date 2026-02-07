@@ -1,0 +1,727 @@
+{
+  "id": 9183,
+  "name": "Maxi",
+  "slug": "maxi",
+  "permalink": "https://wpadmin.buildmaster.dev/product/maxi/",
+  "date_created": "2024-08-12 11:16:39",
+  "date_modified": "2025-10-28 13:22:30",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Cestos para la separación de residuos, el bidón y la base son de acero recubierto con polvo epoxi y están dotados de una tapa removible de tecnopolímero, disponible en varios colores.</p>\n",
+  "short_description": "",
+  "sku": "CAI-085",
+  "price": "168.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>203,28&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>263,78&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 203,28&nbsp;&euro; hasta 263,78&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9184,
+  "gallery_images": [
+    9185,
+    9186,
+    9187,
+    9188,
+    9189
+  ],
+  "categories": [
+    481,
+    492
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Color base",
+      "slug": "Color base",
+      "options": [
+        "Gris",
+        "Blanco"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        607,
+        412,
+        405,
+        406,
+        421,
+        408
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Altura",
+      "slug": "Altura",
+      "options": [
+        "50 cm",
+        "70 cm",
+        "85 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12497,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "rojo",
+        "altura": "70 cm"
+      },
+      "price": "198.00",
+      "regular_price": "198.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12498,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "gris",
+        "altura": "85 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12503,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "azul",
+        "altura": "70 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12504,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "azul",
+        "altura": "85 cm"
+      },
+      "price": "218.00",
+      "regular_price": "218.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12506,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "rojo",
+        "altura": "70 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12507,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "rojo",
+        "altura": "85 cm"
+      },
+      "price": "218.00",
+      "regular_price": "218.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12509,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "verde-musgo",
+        "altura": "70 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12510,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "verde-musgo",
+        "altura": "85 cm"
+      },
+      "price": "218.00",
+      "regular_price": "218.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12512,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "amarillo",
+        "altura": "70 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12513,
+      "attributes": {
+        "color-base": "Gris",
+        "pa_color": "amarillo",
+        "altura": "85 cm"
+      },
+      "price": "218.00",
+      "regular_price": "218.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12517,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "blanco-natural",
+        "altura": "50 cm"
+      },
+      "price": "168.00",
+      "regular_price": "168.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12518,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "blanco-natural",
+        "altura": "70 cm"
+      },
+      "price": "198.00",
+      "regular_price": "198.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12519,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "blanco-natural",
+        "altura": "85 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12520,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "azul",
+        "altura": "50 cm"
+      },
+      "price": "178.00",
+      "regular_price": "178.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12521,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "azul",
+        "altura": "70 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12522,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "azul",
+        "altura": "85 cm"
+      },
+      "price": "218.00",
+      "regular_price": "218.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12523,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "rojo",
+        "altura": "50 cm"
+      },
+      "price": "178.00",
+      "regular_price": "178.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12524,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "rojo",
+        "altura": "70 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12525,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "rojo",
+        "altura": "85 cm"
+      },
+      "price": "218.00",
+      "regular_price": "218.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12526,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "verde-musgo",
+        "altura": "50 cm"
+      },
+      "price": "178.00",
+      "regular_price": "178.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12527,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "verde-musgo",
+        "altura": "70 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12528,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "verde-musgo",
+        "altura": "85 cm"
+      },
+      "price": "218.00",
+      "regular_price": "218.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12529,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "amarillo",
+        "altura": "50 cm"
+      },
+      "price": "178.00",
+      "regular_price": "178.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12530,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "amarillo",
+        "altura": "70 cm"
+      },
+      "price": "208.00",
+      "regular_price": "208.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12531,
+      "attributes": {
+        "color-base": "Blanco",
+        "pa_color": "amarillo",
+        "altura": "85 cm"
+      },
+      "price": "218.00",
+      "regular_price": "218.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-085",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9184,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

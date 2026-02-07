@@ -1,0 +1,334 @@
+{
+  "id": 9030,
+  "name": "Si Sboccia",
+  "slug": "si-sboccia",
+  "permalink": "https://wpadmin.buildmaster.dev/product/si-sboccia/",
+  "date_created": "2024-08-11 20:32:51",
+  "date_modified": "2025-10-28 13:27:13",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Si Sboccia es un objeto fonoabsorbente realizado con Snowsound Fiber, hay un modelo mural y otro colgante para techo. Es una rosa de gran tamaño, que concibió el diseñador Moreno Ferrari: de un capullo de rosa que se plasmó al azar, se fue desarrollando la idea de un producto útil y también emotivo, que lograse decorar y personalizar los ambientes ofreciendo, además, confort acústico.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design Moreno Ferrari</h2>\n",
+  "sku": "CAI-102",
+  "price": "890",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.076,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.197,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 1.076,90&nbsp;&euro; hasta 1.197,90&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9031,
+  "gallery_images": [
+    9032,
+    9033,
+    9034,
+    9035
+  ],
+  "categories": [
+    471,
+    477,
+    475,
+    476,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        541,
+        544,
+        546,
+        547,
+        551
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "Pared",
+        "Techo"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 11094,
+      "attributes": {
+        "pa_textura": "velvet-600",
+        "formato": "Pared"
+      },
+      "price": "890",
+      "regular_price": "890",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11095,
+      "attributes": {
+        "pa_textura": "velvet-600",
+        "formato": "Techo"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11096,
+      "attributes": {
+        "pa_textura": "velvet-603",
+        "formato": "Pared"
+      },
+      "price": "890",
+      "regular_price": "890",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11097,
+      "attributes": {
+        "pa_textura": "velvet-603",
+        "formato": "Techo"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11098,
+      "attributes": {
+        "pa_textura": "velvet-605",
+        "formato": "Pared"
+      },
+      "price": "890",
+      "regular_price": "890",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11099,
+      "attributes": {
+        "pa_textura": "velvet-605",
+        "formato": "Techo"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11100,
+      "attributes": {
+        "pa_textura": "velvet-606",
+        "formato": "Pared"
+      },
+      "price": "890",
+      "regular_price": "890",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11101,
+      "attributes": {
+        "pa_textura": "velvet-606",
+        "formato": "Techo"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11102,
+      "attributes": {
+        "pa_textura": "velvet-610",
+        "formato": "Pared"
+      },
+      "price": "890",
+      "regular_price": "890",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11103,
+      "attributes": {
+        "pa_textura": "velvet-610",
+        "formato": "Techo"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-102",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9031,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

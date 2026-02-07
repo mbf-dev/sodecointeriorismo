@@ -1,0 +1,166 @@
+{
+  "id": 5481,
+  "name": "BulVibro SWM",
+  "slug": "bulvibro-swm",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulvibro-swm/",
+  "date_created": "2024-07-23 10:22:55",
+  "date_modified": "2025-10-28 13:04:22",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Instalación: La primera unidad debe aplicarse a 1,50 m del suelo. La segunda unidad debe aplicarse a 3,00 m del suelo. Y así sucesivamente. La última unidad debe aplicarse entre 10 y 30 cm del techo acústico. Recuerde que la instalación de los soportes de pared debe ser en una secuencia cruzada (consulte las hojas de procedimientos de instalación).</p>\n",
+  "short_description": "<h2 class=\"h6\">Montajes de pared antivibración.</h2>\n<p>Montajes de pared antivibración diseñados para evitar la transmisión estructural y proporcionar la máxima estabilidad estructural. Muy recomendable para la absorción de las vibraciones producidas por el aire y el ruido de impacto. Las frecuencias más bajas de ruido en el aire tienden a estar en el rango de 28-30 Hz. El ruido de impacto tiende a ser aún más bajo. El sistema de resorte de acero y el caucho EPDM están especialmente diseñados para evitar amplificaciones de sonido a través de las estructuras de la pared, donde el nivel de presión sonora está entre 100dB-105dB (frecuencias medias/bajas). Estas unidades son imprescindibles en las paredes con una dimensión considerable.</p>\n",
+  "sku": "VIC-061",
+  "price": "452.18",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>547,14&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>734,71&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 547,14&nbsp;&euro; hasta 734,71&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    5478,
+    5483,
+    5482,
+    5480,
+    5477,
+    5475,
+    5476,
+    5479
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5002,
+  "gallery_images": [],
+  "categories": [
+    478,
+    477,
+    475,
+    476,
+    393,
+    390
+  ],
+  "tags": [
+    376,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "VicVibro SWM1.01",
+        "VicVibro SWM2.02",
+        "VicVibro SWM2.01"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "50 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5492,
+      "attributes": {
+        "modelo": "VicVibro SWM1.01",
+        "caja": "50 Unidades"
+      },
+      "price": "468.72",
+      "regular_price": "468.72",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5505,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5493,
+      "attributes": {
+        "modelo": "VicVibro SWM2.02",
+        "caja": "50 Unidades"
+      },
+      "price": "607.2",
+      "regular_price": "607.2",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5506,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5491,
+      "attributes": {
+        "modelo": "VicVibro SWM2.01",
+        "caja": "50 Unidades"
+      },
+      "price": "452.18",
+      "regular_price": "452.18",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5504,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

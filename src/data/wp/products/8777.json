@@ -1,0 +1,234 @@
+{
+  "id": 8777,
+  "name": "Clasp Divider",
+  "slug": "clasp-divider",
+  "permalink": "https://wpadmin.buildmaster.dev/product/clasp-divider/",
+  "date_created": "2024-08-10 20:38:13",
+  "date_modified": "2025-10-28 13:38:41",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>En Clasp divider el tejido acústico Snowsound Fiber se dispone sobre una estructura modulable realizada en metal cromado y suspendida mediante cables con un sistema de regulación de la altura. Gracias a las juntas de metal, la estructura se puede configurar libremente y permite crear composiciones infinitas. El sistema es desenfundable.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design (a+b) Annalisa Dominoni, Benedetto Quaquaro</h2>\n",
+  "sku": "CAI-179",
+  "price": "294",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>355,74&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>406,56&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 355,74&nbsp;&euro; hasta 406,56&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8778,
+  "gallery_images": [
+    8779,
+    8780,
+    8781,
+    8782
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    472
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        571,
+        575,
+        579
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "200x60cm",
+        "60x60cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 13341,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "tamano": "200x60cm"
+      },
+      "price": "336",
+      "regular_price": "336",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-179",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8778,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 13342,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "tamano": "60x60cm"
+      },
+      "price": "294",
+      "regular_price": "294",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-179",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8778,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 13343,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "tamano": "200x60cm"
+      },
+      "price": "336",
+      "regular_price": "336",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-179",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8778,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 13344,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "tamano": "60x60cm"
+      },
+      "price": "294",
+      "regular_price": "294",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-179",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8778,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 13345,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "tamano": "200x60cm"
+      },
+      "price": "336",
+      "regular_price": "336",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-179",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8778,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 13346,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "tamano": "60x60cm"
+      },
+      "price": "294",
+      "regular_price": "294",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-179",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8778,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

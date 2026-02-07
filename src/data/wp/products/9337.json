@@ -1,0 +1,281 @@
+{
+  "id": 9337,
+  "name": "Design Collection waste bin",
+  "slug": "design-collection-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/design-collection-2/",
+  "date_created": "2024-08-12 18:34:43",
+  "date_modified": "2025-10-28 13:19:31",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Papeleras y paragüeros realizados en acero recubierto con polvos epoxídicos.</p>\n",
+  "short_description": "<p>Papeleras y paragüeros realizados en acero recubierto con polvos epoxídicos.</p>\n",
+  "sku": "CAI-061",
+  "price": "78.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>94,38&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>239,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 94,38&nbsp;&euro; hasta 239,58&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9338,
+  "gallery_images": [
+    9339,
+    9340,
+    9341,
+    9342,
+    9343
+  ],
+  "categories": [
+    481,
+    492
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "Papelera 20x20x32 cm",
+        "Paragüero 20x20x50 cm",
+        "Paragüero 20x35x50 cm",
+        "Paragüero con cubeta 20x35x50 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        422,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12463,
+      "attributes": {
+        "modelo": "Papelera 20x20x32 cm",
+        "pa_color": "blanco"
+      },
+      "price": "78.00",
+      "regular_price": "78.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9338,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12464,
+      "attributes": {
+        "modelo": "Papelera 20x20x32 cm",
+        "pa_color": "negro"
+      },
+      "price": "78.00",
+      "regular_price": "78.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9338,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12465,
+      "attributes": {
+        "modelo": "Paragüero 20x20x50 cm",
+        "pa_color": "blanco"
+      },
+      "price": "108.00",
+      "regular_price": "108.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9338,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12466,
+      "attributes": {
+        "modelo": "Paragüero 20x20x50 cm",
+        "pa_color": "negro"
+      },
+      "price": "108.00",
+      "regular_price": "108.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9338,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12467,
+      "attributes": {
+        "modelo": "Paragüero 20x35x50 cm",
+        "pa_color": "blanco"
+      },
+      "price": "168",
+      "regular_price": "168",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9338,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12468,
+      "attributes": {
+        "modelo": "Paragüero 20x35x50 cm",
+        "pa_color": "negro"
+      },
+      "price": "168",
+      "regular_price": "168",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9338,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12469,
+      "attributes": {
+        "modelo": "Paragüero con cubeta 20x35x50 cm",
+        "pa_color": "blanco"
+      },
+      "price": "198.00",
+      "regular_price": "198.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9338,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12470,
+      "attributes": {
+        "modelo": "Paragüero con cubeta 20x35x50 cm",
+        "pa_color": "negro"
+      },
+      "price": "198.00",
+      "regular_price": "198.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-061",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9338,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": 8903,
+  "name": "Obelisco",
+  "slug": "obelisco",
+  "permalink": "https://wpadmin.buildmaster.dev/product/obelisco/",
+  "date_created": "2024-08-11 12:19:20",
+  "date_modified": "2025-10-28 13:35:55",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Obelisco es un elemento fonoabsorbente con soporte autónomo revestido en tejido Snowsound Fiber 1, completamente desenfundable y lavable, con estructura interna en poliéster y acero. Obelisco retoma un elemento proyectado por Gio Ponti para una instalación de 1965. Gio Ponti estudió exhaustivamente el tema del obelisco, utilizándolo con frecuencia en su arquitectura e instalaciones.</p>\n",
+  "short_description": "<h2>Design Gio Ponti</h2>\n",
+  "sku": "CAI-157",
+  "price": "1190",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.439,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6180,
+    5671,
+    5672,
+    5673,
+    5670
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8904,
+  "gallery_images": [
+    8905
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480,
+    472,
+    400
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "180cm x 50 x 39"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 10799,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "dimension": "180cm x 50 x 39"
+      },
+      "price": "1190",
+      "regular_price": "1190",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-157",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8904,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": 9171,
+  "name": "Socrate",
+  "slug": "socrate",
+  "permalink": "https://wpadmin.buildmaster.dev/product/socrate/",
+  "date_created": "2024-08-12 11:14:34",
+  "date_modified": "2025-10-28 13:22:35",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Socrate es un sistema expansible de librerías con estructura en metal caracterizado por la gran flexibilidad de composición, perfecto para hacer frente a necesidades distintas tanto en términos de espacio como de estilo. El sistema Socrate esta’ disponible en versión autoportante y de sujeción en pared.</p>\n<p>Los estantes de acero tienen un borde en la parte anterior de doble espesor redondeado anti-caida. El doblez lateral permite engancharlos directamente al montante.</p>\n<p>Los estantes microperforados facilitan la circulación del aire mejorando la aireación de los libros reduciendo así la peligrosa formación de humedad.</p>\n",
+  "short_description": "",
+  "sku": "CAI-086",
+  "price": "717",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>867,57&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.268,75&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 867,57&nbsp;&euro; hasta 2.268,75&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9172,
+  "gallery_images": [
+    9173,
+    9174,
+    9175,
+    9176,
+    9177,
+    9178,
+    9179,
+    9180,
+    9181,
+    9182
+  ],
+  "categories": [
+    488,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        406
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Modulos",
+      "slug": "Modulos",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12571,
+      "attributes": {
+        "pa_color": "gris",
+        "modulos": "1"
+      },
+      "price": "717",
+      "regular_price": "717",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-086",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9172,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12572,
+      "attributes": {
+        "pa_color": "gris",
+        "modulos": "2"
+      },
+      "price": "1296",
+      "regular_price": "1296",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-086",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9172,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12573,
+      "attributes": {
+        "pa_color": "gris",
+        "modulos": "3"
+      },
+      "price": "1875",
+      "regular_price": "1875",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-086",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9172,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

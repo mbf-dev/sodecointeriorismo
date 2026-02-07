@@ -1,0 +1,332 @@
+{
+  "id": 9618,
+  "name": "Prisma",
+  "slug": "prisma-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/prisma-2/",
+  "date_created": "2024-08-14 11:14:22",
+  "date_modified": "2025-10-28 13:13:42",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Un innovador y elegante sistema de accesorios contenedores formado por paragüeros para paraguas clasicos como para los plegables, ceniceros, papeleras y macetas. Disponible tambien completamente de acero inoxidable AISI 304 aptos para su uso en exterior con un fondo perforado para dejar que pase el agua de lluvia. Puede fijarse al suelo.</p>\n",
+  "short_description": "<h2>Design Sezgin Aksu &amp; Silvia Luardi</h2>\n",
+  "sku": "CAI-027",
+  "price": "460.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>556,60&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>786,50&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 556,60&nbsp;&euro; hasta 786,50&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9619,
+  "gallery_images": [
+    9620,
+    9621,
+    9622,
+    9623,
+    9624,
+    9625
+  ],
+  "categories": [
+    486,
+    487,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "Papelera",
+        "Paragüero",
+        "Cenicero",
+        "Maceta"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Medidas",
+      "slug": "Medidas",
+      "options": [
+        "70x34x35 cm",
+        "50x34x35 cm",
+        "35x34x35 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12250,
+      "attributes": {
+        "modelo": "Papelera",
+        "medidas": "70x34x35 cm"
+      },
+      "price": "530.00",
+      "regular_price": "530.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12251,
+      "attributes": {
+        "modelo": "Papelera",
+        "medidas": "50x34x35 cm"
+      },
+      "price": "520.00",
+      "regular_price": "520.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12252,
+      "attributes": {
+        "modelo": "Papelera",
+        "medidas": "35x34x35 cm"
+      },
+      "price": "460.00",
+      "regular_price": "460.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12254,
+      "attributes": {
+        "modelo": "Paragüero",
+        "medidas": "50x34x35 cm"
+      },
+      "price": "530.00",
+      "regular_price": "530.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12255,
+      "attributes": {
+        "modelo": "Paragüero",
+        "medidas": "35x34x35 cm"
+      },
+      "price": "630.00",
+      "regular_price": "630.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12256,
+      "attributes": {
+        "modelo": "Cenicero",
+        "medidas": "70x34x35 cm"
+      },
+      "price": "630.00",
+      "regular_price": "630.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12257,
+      "attributes": {
+        "modelo": "Cenicero",
+        "medidas": "50x34x35 cm"
+      },
+      "price": "620.00",
+      "regular_price": "620.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12259,
+      "attributes": {
+        "modelo": "Maceta",
+        "medidas": "70x34x35 cm"
+      },
+      "price": "650.00",
+      "regular_price": "650.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12260,
+      "attributes": {
+        "modelo": "Maceta",
+        "medidas": "50x34x35 cm"
+      },
+      "price": "640.00",
+      "regular_price": "640.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12261,
+      "attributes": {
+        "modelo": "Maceta",
+        "medidas": "35x34x35 cm"
+      },
+      "price": "485.00",
+      "regular_price": "485.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-027",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9619,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

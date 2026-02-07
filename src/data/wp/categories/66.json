@@ -1,5 +1,8 @@
 {
+  "id": 66,
   "name": "Articles",
   "slug": "articles",
-  "id": 66
+  "description": "",
+  "parent_id": 0,
+  "count": 1
 }

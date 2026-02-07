@@ -1,0 +1,72 @@
+{
+  "id": 5454,
+  "name": "Flexi Glue Ultra",
+  "slug": "flexi-glue-ultra",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flexi-glue-ultra/",
+  "date_created": "2024-07-23 10:21:45",
+  "date_modified": "2025-10-28 13:05:54",
+  "type": "simple",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Flexi Glue Ultra fue diseñado en colaboración con los principales profesionales de la industria química. Las pruebas han revelado una excelente resistencia y versatilidad cuando se aplica a una variedad de materiales.</p>\n<p>Preparación: Las superficies a unir deben estar secas, limpias y libres de polvo y grasa. Pegado: Cortar la punta de la boquilla de cola a 45º con un cúter. Aplique el pegamento adhesivo en la parte posterior del panel acústico con una pistola a presión. Dejar un margen de 4 a 5 cm entre los bordes del panel y la línea de cola. No espere más de 10 minutos después de aplicar el pegamento para fijar el panel a la superficie. Coloque el panel en una posición adecuada en la pared o el techo. Una vez en el lugar deseado, presione firmemente contra la superficie durante 15 segundos.</p>\n",
+  "short_description": "<div class=\"product__title\">\n<h2><span class=\"product__text inline-richtext subtitle\">Cola adhesiva HT para fijación de paneles. Caja 12 unidades</span></h2>\n</div>\n<div id=\"price-template--19044974526811__main\" class=\"no-js-hidden\" role=\"status\">\n<div class=\" price price--large price--show-badge\">\n<div class=\"price__container\">\n<div class=\"price__regular\">\n<p>Flexi Glue Ultra de Vicoustic está diseñado para usarse con una variedad de materiales. Su composición química no es agresiva, por lo que está certificada según la legislación europea más reciente, lo que permite utilizar Flexi Glue Ultra en cualquier entorno.</p>\n<p>&nbsp;</p>\n</div>\n</div>\n</div>\n</div>\n",
+  "sku": "VIC-072",
+  "price": "154.90",
+  "regular_price": "154.90",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>187,43&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4238,
+  "gallery_images": [],
+  "categories": [
+    391,
+    478,
+    477,
+    475,
+    476,
+    390
+  ],
+  "tags": [
+    340,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "12 Unidades"
+      ],
+      "valiation": false,
+      "visible": true
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": 9217,
+  "name": "Swing",
+  "slug": "swing",
+  "permalink": "https://wpadmin.buildmaster.dev/product/swing/",
+  "date_created": "2024-08-12 12:28:05",
+  "date_modified": "2025-10-28 13:21:19",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Perchero de pie con estructura en acero recubierto con polvos epoxídicos. Cabezas en policarbonato. Aro paragüero y cubeta recoge aguas exportables en tecnopolímero.</p>\n",
+  "short_description": "<h2>Design Claudio Bellini</h2>\n",
+  "sku": "CAI-078",
+  "price": "196",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>237,16&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9218,
+  "gallery_images": [
+    9219,
+    9220,
+    9221,
+    9222,
+    9223,
+    9224
+  ],
+  "categories": [
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        420,
+        405,
+        414,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12371,
+      "attributes": {
+        "pa_color": "azul-celeste"
+      },
+      "price": "196",
+      "regular_price": "196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-078",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9218,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12372,
+      "attributes": {
+        "pa_color": "blanco-natural"
+      },
+      "price": "196",
+      "regular_price": "196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-078",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9218,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12373,
+      "attributes": {
+        "pa_color": "naranja"
+      },
+      "price": "196",
+      "regular_price": "196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-078",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9218,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12374,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "196",
+      "regular_price": "196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-078",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9218,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

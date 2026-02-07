@@ -1,0 +1,18 @@
+{
+  "id": 4191,
+  "src": "/wp-content/uploads/2024/06/Suspended-Baffle-VMT-3D-04-1600w.webp",
+  "width": 1439,
+  "height": 1079,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVR4nGNgYGBgVFVV5TI0NGSaN28eI4OAgIC1rr7hfz0Do696BkYhDLy8vPqKyqr7lBRVZsorKusCAPLuClgtVBSrAAAAAElFTkSuQmCC",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2024/06/Suspended-Baffle-VMT-3D-04-640w.avif 640w, /wp-content/uploads/2024/06/Suspended-Baffle-VMT-3D-04-1024w.avif 1024w, /wp-content/uploads/2024/06/Suspended-Baffle-VMT-3D-04-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2024/06/Suspended-Baffle-VMT-3D-04-640w.webp 640w, /wp-content/uploads/2024/06/Suspended-Baffle-VMT-3D-04-1024w.webp 1024w, /wp-content/uploads/2024/06/Suspended-Baffle-VMT-3D-04-1600w.webp 1600w"
+    }
+  ]
+}

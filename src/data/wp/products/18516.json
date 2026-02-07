@@ -1,0 +1,262 @@
+{
+  "id": 18516,
+  "name": "BulTiles 3D MidMod",
+  "slug": "bultiles-3d-midmod",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bultiles-3d-midmod/",
+  "date_created": "2025-06-14 17:23:45",
+  "date_modified": "2026-02-07 00:29:25",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<p>Panel acústico PET de alta densidad producido principalmente de plástico reciclado, altamente resistente y con los lados del mismo color que el panel.</p>\n<p><strong>Dimensiones</strong></p>\n<p>297.5&#215;297.5x38mm</p>\n<p>4 Unidades por caja</p>\n<p><strong>Azulejo acústico resistente en PET de alta densidad</strong></p>\n<p>Los diseñadores de productos de Vicoustic crearon el VicTiles 3D, una nueva línea de soluciones impulsadas por las cualidades únicas de PET HD. La primera colección de esta serie es MidMod, con azulejos que se basan en el icónico estilo de diseño de mediados de siglo de la década de 1950.</p>\n<p>VicTiles 3D consta de cuatro formas de baldosas acústicas idénticas, diseñadas para ser mezcladas y combinadas para infinitas posibilidades de diseño. La colección MidMod celebra la geometría y la forma de inspiración retro, ofreciendo una nueva versión del diseño acústico para interiores modernos.</p>\n<p><strong>Inspirado en el diseño de la década de 1950</strong></p>\n<p>Inspirado en el icónico movimiento de diseño de mediados de siglo de la década de 1950, MidMod rinde homenaje a un estilo definido por líneas limpias, patrones geométricos audaces, curvas orgánicas y una integración perfecta de forma y función. Esta era enfatizó la simplicidad, la innovación y el uso de nuevos materiales, principios que se alinean perfectamente con la versatilidad y sostenibilidad de PET HD.</p>\n",
+  "short_description": "",
+  "sku": "VIC-001",
+  "price": "166",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>200,86&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 18517,
+  "gallery_images": [
+    18518,
+    18519,
+    18520,
+    18521
+  ],
+  "categories": [
+    476,
+    475,
+    477,
+    478,
+    390,
+    395,
+    480
+  ],
+  "tags": [
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        440,
+        654,
+        656,
+        657,
+        659,
+        658,
+        655
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "4 unidades 297.5x297.5x38mm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 18523,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-coral-haze",
+        "caja": "4 unidades 297.5x297.5x38mm"
+      },
+      "price": "166",
+      "regular_price": "166",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-001",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18531,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18524,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-glacier",
+        "caja": "4 unidades 297.5x297.5x38mm"
+      },
+      "price": "166",
+      "regular_price": "166",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-001",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18530,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18525,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-gleam",
+        "caja": "4 unidades 297.5x297.5x38mm"
+      },
+      "price": "166",
+      "regular_price": "166",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-001",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18529,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18522,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-black",
+        "caja": "4 unidades 297.5x297.5x38mm"
+      },
+      "price": "166",
+      "regular_price": "166",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-001",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18532,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18526,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-marmalade",
+        "caja": "4 unidades 297.5x297.5x38mm"
+      },
+      "price": "166",
+      "regular_price": "166",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-001",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18533,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18527,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-old-gold",
+        "caja": "4 unidades 297.5x297.5x38mm"
+      },
+      "price": "166",
+      "regular_price": "166",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-001",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18535,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18528,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-pearl",
+        "caja": "4 unidades 297.5x297.5x38mm"
+      },
+      "price": "166",
+      "regular_price": "166",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-001",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18536,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

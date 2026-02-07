@@ -1,0 +1,511 @@
+{
+  "id": 8858,
+  "name": "Giotto Lux",
+  "slug": "giotto-lux",
+  "permalink": "https://wpadmin.buildmaster.dev/product/giotto-lux/",
+  "date_created": "2024-08-11 11:15:36",
+  "date_modified": "2025-10-28 13:37:12",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<p>Giotto lux es una línea de paneles fonoabsorbentes Snowsound de forma ovalada o circular en cuyo centro se ubica un cuerpo luminoso en metal barnizado con fuente de luz LED protegida por un difusor en polietileno satinado blanco opaco que permite conseguir una emisión homogénea de la luz.</p>\n",
+  "short_description": "<h2>Design Sezgin Aksu</h2>\n",
+  "sku": "CAI-166",
+  "price": "1390",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.681,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.020,70&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 1.681,90&nbsp;&euro; hasta 2.020,70&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8711,
+    8067,
+    8114,
+    11531,
+    8794,
+    8740,
+    8756,
+    8029,
+    8733,
+    8917
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8859,
+  "gallery_images": [
+    8860,
+    8861
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    470,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        410,
+        405,
+        407,
+        414
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "119cm",
+        "119x159cm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tipo de luz",
+      "slug": "Tipo de luz",
+      "options": [
+        "Fija",
+        "Regulable"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9697,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "dimension": "119cm",
+        "tipo-de-luz": "Fija"
+      },
+      "price": "1390",
+      "regular_price": "1390",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9698,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "dimension": "119cm",
+        "tipo-de-luz": "Regulable"
+      },
+      "price": "1490",
+      "regular_price": "1490",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9699,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "dimension": "119x159cm",
+        "tipo-de-luz": "Fija"
+      },
+      "price": "1570",
+      "regular_price": "1570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9700,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "dimension": "119x159cm",
+        "tipo-de-luz": "Regulable"
+      },
+      "price": "1670",
+      "regular_price": "1670",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9701,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "dimension": "119cm",
+        "tipo-de-luz": "Fija"
+      },
+      "price": "1390",
+      "regular_price": "1390",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9702,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "dimension": "119cm",
+        "tipo-de-luz": "Regulable"
+      },
+      "price": "1490",
+      "regular_price": "1490",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9703,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "dimension": "119x159cm",
+        "tipo-de-luz": "Fija"
+      },
+      "price": "1570",
+      "regular_price": "1570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9704,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "dimension": "119x159cm",
+        "tipo-de-luz": "Regulable"
+      },
+      "price": "1670",
+      "regular_price": "1670",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9705,
+      "attributes": {
+        "pa_color": "beige",
+        "dimension": "119cm",
+        "tipo-de-luz": "Fija"
+      },
+      "price": "1390",
+      "regular_price": "1390",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9706,
+      "attributes": {
+        "pa_color": "beige",
+        "dimension": "119cm",
+        "tipo-de-luz": "Regulable"
+      },
+      "price": "1490",
+      "regular_price": "1490",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9707,
+      "attributes": {
+        "pa_color": "beige",
+        "dimension": "119x159cm",
+        "tipo-de-luz": "Fija"
+      },
+      "price": "1570",
+      "regular_price": "1570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9708,
+      "attributes": {
+        "pa_color": "beige",
+        "dimension": "119x159cm",
+        "tipo-de-luz": "Regulable"
+      },
+      "price": "1670",
+      "regular_price": "1670",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9709,
+      "attributes": {
+        "pa_color": "naranja",
+        "dimension": "119cm",
+        "tipo-de-luz": "Fija"
+      },
+      "price": "1390",
+      "regular_price": "1390",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9710,
+      "attributes": {
+        "pa_color": "naranja",
+        "dimension": "119cm",
+        "tipo-de-luz": "Regulable"
+      },
+      "price": "1390",
+      "regular_price": "1390",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9711,
+      "attributes": {
+        "pa_color": "naranja",
+        "dimension": "119x159cm",
+        "tipo-de-luz": "Fija"
+      },
+      "price": "1570",
+      "regular_price": "1570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9712,
+      "attributes": {
+        "pa_color": "",
+        "dimension": "119x159cm",
+        "tipo-de-luz": "Regulable"
+      },
+      "price": "1670",
+      "regular_price": "1670",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-166",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

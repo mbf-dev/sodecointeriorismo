@@ -1,0 +1,18 @@
+{
+  "id": 4285,
+  "src": "/wp-content/uploads/2024/06/vicspacer-plus_variation-images_WhiteMatte_m_VicSpacer_Plus_WH-1600w.webp",
+  "width": 1438,
+  "height": 1080,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/AEBAPkmRj4uVhn92V4F/eywAUFFOZb69ueHV0MjAwb26ZAA8OjhIhoWBmJ2em5l3dXQ0UfMYEOQ2qEwAAAAASUVORK5CYII=",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2024/06/vicspacer-plus_variation-images_WhiteMatte_m_VicSpacer_Plus_WH-640w.avif 640w, /wp-content/uploads/2024/06/vicspacer-plus_variation-images_WhiteMatte_m_VicSpacer_Plus_WH-1024w.avif 1024w, /wp-content/uploads/2024/06/vicspacer-plus_variation-images_WhiteMatte_m_VicSpacer_Plus_WH-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2024/06/vicspacer-plus_variation-images_WhiteMatte_m_VicSpacer_Plus_WH-640w.webp 640w, /wp-content/uploads/2024/06/vicspacer-plus_variation-images_WhiteMatte_m_VicSpacer_Plus_WH-1024w.webp 1024w, /wp-content/uploads/2024/06/vicspacer-plus_variation-images_WhiteMatte_m_VicSpacer_Plus_WH-1600w.webp 1600w"
+    }
+  ]
+}

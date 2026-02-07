@@ -1,0 +1,718 @@
+{
+  "id": 6755,
+  "name": "Lucrezio",
+  "slug": "lucrezio",
+  "permalink": "https://wpadmin.buildmaster.dev/product/lucrezio/",
+  "date_created": "2024-08-03 21:49:34",
+  "date_modified": "2025-10-28 13:30:48",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<p>Un innovador sistema de mesas fonoabsorbentes, disponibles en versión redonda y ovalada con tapas de muchos tamaños, para satisfacer las diferentes necesidades estéticas y funcionales. La estructura totalmente de acero pintado con polvo epoxi, de color negro, tiene una forma de reloj de arena original realizada en barras estrechas por una banda en la parte central que crea dos figuras cónicas, una superior y otra inferior: ambas albergan en su interior elementos fonoabsorbentes recubiertos de tejido acústico Snowsound Fiber 3 Melange, disponible en una amplia gama de colores.</p>\n<p>Las encimeras de material compuesto están hechas con estructura de “sándwich”, formada por un núcleo de MDF encerrado entre dos placas de aluminio, revestidas en la parte superior y en los bordes perimetrales de hormigón aplicado y cepillado a mano. El carácter artesanal de la elaboración de los planos hace que cada pieza sea única y exclusiva en el acabado y en el</p>\n<p>Color.</p>\n",
+  "short_description": "<p>Un innovador sistema de mesas fonoabsorbentes, disponibles en versión redonda y ovalada con tapas de muchos tamaños, para satisfacer las diferentes necesidades estéticas y funcionales.</p>\n",
+  "sku": "CAI-120",
+  "price": "1780",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>2.153,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8383,
+    8648,
+    9539,
+    8245,
+    9246,
+    8637,
+    11512,
+    8616
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 6756,
+  "gallery_images": [
+    7509
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    491,
+    390,
+    468
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        571,
+        572,
+        573,
+        574,
+        575,
+        578,
+        579,
+        581,
+        583,
+        584,
+        585,
+        586,
+        637,
+        650,
+        651,
+        652,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        653,
+        649
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "Rectangular 90x160cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 18207,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18208,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18209,
+      "attributes": {
+        "pa_textura": "melangue-303",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18210,
+      "attributes": {
+        "pa_textura": "melangue-304",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18211,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18212,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18213,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18214,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18215,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18216,
+      "attributes": {
+        "pa_textura": "melangue-314",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18217,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18218,
+      "attributes": {
+        "pa_textura": "melangue-316",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18219,
+      "attributes": {
+        "pa_textura": "melangue-317",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18220,
+      "attributes": {
+        "pa_textura": "melangue-318",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18221,
+      "attributes": {
+        "pa_textura": "melangue-319",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18222,
+      "attributes": {
+        "pa_textura": "melangue-320",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18223,
+      "attributes": {
+        "pa_textura": "melangue-321",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18224,
+      "attributes": {
+        "pa_textura": "melangue-322",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18225,
+      "attributes": {
+        "pa_textura": "melangue-323",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18226,
+      "attributes": {
+        "pa_textura": "melangue-324",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18227,
+      "attributes": {
+        "pa_textura": "melangue-325",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18228,
+      "attributes": {
+        "pa_textura": "melangue-326",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18229,
+      "attributes": {
+        "pa_textura": "melangue-327",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18230,
+      "attributes": {
+        "pa_textura": "melangue-328",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18231,
+      "attributes": {
+        "pa_textura": "melangue-329",
+        "tamano": "Rectangular 90x160cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-120",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6756,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

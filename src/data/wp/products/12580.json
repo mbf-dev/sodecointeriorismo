@@ -1,0 +1,524 @@
+{
+  "id": 12580,
+  "name": "Kaleidos",
+  "slug": "kaleidos-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/kaleidos-2/",
+  "date_created": "2024-12-09 19:03:34",
+  "date_modified": "2025-10-28 13:11:10",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Silla Kaleidos con bastidor en poliamida reciclable con acolchado de poliuretano, tapizada en tejido Trevira CS®. Las estructuras portantes de acero están disponibles en diferentes variantes</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design Michele De Lucchi &amp; Sezgin Aksu</h2>\n",
+  "sku": "CAI-006",
+  "price": "198",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>239,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>445,28&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 239,58&nbsp;&euro; hasta 445,28&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9319,
+  "gallery_images": [
+    9445,
+    9446,
+    9447
+  ],
+  "categories": [
+    477,
+    475,
+    481,
+    484
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "Pata recta",
+        "Pata recta + pupitre",
+        "Pata varilla",
+        "Pata varilla + pupitre",
+        "Pata con ruedas",
+        "Taburete"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12581,
+      "attributes": {
+        "modelo": "Pata recta",
+        "pa_color": "blanco-natural"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12582,
+      "attributes": {
+        "modelo": "Pata recta",
+        "pa_color": "gris"
+      },
+      "price": "198",
+      "regular_price": "198",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12583,
+      "attributes": {
+        "modelo": "Pata recta",
+        "pa_color": "negro"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12584,
+      "attributes": {
+        "modelo": "Pata recta + pupitre",
+        "pa_color": "blanco-natural"
+      },
+      "price": "336",
+      "regular_price": "336",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12585,
+      "attributes": {
+        "modelo": "Pata recta + pupitre",
+        "pa_color": "gris"
+      },
+      "price": "296",
+      "regular_price": "296",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12586,
+      "attributes": {
+        "modelo": "Pata recta + pupitre",
+        "pa_color": "negro"
+      },
+      "price": "336",
+      "regular_price": "336",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12587,
+      "attributes": {
+        "modelo": "Pata varilla",
+        "pa_color": "blanco-natural"
+      },
+      "price": "268",
+      "regular_price": "268",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12588,
+      "attributes": {
+        "modelo": "Pata varilla",
+        "pa_color": "gris"
+      },
+      "price": "228",
+      "regular_price": "228",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12589,
+      "attributes": {
+        "modelo": "Pata varilla",
+        "pa_color": "negro"
+      },
+      "price": "268",
+      "regular_price": "268",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12590,
+      "attributes": {
+        "modelo": "Pata varilla + pupitre",
+        "pa_color": "blanco-natural"
+      },
+      "price": "366",
+      "regular_price": "366",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12591,
+      "attributes": {
+        "modelo": "Pata varilla + pupitre",
+        "pa_color": "gris"
+      },
+      "price": "326",
+      "regular_price": "326",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12592,
+      "attributes": {
+        "modelo": "Pata varilla + pupitre",
+        "pa_color": "negro"
+      },
+      "price": "366",
+      "regular_price": "366",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12593,
+      "attributes": {
+        "modelo": "Pata con ruedas",
+        "pa_color": "blanco-natural"
+      },
+      "price": "368",
+      "regular_price": "368",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12594,
+      "attributes": {
+        "modelo": "Pata con ruedas",
+        "pa_color": "gris"
+      },
+      "price": "338",
+      "regular_price": "338",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12595,
+      "attributes": {
+        "modelo": "Pata con ruedas",
+        "pa_color": "negro"
+      },
+      "price": "368",
+      "regular_price": "368",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12596,
+      "attributes": {
+        "modelo": "Taburete",
+        "pa_color": "blanco-natural"
+      },
+      "price": "287",
+      "regular_price": "287",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12597,
+      "attributes": {
+        "modelo": "Taburete",
+        "pa_color": "gris"
+      },
+      "price": "278",
+      "regular_price": "278",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12598,
+      "attributes": {
+        "modelo": "Taburete",
+        "pa_color": "negro"
+      },
+      "price": "287",
+      "regular_price": "287",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-006",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9319,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

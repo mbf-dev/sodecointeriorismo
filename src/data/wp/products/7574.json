@@ -1,0 +1,164 @@
+{
+  "id": 7574,
+  "name": "Mia",
+  "slug": "mia",
+  "permalink": "https://wpadmin.buildmaster.dev/product/mia/",
+  "date_created": "2024-08-04 00:07:52",
+  "date_modified": "2025-10-28 13:30:37",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<h2>Diseño Marta Martino</h2>\n<p>Panel fonoabsorbente caracterizado por un particular drapeado aleatorio del tejido aplicado a mano. Formado por un núcleo interior con tecnología Snowcustom y un revestimiento exterior de tejido acústico Snowsound Fiber 3 Melange.</p>\n",
+  "short_description": "<h2>Diseño Marta Martino</h2>\n<p>Panel fonoabsorbente caracterizado por un particular drapeado aleatorio del tejido aplicado a mano. Formado por un núcleo interior con tecnología Snowcustom y un revestimiento exterior de tejido acústico Snowsound Fiber 3 Melange.</p>\n",
+  "sku": "CAI-119",
+  "price": "690",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>834,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6421,
+    8666,
+    9020,
+    9026
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8023,
+  "gallery_images": [
+    8024
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480,
+    469
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        572,
+        579,
+        586
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "59cm x 159cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 8025,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "tamano": "59cm x 159cm"
+      },
+      "price": "690",
+      "regular_price": "690",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-119",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8023,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8026,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "tamano": "59cm x 159cm"
+      },
+      "price": "690",
+      "regular_price": "690",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-119",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8023,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8027,
+      "attributes": {
+        "pa_textura": "melangue-316",
+        "tamano": "59cm x 159cm"
+      },
+      "price": "690",
+      "regular_price": "690",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-119",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8023,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "id": 5477,
+  "name": "Iso Blanket",
+  "slug": "iso-blanket",
+  "permalink": "https://wpadmin.buildmaster.dev/product/iso-blanket/",
+  "date_created": "2024-07-23 10:22:54",
+  "date_modified": "2025-10-28 13:04:49",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Las mantas actúan como barreras de sonido cuando se aplican a techos, paredes y pisos. Su flexibilidad, diseño delgado y alta resistencia los convierten en materiales fáciles de usar. Son más efectivos cuando se utilizan en proyectos de construcción que involucran varias capas de diferentes materiales. La densidad de 4,5 kg/m2 en la versión Pro y 6,5 kg/m2 en la versión estándar, garantiza un alto nivel de aislamiento al disminuir el sonido emitido por las uniones entre el piso y el resto de la construcción.</p>\n",
+  "short_description": "<p>Solución de desacoplamiento estructural diseñada para el tratamiento del ruido. Se diferencian en su STC (Coeficiente de Transmisión de Sonido) en que Iso Blanket Pro tiene un coeficiente/rendimiento más grande debido a sus tejidos aglomerados.</p>\n<p>&nbsp;</p>\n",
+  "sku": "VIC-065",
+  "price": "109.76",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>132,81&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>189,73&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 132,81&nbsp;&euro; hasta 189,73&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    5478,
+    5481,
+    5480,
+    5475,
+    5476
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4998,
+  "gallery_images": [],
+  "categories": [
+    478,
+    477,
+    475,
+    476,
+    393,
+    390
+  ],
+  "tags": [
+    376,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Espesor",
+      "slug": "Espesor",
+      "options": [
+        "Iso Blanket",
+        "Iso Blanket Pro"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5486,
+      "attributes": {
+        "espesor": "Iso Blanket"
+      },
+      "price": "109.76",
+      "regular_price": "109.76",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4998,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5487,
+      "attributes": {
+        "espesor": "Iso Blanket Pro"
+      },
+      "price": "156.8",
+      "regular_price": "156.8",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4998,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

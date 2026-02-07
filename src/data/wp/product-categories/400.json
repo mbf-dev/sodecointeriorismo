@@ -1,0 +1,12 @@
+{
+  "id": 400,
+  "name": "Trampas de graves",
+  "slug": "trampas-de-graves",
+  "description": "11",
+  "parent_id": 390,
+  "count": 6,
+  "image": {
+    "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/07/12-trampas-de-graves.webp",
+    "id": "6680"
+  }
+}

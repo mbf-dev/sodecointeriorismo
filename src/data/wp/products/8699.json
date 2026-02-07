@@ -1,0 +1,138 @@
+{
+  "id": 8699,
+  "name": "Float",
+  "slug": "float",
+  "permalink": "https://wpadmin.buildmaster.dev/product/float/",
+  "date_created": "2024-08-10 19:03:26",
+  "date_modified": "2025-10-28 13:32:36",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Sistema fonoabsorbente modular, con paneles que incorporan la tecnología Snowsound. Con sus líneas limpias y sus múltiples posibilidades de configuración, permite crear soluciones elegantes y funcionales, tanto para espacios grandes como pequeños. El bastidor modular es de acero cromado y permite albergar paneles que se fijan a la estructura mediante empalmes articulados. Los paneles se pueden colocar en sentido horizontal o inclinados sobre su eje mayor. De esta forma es posible crear interesantes configuraciones tridimensionales. El sistema consta de cables de regulación en altura. La inclinación de los paneles no solo da lugar a variadas configuraciones estéticas sino que, cuando es necesario, permite mejorar la ventilación y el paso de la luz.</p>\n",
+  "short_description": "<h2>Design Albert e Francesco Meda</h2>\n",
+  "sku": "CAI-134",
+  "price": "438",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>529,98&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.076,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 529,98&nbsp;&euro; hasta 1.076,90&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8700,
+  "gallery_images": [
+    8701,
+    8702,
+    8703,
+    8704,
+    8705,
+    8706
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        626
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensiones",
+      "slug": "Dimensiones",
+      "options": [
+        "117x117cm",
+        "57x117cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12821,
+      "attributes": {
+        "pa_textura": "blanc-0012",
+        "dimensiones": "117x117cm"
+      },
+      "price": "890",
+      "regular_price": "890",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-134",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8700,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12822,
+      "attributes": {
+        "pa_textura": "blanc-0012",
+        "dimensiones": "57x117cm"
+      },
+      "price": "438",
+      "regular_price": "438",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-134",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8700,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,2105 @@
+{
+  "id": 9858,
+  "name": "Flat Panel VMT Piedra Natural",
+  "slug": "flat-panel-vmt-piedra-natural",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flat-panel-vmt-piedra-natural/",
+  "date_created": "2024-08-20 15:40:56",
+  "date_modified": "2025-11-19 13:50:05",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Panel acústico con gran variedad de acabados</p>\n<p>Flat Panel VMT es un panel acústico decorativo fabricado con VicPET Wool, un material producido principalmente a partir de botellas de plástico recicladas.</p>\n<p>Beneficios acústicos:</p>\n<p>/ Ayudar a aumentar la eficiencia energética en un edificio<br />\n/ Están certificados con <strong>Indoor Advantage™ Gold Building Materials</strong>, por SCS Global Services<br />\n/ Son una manera fácil de crear un sinfín de diseños nuevos y emocionantes<br />\n/ Mejorar la acústica de cualquier estancia<br />\n/ Haz que las habitaciones sean más verdes al estar hecho de materiales sostenibles y reciclables</p>\n<p>Con una innovadora tecnología de teñido, los paneles acústicos Flat Panel VMT pueden simular hormigón, mármol, madera, piedras naturales y otros materiales, consiguiendo un aspecto sorprendente y realista en cualquier ambiente. Las aplicaciones de Flat Panel VMT son infinitas, lo que lo convierte en el panel acústico fonoabsorbente ideal tanto para proyectos de nueva construcción como de rehabilitación.</p>\n<p>&nbsp;</p>\n",
+  "short_description": "",
+  "sku": "VIC-012",
+  "price": "180",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>217,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.052,56&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 217,80&nbsp;&euro; hasta 2.052,56&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    9861,
+    9857,
+    9860,
+    9859,
+    9862
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5564,
+  "gallery_images": [
+    5553,
+    5554,
+    5555,
+    5556,
+    5557,
+    5558,
+    5559,
+    5560,
+    5561,
+    5562,
+    5563
+  ],
+  "categories": [
+    395,
+    478,
+    392,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    331,
+    332,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        444,
+        445,
+        509,
+        510,
+        446,
+        511,
+        512,
+        513,
+        447,
+        514,
+        515,
+        516,
+        517
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "595x595x20mm",
+        "1190x595x20mm",
+        "2380x1190x20"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "4 Unidades",
+        "8 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 10269,
+      "attributes": {
+        "pa_textura": "ns-calacatta_carrara",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10295,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10270,
+      "attributes": {
+        "pa_textura": "ns-calacatta_cremo",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10285,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10271,
+      "attributes": {
+        "pa_textura": "ns-emperador-black",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10286,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10266,
+      "attributes": {
+        "pa_textura": "ns-fusion-wow",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10287,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10267,
+      "attributes": {
+        "pa_textura": "ns-grey_stone",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10283,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10268,
+      "attributes": {
+        "pa_textura": "ns-hermatite-black",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10284,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10263,
+      "attributes": {
+        "pa_textura": "ns-invisible-grey",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10281,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10264,
+      "attributes": {
+        "pa_textura": "ns-magic-brown",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10282,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10265,
+      "attributes": {
+        "pa_textura": "ns-moonlight_grey",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10251,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10260,
+      "attributes": {
+        "pa_textura": "ns-patagonia",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10252,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10261,
+      "attributes": {
+        "pa_textura": "ns-port-black",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10249,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10262,
+      "attributes": {
+        "pa_textura": "ns-striato-elegante",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10250,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10258,
+      "attributes": {
+        "pa_textura": "ns-travertino",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "180",
+      "regular_price": "180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10248,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10259,
+      "attributes": {
+        "pa_textura": "ns-calacatta_carrara",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10295,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10255,
+      "attributes": {
+        "pa_textura": "ns-calacatta_cremo",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10285,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10256,
+      "attributes": {
+        "pa_textura": "ns-emperador-black",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10286,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10257,
+      "attributes": {
+        "pa_textura": "ns-fusion-wow",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10287,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10253,
+      "attributes": {
+        "pa_textura": "ns-grey_stone",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10283,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10254,
+      "attributes": {
+        "pa_textura": "ns-hermatite-black",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10284,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10246,
+      "attributes": {
+        "pa_textura": "ns-invisible-grey",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10281,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10247,
+      "attributes": {
+        "pa_textura": "ns-magic-brown",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10282,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10244,
+      "attributes": {
+        "pa_textura": "ns-moonlight_grey",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10251,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10245,
+      "attributes": {
+        "pa_textura": "ns-patagonia",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10252,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10242,
+      "attributes": {
+        "pa_textura": "ns-port-black",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10249,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10243,
+      "attributes": {
+        "pa_textura": "ns-striato-elegante",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10250,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10240,
+      "attributes": {
+        "pa_textura": "ns-travertino",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "351.71",
+      "regular_price": "351.71",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10248,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10241,
+      "attributes": {
+        "pa_textura": "ns-calacatta_carrara",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10217,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10238,
+      "attributes": {
+        "pa_textura": "ns-calacatta_cremo",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10210,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10239,
+      "attributes": {
+        "pa_textura": "ns-emperador-black",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10209,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10236,
+      "attributes": {
+        "pa_textura": "ns-fusion-wow",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10208,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10237,
+      "attributes": {
+        "pa_textura": "ns-grey_stone",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10235,
+      "attributes": {
+        "pa_textura": "ns-hermatite-black",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10206,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10233,
+      "attributes": {
+        "pa_textura": "ns-invisible-grey",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10205,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10234,
+      "attributes": {
+        "pa_textura": "ns-magic-brown",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10192,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10231,
+      "attributes": {
+        "pa_textura": "ns-moonlight_grey",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10232,
+      "attributes": {
+        "pa_textura": "ns-patagonia",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10190,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10230,
+      "attributes": {
+        "pa_textura": "ns-port-black",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10189,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10228,
+      "attributes": {
+        "pa_textura": "ns-striato-elegante",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10188,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10229,
+      "attributes": {
+        "pa_textura": "ns-travertino",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "350.88",
+      "regular_price": "350.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10187,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10227,
+      "attributes": {
+        "pa_textura": "ns-calacatta_carrara",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10217,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10225,
+      "attributes": {
+        "pa_textura": "ns-calacatta_cremo",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10210,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10226,
+      "attributes": {
+        "pa_textura": "ns-emperador-black",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10209,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10224,
+      "attributes": {
+        "pa_textura": "ns-fusion-wow",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10208,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10223,
+      "attributes": {
+        "pa_textura": "ns-grey_stone",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10221,
+      "attributes": {
+        "pa_textura": "ns-hermatite-black",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10206,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10222,
+      "attributes": {
+        "pa_textura": "ns-invisible-grey",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10205,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10220,
+      "attributes": {
+        "pa_textura": "ns-magic-brown",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10192,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10219,
+      "attributes": {
+        "pa_textura": "ns-moonlight_grey",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10216,
+      "attributes": {
+        "pa_textura": "ns-patagonia",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10190,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10218,
+      "attributes": {
+        "pa_textura": "ns-port-black",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10189,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10215,
+      "attributes": {
+        "pa_textura": "ns-striato-elegante",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10188,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10213,
+      "attributes": {
+        "pa_textura": "ns-travertino",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "681.85",
+      "regular_price": "681.85",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10187,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10184,
+      "attributes": {
+        "pa_textura": "ns-grey_stone",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10183,
+      "attributes": {
+        "pa_textura": "ns-hermatite-black",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10206,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10182,
+      "attributes": {
+        "pa_textura": "ns-invisible-grey",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10205,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10181,
+      "attributes": {
+        "pa_textura": "ns-magic-brown",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10192,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10194,
+      "attributes": {
+        "pa_textura": "ns-calacatta_carrara",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10217,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10186,
+      "attributes": {
+        "pa_textura": "ns-calacatta_cremo",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10210,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10193,
+      "attributes": {
+        "pa_textura": "ns-emperador-black",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10209,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10185,
+      "attributes": {
+        "pa_textura": "ns-fusion-wow",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10208,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10177,
+      "attributes": {
+        "pa_textura": "ns-striato-elegante",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10188,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10176,
+      "attributes": {
+        "pa_textura": "ns-travertino",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10187,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10180,
+      "attributes": {
+        "pa_textura": "ns-moonlight_grey",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10196,
+      "attributes": {
+        "pa_textura": "ns-striato-elegante",
+        "tamano": "2380x1190x20",
+        "caja": ""
+      },
+      "price": "430.51",
+      "regular_price": "430.51",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10188,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10167,
+      "attributes": {
+        "pa_textura": "ns-moonlight_grey",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10191,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10179,
+      "attributes": {
+        "pa_textura": "ns-patagonia",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10190,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10166,
+      "attributes": {
+        "pa_textura": "ns-patagonia",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10190,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10178,
+      "attributes": {
+        "pa_textura": "ns-port-black",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10189,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10165,
+      "attributes": {
+        "pa_textura": "ns-port-black",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10189,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10164,
+      "attributes": {
+        "pa_textura": "ns-striato-elegante",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10188,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10163,
+      "attributes": {
+        "pa_textura": "ns-travertino",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10187,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10172,
+      "attributes": {
+        "pa_textura": "ns-fusion-wow",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10208,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10171,
+      "attributes": {
+        "pa_textura": "ns-grey_stone",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10170,
+      "attributes": {
+        "pa_textura": "ns-hermatite-black",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10206,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10169,
+      "attributes": {
+        "pa_textura": "ns-invisible-grey",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10205,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10168,
+      "attributes": {
+        "pa_textura": "ns-magic-brown",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10192,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10175,
+      "attributes": {
+        "pa_textura": "ns-calacatta_carrara",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10217,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10174,
+      "attributes": {
+        "pa_textura": "ns-calacatta_cremo",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10210,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10173,
+      "attributes": {
+        "pa_textura": "ns-emperador-black",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10209,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

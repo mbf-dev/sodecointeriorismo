@@ -1,0 +1,122 @@
+{
+  "id": 9137,
+  "name": "Plat",
+  "slug": "plat",
+  "permalink": "https://wpadmin.buildmaster.dev/product/plat/",
+  "date_created": "2024-08-12 11:03:34",
+  "date_modified": "2025-10-28 13:22:46",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Objeto original multifuncional de gres de colores: cada pieza está hecha a mano con un proceso especial de encolado. Se puede usar como portaobjetos o portalápices.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<p>Design Alessandro Zambelli</p>\n",
+  "sku": "CAI-088",
+  "price": "129.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>156,09&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9138,
+  "gallery_images": [
+    9139,
+    9140,
+    9141,
+    9142
+  ],
+  "categories": [
+    482,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        414,
+        421
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12487,
+      "attributes": {
+        "pa_color": "naranja"
+      },
+      "price": "129.00",
+      "regular_price": "129.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-088",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9138,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12488,
+      "attributes": {
+        "pa_color": "rojo"
+      },
+      "price": "129.00",
+      "regular_price": "129.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-088",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9138,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

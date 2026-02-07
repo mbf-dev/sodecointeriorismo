@@ -1,0 +1,291 @@
+{
+  "id": 8899,
+  "name": "Cocker",
+  "slug": "cocker",
+  "permalink": "https://wpadmin.buildmaster.dev/product/cocker/",
+  "date_created": "2024-08-11 12:16:20",
+  "date_modified": "2025-10-28 13:36:02",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Cocker es una confortable cabina acústica compuesta por un acolchado interior de poliéster suave y acústico absorbente, por un forro de poliéster Trevira CS® que se puede quitar por completo y por una estructura de sostén independiente, de hilo de acero cromado.<br />\nLos lados blandos y móviles se concibieron específicamente para que se puedan mover libremente al chocar casualmente contra ellos.</p>\n",
+  "short_description": "",
+  "sku": "CAI-158",
+  "price": "590",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>713,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8900,
+  "gallery_images": [
+    8901,
+    8902
+  ],
+  "categories": [
+    394,
+    477,
+    475,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        612,
+        571,
+        575,
+        578,
+        579,
+        581,
+        582,
+        617,
+        623
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 10790,
+      "attributes": {
+        "pa_textura": "melangue-300"
+      },
+      "price": "590",
+      "regular_price": "590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-158",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8900,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10791,
+      "attributes": {
+        "pa_textura": "melangue-305"
+      },
+      "price": "590",
+      "regular_price": "590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-158",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8900,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10792,
+      "attributes": {
+        "pa_textura": "melangue-308"
+      },
+      "price": "590",
+      "regular_price": "590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-158",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8900,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10793,
+      "attributes": {
+        "pa_textura": "melangue-309"
+      },
+      "price": "590",
+      "regular_price": "590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-158",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8900,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10794,
+      "attributes": {
+        "pa_textura": "melangue-311"
+      },
+      "price": "590",
+      "regular_price": "590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-158",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8900,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10795,
+      "attributes": {
+        "pa_textura": "melangue-312"
+      },
+      "price": "590",
+      "regular_price": "590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-158",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8900,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10796,
+      "attributes": {
+        "pa_textura": "gris-plata-8004"
+      },
+      "price": "590",
+      "regular_price": "590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-158",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8900,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10797,
+      "attributes": {
+        "pa_textura": "rojo-4027"
+      },
+      "price": "590",
+      "regular_price": "590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-158",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8900,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10798,
+      "attributes": {
+        "pa_textura": "verde-7013"
+      },
+      "price": "590",
+      "regular_price": "590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-158",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8900,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

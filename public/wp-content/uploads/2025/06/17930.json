@@ -1,0 +1,18 @@
+{
+  "id": 17930,
+  "src": "/wp-content/uploads/2025/06/cb_sofa-2-1600w.webp",
+  "width": 1080,
+  "height": 1080,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAN0lEQVR4nGP4jwQY1iydunXt7K1r5x7fv4VhzdLpS6Y3rVs25eyJPQy/fv36+fPn379/////DwAKzCe8qh0pKQAAAABJRU5ErkJggg==",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2025/06/cb_sofa-2-640w.avif 640w, /wp-content/uploads/2025/06/cb_sofa-2-1024w.avif 1024w, /wp-content/uploads/2025/06/cb_sofa-2-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2025/06/cb_sofa-2-640w.webp 640w, /wp-content/uploads/2025/06/cb_sofa-2-1024w.webp 1024w, /wp-content/uploads/2025/06/cb_sofa-2-1600w.webp 1600w"
+    }
+  ]
+}

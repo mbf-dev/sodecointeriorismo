@@ -1,0 +1,105 @@
+{
+  "id": 5484,
+  "name": "BulVibro SCH",
+  "slug": "bulvibro-sch",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulvibro-sch/",
+  "date_created": "2024-07-23 10:22:55",
+  "date_modified": "2025-10-28 13:01:53",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Características:</p>\n<p>Rango de carga óptimo por percha: 11-61 kg Carga de rotura: 350 kg</p>\n<p>Diámetro de la barra de acero: disponible en 6 mm y 8 mm</p>\n",
+  "short_description": "<h2 class=\"h6\"><b>Soportes antivibración para barras T</b></h2>\n<p>Percha antivibración para barras en T. El sistema de cuello abierto permite una instalación rápida y sencilla. El aislador está provisto de un sistema de nivelación único. El resorte de acero proporciona un excelente grado de aislamiento de vibraciones en las frecuencias bajas/medias, mientras que el caucho proporciona un importante aislamiento de vibraciones de las frecuencias medias/altas. La combinación de estos 2 componentes hace que el mejor sistema antivibración para el techo.</p>\n<p>&nbsp;</p>\n",
+  "sku": "VIC-058",
+  "price": "370.44",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>448,23&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    5478,
+    5482,
+    5481,
+    5480,
+    5477,
+    5475,
+    5476
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5500,
+  "gallery_images": [],
+  "categories": [
+    478,
+    477,
+    475,
+    476,
+    393,
+    390
+  ],
+  "tags": [
+    376,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "50 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5497,
+      "attributes": {
+        "caja": "50 Unidades"
+      },
+      "price": "370.44",
+      "regular_price": "370.44",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-058",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5500,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "id": 5882,
+  "name": "BulCloud VMT Hormigón",
+  "slug": "bulcloud-vmt-hormigon-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulcloud-vmt-hormigon-2/",
+  "date_created": "2024-07-23 10:42:08",
+  "date_modified": "2025-11-19 13:51:43",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>BulCloud VMT Flat es una solución acústica suspendida simple y ligera que es ideal para restaurantes, oficinas de planta abierta, centros de convenciones, atrios o cualquier espacio público donde haya una gran concentración de personas y donde el ruido de fondo, creado por una habitación llena de conversaciones, puede acumularse rápidamente.</p>\n<p>Al ser un elemento acústico suspendido, presenta el doble de área de material de absorción que un panel acústico común, lo que lo convierte en una solución muy efectiva para lugares con techos altos. La altura mínima de instalación de las nubes es de 500 mm y el máximo es de 1180 mm desde el techo.</p>\n<p>Dimensiones (L×H×W): Square: 1160 × 1160 × 40 mm / 45.6” × 45.6” × 1.6” | Round: Ø1160 × 40 mm / Ø45.6” × 1.6” | Hexagon: 1160 × 1005 × 40 mm / 45.6” × 41.5” × 1.6” | Petal: 1160 × 1058 × 40 mm / 45.6” × 42” × 1.6”</p>\n",
+  "short_description": "<p>Nube suspendida simple y ligera</p>\n",
+  "sku": "VIC-049",
+  "price": "799",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>966,79&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5600,
+  "gallery_images": [
+    5601,
+    5602,
+    5603,
+    5604,
+    5605
+  ],
+  "categories": [
+    395,
+    392,
+    477,
+    475,
+    390,
+    397
+  ],
+  "tags": [
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        438,
+        439
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "Hexagonal",
+        "Petalo",
+        "Redonda",
+        "Cuadrada"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "4 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5913,
+      "attributes": {
+        "pa_textura": "concrete_1",
+        "formato": "Hexagonal",
+        "caja": "4 Unidades"
+      },
+      "price": "799",
+      "regular_price": "799",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5943,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5914,
+      "attributes": {
+        "pa_textura": "concrete_1",
+        "formato": "Petalo",
+        "caja": "4 Unidades"
+      },
+      "price": "799",
+      "regular_price": "799",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5944,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5915,
+      "attributes": {
+        "pa_textura": "concrete_1",
+        "formato": "Redonda",
+        "caja": "4 Unidades"
+      },
+      "price": "799",
+      "regular_price": "799",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5600,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5916,
+      "attributes": {
+        "pa_textura": "concrete_1",
+        "formato": "Cuadrada",
+        "caja": "4 Unidades"
+      },
+      "price": "799",
+      "regular_price": "799",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5945,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5917,
+      "attributes": {
+        "pa_textura": "concrete_3",
+        "formato": "Hexagonal",
+        "caja": "4 Unidades"
+      },
+      "price": "799",
+      "regular_price": "799",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5952,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5918,
+      "attributes": {
+        "pa_textura": "concrete_3",
+        "formato": "Petalo",
+        "caja": "4 Unidades"
+      },
+      "price": "799",
+      "regular_price": "799",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5953,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5911,
+      "attributes": {
+        "pa_textura": "concrete_3",
+        "formato": "Redonda",
+        "caja": "4 Unidades"
+      },
+      "price": "799",
+      "regular_price": "799",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5941,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5912,
+      "attributes": {
+        "pa_textura": "concrete_3",
+        "formato": "Cuadrada",
+        "caja": "4 Unidades"
+      },
+      "price": "799",
+      "regular_price": "799",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5942,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

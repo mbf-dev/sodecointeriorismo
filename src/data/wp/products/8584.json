@@ -1,0 +1,126 @@
+{
+  "id": 8584,
+  "name": "Klipper",
+  "slug": "klipper",
+  "permalink": "https://wpadmin.buildmaster.dev/product/klipper/",
+  "date_created": "2024-08-06 18:52:06",
+  "date_modified": "2025-10-28 13:39:58",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<h2 class=\"caimi_design_txt_single\">design Felicia Arvid</h2>\n</div>\n</div>\n<div class=\"woocommerce-product-details__short-description \">\n<p>XXVII Compasso d’Oro award</p>\n<p>Elemento fonoabsorbente de pared en poliéster tapizado con tejido Snowsound-Fiber 8 Bouclè. Las formas, que se obtienen mediante clips de acero inoxidable, evocan el movimiento de las dunas de arena, sinuosas y fluctuantes. Hasta la acentuada textura del tejido que lo compone evoca la infinidad de granos de arena de las dunas. Este sistema se fija a la pared mediante un sólido estribo de acero pintado. Para otorgarle rigidez, en la parte superior e inferior del panel se introducen dos tubos de acero que se bloquean por medio de unos tornillos cromados especiales.</p>\n</div>\n",
+  "short_description": "<h2 class=\"caimi_design_txt_single\">design Felicia Arvid</h2>\n",
+  "sku": "CAI-188",
+  "price": "690",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>834,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8585,
+  "gallery_images": [
+    8586,
+    8587,
+    8588,
+    8589,
+    8590
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "130x73cm",
+        "182,5x55cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12367,
+      "attributes": {
+        "dimension": "130x73cm"
+      },
+      "price": "690",
+      "regular_price": "690",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-188",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8585,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12368,
+      "attributes": {
+        "dimension": "182,5x55cm"
+      },
+      "price": "690",
+      "regular_price": "690",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-188",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8585,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

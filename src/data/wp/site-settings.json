@@ -2,71 +2,40 @@
   "home_id": 331,
   "blog_id": 333,
   "logos": {
-    "desktop_dark": {
-      "id": 23903,
-      "url": "https://sodeco.dev.net.pe/wp-content/uploads/2026/01/logo-sodeco-desktop-dark.svg",
+    "desktop": {
+      "id": 24109,
+      "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2026/02/logo-sodeco-desktop.svg",
       "mime": "image/svg+xml",
-      "alt": "",
-      "optimized": {
-        "src": "/wp-content/uploads/2026/01/logo-sodeco-desktop-dark.svg",
-        "width": 0,
-        "height": 0,
-        "lqip": "",
-        "sources": []
-      }
+      "alt": ""
     },
-    "desktop_light": {
-      "id": 23904,
-      "url": "https://sodeco.dev.net.pe/wp-content/uploads/2026/01/logo-sodeco-desktop-light.svg",
+    "mobile": {
+      "id": 24110,
+      "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2026/02/logo-sodeco-mobile.svg",
       "mime": "image/svg+xml",
-      "alt": "",
-      "optimized": {
-        "src": "/wp-content/uploads/2026/01/logo-sodeco-desktop-light.svg",
-        "width": 0,
-        "height": 0,
-        "lqip": "",
-        "sources": []
-      }
-    },
-    "mobile_dark": {
-      "id": 23905,
-      "url": "https://sodeco.dev.net.pe/wp-content/uploads/2026/01/logo-sodeco-mobile-dark.svg",
-      "mime": "image/svg+xml",
-      "alt": "",
-      "optimized": {
-        "src": "/wp-content/uploads/2026/01/logo-sodeco-mobile-dark.svg",
-        "width": 0,
-        "height": 0,
-        "lqip": "",
-        "sources": []
-      }
-    },
-    "mobile_light": {
-      "id": 23906,
-      "url": "https://sodeco.dev.net.pe/wp-content/uploads/2026/01/logo-sodeco-mobile-light.svg",
-      "mime": "image/svg+xml",
-      "alt": "",
-      "optimized": {
-        "src": "/wp-content/uploads/2026/01/logo-sodeco-mobile-light.svg",
-        "width": 0,
-        "height": 0,
-        "lqip": "",
-        "sources": []
-      }
+      "alt": ""
     }
   },
   "socials": [
     {
       "_type": "_",
       "network": "instagram",
-      "url": "https://sodeco.dev.net.pe"
+      "url": "https://wpadmin.buildmaster.dev"
     },
     {
       "_type": "_",
       "network": "facebook",
-      "url": "https://sodeco.dev.net.pe"
+      "url": "https://wpadmin.buildmaster.dev"
     }
   ],
+  "footer": {
+    "copyright": "@2026 Sodeco Interiorismo All Rights Reserved.",
+    "bg_image": {
+      "id": 13750,
+      "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2025/02/footer_bg-scaled-1.webp",
+      "mime": "image/webp",
+      "alt": ""
+    }
+  },
   "woocommerce": {
     "shop_id": 5,
     "cart_id": 6,

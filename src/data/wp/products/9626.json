@@ -1,0 +1,453 @@
+{
+  "id": 9626,
+  "name": "Centolitri",
+  "slug": "centolitri",
+  "permalink": "https://wpadmin.buildmaster.dev/product/centolitri/",
+  "date_created": "2024-08-14 11:17:08",
+  "date_modified": "2025-10-28 13:13:36",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Cestos diseñados para recogida selectiva totalmente realizados en acero recubierto con polvos epoxi, equipados con tapa y sujeta bolsas basculantes.</p>\n",
+  "short_description": "<h2></h2>\n",
+  "sku": "CAI-026",
+  "price": "358.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>433,18&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9627,
+  "gallery_images": [
+    9628,
+    9629,
+    9630,
+    9631,
+    9632,
+    9633,
+    9634
+  ],
+  "categories": [
+    481,
+    492
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Color base",
+      "slug": "Color base",
+      "options": [
+        "Gris",
+        "Blanco",
+        "Negro"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Color top",
+      "slug": "Color top",
+      "options": [
+        "Negro",
+        "Rojo",
+        "Verde",
+        "Azul",
+        "Amarillo"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12262,
+      "attributes": {
+        "color-base": "Gris",
+        "color-top": "Negro"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12263,
+      "attributes": {
+        "color-base": "Gris",
+        "color-top": "Rojo"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12264,
+      "attributes": {
+        "color-base": "Gris",
+        "color-top": "Verde"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12265,
+      "attributes": {
+        "color-base": "Gris",
+        "color-top": "Azul"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12266,
+      "attributes": {
+        "color-base": "Gris",
+        "color-top": "Amarillo"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12267,
+      "attributes": {
+        "color-base": "Blanco",
+        "color-top": "Negro"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12268,
+      "attributes": {
+        "color-base": "Blanco",
+        "color-top": "Rojo"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12269,
+      "attributes": {
+        "color-base": "Blanco",
+        "color-top": "Verde"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12270,
+      "attributes": {
+        "color-base": "Blanco",
+        "color-top": "Azul"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12271,
+      "attributes": {
+        "color-base": "Blanco",
+        "color-top": "Amarillo"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12272,
+      "attributes": {
+        "color-base": "Negro",
+        "color-top": "Negro"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12273,
+      "attributes": {
+        "color-base": "Negro",
+        "color-top": "Rojo"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12274,
+      "attributes": {
+        "color-base": "Negro",
+        "color-top": "Verde"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12275,
+      "attributes": {
+        "color-base": "Negro",
+        "color-top": "Azul"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12276,
+      "attributes": {
+        "color-base": "Negro",
+        "color-top": "Amarillo"
+      },
+      "price": "358.00",
+      "regular_price": "358.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9627,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

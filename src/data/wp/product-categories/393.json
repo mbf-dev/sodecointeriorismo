@@ -1,0 +1,12 @@
+{
+  "id": 393,
+  "name": "Insonorización",
+  "slug": "insonorizacion",
+  "description": "10",
+  "parent_id": 390,
+  "count": 11,
+  "image": {
+    "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/07/7-insonorizacion.png",
+    "id": "6677"
+  }
+}

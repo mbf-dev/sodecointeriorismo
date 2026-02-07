@@ -1,0 +1,12 @@
+{
+  "id": 401,
+  "name": "Difusión",
+  "slug": "difusion",
+  "description": "12",
+  "parent_id": 390,
+  "count": 5,
+  "image": {
+    "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/07/5-difusores.webp",
+    "id": "6682"
+  }
+}

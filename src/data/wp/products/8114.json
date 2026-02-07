@@ -1,0 +1,834 @@
+{
+  "id": 8114,
+  "name": "Milano",
+  "slug": "milano",
+  "permalink": "https://wpadmin.buildmaster.dev/product/milano/",
+  "date_created": "2024-08-04 19:27:59",
+  "date_modified": "2025-10-28 13:30:10",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Lámpara con pantalla fonoabsorbente de gran tamaño realizada con tejido Snowsound Fiber 8 Bouclé. Consta de una estructura tubular que hace que el tejido fonoabsorbente del revestimiento caiga, ciñéndose en la parte exterior y creando un plisado en la interior. El espacio que se crea entre el tejido externo y el interno permite aumentar sus prestaciones acústicas. Disponible en dos medidas: 80 o 120 cm de diámetro. La lámpara puede colgarse del techo mediante tres cables regulables en altura. La lámpara con pantalla es compatible con diferentes cuerpos luminosos. El revestimiento de Snowsound Fiber 8 Bouclé es fácilmente desenfundable gracias a las cremalleras ubicadas en el perímetro superior.</p>\n",
+  "short_description": "",
+  "sku": "CAI-115",
+  "price": "1780",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.153,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.637,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 2.153,80&nbsp;&euro; hasta 2.637,80&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8711,
+    8858,
+    8067,
+    11531,
+    8794,
+    8740,
+    8756,
+    8733,
+    8917
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8115,
+  "gallery_images": [
+    8116,
+    8117,
+    8118,
+    8119,
+    8120
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    470,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "80cm LED",
+        "120cm LED"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 8171,
+      "attributes": {
+        "pa_textura": "melangue-312",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8172,
+      "attributes": {
+        "pa_textura": "melangue-312",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8175,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8176,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8179,
+      "attributes": {
+        "pa_textura": "melangue-314",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8180,
+      "attributes": {
+        "pa_textura": "melangue-314",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8183,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8124,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8184,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8131,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8132,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8123,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8136,
+      "attributes": {
+        "pa_textura": "melangue-303",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8140,
+      "attributes": {
+        "pa_textura": "melangue-304",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8152,
+      "attributes": {
+        "pa_textura": "melangue-307",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8139,
+      "attributes": {
+        "pa_textura": "melangue-304",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8143,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8144,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8148,
+      "attributes": {
+        "pa_textura": "melangue-306",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8155,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8135,
+      "attributes": {
+        "pa_textura": "melangue-303",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8147,
+      "attributes": {
+        "pa_textura": "melangue-306",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8156,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8159,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8151,
+      "attributes": {
+        "pa_textura": "melangue-307",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8160,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8163,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8167,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "formato": "80cm LED"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8168,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8164,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "formato": "120cm LED"
+      },
+      "price": "2180",
+      "regular_price": "2180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-115",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

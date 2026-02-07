@@ -1,0 +1,382 @@
+{
+  "id": 11536,
+  "name": "Stilemi",
+  "slug": "stilemi-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/stilemi-2/",
+  "date_created": "2024-09-23 11:33:24",
+  "date_modified": "2025-10-28 13:11:16",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Esta colección recoge algunos símbolos característicos del lenguaje estilístico de Alessandro Mendini, que se convierten en objetos tridimensionales y pueden utilizarse como asientos, mesitas o elementos de apoyo. Objetos de naturaleza híbrida, capaces de llenar de color cualquier ambiente, están dotados de una gran versatilidad.<br />\nTres formas diferentes realizadas en tecnopolímero. Superficies curvas y octogonales que se presentan en cuatro colores distintos para organizar espacios en continua transformación. Los materiales y su elaboración permiten su uso tanto en interior como en exterior.</p>\n",
+  "short_description": "",
+  "sku": "CAI-007",
+  "price": "168.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>203,28&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>238,37&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 203,28&nbsp;&euro; hasta 238,37&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 11440,
+  "gallery_images": [
+    11441,
+    11442,
+    11443,
+    11444,
+    11445,
+    11446,
+    11447
+  ],
+  "categories": [
+    477,
+    475,
+    481,
+    484
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Forma",
+      "slug": "Forma",
+      "options": [
+        "Cilindro",
+        "Muelle",
+        "Cubo"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        607,
+        420,
+        405,
+        421
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12078,
+      "attributes": {
+        "forma": "Cilindro",
+        "pa_color": "amarillo"
+      },
+      "price": "168.00",
+      "regular_price": "168.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12079,
+      "attributes": {
+        "forma": "Cilindro",
+        "pa_color": "azul-celeste"
+      },
+      "price": "168.00",
+      "regular_price": "168.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12080,
+      "attributes": {
+        "forma": "Cilindro",
+        "pa_color": "blanco-natural"
+      },
+      "price": "168.00",
+      "regular_price": "168.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12081,
+      "attributes": {
+        "forma": "Cilindro",
+        "pa_color": "rojo"
+      },
+      "price": "168.00",
+      "regular_price": "168.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12082,
+      "attributes": {
+        "forma": "Muelle",
+        "pa_color": "amarillo"
+      },
+      "price": "177.00",
+      "regular_price": "177.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12083,
+      "attributes": {
+        "forma": "Muelle",
+        "pa_color": "azul-celeste"
+      },
+      "price": "177.00",
+      "regular_price": "177.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12084,
+      "attributes": {
+        "forma": "Muelle",
+        "pa_color": "blanco-natural"
+      },
+      "price": "177.00",
+      "regular_price": "177.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12085,
+      "attributes": {
+        "forma": "Muelle",
+        "pa_color": "rojo"
+      },
+      "price": "177.00",
+      "regular_price": "177.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12086,
+      "attributes": {
+        "forma": "Cubo",
+        "pa_color": "amarillo"
+      },
+      "price": "197.00",
+      "regular_price": "197.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12087,
+      "attributes": {
+        "forma": "Cubo",
+        "pa_color": "azul-celeste"
+      },
+      "price": "197.00",
+      "regular_price": "197.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12088,
+      "attributes": {
+        "forma": "Cubo",
+        "pa_color": "blanco-natural"
+      },
+      "price": "197.00",
+      "regular_price": "197.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12089,
+      "attributes": {
+        "forma": "Cubo",
+        "pa_color": "rojo"
+      },
+      "price": "197.00",
+      "regular_price": "197.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-007",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11440,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

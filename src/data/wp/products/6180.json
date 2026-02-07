@@ -1,0 +1,1122 @@
+{
+  "id": 6180,
+  "name": "BulTotem Ultra VMT",
+  "slug": "bultotem-ultra-vmt-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bultotem-ultra-vmt-2/",
+  "date_created": "2024-07-23 11:12:39",
+  "date_modified": "2025-10-28 12:59:39",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Tótem para absorción, difusión y trampa de graves</p>\n<p>BulTotem es una solución de tratamiento acústico variable y de pie para proporcionar absorción, difusión, gestión de graves e incluso mezclar todo en uno.</p>\n<p><strong><br />\nDimensiones (L×H×W): 595×1857×366mm</strong></p>\n<p>Absorción total de sonido: Cambie todos los módulos para tener el lado VMT en la parte delantera con el fin de usarlo como absorbente de sonido.</p>\n<p><strong>Difusión totalmente sonora:</strong> Cambie todos los módulos al lado de madera laminada de alta presión en la parte delantera para usarlos como difusor.</p>\n<p><strong>Panel híbrido:</strong> Combine los módulos frontales VMT y laminados de alta presión para su absorción y difusión.</p>\n<p><strong>Trampa de bajo:</strong> Colócala en las esquinas para que sirva como trampa de bajo.</p>\n<p><strong>Expandible:</strong> Es fácil añadir un módulo adicional para aumentar la altura de la unidad.</p>\n",
+  "short_description": "",
+  "sku": "VIC-041",
+  "price": "999",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.208,79&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6176,
+    6179,
+    5671,
+    5672,
+    6177,
+    6178,
+    8903,
+    5673
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5700,
+  "gallery_images": [
+    5701,
+    5702,
+    5703,
+    5704
+  ],
+  "categories": [
+    395,
+    478,
+    392,
+    401,
+    476,
+    390,
+    480,
+    472,
+    400
+  ],
+  "tags": [
+    329,
+    330,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        410,
+        405,
+        406,
+        407,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Color Madera",
+      "slug": "Color Madera",
+      "options": [
+        "Negro Mate",
+        "Blanco Mate",
+        "Roble Natural",
+        "Roble Marrón",
+        "Cereza Locarno",
+        "Wenge Oscuro",
+        "Cobre Metálico",
+        "Oro Metálico"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "1 Unidad"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6279,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "color-madera": "Negro Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5875,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6274,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "color-madera": "Blanco Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5700,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6275,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "color-madera": "Roble Natural",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5871,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6276,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "color-madera": "Roble Marrón",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5872,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6277,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "color-madera": "Cereza Locarno",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5873,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6278,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "color-madera": "Wenge Oscuro",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5874,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6268,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "color-madera": "Cobre Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5865,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6269,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "color-madera": "Oro Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5866,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6270,
+      "attributes": {
+        "pa_color": "negro",
+        "color-madera": "Negro Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5867,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6271,
+      "attributes": {
+        "pa_color": "negro",
+        "color-madera": "Blanco Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5868,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6272,
+      "attributes": {
+        "pa_color": "negro",
+        "color-madera": "Roble Natural",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5869,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6273,
+      "attributes": {
+        "pa_color": "negro",
+        "color-madera": "Roble Marrón",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5870,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6263,
+      "attributes": {
+        "pa_color": "negro",
+        "color-madera": "Cereza Locarno",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5860,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6264,
+      "attributes": {
+        "pa_color": "negro",
+        "color-madera": "Wenge Oscuro",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5861,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6265,
+      "attributes": {
+        "pa_color": "negro",
+        "color-madera": "Cobre Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5862,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6266,
+      "attributes": {
+        "pa_color": "negro",
+        "color-madera": "Oro Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5863,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6267,
+      "attributes": {
+        "pa_color": "gris",
+        "color-madera": "Negro Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5864,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6259,
+      "attributes": {
+        "pa_color": "gris",
+        "color-madera": "Blanco Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5856,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6260,
+      "attributes": {
+        "pa_color": "gris",
+        "color-madera": "Roble Natural",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5857,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6261,
+      "attributes": {
+        "pa_color": "gris",
+        "color-madera": "Roble Marrón",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5858,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6262,
+      "attributes": {
+        "pa_color": "gris",
+        "color-madera": "Cereza Locarno",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5859,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6255,
+      "attributes": {
+        "pa_color": "gris",
+        "color-madera": "Wenge Oscuro",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5850,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6256,
+      "attributes": {
+        "pa_color": "gris",
+        "color-madera": "Cobre Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5853,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6257,
+      "attributes": {
+        "pa_color": "gris",
+        "color-madera": "Oro Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5854,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6258,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "color-madera": "Negro Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5855,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6241,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "color-madera": "Blanco Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5845,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6242,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "color-madera": "Roble Natural",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5846,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6243,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "color-madera": "Roble Marrón",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5847,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6244,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "color-madera": "Cereza Locarno",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5848,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6245,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "color-madera": "Wenge Oscuro",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5849,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6237,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "color-madera": "Cobre Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5833,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6238,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "color-madera": "Oro Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5834,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6239,
+      "attributes": {
+        "pa_color": "beige",
+        "color-madera": "Negro Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5843,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6240,
+      "attributes": {
+        "pa_color": "beige",
+        "color-madera": "Blanco Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5844,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6233,
+      "attributes": {
+        "pa_color": "beige",
+        "color-madera": "Roble Natural",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5829,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6234,
+      "attributes": {
+        "pa_color": "beige",
+        "color-madera": "Roble Marrón",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5830,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6235,
+      "attributes": {
+        "pa_color": "beige",
+        "color-madera": "Cereza Locarno",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5831,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6236,
+      "attributes": {
+        "pa_color": "beige",
+        "color-madera": "Wenge Oscuro",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5832,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6231,
+      "attributes": {
+        "pa_color": "beige",
+        "color-madera": "Cobre Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5827,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6232,
+      "attributes": {
+        "pa_color": "beige",
+        "color-madera": "Oro Metálico",
+        "caja": "1 Unidad"
+      },
+      "price": "999",
+      "regular_price": "999",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-041",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5828,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

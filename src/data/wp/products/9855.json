@@ -1,0 +1,258 @@
+{
+  "id": 9855,
+  "name": "Cinema Forte VMT",
+  "slug": "cinema-forte-vmt",
+  "permalink": "https://wpadmin.buildmaster.dev/product/cinema-forte-vmt/",
+  "date_created": "2024-08-20 15:40:56",
+  "date_modified": "2025-10-28 12:53:31",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Una nueva generación de absorbentes de sonido mejorados de la familia Cinema.</p>\n<p>Este nuevo panel es parte de la nueva familia Cinema de Vicoustic, que también incluye: Cinema Piano VMT y Cinema Fortissimo VMT. Su frente inclinado tiene un grosor mínimo de 60 mm y un grosor máximo de 120 mm, lo que resulta en una excelente capacidad de absorción. Además, al girar el panel puedes crear patrones muy interesantes, especialmente si los combinas con los otros paneles de la misma línea.</p>\n<p>Estos 3 nuevos paneles están hechos en su mayoría de materiales reciclados, e inspirados en la tecnología VMT se pueden personalizar.</p>\n<p>Compatibles con el perfil VicFix J, estos paneles también se pueden instalar en las esquinas actuando como una trampa de graves de banda ancha, con un rendimiento mejorado en la región baja.</p>\n",
+  "short_description": "",
+  "sku": "VIC-015",
+  "price": "335",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>405,35&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4767,
+  "gallery_images": [
+    4748,
+    4749,
+    4750,
+    4768
+  ],
+  "categories": [
+    395,
+    478,
+    392,
+    477,
+    475,
+    476,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    329,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Color VMT",
+      "slug": "Color VMT",
+      "options": [
+        "Blanco Natural",
+        "Calacatta Crema",
+        "Gris",
+        "Hormigón 1",
+        "Negro",
+        "Piedra Gris"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Color del marco",
+      "slug": "Color del marco",
+      "options": [
+        "Blanco",
+        "Gris",
+        "Negro"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 10007,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Blanco",
+        "caja": "2 Unidades"
+      },
+      "price": "335",
+      "regular_price": "335",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-015",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4769,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10008,
+      "attributes": {
+        "color-vmt": "Calacatta Crema",
+        "color-del-marco": "Blanco",
+        "caja": "2 Unidades"
+      },
+      "price": "335",
+      "regular_price": "335",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-015",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4773,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10003,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Gris",
+        "caja": "2 Unidades"
+      },
+      "price": "335",
+      "regular_price": "335",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-015",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4774,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10004,
+      "attributes": {
+        "color-vmt": "Hormigón 1",
+        "color-del-marco": "Gris",
+        "caja": "2 Unidades"
+      },
+      "price": "335",
+      "regular_price": "335",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-015",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4775,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10005,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Negro",
+        "caja": "2 Unidades"
+      },
+      "price": "335",
+      "regular_price": "335",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-015",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4776,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10006,
+      "attributes": {
+        "color-vmt": "Piedra Gris",
+        "color-del-marco": "Negro",
+        "caja": "2 Unidades"
+      },
+      "price": "335",
+      "regular_price": "335",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-015",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4767,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

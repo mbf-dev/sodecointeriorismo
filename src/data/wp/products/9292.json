@@ -1,0 +1,144 @@
+{
+  "id": 9292,
+  "name": "Battista umbrella stand",
+  "slug": "battista-umbrella-stand",
+  "permalink": "https://wpadmin.buildmaster.dev/product/battista-umbrella-stand/",
+  "date_created": "2024-08-12 15:46:18",
+  "date_modified": "2025-10-28 13:20:06",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Los paragüeros Battista son de aluminio fundido y acero recubierto con polvos epoxi. Las bases están realizadas en fundición gris recubierta con pinturas epoxi o son de acero inox</p>\n",
+  "short_description": "<h2>Design Michele De Lucchi &amp; Sezgin Aksu</h2>\n<p>Los paragüeros Battista son de aluminio fundido y acero recubierto con polvos epoxi. Las bases están realizadas en fundición gris recubierta con pinturas epoxi o son de acero inox</p>\n",
+  "sku": "CAI-067",
+  "price": "218",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>263,78&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9293,
+  "gallery_images": [
+    9294,
+    9295
+  ],
+  "categories": [
+    481,
+    493
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        422,
+        406,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12577,
+      "attributes": {
+        "pa_color": "blanco"
+      },
+      "price": "218",
+      "regular_price": "218",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-067",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9293,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12578,
+      "attributes": {
+        "pa_color": "gris"
+      },
+      "price": "218",
+      "regular_price": "218",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-067",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9293,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12579,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "218",
+      "regular_price": "218",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-067",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9293,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

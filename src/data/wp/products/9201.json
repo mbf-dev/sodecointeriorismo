@@ -1,0 +1,231 @@
+{
+  "id": 9201,
+  "name": "Hi-Tech waste bin",
+  "slug": "hi-tech-waste-bin",
+  "permalink": "https://wpadmin.buildmaster.dev/product/hi-tech-waste-bin/",
+  "date_created": "2024-08-12 12:13:38",
+  "date_modified": "2025-10-28 13:22:13",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Papeleras de polipropilene.</p>\n",
+  "short_description": "<p>Papeleras de polipropilene.</p>\n",
+  "sku": "CAI-082",
+  "price": "14.8",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>17,91&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>30,61&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 17,91&nbsp;&euro; hasta 30,61&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9202,
+  "gallery_images": [
+    9205,
+    9203,
+    9204
+  ],
+  "categories": [
+    490,
+    481,
+    492
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tapa",
+      "slug": "Tapa",
+      "options": [
+        "Normal",
+        "Doble"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12365,
+      "attributes": {
+        "pa_color": "gris",
+        "tapa": "Normal"
+      },
+      "price": "14.8",
+      "regular_price": "14.8",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-082",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9202,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12366,
+      "attributes": {
+        "pa_color": "gris",
+        "tapa": "Doble"
+      },
+      "price": "25.3",
+      "regular_price": "25.3",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-082",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9202,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12361,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tapa": "Normal"
+      },
+      "price": "14.8",
+      "regular_price": "14.8",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-082",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9202,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12362,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tapa": "Doble"
+      },
+      "price": "25.3",
+      "regular_price": "25.3",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-082",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9202,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12363,
+      "attributes": {
+        "pa_color": "negro",
+        "tapa": "Normal"
+      },
+      "price": "14.8",
+      "regular_price": "14.8",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-082",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9202,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12364,
+      "attributes": {
+        "pa_color": "negro",
+        "tapa": "Doble"
+      },
+      "price": "25.3",
+      "regular_price": "25.3",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-082",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9202,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

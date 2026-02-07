@@ -1,0 +1,1116 @@
+{
+  "id": 5673,
+  "name": "Super Bass Entreme Ultra VMT",
+  "slug": "super-bass-entreme-ultra-vmt",
+  "permalink": "https://wpadmin.buildmaster.dev/product/super-bass-entreme-ultra-vmt/",
+  "date_created": "2024-07-23 10:37:14",
+  "date_modified": "2025-10-28 13:01:05",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Optimizado para el montaje en esquinas, Super Bass Extreme VMT tiene seis acabados de color sólido que permiten un aspecto neutro que puede ser utilizado en una mayor variedad de espacios por los diseñadores, buscando compatibilidad con el diseño de interiores. Diseñado para proporcionar una absorción efectiva de baja frecuencia entre 60-125Hz, ofrece la máxima efectividad entre 75 -100Hz. El frente VMT de esta versión proporciona suficiente absorción de frecuencia media-alta para controlar los reflejos de las esquinas.</p>\n<p>Super Bass Extreme es muy recomendable para habitaciones más pequeñas con problemas de baja frecuencia. El panel se puede utilizar en diferentes posiciones de esquina y su estructura modular permite agregar más unidades según sea necesario.</p>\n",
+  "short_description": "<p>Diseñado para proporcionar una absorción efectiva de baja frecuencia</p>\n",
+  "sku": "VIC-052",
+  "price": "419.90",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>508,08&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "36.25",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6180,
+    5671,
+    5672,
+    8903,
+    5670
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5595,
+  "gallery_images": [
+    5596,
+    5597,
+    5598,
+    5599
+  ],
+  "categories": [
+    478,
+    392,
+    476,
+    390,
+    400
+  ],
+  "tags": [
+    329,
+    331,
+    362,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "Color VMT",
+      "slug": "Color VMT",
+      "options": [
+        "Blanco Natural",
+        "Negro",
+        "Gris",
+        "Gris Claro",
+        "Beige"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Color del marco",
+      "slug": "Color del marco",
+      "options": [
+        "Negro Mate",
+        "Blanco Mate",
+        "Wenge Oscuro",
+        "Roble Marrón",
+        "Cereza Locarno",
+        "Roble Natural",
+        "Cobre Metálico",
+        "Oro Metálico"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5762,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Negro Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5595,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5763,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Blanco Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5812,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5764,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Wenge Oscuro",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5813,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5765,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Roble Marrón",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5814,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5776,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Cereza Locarno",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5815,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5757,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Roble Natural",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5807,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5758,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Cobre Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5808,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5759,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Oro Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5809,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5760,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Negro Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5810,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5761,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Blanco Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5811,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5753,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Wenge Oscuro",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5793,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5754,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Roble Marrón",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5794,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5755,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Cereza Locarno",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5795,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5756,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Roble Natural",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5806,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5749,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Cobre Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5789,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5750,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Oro Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5790,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5751,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Negro Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5791,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5752,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Blanco Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5792,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5745,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Wenge Oscuro",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5775,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5746,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Roble Marrón",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5786,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5747,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Cereza Locarno",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5787,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5748,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Roble Natural",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5788,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5732,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Cobre Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5771,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5733,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Oro Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5772,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5734,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Negro Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5773,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5744,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Blanco Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5774,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5729,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Wenge Oscuro",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5768,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5730,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Roble Marrón",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5769,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5731,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Cereza Locarno",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5770,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5727,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Roble Natural",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5766,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5728,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Cobre Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5767,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5725,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Oro Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5742,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5726,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Negro Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5743,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5722,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Blanco Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5739,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5723,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Wenge Oscuro",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5740,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5724,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Roble Marrón",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5741,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5718,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Cereza Locarno",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5735,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5719,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Roble Natural",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5736,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5720,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Cobre Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5737,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5721,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Oro Metálico",
+        "caja": "2 Unidades"
+      },
+      "price": "419.90",
+      "regular_price": "419.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-052",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5738,
+      "weight": "36.25",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

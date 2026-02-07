@@ -1,0 +1,317 @@
+{
+  "id": 9308,
+  "name": "Hi-tech waste bin metal",
+  "slug": "hi-tech-waste-bin-metal",
+  "permalink": "https://wpadmin.buildmaster.dev/product/hi-tech-waste-bin-metal/",
+  "date_created": "2024-08-12 15:57:15",
+  "date_modified": "2025-10-28 13:19:53",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "",
+  "short_description": "<h2></h2>\n",
+  "sku": "CAI-065",
+  "price": "43.80",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>53,00&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>82,28&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 53,00&nbsp;&euro; hasta 82,28&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9310,
+  "gallery_images": [],
+  "categories": [
+    481,
+    492
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Altura",
+      "slug": "Altura",
+      "options": [
+        "32 cm",
+        "50 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        422,
+        406,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "Acero pintado",
+        "Acero perforado"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12471,
+      "attributes": {
+        "altura": "32 cm",
+        "pa_color": "blanco",
+        "modelo": "Acero pintado"
+      },
+      "price": "43.80",
+      "regular_price": "43.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9310,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12472,
+      "attributes": {
+        "altura": "32 cm",
+        "pa_color": "blanco",
+        "modelo": "Acero perforado"
+      },
+      "price": "48.50",
+      "regular_price": "48.50",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9310,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12473,
+      "attributes": {
+        "altura": "32 cm",
+        "pa_color": "gris",
+        "modelo": "Acero pintado"
+      },
+      "price": "43.80",
+      "regular_price": "43.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9310,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12474,
+      "attributes": {
+        "altura": "32 cm",
+        "pa_color": "gris",
+        "modelo": "Acero perforado"
+      },
+      "price": "48.50",
+      "regular_price": "48.50",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9310,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12475,
+      "attributes": {
+        "altura": "32 cm",
+        "pa_color": "negro",
+        "modelo": "Acero pintado"
+      },
+      "price": "43.80",
+      "regular_price": "43.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9310,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12476,
+      "attributes": {
+        "altura": "32 cm",
+        "pa_color": "negro",
+        "modelo": "Acero perforado"
+      },
+      "price": "48.50",
+      "regular_price": "48.50",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9310,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12477,
+      "attributes": {
+        "altura": "50 cm",
+        "pa_color": "blanco",
+        "modelo": "Acero pintado"
+      },
+      "price": "68.00",
+      "regular_price": "68.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9310,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12479,
+      "attributes": {
+        "altura": "50 cm",
+        "pa_color": "gris",
+        "modelo": "Acero pintado"
+      },
+      "price": "68.00",
+      "regular_price": "68.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9310,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12481,
+      "attributes": {
+        "altura": "50 cm",
+        "pa_color": "negro",
+        "modelo": "Acero pintado"
+      },
+      "price": "68.00",
+      "regular_price": "68.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-065",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9310,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

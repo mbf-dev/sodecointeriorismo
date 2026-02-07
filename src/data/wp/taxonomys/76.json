@@ -1,0 +1,9 @@
+{
+  "id": 76,
+  "name": "News",
+  "slug": "category-news",
+  "taxonomy": "category",
+  "description": "",
+  "parent": 66,
+  "count": 0
+}

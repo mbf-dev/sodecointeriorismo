@@ -1,0 +1,233 @@
+{
+  "id": 9481,
+  "name": "Battista stanchions",
+  "slug": "battista-stanchions",
+  "permalink": "https://wpadmin.buildmaster.dev/product/battista-stanchions/",
+  "date_created": "2024-08-13 11:44:03",
+  "date_modified": "2025-10-28 13:16:53",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Los expositores del sistema Koala pueden fijarse según las diferentes configuraciones mono o bi-frontales a columnas de acero recubierto con polvos epoxi con bases de acero inox o de fundición recubierto con polvos epoxi.</p>\n",
+  "short_description": "<h2>Design Michele De Lucchi &amp; Sezgin Aksu</h2>\n",
+  "sku": "CAI-040",
+  "price": "338.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>408,98&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9482,
+  "gallery_images": [
+    9483,
+    9484,
+    9485,
+    9486
+  ],
+  "categories": [
+    481,
+    496,
+    498,
+    501
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Color base",
+      "slug": "Color base",
+      "options": [
+        "Negro",
+        "Acero"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Color Cordón",
+      "slug": "Color Cordón",
+      "options": [
+        "Negro",
+        "Rojo",
+        "Gris"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12537,
+      "attributes": {
+        "color-base": "Negro",
+        "color-cordon": "Negro"
+      },
+      "price": "338.00",
+      "regular_price": "338.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-040",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9482,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12538,
+      "attributes": {
+        "color-base": "Negro",
+        "color-cordon": "Rojo"
+      },
+      "price": "338.00",
+      "regular_price": "338.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-040",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9482,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12539,
+      "attributes": {
+        "color-base": "Negro",
+        "color-cordon": "Gris"
+      },
+      "price": "338.00",
+      "regular_price": "338.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-040",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9482,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12540,
+      "attributes": {
+        "color-base": "Acero",
+        "color-cordon": "Negro"
+      },
+      "price": "338.00",
+      "regular_price": "338.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-040",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9482,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12541,
+      "attributes": {
+        "color-base": "Acero",
+        "color-cordon": "Rojo"
+      },
+      "price": "338.00",
+      "regular_price": "338.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-040",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9482,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12542,
+      "attributes": {
+        "color-base": "Acero",
+        "color-cordon": "Gris"
+      },
+      "price": "338.00",
+      "regular_price": "338.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-040",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9482,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

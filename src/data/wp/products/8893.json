@@ -1,0 +1,270 @@
+{
+  "id": 8893,
+  "name": "Gillo Dorfles Art",
+  "slug": "gillo-dorfles-art",
+  "permalink": "https://wpadmin.buildmaster.dev/product/gillo-dorfles-art/",
+  "date_created": "2024-08-11 12:11:08",
+  "date_modified": "2025-10-28 13:36:09",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p><em>ENORMOUS DESIGN</em></p>\n<p>Snowsound Art es un proyecto de Caimi: un viaje para explorar itinerarios nuevos que compaginen ARTE y DISEÑO. Una forma de concebir el arte, que no es tan sólo una creación única, irrepetible, sino también una “belleza” duplicable en objetos en serie. Un arte que se admira pero también un arte que se disfruta.<br />\nEl viaje inicia con una serie de paneles fonoabsorbentes Snowsound Art, son como “lienzos” en los que se duplicaron una serie de dibujos de Gillo Dorfles. Serie de paneles fonoabsorbentes Snowsound Art en los que se ha duplicado una serie de dibujos de Gillo Dorfles, obras de entre 1937 y 2017.</p>\n",
+  "short_description": "<h2>Design Gillo Dorfles</h2>\n",
+  "sku": "CAI-159",
+  "price": "970",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.173,70&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.439,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 1.173,70&nbsp;&euro; hasta 1.439,90&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8894,
+  "gallery_images": [
+    8895,
+    8896,
+    8897,
+    8898
+  ],
+  "categories": [
+    471,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Diseńo",
+      "slug": "Diseńo",
+      "options": [
+        "001",
+        "4027",
+        "4030",
+        "8033",
+        "37-0001",
+        "91-0001",
+        "98-0001",
+        "98-8033"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 11104,
+      "attributes": {
+        "diseno": "001"
+      },
+      "price": "970",
+      "regular_price": "970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-159",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8894,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11105,
+      "attributes": {
+        "diseno": "4027"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-159",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11106,
+      "attributes": {
+        "diseno": "4030"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-159",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11114,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11107,
+      "attributes": {
+        "diseno": "8033"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-159",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11119,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11108,
+      "attributes": {
+        "diseno": "37-0001"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-159",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11112,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11109,
+      "attributes": {
+        "diseno": "91-0001"
+      },
+      "price": "980",
+      "regular_price": "980",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-159",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11116,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11110,
+      "attributes": {
+        "diseno": "98-0001"
+      },
+      "price": "970",
+      "regular_price": "970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-159",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11117,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11111,
+      "attributes": {
+        "diseno": "98-8033"
+      },
+      "price": "1190",
+      "regular_price": "1190",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-159",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11118,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

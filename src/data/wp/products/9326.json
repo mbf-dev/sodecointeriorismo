@@ -1,0 +1,63 @@
+{
+  "id": 9326,
+  "name": "Battista totem",
+  "slug": "battista-totem",
+  "permalink": "https://wpadmin.buildmaster.dev/product/battista-totem/",
+  "date_created": "2024-08-12 18:28:19",
+  "date_modified": "2025-10-28 13:19:41",
+  "type": "simple",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Los expositores del sistema Koala pueden fijarse según las diferentes configuraciones mono o bi-frontales a columnas de acero recubierto con polvos epoxi con bases de acero inox o de fundición recubierto con polvos epoxi.</p>\n",
+  "short_description": "<h2>Design Michele De Lucchi &amp; Sezgin Aksu</h2>\n",
+  "sku": "CAI-063",
+  "price": "87",
+  "regular_price": "87",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>105,27&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9327,
+  "gallery_images": [
+    9328,
+    9329,
+    9330
+  ],
+  "categories": [
+    481,
+    496,
+    498
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": []
+}

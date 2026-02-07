@@ -1,0 +1,379 @@
+{
+  "id": 9225,
+  "name": "Desk-up",
+  "slug": "desk-up",
+  "permalink": "https://wpadmin.buildmaster.dev/product/desk-up/",
+  "date_created": "2024-08-12 12:32:18",
+  "date_modified": "2025-10-28 13:21:07",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Accesorios para escritorio y suspendidos de tecnopolímero o policarbonato. Perfiles a pared de aluminio anodizado.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design Acropoli &amp; Caimi Labs</h2>\n",
+  "sku": "CAI-077",
+  "price": "12.70",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>15,37&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>54,45&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 15,37&nbsp;&euro; hasta 54,45&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9226,
+  "gallery_images": [
+    9227,
+    9228,
+    9229,
+    9230,
+    9231,
+    9232
+  ],
+  "categories": [
+    482,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "Portaobjetos 38x15x6 cm",
+        "Portalapiceros 8,50x9,50x9 cm",
+        "Portacorrespondencia 35x6x27 cm",
+        "Portacorrespondencia 27x6x35 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Color",
+      "slug": "Color",
+      "options": [
+        "Negro",
+        "Gris",
+        "Transparente"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12455,
+      "attributes": {
+        "modelo": "Portacorrespondencia 35x6x27 cm",
+        "color": "Negro"
+      },
+      "price": "15.80",
+      "regular_price": "15.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12456,
+      "attributes": {
+        "modelo": "Portacorrespondencia 35x6x27 cm",
+        "color": "Gris"
+      },
+      "price": "38.80",
+      "regular_price": "38.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12457,
+      "attributes": {
+        "modelo": "Portacorrespondencia 35x6x27 cm",
+        "color": "Transparente"
+      },
+      "price": "26.80",
+      "regular_price": "26.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12458,
+      "attributes": {
+        "modelo": "Portacorrespondencia 27x6x35 cm",
+        "color": "Negro"
+      },
+      "price": "15.80",
+      "regular_price": "15.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12459,
+      "attributes": {
+        "modelo": "Portacorrespondencia 27x6x35 cm",
+        "color": "Gris"
+      },
+      "price": "38.80",
+      "regular_price": "38.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12460,
+      "attributes": {
+        "modelo": "Portacorrespondencia 27x6x35 cm",
+        "color": "Transparente"
+      },
+      "price": "26.80",
+      "regular_price": "26.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12449,
+      "attributes": {
+        "modelo": "Portaobjetos 38x15x6 cm",
+        "color": "Negro"
+      },
+      "price": "28.80",
+      "regular_price": "28.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12450,
+      "attributes": {
+        "modelo": "Portaobjetos 38x15x6 cm",
+        "color": "Gris"
+      },
+      "price": "45.00",
+      "regular_price": "45.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12451,
+      "attributes": {
+        "modelo": "Portaobjetos 38x15x6 cm",
+        "color": "Transparente"
+      },
+      "price": "39.50",
+      "regular_price": "39.50",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12452,
+      "attributes": {
+        "modelo": "Portalapiceros 8,50x9,50x9 cm",
+        "color": "Negro"
+      },
+      "price": "12.70",
+      "regular_price": "12.70",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12453,
+      "attributes": {
+        "modelo": "Portalapiceros 8,50x9,50x9 cm",
+        "color": "Gris"
+      },
+      "price": "22.80",
+      "regular_price": "22.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12454,
+      "attributes": {
+        "modelo": "Portalapiceros 8,50x9,50x9 cm",
+        "color": "Transparente"
+      },
+      "price": "19.60",
+      "regular_price": "19.60",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-077",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9226,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

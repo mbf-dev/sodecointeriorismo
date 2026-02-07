@@ -1,0 +1,289 @@
+{
+  "id": 6419,
+  "name": "BulShape 3D",
+  "slug": "bulshape-3d",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulshape-3d/",
+  "date_created": "2024-07-23 14:29:48",
+  "date_modified": "2025-11-18 13:49:20",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Panel acústico en relieve enmarcado</p>\n<p>BulShape 3D es un panel artístico con relieve acústico. ¿El secreto? Tres capas de material fonoabsorbente, combinadas en un elegante diseño.</p>\n<ul>\n<li>Compuesto por tres capas de PET HD fonoabsorbente.</li>\n<li>Marco de alta calidad en chapa de roble natural.</li>\n<li>Alinee las diferentes placas para crear su «propia» obra de arte.</li>\n<li>Puede formar un díptico o incluso un tríptico combinándolo con los dos paneles BulShape 3D Duo.</li>\n<li>Vuelva a alinear los distintos paneles para crear su «propia» obra de arte.</li>\n<li>Esculturas geométricas de pared en 3D con un toque contemporáneo.</li>\n<li>Una combinación de tres capas recortadas superpuestas de 12 mm que alcanzan un máximo de 36 mm.</li>\n<li>Fabricado con PET HD, una lana BulPET de alta densidad, producida en su mayor parte a partir de plástico reciclado.</li>\n<li>Fácil de colocar con un soporte para colgar, como una tabla de arte.</li>\n<li>Colección de diseño para hoteles, restaurantes y espacios privados.</li>\n<li>Una elección sostenible para proyectos de construcción ecológica.</li>\n</ul>\n",
+  "short_description": "",
+  "sku": "VIC-034",
+  "price": "300",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>363,00&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 18483,
+  "gallery_images": [
+    4029,
+    4030,
+    4031,
+    4032,
+    4033,
+    4034
+  ],
+  "categories": [
+    395,
+    477,
+    475,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        440,
+        654,
+        656,
+        657,
+        441,
+        442,
+        443,
+        655
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "1 Unidad"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6541,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-black",
+        "caja": "1 Unidad"
+      },
+      "price": "300",
+      "regular_price": "300",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-034",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4028,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18492,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-coral-haze",
+        "caja": "1 Unidad"
+      },
+      "price": "300",
+      "regular_price": "300",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-034",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18493,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18491,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-glacier",
+        "caja": "1 Unidad"
+      },
+      "price": "300",
+      "regular_price": "300",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-034",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18494,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18490,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-gleam",
+        "caja": "1 Unidad"
+      },
+      "price": "300",
+      "regular_price": "300",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-034",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18495,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6538,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-green",
+        "caja": "1 Unidad"
+      },
+      "price": "300",
+      "regular_price": "300",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-034",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18496,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6540,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-grey",
+        "caja": "1 Unidad"
+      },
+      "price": "300",
+      "regular_price": "300",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-034",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4035,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6539,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-light-grey",
+        "caja": "1 Unidad"
+      },
+      "price": "300",
+      "regular_price": "300",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-034",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5080,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18489,
+      "attributes": {
+        "pa_textura": "flat-panel-pet-pearl",
+        "caja": "1 Unidad"
+      },
+      "price": "300",
+      "regular_price": "300",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-034",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18497,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

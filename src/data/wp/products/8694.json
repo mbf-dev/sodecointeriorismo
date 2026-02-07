@@ -1,0 +1,304 @@
+{
+  "id": 8694,
+  "name": "Fiber 1 Color",
+  "slug": "fiber-1-color",
+  "permalink": "https://wpadmin.buildmaster.dev/product/fiber-1-color/",
+  "date_created": "2024-08-10 18:48:10",
+  "date_modified": "2025-10-28 13:32:42",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>FIBER 1 – tejido acústico de color uniforme con ligamento de tipo Sablè.</p>\n<p>El tejido no presenta una dirección concreta, por lo que se puede trabajar y cortar de formas diversas.<br />\nSABLE’ – es un tejido que se consigue mediante un ligamento específico que le otorga un aspecto granuloso pero uniforme, con efectos contrastantes y moteados en el fondo que le dan un aspecto brillante.</p>\n",
+  "short_description": "",
+  "sku": "CAI-135",
+  "price": "1820",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>2.202,20&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8206,
+    8661,
+    8689,
+    8666,
+    8672,
+    8185,
+    8681,
+    7574,
+    9020,
+    9026,
+    8591
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8695,
+  "gallery_images": [
+    8696,
+    8697,
+    8698,
+    11017,
+    11018,
+    11019,
+    11020,
+    11021,
+    11022,
+    11023,
+    11024
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    469
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "140cm x 25m"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9765,
+      "attributes": {
+        "pa_textura": "color-0001",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1820",
+      "regular_price": "1820",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-135",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8695,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9766,
+      "attributes": {
+        "pa_textura": "color-1008",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1820",
+      "regular_price": "1820",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-135",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8695,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9767,
+      "attributes": {
+        "pa_textura": "color-2005",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1820",
+      "regular_price": "1820",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-135",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8695,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9768,
+      "attributes": {
+        "pa_textura": "color-3008",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1820",
+      "regular_price": "1820",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-135",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8695,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9769,
+      "attributes": {
+        "pa_textura": "color-4027",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1820",
+      "regular_price": "1820",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-135",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8695,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9770,
+      "attributes": {
+        "pa_textura": "color-4030",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1820",
+      "regular_price": "1820",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-135",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8695,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9771,
+      "attributes": {
+        "pa_textura": "color-7004",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1820",
+      "regular_price": "1820",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-135",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8695,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9772,
+      "attributes": {
+        "pa_textura": "color-8004",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1820",
+      "regular_price": "1820",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-135",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8695,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": 8711,
+  "name": "Clasp Ring",
+  "slug": "clasp-ring",
+  "permalink": "https://wpadmin.buildmaster.dev/product/clasp-ring/",
+  "date_created": "2024-08-10 19:22:36",
+  "date_modified": "2025-10-28 13:32:26",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Elementos fonoabsorbentes de forma circular, realizados con los tejidos Snowsound-Fiber 3 Melange. La estructura se construye mediante un elemento tubular de acero cromado y cuelga de unos cables que poseen un sistema de regulación de la altura. Gracias a las distintas medidas de las estructuras, se pueden ubicar tanto en pequeños como grandes espacios, y ofrecen la posibilidad de instalar lámparas en su interior.</p>\n",
+  "short_description": "<h2>Design (a+b) Annalisa Dominoni-Benedetto Quaquaro</h2>\n",
+  "sku": "CAI-132",
+  "price": "1090",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.318,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.911,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 1.318,90&nbsp;&euro; hasta 1.911,80&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8858,
+    8067,
+    8114,
+    11531,
+    8794,
+    8740,
+    8756,
+    8733,
+    8917
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8712,
+  "gallery_images": [
+    8713,
+    8714,
+    8715,
+    8716,
+    8717,
+    8718
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    470,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        571,
+        575,
+        579
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamńo",
+      "slug": "Tamńo",
+      "options": [
+        "70cm diámetro 90cm",
+        "200cm diámetro 90cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12682,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "tamno": "70cm diámetro 90cm"
+      },
+      "price": "1090",
+      "regular_price": "1090",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-132",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8712,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12683,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "tamno": "200cm diámetro 90cm"
+      },
+      "price": "1580",
+      "regular_price": "1580",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-132",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8712,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12684,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "tamno": "70cm diámetro 90cm"
+      },
+      "price": "1090",
+      "regular_price": "1090",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-132",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8712,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12685,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "tamno": "200cm diámetro 90cm"
+      },
+      "price": "1580",
+      "regular_price": "1580",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-132",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8712,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12686,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "tamno": "70cm diámetro 90cm"
+      },
+      "price": "1090",
+      "regular_price": "1090",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-132",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8712,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12687,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "tamno": "200cm diámetro 90cm"
+      },
+      "price": "1580",
+      "regular_price": "1580",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-132",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8712,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

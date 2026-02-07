@@ -1,0 +1,40 @@
+---
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import LayoutProduct from '../../layouts/woocommerce/LayoutProduct.astro';
+
+export const prerender = false;
+
+const { slug } = Astro.params;
+
+if (!slug) {
+  return Astro.redirect('/404');
+}
+
+const DATA_DIR = path.join(process.cwd(), 'src/data/wp');
+const ROUTES_FILE = path.join(DATA_DIR, 'routes.json');
+
+// Find product ID from routes
+let productData = null;
+
+try {
+  const routesRaw = await fs.readFile(ROUTES_FILE, 'utf-8');
+  const routes = JSON.parse(routesRaw);
+  
+  const productId = routes.products?.[slug];
+  
+  if (productId) {
+    const filePath = path.join(DATA_DIR, 'products', `${productId}.json`);
+    const raw = await fs.readFile(filePath, 'utf-8');
+    productData = JSON.parse(raw);
+  }
+} catch (e) {
+  console.error('[Product] Error loading product:', e);
+}
+
+if (!productData) {
+  return Astro.redirect('/404');
+}
+---
+
+<LayoutProduct product={productData} />

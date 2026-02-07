@@ -1,68 +1,87 @@
 {
   "id": 331,
-  "title": "Home",
+  "title": "Inicio",
   "blocks": [
     {
-      "name": "mbf/block-1",
+      "name": "mbf/block-3",
       "attributes": {
-        "title": "Lorem ipsumsafasf asfasfsa fsafsafs afsafasfa  ",
-        "description": "Consectetur <strong>adipiscin</strong>g elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. fsdfsd",
-        "padding": {
-          "top": "pt-16",
-          "bottom": "pb-16"
+        "mbf_slides": [
+          {
+            "image": {
+              "id": 18564,
+              "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2025/06/contents-homepage-canary-tiles-xl@Homepage-Vicoustic_1.webp",
+              "alt": ""
+            },
+            "title": "Hogar &amp; Residencial",
+            "subtitle": "",
+            "description": "",
+            "buttons": [
+              {
+                "text": "Comprar",
+                "url": "#",
+                "variant": "btn-primary"
+              },
+              {
+                "text": "Descubre el catálogo completo",
+                "url": "#",
+                "variant": "btn-secondary"
+              }
+            ]
+          },
+          {
+            "image": {
+              "id": 13748,
+              "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2025/02/181-A.webp",
+              "alt": ""
+            },
+            "title": "Audio &amp; Home Cinema",
+            "subtitle": "",
+            "description": "",
+            "buttons": [
+              {
+                "text": "Comprar",
+                "url": "#",
+                "variant": "btn-primary"
+              },
+              {
+                "text": "Descubre el catálogo completo",
+                "url": "#",
+                "variant": "btn-secondary"
+              }
+            ]
+          }
+        ],
+        "mbf_height": {
+          "mobile": "h-[75vh]",
+          "tablet": "h-[75vh]",
+          "desktop": "h-auto"
         },
-        "buttons": {
-          "align": "center",
-          "items": [
-            {
-              "text": "Click me",
-              "url": "#",
-              "variant": "btn-primary"
-            },
-            {
-              "text": "Nuevo Botón",
-              "url": "#",
-              "variant": "btn-outline"
-            },
-            {
-              "text": "Botón 1",
-              "url": "#",
-              "variant": "btn-accent"
-            }
-          ]
-        }
-      }
-    },
-    {
-      "name": "mbf/block-1",
-      "attributes": {
-        "title": "Lorem ipsumsafasf asfasfsa fsafsafs afsafasfa sfasfs",
-        "description": "Consectetur <strong>adipiscin</strong>g elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. fsdfsd",
-        "padding": {
-          "top": "pt-16",
-          "bottom": "pb-16"
+        "mbf_padding_top": {
+          "mobile": 10,
+          "tablet": 7,
+          "desktop": 10
         },
-        "buttons": {
-          "align": "center",
-          "items": [
-            {
-              "text": "Click me",
-              "url": "#",
-              "variant": "btn-primary"
-            },
-            {
-              "text": "Nuevo Botón",
-              "url": "#",
-              "variant": "btn-outline"
-            }
-          ]
+        "mbf_padding_bottom": {
+          "mobile": 10,
+          "tablet": 10,
+          "desktop": 10
+        },
+        "mbf_margin_top": {
+          "mobile": 0,
+          "tablet": 2,
+          "desktop": 2
+        },
+        "mbf_margin_bottom": {
+          "mobile": 2,
+          "tablet": 2,
+          "desktop": 4
         }
       }
     }
   ],
   "excerpt": "",
   "date": "2023-09-04 06:54:02",
-  "modified": "2026-01-08 02:55:07",
+  "modified": "2026-02-02 19:23:05",
   "featured_image": null,
-  "slug": "home"
+  "slug": "inicio"
 }

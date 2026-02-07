@@ -1,0 +1,135 @@
+{
+  "id": 8745,
+  "name": "Baffle Direct 22",
+  "slug": "baffle-direct-22",
+  "permalink": "https://wpadmin.buildmaster.dev/product/baffle-direct-22/",
+  "date_created": "2024-08-10 20:15:17",
+  "date_modified": "2025-10-28 13:31:47",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Sistema patentado de anclaje directo al techo o a la pared, que está disponible para los paneles fonoabsorbentes Snowsound  de 22 cm de altura. El particular diseño de los anclajes se estudió a efectos de garantizar que los paneles se puedan instalar fácil y rápidamente. Los anclajes son de acero cromado y se atornillan directamente al techo o a la pared. Se bloquean mediante un anillo moleteado.</p>\n",
+  "short_description": "<h2>Design Marc Sadler</h2>\n",
+  "sku": "CAI-127",
+  "price": "208",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>251,68&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8746,
+  "gallery_images": [
+    8747,
+    8748,
+    8749
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "159 x 22 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9671,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "159 x 22 cm"
+      },
+      "price": "208",
+      "regular_price": "208",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-127",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8746,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9672,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "159 x 22 cm"
+      },
+      "price": "208",
+      "regular_price": "208",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-127",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8746,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

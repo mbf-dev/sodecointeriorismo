@@ -1,0 +1,161 @@
+{
+  "id": 5457,
+  "name": "BulSpacer XXL",
+  "slug": "bulspacer-xxl",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulspacer-xxl/",
+  "date_created": "2024-07-23 10:21:46",
+  "date_modified": "2025-10-28 13:05:22",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "",
+  "short_description": "<div class=\"product__title\">\n<h2><span class=\"product__text inline-richtext subtitle\">Sistema de fijación para mejorar paneles acústicos. Caja 1 unidad</span></h2>\n</div>\n<div id=\"price-template--19044974526811__main\" class=\"no-js-hidden\" role=\"status\">\n<p>VicSpacer Plus es una actualización del producto estrella Flat Panel VMT de Vicoustic, especialmente desarrollado para mejorar la acústica de cualquier habitación. Realizado en madera y acero lacado, fue diseñado para revestir los laterales blancos de Flat Panel VMT de forma elegante y visualmente atractiva, disponible en Blanco, Negro y Gris Mate.</p>\n<p><strong>VicSpacer Plus deberá combinarse con <a href=\"https://shop.vicoustic.com/es-es/collections/flat-panel-vmt\">Flat Panel VMT</a> de 20 mm de espesor, 2380×1190×20mm (no incluido).</strong></p>\n</div>\n",
+  "sku": "VIC-069",
+  "price": "443.90",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>537,12&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4657,
+  "gallery_images": [
+    4658,
+    4659,
+    4660
+  ],
+  "categories": [
+    391,
+    478,
+    477,
+    475,
+    476,
+    390
+  ],
+  "tags": [
+    340,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Color",
+      "slug": "Color",
+      "options": [
+        "Negro Mate",
+        "Blanco Mate",
+        "Gris Mate"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "1 Unidad"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5465,
+      "attributes": {
+        "color": "Negro Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "443.90",
+      "regular_price": "443.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-069",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4284,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5466,
+      "attributes": {
+        "color": "Blanco Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "443.90",
+      "regular_price": "443.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-069",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4285,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5467,
+      "attributes": {
+        "color": "Gris Mate",
+        "caja": "1 Unidad"
+      },
+      "price": "443.90",
+      "regular_price": "443.90",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-069",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4286,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

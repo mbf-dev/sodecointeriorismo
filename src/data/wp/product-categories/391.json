@@ -1,0 +1,12 @@
+{
+  "id": 391,
+  "name": "Accesorios",
+  "slug": "accesorios",
+  "description": "1",
+  "parent_id": 390,
+  "count": 8,
+  "image": {
+    "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/07/2-accesorios.png",
+    "id": "6676"
+  }
+}

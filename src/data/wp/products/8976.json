@@ -1,0 +1,624 @@
+{
+  "id": 8976,
+  "name": "Flap Chain",
+  "slug": "flap-chain",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flap-chain/",
+  "date_created": "2024-08-11 20:02:22",
+  "date_modified": "2025-10-28 13:34:30",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Flap chain es un sistema compuesto por barras verticales y horizontales de metal cromado, que se ensamblan mediante un empalme que les permite rotar 360°. Cada barra vertical lleva un cable para ajustar la altura cuando se cuelga del techo y un panel acústico Flap o Maxi Flap, también equipado con una articulación para poderlo rotar o inclinar. Las barras verticales y horizontales se pueden ensamblar creando diferentes estructuras colgantes</p>\n",
+  "short_description": "<p>Design Alberto e Francesco Meda</p>\n",
+  "sku": "CAI-144",
+  "price": "238",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>287,98&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>360,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 287,98&nbsp;&euro; hasta 360,58&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8977,
+  "gallery_images": [
+    8978,
+    8979,
+    8980
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "Flap",
+        "Maxi Flap"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        622,
+        615,
+        614,
+        610,
+        613,
+        612,
+        616,
+        621,
+        617,
+        623,
+        618
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12939,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "6071-azul"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12940,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "amarillo-3008"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12941,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "beige-1008"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12942,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "bianco-0001"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12943,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "gris-oscuro-8007"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12944,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "gris-plata-8004"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12945,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "naranja-4030"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12946,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "negro-8033"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12947,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "rojo-4027"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12948,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "verde-7013"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12949,
+      "attributes": {
+        "tamano": "Flap",
+        "pa_textura": "verde-claro-7004"
+      },
+      "price": "238",
+      "regular_price": "238",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12950,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "6071-azul"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12951,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "amarillo-3008"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12952,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "beige-1008"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12953,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "bianco-0001"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12954,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "gris-oscuro-8007"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12955,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "gris-plata-8004"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12956,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "naranja-4030"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12957,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "negro-8033"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12958,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "rojo-4027"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12959,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "verde-7013"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12960,
+      "attributes": {
+        "tamano": "Maxi Flap",
+        "pa_textura": "verde-claro-7004"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-144",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8977,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

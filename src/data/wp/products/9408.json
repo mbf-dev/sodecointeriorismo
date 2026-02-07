@@ -1,0 +1,120 @@
+{
+  "id": 9408,
+  "name": "Hanger",
+  "slug": "hanger",
+  "permalink": "https://wpadmin.buildmaster.dev/product/hanger/",
+  "date_created": "2024-08-13 10:12:52",
+  "date_modified": "2025-10-28 13:17:28",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Perchas para ropa en tecnopolímero. (4 pcs)</p>\n",
+  "short_description": "<h2>Design Claus Breinholt</h2>\n<p>Perchas para ropa en tecnopolímero.</p>\n",
+  "sku": "CAI-046",
+  "price": "29.80",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>36,06&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9409,
+  "gallery_images": [
+    9410,
+    9411
+  ],
+  "categories": [
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        422,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12282,
+      "attributes": {
+        "pa_color": "blanco"
+      },
+      "price": "29.80",
+      "regular_price": "29.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-046",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9409,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12283,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "29.80",
+      "regular_price": "29.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-046",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9409,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

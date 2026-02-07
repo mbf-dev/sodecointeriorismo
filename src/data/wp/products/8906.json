@@ -1,0 +1,185 @@
+{
+  "id": 8906,
+  "name": "Bemolle",
+  "slug": "bemolle",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bemolle/",
+  "date_created": "2024-08-11 12:54:11",
+  "date_modified": "2025-10-28 13:35:48",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p><em>“Las fibras especiales con que se han realizado estos elementos resaltan la absorción del sonido, cuando se realizan curvas o cilindros correspondientes a radios y medidas precisos para obtener estratificaciones precisas. Es así entonces como estos objetos un poco misteriosos tienen en su parte superior unas formas de hierro precisas, que hacen que las fibras puedan caer cobrando el aspecto de un típico drapeado. La suavidad visual de estos elementos los asemeja a la delicadeza de las decoraciones textiles y, por lo tanto, a la imagen de los cortinajes, y hace que resulten adecuados incluso a ambientes clásicos y allí donde no pueden introducirse formas rígidas. Los elementos Diesis y Bemolle que hemos diseñado, modulares y con unas medidas ideales para optimizar las prestaciones, se presentan en el espacio como objetos misteriosos, así de nueva e inusitada es su tipología en el sector de los objetos acústicos.”</em> (Atelier Mendini)<br />\nDiesis y Bemolle son elementos fonoabsorbentes realizados con estructuras de soporte de acero y telas fabricadas con tecnología Snowsound Fiber. Estos“objetos”, en la parte superior, tienen unos bastidores de acero para drapear la tela que cae con pliegues precisos y estratificaciones concebidas para optimizar el rendimento acústico.<br />\nBemolle se concibió para sujeción a pared, sus curvas en “U” forman tres capas de tela con una distancia apropiada entre ellas que se llaman estratificaciones. Bemolle también tiene un modelo equipado con lámpara interior LED, de iluminación indirecta hacia arriba.</p>\n",
+  "short_description": "<h2>Design Alessandro e Francesco Mendini</h2>\n",
+  "sku": "CAI-156",
+  "price": "980",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.185,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8907,
+  "gallery_images": [
+    8908,
+    8909,
+    8910
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        541,
+        544,
+        546,
+        551
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensiones",
+      "slug": "Dimensiones",
+      "options": [
+        "240x105cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12933,
+      "attributes": {
+        "pa_textura": "velvet-600",
+        "dimensiones": "240x105cm"
+      },
+      "price": "980",
+      "regular_price": "980",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-156",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8907,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12934,
+      "attributes": {
+        "pa_textura": "velvet-603",
+        "dimensiones": "240x105cm"
+      },
+      "price": "980",
+      "regular_price": "980",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-156",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8907,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12935,
+      "attributes": {
+        "pa_textura": "velvet-605",
+        "dimensiones": "240x105cm"
+      },
+      "price": "980",
+      "regular_price": "980",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-156",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8907,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12936,
+      "attributes": {
+        "pa_textura": "velvet-610",
+        "dimensiones": "240x105cm"
+      },
+      "price": "980",
+      "regular_price": "980",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-156",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8907,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

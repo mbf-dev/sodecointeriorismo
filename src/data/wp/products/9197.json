@@ -1,0 +1,229 @@
+{
+  "id": 9197,
+  "name": "Kaleidos on beam",
+  "slug": "kaleidos-on-beam",
+  "permalink": "https://wpadmin.buildmaster.dev/product/kaleidos-on-beam/",
+  "date_created": "2024-08-12 12:10:49",
+  "date_modified": "2025-10-28 13:22:18",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Kaleidos tiene una línea pura, enriquecida por el especialísimo acabado superficial del bastidor que le proporciona efectos ópticos tridimensionales y reflejos sorprendentes; además, su particular textura proporciona un inédito placer al tacto. Para el bastidor, constituido por una pieza única, se ha elegido una poliamida reciclable. La mesita, con borde de contención es de fundición de aluminio recubierto con polvos epoxi. Las vigas y patas son de acero recubierto con polvos epoxi.</p>\n",
+  "short_description": "<h2>Design Michele De Lucchi &amp; Sezgin Aksu</h2>\n",
+  "sku": "CAI-083",
+  "price": "1090",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.318,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.439,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 1.318,90&nbsp;&euro; hasta 1.439,90&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9198,
+  "gallery_images": [
+    12937,
+    12938
+  ],
+  "categories": [
+    481,
+    484
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "3 asientos",
+        "4 asientos"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12317,
+      "attributes": {
+        "modelo": "3 asientos",
+        "pa_color": "blanco-natural"
+      },
+      "price": "",
+      "regular_price": "",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-083",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9198,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12318,
+      "attributes": {
+        "modelo": "3 asientos",
+        "pa_color": "gris"
+      },
+      "price": "1090",
+      "regular_price": "1090",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-083",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9198,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12319,
+      "attributes": {
+        "modelo": "3 asientos",
+        "pa_color": "negro"
+      },
+      "price": "1090",
+      "regular_price": "1090",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-083",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9198,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12320,
+      "attributes": {
+        "modelo": "4 asientos",
+        "pa_color": "blanco-natural"
+      },
+      "price": "1190",
+      "regular_price": "1190",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-083",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9198,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12321,
+      "attributes": {
+        "modelo": "4 asientos",
+        "pa_color": "gris"
+      },
+      "price": "1190",
+      "regular_price": "1190",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-083",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9198,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12322,
+      "attributes": {
+        "modelo": "4 asientos",
+        "pa_color": "negro"
+      },
+      "price": "1190",
+      "regular_price": "1190",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-083",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9198,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

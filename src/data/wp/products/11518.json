@@ -1,0 +1,794 @@
+{
+  "id": 11518,
+  "name": "Pegaso wood",
+  "slug": "pegaso-wood",
+  "permalink": "https://wpadmin.buildmaster.dev/product/pegaso-wood/",
+  "date_created": "2024-09-23 11:17:02",
+  "date_modified": "2025-10-28 13:11:59",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>La mesa Pegaso se caracteriza por un diseño riguroso, estudiado para alcanzar dimensiones significativas, que se propone con un tablero en madera compuesta extremadamente ligero gracias a la estructura de tipo “sandwich”, formada por madera listonada recubierta a ambos lados por placas de aluminio enchapado en la parte superior y bordes perimetrales en roble claro, roble negro o nogal canaletto. Las líneas limpias y sencillas del tablero contrastan con las formas sinuosas de la estructura, elaborada en aluminio brillante o barnizado con polvo epoxi.</p>\n",
+  "short_description": "",
+  "sku": "CAI-013",
+  "price": "4440",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>5.372,40&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>9.450,10&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 5.372,40&nbsp;&euro; hasta 9.450,10&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    9507,
+    8648,
+    9539,
+    6755,
+    9246,
+    9654,
+    9551,
+    9122,
+    9546,
+    11512
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 11519,
+  "gallery_images": [
+    11524,
+    11525,
+    11526,
+    11527,
+    11528,
+    11529,
+    11530
+  ],
+  "categories": [
+    477,
+    475,
+    491,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "Redonda 130cm",
+        "Redonda 150cm",
+        "Cuadrada 140cm",
+        "Esquina redonda 200x100cm",
+        "Esquina redonda 240x110cm",
+        "Esquina redonda 300x120cm",
+        "Rectangular 200x90cm",
+        "Rectangular 240x100cm",
+        "Rectangular 300x120cm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tablero",
+      "slug": "Tablero",
+      "options": [
+        "Madera"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Color patas",
+      "slug": "Color patas",
+      "options": [
+        "Negro",
+        "Blanco",
+        "Aluminio"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 17699,
+      "attributes": {
+        "formato": "Redonda 130cm",
+        "tablero": "Madera",
+        "color-patas": "Negro"
+      },
+      "price": "4440",
+      "regular_price": "4440",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17700,
+      "attributes": {
+        "formato": "Redonda 130cm",
+        "tablero": "Madera",
+        "color-patas": "Blanco"
+      },
+      "price": "4440",
+      "regular_price": "4440",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17701,
+      "attributes": {
+        "formato": "Redonda 130cm",
+        "tablero": "Madera",
+        "color-patas": "Aluminio"
+      },
+      "price": "4740",
+      "regular_price": "4740",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17702,
+      "attributes": {
+        "formato": "Redonda 150cm",
+        "tablero": "Madera",
+        "color-patas": "Negro"
+      },
+      "price": "5070",
+      "regular_price": "5070",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17703,
+      "attributes": {
+        "formato": "Redonda 150cm",
+        "tablero": "Madera",
+        "color-patas": "Blanco"
+      },
+      "price": "5070",
+      "regular_price": "5070",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17704,
+      "attributes": {
+        "formato": "Redonda 150cm",
+        "tablero": "Madera",
+        "color-patas": "Aluminio"
+      },
+      "price": "5370",
+      "regular_price": "5370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17705,
+      "attributes": {
+        "formato": "Cuadrada 140cm",
+        "tablero": "Madera",
+        "color-patas": "Negro"
+      },
+      "price": "4760",
+      "regular_price": "4760",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17706,
+      "attributes": {
+        "formato": "Cuadrada 140cm",
+        "tablero": "Madera",
+        "color-patas": "Blanco"
+      },
+      "price": "4760",
+      "regular_price": "4760",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17707,
+      "attributes": {
+        "formato": "Cuadrada 140cm",
+        "tablero": "Madera",
+        "color-patas": "Aluminio"
+      },
+      "price": "5060",
+      "regular_price": "5060",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17708,
+      "attributes": {
+        "formato": "Esquina redonda 200x100cm",
+        "tablero": "Madera",
+        "color-patas": "Negro"
+      },
+      "price": "4980",
+      "regular_price": "4980",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17709,
+      "attributes": {
+        "formato": "Esquina redonda 200x100cm",
+        "tablero": "Madera",
+        "color-patas": "Blanco"
+      },
+      "price": "4980",
+      "regular_price": "4980",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17710,
+      "attributes": {
+        "formato": "Esquina redonda 200x100cm",
+        "tablero": "Madera",
+        "color-patas": "Aluminio"
+      },
+      "price": "5290",
+      "regular_price": "5290",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17711,
+      "attributes": {
+        "formato": "Esquina redonda 240x110cm",
+        "tablero": "Madera",
+        "color-patas": "Negro"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17712,
+      "attributes": {
+        "formato": "Esquina redonda 240x110cm",
+        "tablero": "Madera",
+        "color-patas": "Blanco"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17713,
+      "attributes": {
+        "formato": "Esquina redonda 240x110cm",
+        "tablero": "Madera",
+        "color-patas": "Aluminio"
+      },
+      "price": "6410",
+      "regular_price": "6410",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17714,
+      "attributes": {
+        "formato": "Esquina redonda 300x120cm",
+        "tablero": "Madera",
+        "color-patas": "Negro"
+      },
+      "price": "7370",
+      "regular_price": "7370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17715,
+      "attributes": {
+        "formato": "Esquina redonda 300x120cm",
+        "tablero": "Madera",
+        "color-patas": "Blanco"
+      },
+      "price": "7370",
+      "regular_price": "7370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17716,
+      "attributes": {
+        "formato": "Esquina redonda 300x120cm",
+        "tablero": "Madera",
+        "color-patas": "Aluminio"
+      },
+      "price": "7810",
+      "regular_price": "7810",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17717,
+      "attributes": {
+        "formato": "Rectangular 200x90cm",
+        "tablero": "Madera",
+        "color-patas": "Negro"
+      },
+      "price": "4740",
+      "regular_price": "4740",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17718,
+      "attributes": {
+        "formato": "Rectangular 200x90cm",
+        "tablero": "Madera",
+        "color-patas": "Blanco"
+      },
+      "price": "4740",
+      "regular_price": "4740",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17719,
+      "attributes": {
+        "formato": "Rectangular 200x90cm",
+        "tablero": "Madera",
+        "color-patas": "Aluminio"
+      },
+      "price": "5050",
+      "regular_price": "5050",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17720,
+      "attributes": {
+        "formato": "Rectangular 240x100cm",
+        "tablero": "Madera",
+        "color-patas": "Negro"
+      },
+      "price": "5740",
+      "regular_price": "5740",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17721,
+      "attributes": {
+        "formato": "Rectangular 240x100cm",
+        "tablero": "Madera",
+        "color-patas": "Blanco"
+      },
+      "price": "5740",
+      "regular_price": "5740",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17722,
+      "attributes": {
+        "formato": "Rectangular 240x100cm",
+        "tablero": "Madera",
+        "color-patas": "Aluminio"
+      },
+      "price": "6180",
+      "regular_price": "6180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17723,
+      "attributes": {
+        "formato": "Rectangular 300x120cm",
+        "tablero": "Madera",
+        "color-patas": "Negro"
+      },
+      "price": "7160",
+      "regular_price": "7160",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17724,
+      "attributes": {
+        "formato": "Rectangular 300x120cm",
+        "tablero": "Madera",
+        "color-patas": "Blanco"
+      },
+      "price": "7160",
+      "regular_price": "7160",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17725,
+      "attributes": {
+        "formato": "Rectangular 300x120cm",
+        "tablero": "Madera",
+        "color-patas": "Aluminio"
+      },
+      "price": "7800",
+      "regular_price": "7800",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11519,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

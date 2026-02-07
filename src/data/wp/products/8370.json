@@ -1,0 +1,177 @@
+{
+  "id": 8370,
+  "name": "Bow",
+  "slug": "bow",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bow/",
+  "date_created": "2024-08-04 22:56:49",
+  "date_modified": "2025-10-28 13:40:25",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<h1 class=\"product_title entry-title \"></h1>\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p class=\"caimi_design_txt_single\">Design King &amp; Miranda</p>\n</div>\n</div>\n<div class=\"woocommerce-product-details__short-description \">\n<p>Sistema de elementos fonoabsorbentes modulares y componibles, que se inspiran en las formas de los cascos de las embarcaciones. Ambos elementos están desarrollados aplicando la tecnología Snowsound y adquieren una configuración tridimensional. Esto crea una cámara de aire entre el panel y la pared incrementando, así, sus prestaciones acústicas. Los dos perfiles son componibles y pueden dar vida a combinaciones variadas. La tridimensionalidad de los paneles no solo aumenta las prestaciones acústicas, sino que además crea interesantes bajorrelieves y juegos de luz. Los elementos se sujetan, ya sea a la pared o al techo, mediante unos anclajes particulares, metálicos e imantados, que facilitan el posicionamiento y la extracción de los paneles.</p>\n</div>\n",
+  "short_description": "<h2>Design King &amp; Miranda</h2>\n",
+  "sku": "CAI-192",
+  "price": "298",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>360,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>421,08&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 360,58&nbsp;&euro; hasta 421,08&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8371,
+  "gallery_images": [
+    8372,
+    8373,
+    8374,
+    8375,
+    8376,
+    8377,
+    8378
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "Wall 73x36 cm",
+        "Ceiling 73x36 cm",
+        "Wall 97,5x44,5 cm",
+        "Ceiling 97,5x44,5 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 8379,
+      "attributes": {
+        "formato": "Wall 73x36 cm"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-192",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8371,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8380,
+      "attributes": {
+        "formato": "Ceiling 73x36 cm"
+      },
+      "price": "308",
+      "regular_price": "308",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-192",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8371,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8381,
+      "attributes": {
+        "formato": "Wall 97,5x44,5 cm"
+      },
+      "price": "338",
+      "regular_price": "338",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-192",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8371,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8382,
+      "attributes": {
+        "formato": "Ceiling 97,5x44,5 cm"
+      },
+      "price": "348",
+      "regular_price": "348",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-192",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8371,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": 6401,
+  "name": "BulStudio Box",
+  "slug": "bulstudio-box",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulstudio-box/",
+  "date_created": "2024-07-23 14:28:34",
+  "date_modified": "2025-10-28 12:58:39",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Consta de una sola caja que contiene 8 unidades de Wavewood Ultra Lite, 2 unidades de Multifuser DC3 y 2 tubos de pegamento para instalarlo todo, VicStudio Box es un kit acústico apropiado para tratar su Project Studio.</p>\n<p>Las soluciones acústicas siempre tendrán un impacto visual. El VicStudio Box se puede adquirir en tres acabados diferentes, para que tengas más opciones disponibles a la hora de decidir el aspecto que quieres para tu habitación.</p>\n",
+  "short_description": "<p>Kit compuesto por 8 Wavewood Ultra Lite + 2 Multifuser DC3 + 2 Flexi Glue Ultra.</p>\n",
+  "sku": "VIC-036",
+  "price": "756",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>914,76&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "21.4",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6399,
+    6398,
+    6401,
+    6400,
+    6177,
+    9851
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4851,
+  "gallery_images": [
+    4852,
+    4853,
+    4854
+  ],
+  "categories": [
+    478,
+    476,
+    403,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    346,
+    360,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        404,
+        505
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6414,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "756",
+      "regular_price": "756",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-036",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4851,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6415,
+      "attributes": {
+        "pa_color": "blanco-natural"
+      },
+      "price": "756",
+      "regular_price": "756",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-036",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4855,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6416,
+      "attributes": {
+        "pa_color": "roble-marron"
+      },
+      "price": "756",
+      "regular_price": "756",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-036",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4863,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

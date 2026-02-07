@@ -1,0 +1,437 @@
+{
+  "id": 8348,
+  "name": "Tri Bu",
+  "slug": "tri-bu",
+  "permalink": "https://wpadmin.buildmaster.dev/product/tri-bu/",
+  "date_created": "2024-08-04 21:49:45",
+  "date_modified": "2025-10-28 13:29:39",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<h1 class=\"product_title entry-title \">Tri Bu</h1>\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\"></div>\n</div>\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p class=\"caimi_design_txt_single\">Design Paola Navone &#8211; Otto Studio</p>\n</div>\n</div>\n<div class=\"woocommerce-product-details__short-description \">\n<p>Paneles fonoabsorbentes para pared realizados con tecnología Snowcustom. Tri Bu consta de cuatro elementos combinables entre sí que permiten crear distintas composiciones. Se colocan en la pared mediante anclajes imantados.</p>\n<p>”Cuatro elementos fonoabsorbentes de colores crean sobre las paredes grandes máscaras silenciosas que aúnan inspiración tribal y estética pop. Como en una original performance teatral, parecen dialogar entre ellas, jugando a capturar sonidos y ruidos.”<br />\n(Paola Navone)</p>\n</div>\n",
+  "short_description": "<h2>Design Paola Navone &#8211; Otto Studio</h2>\n",
+  "sku": "CAI-110",
+  "price": "866",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.047,86&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.882,22&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 1.047,86&nbsp;&euro; hasta 2.882,22&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8349,
+  "gallery_images": [
+    8350,
+    8351,
+    8352,
+    8354,
+    8353
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "7TRI1",
+        "7TRI2",
+        "7TRI3",
+        "7TRI4",
+        "7TRI5",
+        "7TRI6",
+        "7TRI7",
+        "7TRI8",
+        "7TRI9",
+        "7TRI10",
+        "7TRI11",
+        "7TRI12",
+        "7TRI13",
+        "7TRI14",
+        "7TRI15"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 8355,
+      "attributes": {
+        "modelo": "7TRI1"
+      },
+      "price": "2310",
+      "regular_price": "2310",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8356,
+      "attributes": {
+        "modelo": "7TRI2"
+      },
+      "price": "2084",
+      "regular_price": "2084",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8357,
+      "attributes": {
+        "modelo": "7TRI3"
+      },
+      "price": "2382",
+      "regular_price": "2382",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8358,
+      "attributes": {
+        "modelo": "7TRI4"
+      },
+      "price": "1164",
+      "regular_price": "1164",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8359,
+      "attributes": {
+        "modelo": "7TRI5"
+      },
+      "price": "1462",
+      "regular_price": "1462",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8360,
+      "attributes": {
+        "modelo": "7TRI6"
+      },
+      "price": "1190",
+      "regular_price": "1190",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8361,
+      "attributes": {
+        "modelo": "7TRI7"
+      },
+      "price": "1734",
+      "regular_price": "1734",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8362,
+      "attributes": {
+        "modelo": "7TRI8"
+      },
+      "price": "1314",
+      "regular_price": "1314",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8363,
+      "attributes": {
+        "modelo": "7TRI9"
+      },
+      "price": "866",
+      "regular_price": "866",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8364,
+      "attributes": {
+        "modelo": "7TRI10"
+      },
+      "price": "1226",
+      "regular_price": "1226",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8365,
+      "attributes": {
+        "modelo": "7TRI11"
+      },
+      "price": "954",
+      "regular_price": "954",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8366,
+      "attributes": {
+        "modelo": "7TRI12"
+      },
+      "price": "944",
+      "regular_price": "944",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8367,
+      "attributes": {
+        "modelo": "7TRI13"
+      },
+      "price": "892",
+      "regular_price": "892",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8368,
+      "attributes": {
+        "modelo": "7TRI14"
+      },
+      "price": "894",
+      "regular_price": "894",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8369,
+      "attributes": {
+        "modelo": "7TRI15"
+      },
+      "price": "1190",
+      "regular_price": "1190",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-110",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8349,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

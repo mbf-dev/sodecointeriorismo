@@ -1,0 +1,18 @@
+{
+  "id": 9019,
+  "src": "/wp-content/uploads/2024/08/IMG_2302-1600w.avif",
+  "width": 137,
+  "height": 1080,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAgCAIAAAC6rk4JAAAACXBIWXMAAAsTAAALEwEAmpwYAAABJ0lEQVR4nE3QSUvDUBAA4PlfXlV6cPkp1dJQEC9etW4oFo+CStGjYOmxILRIaS1iU9ukWbuYNGnExJRsIy95pM5pPmbem2FgMpkiYhRFiAg8zyOSbFypgiCIGIaI2M1sw6DPubY9Wyw661vQbr25tj0PgvrKGrAs+2NZuvvbXt0EQaRvepkN4Dge43+lm1vQ9RnGESECphGG/4AInufFTfE6kiSTlgTy9Ou7867ePxAo5tx4eh5m8wSD0bh5dc3n9wg+VbV2dNLfYQgETePuykMmriimaVaqtE1UFFfTrW6PwHGc5QbJeHqQNCMwDHN5qo9my9G0xNDYPxAvSgS+D/VcQS6eUdSyjJjiZbcgHZ9TNHKMfFikeD29HJUfCYIAZEXxfT8Z+gd951Ma0AxgxQAAAABJRU5ErkJggg==",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2024/08/IMG_2302-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2024/08/IMG_2302-1600w.webp 1600w"
+    }
+  ]
+}

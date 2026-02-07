@@ -1,0 +1,234 @@
+{
+  "id": 9852,
+  "name": "Flexiwood Ultra Lite",
+  "slug": "flexiwood-ultra-lite",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flexiwood-ultra-lite/",
+  "date_created": "2024-08-20 15:40:55",
+  "date_modified": "2025-06-21 13:27:33",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Absorbente y reflector para frecuencias medias y medias-bajas con acabado laminado de alta presión. Caja de 6 unidades</p>\n",
+  "short_description": "",
+  "sku": "",
+  "price": "749",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>906,29&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4685,
+  "gallery_images": [
+    4686,
+    4687,
+    4688
+  ],
+  "categories": [
+    395,
+    390
+  ],
+  "tags": [
+    329,
+    346,
+    330,
+    331
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        433,
+        508,
+        432,
+        505,
+        504,
+        529
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "6 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9986,
+      "attributes": {
+        "pa_color": "negro-mate",
+        "caja": "6 Unidades"
+      },
+      "price": "749",
+      "regular_price": "749",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4692,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9981,
+      "attributes": {
+        "pa_color": "blanco-mate",
+        "caja": "6 Unidades"
+      },
+      "price": "749",
+      "regular_price": "749",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4693,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9982,
+      "attributes": {
+        "pa_color": "wenge-oscuro",
+        "caja": "6 Unidades"
+      },
+      "price": "749",
+      "regular_price": "749",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4694,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9983,
+      "attributes": {
+        "pa_color": "roble-marron",
+        "caja": "6 Unidades"
+      },
+      "price": "749",
+      "regular_price": "749",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4695,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9984,
+      "attributes": {
+        "pa_color": "cereza-locarno",
+        "caja": "6 Unidades"
+      },
+      "price": "749",
+      "regular_price": "749",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4700,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9985,
+      "attributes": {
+        "pa_color": "roble-natural",
+        "caja": "6 Unidades"
+      },
+      "price": "749",
+      "regular_price": "749",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4685,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

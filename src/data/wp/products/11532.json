@@ -1,0 +1,149 @@
+{
+  "id": 11532,
+  "name": "Linear",
+  "slug": "linear-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/linear-2/",
+  "date_created": "2024-09-23 11:30:35",
+  "date_modified": "2025-10-28 13:11:47",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Contenedor de acero barnizado con polvos epoxi. Su peculiar geometría permite situarlo tanto cerca de la pared, de manera que pasa prácticamente desapercibido, como en configuraciones formadas por varios elementos para crear “islas” dedicadas a la recogida selectiva de residuos. Tres tonalidades diferentes enriquecen los matices cromáticos, jugando también con las tapaderas disponibles en colores combinados o en contraste.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-011",
+  "price": "495.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>598,95&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 11473,
+  "gallery_images": [
+    11474,
+    11475,
+    11476,
+    11477,
+    11478
+  ],
+  "categories": [
+    477,
+    475,
+    481,
+    492
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        410,
+        406,
+        409
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12128,
+      "attributes": {
+        "pa_color": "beige"
+      },
+      "price": "495.00",
+      "regular_price": "495.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-011",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11473,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12129,
+      "attributes": {
+        "pa_color": "gris"
+      },
+      "price": "495.00",
+      "regular_price": "495.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-011",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11473,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12130,
+      "attributes": {
+        "pa_color": "verde-mus"
+      },
+      "price": "495.00",
+      "regular_price": "495.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-011",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11473,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

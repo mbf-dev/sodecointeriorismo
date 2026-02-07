@@ -1,0 +1,202 @@
+{
+  "id": 6439,
+  "name": "Flat Panel PET HD",
+  "slug": "flat-panel-pet-hd",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flat-panel-pet-hd/",
+  "date_created": "2024-07-23 14:29:51",
+  "date_modified": "2025-11-19 13:58:46",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Panel acústico de PET de alta densidad producido principalmente de plástico reciclado, altamente resistente y con los lados del mismo color que el panel. Caja 8 unidades</p>\n",
+  "short_description": "",
+  "sku": "VIC-025",
+  "price": "1304.8",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.578,81&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4733,
+  "gallery_images": [
+    4721,
+    4722,
+    4734,
+    4735
+  ],
+  "categories": [
+    395,
+    477,
+    475,
+    402,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    329,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406,
+        407,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "2800x1200x12"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "8 unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6671,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "2800x1200x12",
+        "caja": "8 unidades"
+      },
+      "price": "1304.8",
+      "regular_price": "1304.8",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-025",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4736,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6668,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "2800x1200x12",
+        "caja": "8 unidades"
+      },
+      "price": "1304.8",
+      "regular_price": "1304.8",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-025",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4745,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6669,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "tamano": "2800x1200x12",
+        "caja": "8 unidades"
+      },
+      "price": "1304.8",
+      "regular_price": "1304.8",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-025",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4733,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6670,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "2800x1200x12",
+        "caja": "8 unidades"
+      },
+      "price": "1304.8",
+      "regular_price": "1304.8",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-025",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4746,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 4096,
+  "src": "/wp-content/uploads/2024/06/IMG_0464-1600w.avif",
+  "width": 764,
+  "height": 1080,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAGCAIAAABrW6giAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAV0lEQVR4nGPw83Vzc3MMDvFv6+xgKCnOCI8OrKjP23N4E8PcuVNLK/NyylJ7pzYzrN+wsrunuagit7W9nuHg3i3FxflR0RFx8dEMZRWlAcFBHr7eIaHBAP6VIJ/WMDvWAAAAAElFTkSuQmCC",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2024/06/IMG_0464-640w.avif 640w, /wp-content/uploads/2024/06/IMG_0464-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2024/06/IMG_0464-640w.webp 640w, /wp-content/uploads/2024/06/IMG_0464-1600w.webp 1600w"
+    }
+  ]
+}

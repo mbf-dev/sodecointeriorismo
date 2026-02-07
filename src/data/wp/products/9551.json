@@ -1,0 +1,370 @@
+{
+  "id": 9551,
+  "name": "Pegaso infinito",
+  "slug": "pegaso-infinito",
+  "permalink": "https://wpadmin.buildmaster.dev/product/pegaso-infinito/",
+  "date_created": "2024-08-13 18:18:42",
+  "date_modified": "2025-10-28 13:14:01",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Mesa con estructura de aluminio y superficie de vidrio templado y pulido transparente. El enganche de las superficies a la estructura se realiza mediante discos especiales de acero inoxidable que están pegados a la superficie.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design Angelotti &amp; Cardile</h2>\n",
+  "sku": "CAI-030",
+  "price": "2490",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>3.012,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>7.235,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 3.012,90&nbsp;&euro; hasta 7.235,80&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    9507,
+    9233,
+    8648,
+    9539,
+    6755,
+    9246,
+    9654,
+    9122,
+    9546,
+    11512
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9552,
+  "gallery_images": [
+    9553
+  ],
+  "categories": [
+    491,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "140x90cm",
+        "140x120cm",
+        "160x90cm",
+        "160x120cm",
+        "180x90cm",
+        "180x120cm",
+        "280x90cm",
+        "280x120cm",
+        "320x90cm",
+        "320x120cm",
+        "360x90cm",
+        "360x120cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 17533,
+      "attributes": {
+        "tamano": "140x90cm"
+      },
+      "price": "2490",
+      "regular_price": "2490",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17534,
+      "attributes": {
+        "tamano": "140x120cm"
+      },
+      "price": "2790",
+      "regular_price": "2790",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17535,
+      "attributes": {
+        "tamano": "160x90cm"
+      },
+      "price": "2640",
+      "regular_price": "2640",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17536,
+      "attributes": {
+        "tamano": "160x120cm"
+      },
+      "price": "2940",
+      "regular_price": "2940",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17537,
+      "attributes": {
+        "tamano": "180x90cm"
+      },
+      "price": "2790",
+      "regular_price": "2790",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17538,
+      "attributes": {
+        "tamano": "180x120cm"
+      },
+      "price": "2980",
+      "regular_price": "2980",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17539,
+      "attributes": {
+        "tamano": "280x90cm"
+      },
+      "price": "4990",
+      "regular_price": "4990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17540,
+      "attributes": {
+        "tamano": "280x120cm"
+      },
+      "price": "5590",
+      "regular_price": "5590",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17541,
+      "attributes": {
+        "tamano": "320x90cm"
+      },
+      "price": "5330",
+      "regular_price": "5330",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17542,
+      "attributes": {
+        "tamano": "320x120cm"
+      },
+      "price": "5930",
+      "regular_price": "5930",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17543,
+      "attributes": {
+        "tamano": "360x90cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17544,
+      "attributes": {
+        "tamano": "360x120cm"
+      },
+      "price": "5980",
+      "regular_price": "5980",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

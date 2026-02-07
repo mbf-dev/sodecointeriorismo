@@ -1,0 +1,496 @@
+{
+  "id": 9026,
+  "name": "Snowall Maxi",
+  "slug": "snowall-maxi",
+  "permalink": "https://wpadmin.buildmaster.dev/product/snowall-maxi/",
+  "date_created": "2024-08-11 20:29:45",
+  "date_modified": "2025-10-28 13:27:19",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Paneles fonoabsorbentes flexibles para colocar en la pared. Los paneles constan de fibras de poliéster revestidas mediante un especial sistema de fijación en caliente con tejido Snowsound Fiber 3 Melange. Los paneles pueden colocarse en la pare, unos al lado de otros, manteniendo la continuidad del diseño, o pueden cortarse en fábrica para amoldarse a las diversas necesidades de instalación.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-103",
+  "price": "488",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>590,48&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8694,
+    8206,
+    8661,
+    8689,
+    8666,
+    8672,
+    8185,
+    8681,
+    7574,
+    9020,
+    8591
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9027,
+  "gallery_images": [
+    9028,
+    9029
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    469
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "288x120cm(3,45m2)"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 11079,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11080,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11081,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11082,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11083,
+      "attributes": {
+        "pa_textura": "melangue-307",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11084,
+      "attributes": {
+        "pa_textura": "melangue-306",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11085,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11086,
+      "attributes": {
+        "pa_textura": "melangue-304",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11087,
+      "attributes": {
+        "pa_textura": "melangue-303",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11088,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 11089,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9750,
+      "attributes": {
+        "pa_textura": "melangue-312",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9751,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9752,
+      "attributes": {
+        "pa_textura": "melangue-314",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9753,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9754,
+      "attributes": {
+        "pa_textura": "melangue-316",
+        "dimension": "288x120cm(3,45m2)"
+      },
+      "price": "488",
+      "regular_price": "488",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-103",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9027,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

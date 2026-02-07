@@ -1,0 +1,168 @@
+{
+  "id": 9392,
+  "name": "Duo",
+  "slug": "duo",
+  "permalink": "https://wpadmin.buildmaster.dev/product/duo/",
+  "date_created": "2024-08-13 10:01:32",
+  "date_modified": "2025-10-28 13:17:55",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Perchero de pared modular en tecnopolímero.</p>\n",
+  "short_description": "<h2>Design Angelotti &amp; Cardile</h2>\n<p>Perchero de pared modular en tecnopolímero.</p>\n",
+  "sku": "CAI-050",
+  "price": "39.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>47,19&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9393,
+  "gallery_images": [
+    9394,
+    9395
+  ],
+  "categories": [
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        410,
+        422,
+        404,
+        409
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12291,
+      "attributes": {
+        "pa_color": "beige"
+      },
+      "price": "39.00",
+      "regular_price": "39.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-050",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9393,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12292,
+      "attributes": {
+        "pa_color": "blanco"
+      },
+      "price": "39.00",
+      "regular_price": "39.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-050",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9393,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12293,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "39.00",
+      "regular_price": "39.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-050",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9393,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12294,
+      "attributes": {
+        "pa_color": "verde-mus"
+      },
+      "price": "39.00",
+      "regular_price": "39.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-050",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9393,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

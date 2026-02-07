@@ -1,0 +1,198 @@
+{
+  "id": 8029,
+  "name": "Surf",
+  "slug": "surf",
+  "permalink": "https://wpadmin.buildmaster.dev/product/surf/",
+  "date_created": "2024-08-04 01:03:53",
+  "date_modified": "2025-10-28 13:30:35",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Paneles fonoabsorbentes con superficie frontal plana, realizados con tecnología Snowsound. Los paneles pueden colocarse directamente en la pared o bien suspenderse del techo utilizando 4 cables regulables en altura. El panel para techo también está disponible en su versión con abertura central cuadrada para la colocación de los diversos cuerpos luminosos o plafones disponibles en el mercado.</p>\n",
+  "short_description": "<p style=\"text-align: left;\">Paneles fonoabsorbentes con superficie frontal plana, realizados con tecnología Snowsound. Los paneles pueden colocarse directamente en la pared o bien suspenderse del techo.</p>\n",
+  "sku": "CAI-118",
+  "price": "698",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>844,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8711,
+    8858,
+    8114,
+    11531,
+    8794,
+    8740,
+    8756,
+    8029,
+    8733,
+    8917
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8030,
+  "gallery_images": [
+    8031,
+    8034,
+    8033,
+    8035,
+    8032
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    470,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "Sin abertura central",
+        "Con abertura central"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 8036,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "formato": "Sin abertura central"
+      },
+      "price": "698",
+      "regular_price": "698",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-118",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8030,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8037,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "formato": "Con abertura central"
+      },
+      "price": "698",
+      "regular_price": "698",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-118",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8030,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8038,
+      "attributes": {
+        "pa_color": "gris",
+        "formato": "Sin abertura central"
+      },
+      "price": "698",
+      "regular_price": "698",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-118",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8030,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8039,
+      "attributes": {
+        "pa_color": "gris",
+        "formato": "Con abertura central"
+      },
+      "price": "698",
+      "regular_price": "698",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-118",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8030,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

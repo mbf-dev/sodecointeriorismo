@@ -1,0 +1,145 @@
+{
+  "id": 17912,
+  "name": "Industrial Gym",
+  "slug": "industrial-gym",
+  "permalink": "https://wpadmin.buildmaster.dev/product/industrial-gym/",
+  "date_created": "2025-06-03 14:07:46",
+  "date_modified": "2025-10-28 13:10:54",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Panel fonoabsorbente elaborado en poliéster en densidad variable con tacos metálicos que permiten un anclaje especialmente resistente para paredes o techos. Estos paneles están diseñados específicamente para ser utilizados en gimnasios (Norma DIN 18032-3:2023 y UNI EN 13964:2014). Gracias a sus características específicas de fijación, se prestan a usos que generalmente requieren de una mayor robustez. (Fijaciones incluidas, tornillos excluidos)</p>\n",
+  "short_description": "",
+  "sku": "CAI-004",
+  "price": "512",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>619,52&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 17915,
+  "gallery_images": [
+    17913,
+    17914
+  ],
+  "categories": [
+    395,
+    477,
+    475,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    466
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        422,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensiones",
+      "slug": "Dimensiones",
+      "options": [
+        "160x120cm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 17916,
+      "attributes": {
+        "pa_color": "blanco",
+        "dimensiones": "160x120cm",
+        "caja": "2 Unidades"
+      },
+      "price": "512",
+      "regular_price": "512",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-004",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17915,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17917,
+      "attributes": {
+        "pa_color": "negro",
+        "dimensiones": "160x120cm",
+        "caja": "2 Unidades"
+      },
+      "price": "512",
+      "regular_price": "512",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-004",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17915,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

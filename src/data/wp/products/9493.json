@@ -1,0 +1,117 @@
+{
+  "id": 9493,
+  "name": "Set umbrella bags",
+  "slug": "set-umbrella-bags",
+  "permalink": "https://wpadmin.buildmaster.dev/product/set-umbrella-bags/",
+  "date_created": "2024-08-13 11:49:14",
+  "date_modified": "2025-10-28 13:14:51",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p><span lang=\"EN-GB\">SET está formada por un poste de acero inoxidable satinado con base circular, disponible con acabados en acero inoxidable satinado o recubierta en color negro gofrado. Con percha para fundas de paraguas en acero inoxidable satinado.<br />\n</span></p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-038",
+  "price": "218",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>263,78&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>275,88&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 263,78&nbsp;&euro; hasta 275,88&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9494,
+  "gallery_images": [],
+  "categories": [
+    481,
+    493
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Color",
+      "slug": "Color",
+      "options": [
+        "Negro",
+        "Acero"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12533,
+      "attributes": {
+        "color": "Negro"
+      },
+      "price": "218",
+      "regular_price": "218",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-038",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9494,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12534,
+      "attributes": {
+        "color": "Acero"
+      },
+      "price": "228",
+      "regular_price": "228",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-038",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9494,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

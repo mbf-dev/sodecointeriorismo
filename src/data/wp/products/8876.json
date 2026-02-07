@@ -1,0 +1,315 @@
+{
+  "id": 8876,
+  "name": "Mitesco Totem",
+  "slug": "mitesco-totem",
+  "permalink": "https://wpadmin.buildmaster.dev/product/mitesco-totem/",
+  "date_created": "2024-08-11 12:02:33",
+  "date_modified": "2025-10-28 13:36:49",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>El Tótem Mitesco está compuesto por una estructura de acero a la que se fijan 1 o 2 paneles acústicos Mitesco. La base de la estructura está hecha de hierro fundido barnizado con polvo epoxídico.</p>\n",
+  "short_description": "<h2>Design Michele De Lucchi</h2>\n",
+  "sku": "CAI-162",
+  "price": "709",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>857,89&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8877,
+  "gallery_images": [
+    8878,
+    8879,
+    8880
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    472
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        622,
+        615,
+        614,
+        610,
+        613,
+        612,
+        616,
+        621,
+        617,
+        618
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12826,
+      "attributes": {
+        "pa_textura": "6071-azul"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12827,
+      "attributes": {
+        "pa_textura": "amarillo-3008"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12828,
+      "attributes": {
+        "pa_textura": "beige-1008"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12829,
+      "attributes": {
+        "pa_textura": "bianco-0001"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12830,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12831,
+      "attributes": {
+        "pa_textura": "gris-plata-8004"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12832,
+      "attributes": {
+        "pa_textura": "naranja-4030"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12833,
+      "attributes": {
+        "pa_textura": "negro-8033"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12834,
+      "attributes": {
+        "pa_textura": "rojo-4027"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12835,
+      "attributes": {
+        "pa_textura": "verde-claro-7004"
+      },
+      "price": "709",
+      "regular_price": "709",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-162",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8877,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 ---
-
 import ThemeController from "./header/ThemeController.astro";
 import UserButton from './header/UserButton.svelte';
+import MobileMenu from './header/MobileMenu.svelte';
 import MobileSearchButton from './header/MobileSearchButton.svelte';
 import WishlistButton from './header/WishlistButton.svelte';
 import CartButton from './header/CartButton.svelte';
@@ -9,21 +9,32 @@ import DesktopSearchBar from './header/DesktopSearchBar.svelte';
 import CategoryMenu from './header/CategoryMenu.svelte';
 import Logo from './header/Logo.astro';
 
+// Import Menus Data
+import menusData from '../data/wp/menus.json';
+
+interface MenuItem {
+  id: number;
+  title: string;
+  url: string;
+  target?: string;
+  classes?: string;
+  children?: MenuItem[];
+}
+
+const menuItems: MenuItem[] = (menusData.header_menu as MenuItem[]) || [];
 ---
 
 <header class="w-full">
   <!-- Top Section / Mobile Header -->
-  <div class="container flex items-center justify-between py-6">
+  <div class="container flex items-center justify-between py-6 overflow-visible">
     <!-- Mobile Menu Toggle -->
     <div class="lg:hidden mr-3">
-      <button class="btn btn-ghost btn-square hover:bg-base-200 border-0">
-        <span class="icon-[iconamoon--menu-burger-horizontal-light] size-7"></span>
-      </button>
+      <MobileMenu client:visible />
     </div>
 
     <!-- Logo -->
     <div class="flex flex-1 justify-start  gap-10">
-      <Logo />
+      <Logo imageClass="min-w-12 w-auto h-12" />
       <!-- Desktop Search Bar -->
       <DesktopSearchBar client:idle />
     </div>
@@ -44,28 +55,32 @@ import Logo from './header/Logo.astro';
 
   <!-- Bottom Section (Desktop Navigation) -->
 
-  <div class="container md:block hidden">
+  <div class="container md:block hidden overflow-visible  ">
     <nav class="bg-neutral text-neutral-content flex h-16 items-center rounded-lg px-4">
       <CategoryMenu client:idle />
       <ul class="flex items-center space-x-8 px-8 font-medium whitespace-nowrap">
-        <li>
-          <a href="#" class="hover:text-primary text-sm transition-colors">Paneles Acústicos</a>
-        </li>
-        <li>
-          <a href="#" class="hover:text-primary text-sm transition-colors">Mobiliario</a>
-        </li>
-        <li>
-          <a href="#" class="text-primary text-sm transition-colors">Presupuesto</a>
-        </li>
-        <li>
-          <a href="#" class="hover:text-primary text-sm transition-colors">Sobre Nosotros</a>
-        </li>
-        <li>
-          <a href="#" class="hover:text-primary text-sm transition-colors">Contacto</a>
-        </li>
-        <li>
-          <a href="#" class="hover:text-primary text-sm transition-colors">Mi Cuenta</a>
-        </li>
+        {menuItems.map((item) => (
+          <li>
+            <a 
+              href={item.url} 
+              class={`hover:text-primary text-sm transition-colors ${item.classes}`}
+              target={item.target || "_self"}
+            >
+              {item.title}
+            </a>
+            {/* Simple Dropdown Support Example */}
+            {item.children && item.children.length > 0 && (
+               <ul class="hidden group-hover:block absolute bg-base-100 text-base-content p-2 shadow rounded">
+                  {item.children.map(child => (
+                    <li><a href={child.url} class="block p-2 hover:bg-base-200">{child.title}</a></li>
+                  ))}
+               </ul>
+            )}
+          </li>
+        ))}
+        {menuItems.length === 0 && (
+             <li><span class="opacity-50 text-sm">Menú no configurado</span></li>
+        )}
       </ul>
     </nav>
   </div>

@@ -1,0 +1,513 @@
+{
+  "id": 8666,
+  "name": "Fiber 3 Melangue",
+  "slug": "fiber-3-melangue",
+  "permalink": "https://wpadmin.buildmaster.dev/product/fiber-3-melangue/",
+  "date_created": "2024-08-10 18:38:55",
+  "date_modified": "2025-10-28 13:33:07",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>FIBER 3 – tejido acústico con tacto de “lana”, obtenido empleando un conjunto de hilados compuestos por fibras claras y oscuras que posteriormente se tiñe en pieza logrando un efecto tweed. El tejido no presenta una dirección concreta, por lo que se puede trabajar y cortar siguiendo formas diversas.<br />\nMELANGE-TWEED – este tejido se obtiene mediante un ligamento formado por un conjunto de hilados de distintos colores cuyas fibras han sido mezcladas antes de la hilatura para conseguir un efecto fusionado y difuminado. Tweed hace referencia a una lana específica proveniente de Escocia, suave y cálida.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-139",
+  "price": "1420",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.718,20&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8694,
+    8206,
+    8661,
+    8689,
+    8672,
+    8185,
+    8681,
+    7574,
+    9020,
+    9026,
+    8591
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8667,
+  "gallery_images": [
+    8668,
+    8669,
+    8670,
+    8671,
+    11036,
+    11037,
+    11038,
+    11039,
+    11040,
+    11041,
+    11042,
+    11043,
+    11044,
+    11045,
+    11046,
+    11047,
+    11048,
+    11049,
+    11050,
+    11051
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    469
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "140cm x 25m"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9781,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9782,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9783,
+      "attributes": {
+        "pa_textura": "melangue-303",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9784,
+      "attributes": {
+        "pa_textura": "melangue-304",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9785,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9786,
+      "attributes": {
+        "pa_textura": "melangue-306",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9787,
+      "attributes": {
+        "pa_textura": "melangue-307",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9788,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9789,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9790,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9791,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9792,
+      "attributes": {
+        "pa_textura": "melangue-312",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9794,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9793,
+      "attributes": {
+        "pa_textura": "melangue-314",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9795,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9796,
+      "attributes": {
+        "pa_textura": "melangue-316",
+        "dimension": "140cm x 25m"
+      },
+      "price": "1420",
+      "regular_price": "1420",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-139",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8667,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

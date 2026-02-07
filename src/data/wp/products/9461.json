@@ -1,0 +1,123 @@
+{
+  "id": 9461,
+  "name": "Speech Lectern",
+  "slug": "speech-lectern",
+  "permalink": "https://wpadmin.buildmaster.dev/product/speech-lectern/",
+  "date_created": "2024-08-13 11:27:30",
+  "date_modified": "2025-10-28 13:17:10",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>El atril se caracteriza por tener una misma base de aluminio brillante montada sobre ruedas con freno y estructura portante de acero cromado. El atril se puede complementar con una bandeja para el alojamiento de cables con anillos pasacables de tecnopolimero aplicables a la estructura.<br />\nAmplia y variada gama de accesorios diseñada para brindar dentro de una única línea conjuntada, la solución a todas las necesidades de entornos polifuncionales como salas de reunión y aulas de enseñanza.</p>\n",
+  "short_description": "<h2>Design Angelotti &amp; Cardile</h2>\n",
+  "sku": "CAI-043",
+  "price": "758",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>917,18&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9462,
+  "gallery_images": [
+    9463,
+    9464,
+    9465,
+    9466
+  ],
+  "categories": [
+    483,
+    481,
+    498
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 13840,
+      "attributes": {
+        "pa_color": "blanco-natural"
+      },
+      "price": "758",
+      "regular_price": "758",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-043",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9462,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 13841,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "758",
+      "regular_price": "758",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-043",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9462,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

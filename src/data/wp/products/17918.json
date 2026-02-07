@@ -1,0 +1,147 @@
+{
+  "id": 17918,
+  "name": "Clover",
+  "slug": "clover",
+  "permalink": "https://wpadmin.buildmaster.dev/product/clover/",
+  "date_created": "2025-06-03 14:28:16",
+  "date_modified": "2025-10-28 13:10:46",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Clover es un elemento tridimensional de poliéster para absorción de sonido que consta de tres paneles curvados cóncavamente que se entrelazan en los extremos y están unidos por articulaciones metálicas. Los elementos se pueden fijar a la pared con imanes o colgar en el techo con cables de acero ajustables en altura. Se pueden combinar infinitamente y siempre permiten configuraciones nuevas y creativas.</p>\n",
+  "short_description": "",
+  "sku": "CAI-003",
+  "price": "695",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>840,95&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>943,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 840,95&nbsp;&euro; hasta 943,80&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 17922,
+  "gallery_images": [
+    17921,
+    17920,
+    17919
+  ],
+  "categories": [
+    395,
+    477,
+    475,
+    476,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    466
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        422
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "Pared",
+        "Techo"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "73x68 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 17923,
+      "attributes": {
+        "pa_color": "blanco",
+        "modelo": "Pared",
+        "tamano": "73x68 cm"
+      },
+      "price": "695",
+      "regular_price": "695",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-003",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17922,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17924,
+      "attributes": {
+        "pa_color": "blanco",
+        "modelo": "Techo",
+        "tamano": "73x68 cm"
+      },
+      "price": "780",
+      "regular_price": "780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-003",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17922,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

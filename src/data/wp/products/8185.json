@@ -1,0 +1,329 @@
+{
+  "id": 8185,
+  "name": "Fiber 7 Velo",
+  "slug": "fiber-7-velo",
+  "permalink": "https://wpadmin.buildmaster.dev/product/fiber-7-velo/",
+  "date_created": "2024-08-04 19:50:55",
+  "date_modified": "2025-10-28 13:30:03",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>FIBER 7 – Tejido acústico lígero y semi-transparente, satinado y brillante, caracterizado por una fina textura de color liso, con colores suavemente flameados. El efecto “VELO” elimina las barreras visuales entre exteriores e interiores. El tejido presenta dos caras distintas: una mate hacia el interior de la habitación y otra brillante mirando hacia la ventana para mejorar el confort térmico y la sostenibilidad energética.</p>\n",
+  "short_description": "<p>Tejido acústico lígero y semi-transparente, satinado y brillante. Rollo 25m x 330 cm</p>\n",
+  "sku": "CAI-114",
+  "price": "2975",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>3.599,75&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8694,
+    8206,
+    8661,
+    8689,
+    8666,
+    8672,
+    8681,
+    7574,
+    9020,
+    9026,
+    8591
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8186,
+  "gallery_images": [
+    8187,
+    8188,
+    11000,
+    10999,
+    11001,
+    11004,
+    11003,
+    10998,
+    10996,
+    11002,
+    10997
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    469
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "Rollo 25m x 330 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 8197,
+      "attributes": {
+        "pa_textura": "velo-700",
+        "formato": "Rollo 25m x 330 cm"
+      },
+      "price": "2975",
+      "regular_price": "2975",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-114",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8186,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8198,
+      "attributes": {
+        "pa_textura": "velo-701",
+        "formato": "Rollo 25m x 330 cm"
+      },
+      "price": "2975",
+      "regular_price": "2975",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-114",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8186,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8199,
+      "attributes": {
+        "pa_textura": "velo-702",
+        "formato": "Rollo 25m x 330 cm"
+      },
+      "price": "2975",
+      "regular_price": "2975",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-114",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8186,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8200,
+      "attributes": {
+        "pa_textura": "velo-703",
+        "formato": "Rollo 25m x 330 cm"
+      },
+      "price": "2975",
+      "regular_price": "2975",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-114",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8186,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8201,
+      "attributes": {
+        "pa_textura": "velo-704",
+        "formato": "Rollo 25m x 330 cm"
+      },
+      "price": "2975",
+      "regular_price": "2975",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-114",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8186,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8202,
+      "attributes": {
+        "pa_textura": "velo-705",
+        "formato": "Rollo 25m x 330 cm"
+      },
+      "price": "2975",
+      "regular_price": "2975",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-114",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8186,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8203,
+      "attributes": {
+        "pa_textura": "velo-706",
+        "formato": "Rollo 25m x 330 cm"
+      },
+      "price": "2975",
+      "regular_price": "2975",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-114",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8186,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8204,
+      "attributes": {
+        "pa_textura": "velo-707",
+        "formato": "Rollo 25m x 330 cm"
+      },
+      "price": "2975",
+      "regular_price": "2975",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-114",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8186,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8205,
+      "attributes": {
+        "pa_textura": "velo-708",
+        "formato": "Rollo 25m x 330 cm"
+      },
+      "price": "2975",
+      "regular_price": "2975",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-114",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8186,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

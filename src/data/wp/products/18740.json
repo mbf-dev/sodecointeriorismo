@@ -1,0 +1,68 @@
+{
+  "id": 18740,
+  "name": "BulFoam Square",
+  "slug": "bulfoam-square",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulfoam-square/",
+  "date_created": "2025-11-14 18:54:53",
+  "date_modified": "2025-11-18 13:49:03",
+  "type": "simple",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "",
+  "short_description": "<p><b>Caja</b>: 6 Unidades</p>\n<p><strong>Dimensiones:</strong> 595x595x40mm</p>\n",
+  "sku": "",
+  "price": "204",
+  "regular_price": "204",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>246,84&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 18744,
+  "gallery_images": [],
+  "categories": [
+    478,
+    477,
+    476
+  ],
+  "tags": [
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "6 Unidades"
+      ],
+      "valiation": false,
+      "visible": true
+    }
+  ]
+}

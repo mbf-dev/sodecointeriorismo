@@ -1,0 +1,157 @@
+{
+  "id": 11531,
+  "name": "Opera",
+  "slug": "opera-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/opera-2/",
+  "date_created": "2024-09-23 11:29:53",
+  "date_modified": "2025-10-28 13:11:53",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Luminaria colgante de forma esférica realizada en tecnopolímero traslúcido. Dotada de cables de suspensión de altura regulable, disponible en tres dimensiones distintas. La peculiaridad de este objeto radica en el desalineamiento entre el cable de alimentación y el de suspensión, que confiere una agradable asimetría al producto.</p>\n",
+  "short_description": "",
+  "sku": "CAI-012",
+  "price": "287.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>347,27&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>384,78&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 347,27&nbsp;&euro; hasta 384,78&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8711,
+    8858,
+    8067,
+    8114,
+    8740,
+    8756,
+    8029,
+    8733,
+    8917
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 11480,
+  "gallery_images": [
+    11481,
+    11482,
+    11483
+  ],
+  "categories": [
+    477,
+    475,
+    470,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "20cm",
+        "30cm",
+        "45cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12061,
+      "attributes": {
+        "tamano": "20cm"
+      },
+      "price": "287.00",
+      "regular_price": "287.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11480,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12062,
+      "attributes": {
+        "tamano": "30cm"
+      },
+      "price": "298.00",
+      "regular_price": "298.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11480,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12063,
+      "attributes": {
+        "tamano": "45cm"
+      },
+      "price": "318.00",
+      "regular_price": "318.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-012",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11480,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 18744,
+  "src": "/wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-14-a-las-18.56.11-1-1600w.webp",
+  "width": 1080,
+  "height": 1080,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAIAAAAmkwkpAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAO0lEQVR4nGM4cuRIfn5+X1/f3bt3GTZv3qyjo6Otrb1+/XqGTZs2aYLB2rVrGQ4cOJCcnNzU1HTz5k0AndYZkyg/2P4AAAAASUVORK5CYII=",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-14-a-las-18.56.11-1-640w.avif 640w, /wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-14-a-las-18.56.11-1-1024w.avif 1024w, /wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-14-a-las-18.56.11-1-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-14-a-las-18.56.11-1-640w.webp 640w, /wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-14-a-las-18.56.11-1-1024w.webp 1024w, /wp-content/uploads/2025/11/Captura-de-pantalla-2025-11-14-a-las-18.56.11-1-1600w.webp 1600w"
+    }
+  ]
+}

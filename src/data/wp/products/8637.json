@@ -1,0 +1,876 @@
+{
+  "id": 8637,
+  "name": "Snowpouf",
+  "slug": "snowpouf",
+  "permalink": "https://wpadmin.buildmaster.dev/product/snowpouf/",
+  "date_created": "2024-08-06 19:45:02",
+  "date_modified": "2025-10-28 13:39:10",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<h2 class=\"caimi_design_txt_single\">Design Paola Navone &#8211; Otto Studio</h2>\n</div>\n</div>\n<div class=\"woocommerce-product-details__short-description \">\n<p>Confortables elementos fonoabsorbentes, tapizados con tejido Snowsound Fiber 3 Melange, compuestos con un relleno de tecnopolímeros fonoabsorbentes y material derivado de la madera. La colleción Snowpouf incluye puf de varias medidas y una mesita de café con tablero de madera de roble claro. Snowpouf se puede desplazar fácilmente gracias a una elegante cinta de tela. En las versiones de una plaza, dos plazas, ovalado y mesita, Snowpouf se propone también tapizado con los nuevos tejidos Snowsound Fiber 12 ECONYL®.</p>\n</div>\n",
+  "short_description": "<h2 class=\"caimi_design_txt_single\">Design Paola Navone &#8211; Otto Studio</h2>\n",
+  "sku": "CAI-180",
+  "price": "498",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>602,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.153,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 602,58&nbsp;&euro; hasta 2.153,80&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8383,
+    8648,
+    6755,
+    8245,
+    8616
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8638,
+  "gallery_images": [
+    8639,
+    8640,
+    8641,
+    8642,
+    8643,
+    8644,
+    8645,
+    8646,
+    8647
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    468
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        571,
+        572,
+        575,
+        578,
+        579,
+        580,
+        583,
+        585
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "Redondo 55x47cm",
+        "Ovalado 100x60x47cm",
+        "Redondo 120x47cm",
+        "Mesa 55x47cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 17239,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "modelo": "Redondo 55x47cm"
+      },
+      "price": "498",
+      "regular_price": "498",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17240,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "modelo": "Redondo 55x47cm"
+      },
+      "price": "498",
+      "regular_price": "498",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17241,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "modelo": "Redondo 55x47cm"
+      },
+      "price": "498",
+      "regular_price": "498",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17242,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "modelo": "Redondo 55x47cm"
+      },
+      "price": "498",
+      "regular_price": "498",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17243,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "modelo": "Redondo 55x47cm"
+      },
+      "price": "498",
+      "regular_price": "498",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17244,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "modelo": "Redondo 55x47cm"
+      },
+      "price": "498",
+      "regular_price": "498",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17245,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "modelo": "Redondo 55x47cm"
+      },
+      "price": "498",
+      "regular_price": "498",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17246,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "modelo": "Redondo 55x47cm"
+      },
+      "price": "498",
+      "regular_price": "498",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17247,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "modelo": "Ovalado 100x60x47cm"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17248,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "modelo": "Ovalado 100x60x47cm"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17249,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "modelo": "Ovalado 100x60x47cm"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17250,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "modelo": "Ovalado 100x60x47cm"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17251,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "modelo": "Ovalado 100x60x47cm"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17252,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "modelo": "Ovalado 100x60x47cm"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17253,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "modelo": "Ovalado 100x60x47cm"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17254,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "modelo": "Ovalado 100x60x47cm"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17255,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "modelo": "Redondo 120x47cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17256,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "modelo": "Redondo 120x47cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17257,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "modelo": "Redondo 120x47cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17258,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "modelo": "Redondo 120x47cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17259,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "modelo": "Redondo 120x47cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17260,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "modelo": "Redondo 120x47cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17261,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "modelo": "Redondo 120x47cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17262,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "modelo": "Redondo 120x47cm"
+      },
+      "price": "1780",
+      "regular_price": "1780",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17263,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "modelo": "Mesa 55x47cm"
+      },
+      "price": "880",
+      "regular_price": "880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17264,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "modelo": "Mesa 55x47cm"
+      },
+      "price": "880",
+      "regular_price": "880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17265,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "modelo": "Mesa 55x47cm"
+      },
+      "price": "880",
+      "regular_price": "880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17266,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "modelo": "Mesa 55x47cm"
+      },
+      "price": "880",
+      "regular_price": "880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17267,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "modelo": "Mesa 55x47cm"
+      },
+      "price": "880",
+      "regular_price": "880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17268,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "modelo": "Mesa 55x47cm"
+      },
+      "price": "880",
+      "regular_price": "880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17269,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "modelo": "Mesa 55x47cm"
+      },
+      "price": "880",
+      "regular_price": "880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17270,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "modelo": "Mesa 55x47cm"
+      },
+      "price": "880",
+      "regular_price": "880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-180",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8638,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

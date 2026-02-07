@@ -1,0 +1,63 @@
+{
+  "id": 9344,
+  "name": "Externo",
+  "slug": "externo",
+  "permalink": "https://wpadmin.buildmaster.dev/product/externo/",
+  "date_created": "2024-08-12 18:38:50",
+  "date_modified": "2025-10-28 13:19:23",
+  "type": "simple",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Ceniceros para exterior con columna de aluminio recubierto con polvo epoxi. Base de acero zincado y recubierto.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design Angelotti &amp; Cardile</h2>\n<div class=\"woocommerce-product-details__short-description \">\n<p>Ceniceros para exterior con columna de aluminio recubierto con polvo epoxi. Base de acero zincado y recubierto.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "sku": "CAI-060",
+  "price": "448.00",
+  "regular_price": "448.00",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>542,08&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9345,
+  "gallery_images": [
+    9346,
+    9347,
+    9348
+  ],
+  "categories": [
+    486,
+    487,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": []
+}

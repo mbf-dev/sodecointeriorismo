@@ -12,13 +12,15 @@
     "astro": "astro",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "sync": "node scripts/sync.js"
+    "sync": "node scripts/sync.js",
+    "images": "npx tsx scripts/process-images.ts"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.6",
     "@astrojs/node": "^9.5.1",
     "@astrojs/svelte": "^7.2.4",
     "astro": "^5.16.6",
+    "fuse.js": "^7.1.0",
     "sharp": "^0.34.5",
     "svelte": "^5.46.1",
     "svgo": "^4.0.0",

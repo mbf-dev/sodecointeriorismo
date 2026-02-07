@@ -1,0 +1,287 @@
+{
+  "id": 9849,
+  "name": "BulPattern Triangles",
+  "slug": "bulpattern-triangles",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulpattern-triangles/",
+  "date_created": "2024-08-20 15:40:55",
+  "date_modified": "2025-11-19 13:45:21",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Absorción de sonido de alto rendimiento con un diseño innovador.</p>\n<p>Hecho con laminado de alta presión (HPL), un material altamente duradero,  está disponible en 8 colores diferentes de madera y metálicos. Además de esto, también utiliza nuestra lana de PET especialmente diseñada, un material sostenible que maximiza las capacidades de absorción acústica del panel y contribuye al objetivo de producir productos más ecológicos y respetuosos con el medio ambiente.</p>\n<p><strong><br />\nCaracterísticas:</strong></p>\n<p>/ Construcción con MDF premium y HPL antirayaduras.<br />\n/ Sin poliuretano<br />\n/ Reciclable<br />\n/ Embalaje reforzado<br />\n/ Terminar también en los laterales.<br />\n/ El relleno extraíble permite integrar la luz.<br />\n/ Sistemas de fijación profesionales</p>\n",
+  "short_description": "",
+  "sku": "VIC-019",
+  "price": "309.9",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>374,98&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4591,
+  "gallery_images": [
+    4592,
+    4593,
+    4594
+  ],
+  "categories": [
+    395,
+    478,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    330,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        433,
+        508,
+        436,
+        432,
+        434,
+        505,
+        504,
+        529
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "3 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9959,
+      "attributes": {
+        "pa_color": "roble-marron",
+        "caja": "3 Unidades"
+      },
+      "price": "309.9",
+      "regular_price": "309.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9967,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9962,
+      "attributes": {
+        "pa_color": "negro-mate",
+        "caja": "3 Unidades"
+      },
+      "price": "309.9",
+      "regular_price": "309.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4595,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9963,
+      "attributes": {
+        "pa_color": "blanco-mate",
+        "caja": "3 Unidades"
+      },
+      "price": "309.9",
+      "regular_price": "309.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4596,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9964,
+      "attributes": {
+        "pa_color": "wenge-oscuro",
+        "caja": "3 Unidades"
+      },
+      "price": "309.9",
+      "regular_price": "309.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4601,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9965,
+      "attributes": {
+        "pa_color": "cereza-locarno",
+        "caja": "3 Unidades"
+      },
+      "price": "309.9",
+      "regular_price": "309.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4602,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9968,
+      "attributes": {
+        "pa_color": "roble-natural",
+        "caja": "3 Unidades"
+      },
+      "price": "309.9",
+      "regular_price": "309.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4603,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9960,
+      "attributes": {
+        "pa_color": "cobre-metalico",
+        "caja": "3 Unidades"
+      },
+      "price": "309.9",
+      "regular_price": "309.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4607,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9961,
+      "attributes": {
+        "pa_color": "oro-metalico",
+        "caja": "3 Unidades"
+      },
+      "price": "309.9",
+      "regular_price": "309.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4608,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "id": 9539,
+  "name": "Jolly glass",
+  "slug": "jolly-glass",
+  "permalink": "https://wpadmin.buildmaster.dev/product/jolly-glass/",
+  "date_created": "2024-08-13 18:14:24",
+  "date_modified": "2025-10-28 13:14:13",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Mesitas con plano disponible en vidrio templado de 12 mm. de grosor y molturado. Columna de acero cromado o recubierto con polvos epoxi. Bases de acero recubiertas con polvos epoxi o revestidas en acero inox brillante. Las bases vienen equipadas para anclarse al suelo. Las repisas de vidrio se aplican a la estructura a través de especiales discos de acero inox.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-032",
+  "price": "347",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>419,87&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>769,56&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 419,87&nbsp;&euro; hasta 769,56&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    9507,
+    9233,
+    8648,
+    6755,
+    9246,
+    9654,
+    9551,
+    9122,
+    9546,
+    11518,
+    11512
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9540,
+  "gallery_images": [
+    9541,
+    9542,
+    9543,
+    9544,
+    9545
+  ],
+  "categories": [
+    491,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        630,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tablero",
+      "slug": "Tablero",
+      "options": [
+        "Cristal",
+        "Blanco",
+        "Negro"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "60x52cm",
+        "60x72cm",
+        "60x104cm",
+        "80x54cm",
+        "80 x72cm",
+        "80 x104cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 17663,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Negro",
+        "tamano": "60x52cm"
+      },
+      "price": "367",
+      "regular_price": "367",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17664,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Negro",
+        "tamano": "60x72cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17665,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Negro",
+        "tamano": "60x104cm"
+      },
+      "price": "398",
+      "regular_price": "398",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17666,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Blanco",
+        "tamano": "60x52cm"
+      },
+      "price": "347",
+      "regular_price": "347",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17667,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Blanco",
+        "tamano": "60x72cm"
+      },
+      "price": "365",
+      "regular_price": "365",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17668,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Blanco",
+        "tamano": "60x104cm"
+      },
+      "price": "378",
+      "regular_price": "378",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17669,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Blanco",
+        "tamano": "80x54cm"
+      },
+      "price": "557",
+      "regular_price": "557",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17670,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Blanco",
+        "tamano": "80 x72cm"
+      },
+      "price": "575",
+      "regular_price": "575",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17671,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Blanco",
+        "tamano": "80 x104cm"
+      },
+      "price": "588",
+      "regular_price": "588",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17672,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Cristal",
+        "tamano": "60x52cm"
+      },
+      "price": "447",
+      "regular_price": "447",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17673,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Cristal",
+        "tamano": "60x72cm"
+      },
+      "price": "465",
+      "regular_price": "465",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17674,
+      "attributes": {
+        "pa_color": "negro",
+        "tablero": "Cristal",
+        "tamano": "60x104cm"
+      },
+      "price": "478",
+      "regular_price": "478",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17675,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Negro",
+        "tamano": "60x52cm"
+      },
+      "price": "417",
+      "regular_price": "417",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17676,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Negro",
+        "tamano": "60x72cm"
+      },
+      "price": "435",
+      "regular_price": "435",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17677,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Negro",
+        "tamano": "60x104cm"
+      },
+      "price": "448",
+      "regular_price": "448",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17678,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Blanco",
+        "tamano": "60x52cm"
+      },
+      "price": "397",
+      "regular_price": "397",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17679,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Blanco",
+        "tamano": "60x72cm"
+      },
+      "price": "415",
+      "regular_price": "415",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17680,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Blanco",
+        "tamano": "60x104cm"
+      },
+      "price": "428",
+      "regular_price": "428",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17681,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Blanco",
+        "tamano": "80x54cm"
+      },
+      "price": "607",
+      "regular_price": "607",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17682,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Blanco",
+        "tamano": "80 x72cm"
+      },
+      "price": "625",
+      "regular_price": "625",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17683,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Blanco",
+        "tamano": "80 x104cm"
+      },
+      "price": "636",
+      "regular_price": "636",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17684,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Cristal",
+        "tamano": "60x52cm"
+      },
+      "price": "497",
+      "regular_price": "497",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17685,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Cristal",
+        "tamano": "60x72cm"
+      },
+      "price": "515",
+      "regular_price": "515",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17686,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tablero": "Cristal",
+        "tamano": "60x104cm"
+      },
+      "price": "528",
+      "regular_price": "528",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-032",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9540,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 9115,
+  "name": "Set stanchions",
+  "slug": "set-stanchions",
+  "permalink": "https://wpadmin.buildmaster.dev/product/set-stanchions/",
+  "date_created": "2024-08-12 10:56:28",
+  "date_modified": "2025-10-28 13:25:35",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>SET está formada por un poste de acero inoxidable satinado con base circular, disponible con acabados en acero inoxidable satinado o recubierta en color negro gofrado. Cordón rematado con mosquetones en metal satinado.<br />\nEl cabezal del poste está dotado de un innovador sistema de fijación que permite enganchar y desenganchar los accesorios de forma sencilla y rápida.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-092",
+  "price": "847",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.024,87&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9116,
+  "gallery_images": [
+    9117,
+    9118,
+    9119,
+    9120,
+    9121
+  ],
+  "categories": [
+    481,
+    496,
+    498,
+    501
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Dimensiones",
+      "slug": "Dimensiones",
+      "options": [
+        "3postes+2cuerdas-360cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12442,
+      "attributes": {
+        "dimensiones": "3postes+2cuerdas-360cm"
+      },
+      "price": "847",
+      "regular_price": "847",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-092",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9116,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": 8912,
+  "name": "Pinna",
+  "slug": "pinna",
+  "permalink": "https://wpadmin.buildmaster.dev/product/pinna/",
+  "date_created": "2024-08-11 13:19:52",
+  "date_modified": "2025-10-28 13:42:25",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Estructura tridimensional fonoabsorbente que se despliega en abanico con una curvatura sugerida por las dobleces del tejido plisado que recuerda la aleta (“pinna”) de un pez de grandes dimensiones.<br />\nPinna crea un diálogo entre conocimientos productivos de diversa índole; la tecnología fonoabsorbente de los tejidos Snowsound Fiber se fusiona con confecciones textiles provenientes del sector de la moda.<br />\nLa estructura de soporte interna es de acero barnizado. Sistema desenfundable.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design (a+b) Annalisa Dominoni, Benedetto Quaquaro</h2>\n",
+  "sku": "CAI-091",
+  "price": "1280",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.548,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8913,
+  "gallery_images": [
+    8914,
+    8915,
+    8916
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        571,
+        575,
+        580
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12823,
+      "attributes": {
+        "pa_textura": "melangue-300"
+      },
+      "price": "1280",
+      "regular_price": "1280",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-091",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8913,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12824,
+      "attributes": {
+        "pa_textura": "melangue-305"
+      },
+      "price": "1280",
+      "regular_price": "1280",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-091",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8913,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12825,
+      "attributes": {
+        "pa_textura": "melangue-310"
+      },
+      "price": "1280",
+      "regular_price": "1280",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-091",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8913,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

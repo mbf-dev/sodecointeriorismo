@@ -1,0 +1,18 @@
+{
+  "id": 4117,
+  "src": "/wp-content/uploads/2024/06/Gen_VMT_Penray_1_TilesWhite-1600w.webp",
+  "width": 1439,
+  "height": 1079,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPklEQVR4nAEzAMz/AGtra2J5eXlabW1tVkBAQBIAfn5+ePb5+P/x8/L/y8vLmgA/Pz87jo6OWpGUk5WFhYVecrkZtjKTv5YAAAAASUVORK5CYII=",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2024/06/Gen_VMT_Penray_1_TilesWhite-640w.avif 640w, /wp-content/uploads/2024/06/Gen_VMT_Penray_1_TilesWhite-1024w.avif 1024w, /wp-content/uploads/2024/06/Gen_VMT_Penray_1_TilesWhite-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2024/06/Gen_VMT_Penray_1_TilesWhite-640w.webp 640w, /wp-content/uploads/2024/06/Gen_VMT_Penray_1_TilesWhite-1024w.webp 1024w, /wp-content/uploads/2024/06/Gen_VMT_Penray_1_TilesWhite-1600w.webp 1600w"
+    }
+  ]
+}

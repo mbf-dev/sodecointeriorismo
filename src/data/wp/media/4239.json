@@ -1,0 +1,18 @@
+{
+  "id": 4239,
+  "src": "/wp-content/uploads/2024/06/VicStripSamplePack-1600w.webp",
+  "width": 1439,
+  "height": 1079,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVR4nGOQk5PTqy/N3OruaDNJRUVFjkFFRcVqUmvpfx8Xu/8SEhI2DLKysnoN5Vlbg71dJ5kaG8oBAHP9DsRKLA6NAAAAAElFTkSuQmCC",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2024/06/VicStripSamplePack-640w.avif 640w, /wp-content/uploads/2024/06/VicStripSamplePack-1024w.avif 1024w, /wp-content/uploads/2024/06/VicStripSamplePack-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2024/06/VicStripSamplePack-640w.webp 640w, /wp-content/uploads/2024/06/VicStripSamplePack-1024w.webp 1024w, /wp-content/uploads/2024/06/VicStripSamplePack-1600w.webp 1600w"
+    }
+  ]
+}

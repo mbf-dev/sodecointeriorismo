@@ -1,0 +1,125 @@
+{
+  "id": 8611,
+  "name": "Snowmagnet",
+  "slug": "snowmagnet",
+  "permalink": "https://wpadmin.buildmaster.dev/product/snowmagnet/",
+  "date_created": "2024-08-06 19:09:50",
+  "date_modified": "2025-10-28 13:39:35",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Sistema de sujeción a la pared para los paneles Snowsound. Consta de anclajes especiales metálicos e imantados. Las medidas de la placa de anclaje permiten corregir la posición de los paneles durante la instalación. El anclaje se puede equipar con cables de seguridad de acero.</p>\n",
+  "short_description": "",
+  "sku": "CAI-184",
+  "price": "99",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>119,79&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>179,69&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 119,79&nbsp;&euro; hasta 179,69&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8612,
+  "gallery_images": [
+    8613,
+    8614,
+    8615
+  ],
+  "categories": [
+    391,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Unidades",
+      "slug": "Unidades",
+      "options": [
+        "Kit 4 piezas",
+        "Kit 6 piezas"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12443,
+      "attributes": {
+        "unidades": "Kit 4 piezas"
+      },
+      "price": "99",
+      "regular_price": "99",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-184",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8612,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12444,
+      "attributes": {
+        "unidades": "Kit 6 piezas"
+      },
+      "price": "148.5",
+      "regular_price": "148.5",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-184",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8612,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

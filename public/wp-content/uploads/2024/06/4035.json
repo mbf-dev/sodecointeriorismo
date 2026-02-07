@@ -1,0 +1,18 @@
+{
+  "id": 4035,
+  "src": "/wp-content/uploads/2024/06/VicShape_3D_Grey-1600w.webp",
+  "width": 1439,
+  "height": 1079,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANElEQVR4nGNgYGBg8PX1Lg7x90uWFhEBcRkYIiIi+kODQ7o5mZkhAj5eHsWhgb7JsuIiDADicgkMNQ+OhgAAAABJRU5ErkJggg==",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2024/06/VicShape_3D_Grey-640w.avif 640w, /wp-content/uploads/2024/06/VicShape_3D_Grey-1024w.avif 1024w, /wp-content/uploads/2024/06/VicShape_3D_Grey-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2024/06/VicShape_3D_Grey-640w.webp 640w, /wp-content/uploads/2024/06/VicShape_3D_Grey-1024w.webp 1024w, /wp-content/uploads/2024/06/VicShape_3D_Grey-1600w.webp 1600w"
+    }
+  ]
+}

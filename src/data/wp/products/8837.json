@@ -1,0 +1,124 @@
+{
+  "id": 8837,
+  "name": "Snowfix",
+  "slug": "snowfix",
+  "permalink": "https://wpadmin.buildmaster.dev/product/snowfix/",
+  "date_created": "2024-08-11 11:01:11",
+  "date_modified": "2025-10-28 13:37:45",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Snowfix es un sistema de fijación mural de los paneles Snowsound mediante un soporte que consta de dos componentes de metal moldeados a presión con acabado de barniz o niquel satinado, que se fijan respectivamente uno sobre el panel y el otro directamente en la pared y que se enganchan uno con otro para que el panel fonoabsorbente resulte inamovible.</p>\n<p>2 unidades</p>\n",
+  "short_description": "",
+  "sku": "CAI-170",
+  "price": "59.80",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>72,36&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>83,49&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 72,36&nbsp;&euro; hasta 83,49&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8838,
+  "gallery_images": [
+    8839,
+    8840,
+    8842
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 13336,
+      "attributes": {
+        "pa_color": "blanco-natural"
+      },
+      "price": "59.80",
+      "regular_price": "59.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-170",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8838,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 13337,
+      "attributes": {
+        "pa_color": "gris"
+      },
+      "price": "69",
+      "regular_price": "69",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-170",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8838,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

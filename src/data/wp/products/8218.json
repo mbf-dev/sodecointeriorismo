@@ -1,0 +1,528 @@
+{
+  "id": 8218,
+  "name": "Climbing",
+  "slug": "climbing",
+  "permalink": "https://wpadmin.buildmaster.dev/product/climbing/",
+  "date_created": "2024-08-04 20:14:44",
+  "date_modified": "2025-10-28 13:29:53",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<h1 class=\"product_title entry-title \"></h1>\n<div class=\"woocommerce-product-details__short-description \">\n<h2 class=\"caimi_design_txt_single\">design Raffaello Manzoni</h2>\n<p>Paneles fonoabsorbentes de pared realizados con tecnología Snowcustom. Acolchado interior de poliéster de densidad variable, revestimiento exterior en Snowsound-Fiber Textiles 3 Melange. Se colocan en la pared mediante anclajes imantados.</p>\n<p>“Climbing es un sistema orgánico, libremente combinable, alejado de los patrones tradicionales de uniformidad. Vinculado tanto a nivel formal como conceptual a un entorno natural, logra crear superficies únicas, siempre diferentes. Sus volúmenes –inspirados en guijarros de río y paredes de piedra-, crean peculiares e irregulares juegos de luz, logrando así incrementar sus prestaciones acústicas.”<br />\n(Raffaello Manzoni)</p>\n</div>\n",
+  "short_description": "<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<h2 class=\"caimi_design_txt_single\">design Rafaello Manzoni</h2>\n</div>\n</div>\n<div class=\"woocommerce-product-details__short-description \">\n<p>Paneles fonoabsorbentes de pared realizados con tecnología Snowcustom. Acolchado interior de poliéster de densidad variable, revestimiento exterior en Snowsound-Fiber Textiles 3 Melange. Se colocan en la pared mediante anclajes imantados.</p>\n</div>\n",
+  "sku": "CAI-112",
+  "price": "248",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>300,08&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>348,48&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 300,08&nbsp;&euro; hasta 348,48&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8219,
+  "gallery_images": [
+    8220,
+    8221,
+    8222,
+    8223,
+    8225,
+    8224
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        571,
+        572,
+        579,
+        581,
+        582,
+        583
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Figura",
+      "slug": "Figura",
+      "options": [
+        "40,5cm x 73,5 cm",
+        "60,5 cm x 60,5 cm",
+        "62 cm x 66 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 8226,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "figura": "40,5cm x 73,5 cm"
+      },
+      "price": "248",
+      "regular_price": "248",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8227,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "figura": "60,5 cm x 60,5 cm"
+      },
+      "price": "288",
+      "regular_price": "288",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8228,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "figura": "62 cm x 66 cm"
+      },
+      "price": "286",
+      "regular_price": "286",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8229,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "figura": "40,5cm x 73,5 cm"
+      },
+      "price": "248",
+      "regular_price": "248",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8230,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "figura": "60,5 cm x 60,5 cm"
+      },
+      "price": "288",
+      "regular_price": "288",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8231,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "figura": "62 cm x 66 cm"
+      },
+      "price": "286",
+      "regular_price": "286",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8232,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "figura": "40,5cm x 73,5 cm"
+      },
+      "price": "248",
+      "regular_price": "248",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8233,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "figura": "60,5 cm x 60,5 cm"
+      },
+      "price": "288",
+      "regular_price": "288",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8234,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "figura": "62 cm x 66 cm"
+      },
+      "price": "286",
+      "regular_price": "286",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8235,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "figura": "40,5cm x 73,5 cm"
+      },
+      "price": "248",
+      "regular_price": "248",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8236,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "figura": "60,5 cm x 60,5 cm"
+      },
+      "price": "288",
+      "regular_price": "288",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8237,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "figura": "62 cm x 66 cm"
+      },
+      "price": "286",
+      "regular_price": "286",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8238,
+      "attributes": {
+        "pa_textura": "melangue-312",
+        "figura": "40,5cm x 73,5 cm"
+      },
+      "price": "248",
+      "regular_price": "248",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8239,
+      "attributes": {
+        "pa_textura": "melangue-312",
+        "figura": "60,5 cm x 60,5 cm"
+      },
+      "price": "288",
+      "regular_price": "288",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8240,
+      "attributes": {
+        "pa_textura": "melangue-312",
+        "figura": "62 cm x 66 cm"
+      },
+      "price": "286",
+      "regular_price": "286",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8241,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "figura": "40,5cm x 73,5 cm"
+      },
+      "price": "248",
+      "regular_price": "248",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8242,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "figura": "60,5 cm x 60,5 cm"
+      },
+      "price": "288",
+      "regular_price": "288",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8243,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "figura": "62 cm x 66 cm"
+      },
+      "price": "286",
+      "regular_price": "286",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-112",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8219,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

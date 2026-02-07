@@ -1,0 +1,122 @@
+{
+  "id": 11484,
+  "name": "Rapid",
+  "slug": "rapid",
+  "permalink": "https://wpadmin.buildmaster.dev/product/rapid/",
+  "date_created": "2024-09-23 10:36:11",
+  "date_modified": "2025-10-28 13:13:00",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Perchero de barra que presenta una estructura de acero barnizado con polvos epoxi, con barra para colgar en acero cromado y ruedas realizadas en tecnopolímero. Los montantes verticales superan levemente la altura de la barra, de manera que sujetan lateralmente las perchas.</p>\n",
+  "short_description": "",
+  "sku": "CAI-020",
+  "price": "318.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>384,78&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>396,88&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 384,78&nbsp;&euro; hasta 396,88&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 11485,
+  "gallery_images": [
+    11486,
+    11487
+  ],
+  "categories": [
+    477,
+    475,
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Medidas",
+      "slug": "Medidas",
+      "options": [
+        "170x86 cm",
+        "170x146 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12247,
+      "attributes": {
+        "medidas": "170x86 cm"
+      },
+      "price": "318.00",
+      "regular_price": "318.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-020",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11485,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12248,
+      "attributes": {
+        "medidas": "170x146 cm"
+      },
+      "price": "328.00",
+      "regular_price": "328.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-020",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11485,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

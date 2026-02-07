@@ -1,0 +1,172 @@
+{
+  "id": 6177,
+  "name": "Multifuser Dc4",
+  "slug": "multifuser-dc3",
+  "permalink": "https://wpadmin.buildmaster.dev/product/multifuser-dc3/",
+  "date_created": "2024-07-23 11:12:39",
+  "date_modified": "2025-12-05 14:45:20",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Difusor de sonido para paredes y techos</p>\n<p>Multifuser DC4 es un panel de difusión bidimensional que proporciona multirreflexión en los planos vertical y horizontal en espacios críticos con el sonido. Funciona en frecuencias medias y altas, iluminando y aclarando el sonido.</p>\n<p>Hecho de EPS (poliestireno expandido) de alta calidad, el Multifuser DC4 se destaca por su rendimiento efectivo en la resolución de problemas como la falta de inteligibilidad del habla o la definición de la música y su atractivo diseño que encaja perfectamente en cualquier tipo de habitación.</p>\n<p>Sucediendo al famoso Multifuser DC3, este difusor de 4a generación se mejoró con rasgaduras de soporte incorporadas para que se pueda instalar en una pared con un sistema de fijación VicFix, utilizando VicFix Mini (suministrado) o VicFix J Profile 2m (se vende por separado). Sigue siendo compatible con Flexi Glue Ultra (se vende por separado), que es necesario para la instalación en el techo.</p>\n<p>Características principales</p>\n<p>Fácil de instalar</p>\n<p>Disponible en diferentes colores</p>\n<p>Se puede pintar con pinturas a base de agua</p>\n",
+  "short_description": "<p>Panel difusor acústico que proporciona reflexión en los planos vertical y horizontal, para la difusión del sonido en paredes y techos</p>\n",
+  "sku": "VIC-043",
+  "price": "370.25",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>448,00&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6401,
+    6400,
+    6180,
+    6176,
+    6179,
+    6178
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 18821,
+  "gallery_images": [
+    18820,
+    18818,
+    18819,
+    18817,
+    4629
+  ],
+  "categories": [
+    478,
+    401,
+    476,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    346,
+    331,
+    332,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        406,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "4 unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 18813,
+      "attributes": {
+        "pa_color": "gris",
+        "caja": "4 unidades"
+      },
+      "price": "370.25",
+      "regular_price": "370.25",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-043",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18814,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6189,
+      "attributes": {
+        "pa_color": "negro",
+        "caja": "4 unidades"
+      },
+      "price": "370.25",
+      "regular_price": "370.25",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-043",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18815,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6190,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "caja": "4 unidades"
+      },
+      "price": "370.25",
+      "regular_price": "370.25",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-043",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 18816,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

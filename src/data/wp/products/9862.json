@@ -1,0 +1,648 @@
+{
+  "id": 9862,
+  "name": "Flat Panel VMT Naturaleza",
+  "slug": "flat-panel-vmt-naturaleza",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flat-panel-vmt-naturaleza/",
+  "date_created": "2024-08-20 15:40:57",
+  "date_modified": "2025-11-19 13:58:27",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Panel acústico con gran variedad de acabados</p>\n<p>Flat Panel VMT es un panel acústico decorativo fabricado con VicPET Wool, un material producido principalmente a partir de botellas de plástico recicladas.</p>\n<p>Beneficios acústicos:</p>\n<p>/ Ayudar a aumentar la eficiencia energética en un edificio<br />\n/ Están certificados con <strong>Indoor Advantage™ Gold Building Materials</strong>, por SCS Global Services<br />\n/ Son una manera fácil de crear un sinfín de diseños nuevos y emocionantes<br />\n/ Mejorar la acústica de cualquier estancia<br />\n/ Haz que las habitaciones sean más verdes al estar hecho de materiales sostenibles y reciclables</p>\n<p>Con una innovadora tecnología de teñido, los paneles acústicos Flat Panel VMT pueden simular hormigón, mármol, madera, piedras naturales y otros materiales, consiguiendo un aspecto sorprendente y realista en cualquier ambiente. Las aplicaciones de Flat Panel VMT son infinitas, lo que lo convierte en el panel acústico fonoabsorbente ideal tanto para proyectos de nueva construcción como de rehabilitación.</p>\n<p>&nbsp;</p>\n",
+  "short_description": "",
+  "sku": "VIC-008",
+  "price": "160.46",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>194,16&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.046,74&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 194,16&nbsp;&euro; hasta 2.046,74&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    9861,
+    9857,
+    9860,
+    9859,
+    9858
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5583,
+  "gallery_images": [
+    5553,
+    5554,
+    5555,
+    5556,
+    5557,
+    5558,
+    5559,
+    5560,
+    5561,
+    5562,
+    5563
+  ],
+  "categories": [
+    395,
+    478,
+    392,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    331,
+    332,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        522,
+        523,
+        524
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "595x595x20mm",
+        "1190x595x20mm",
+        "2380x1190x20",
+        "595x595x40mm",
+        "1190x595x40mm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades",
+        "4 Unidades",
+        "8 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 10372,
+      "attributes": {
+        "pa_textura": "na-hojas",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "160.46",
+      "regular_price": "160.46",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10389,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10373,
+      "attributes": {
+        "pa_textura": "na-palmera",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "160.46",
+      "regular_price": "160.46",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10390,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10374,
+      "attributes": {
+        "pa_textura": "na-tropical",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "160.46",
+      "regular_price": "160.46",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10406,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10363,
+      "attributes": {
+        "pa_textura": "na-hojas",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "320.1",
+      "regular_price": "320.1",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10389,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10364,
+      "attributes": {
+        "pa_textura": "na-palmera",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "320.1",
+      "regular_price": "320.1",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10390,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10365,
+      "attributes": {
+        "pa_textura": "na-tropical",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "320.1",
+      "regular_price": "320.1",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10406,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10371,
+      "attributes": {
+        "pa_textura": "na-hojas",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "320.1",
+      "regular_price": "320.1",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10388,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10360,
+      "attributes": {
+        "pa_textura": "na-palmera",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "320.1",
+      "regular_price": "320.1",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10386,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10361,
+      "attributes": {
+        "pa_textura": "na-tropical",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "320.1",
+      "regular_price": "320.1",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10387,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10362,
+      "attributes": {
+        "pa_textura": "na-hojas",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "639.39",
+      "regular_price": "639.39",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10388,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10357,
+      "attributes": {
+        "pa_textura": "na-palmera",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "639.39",
+      "regular_price": "639.39",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10386,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10358,
+      "attributes": {
+        "pa_textura": "na-tropical",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "639.39",
+      "regular_price": "639.39",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10387,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10359,
+      "attributes": {
+        "pa_textura": "na-hojas",
+        "tamano": "2380x1190x20",
+        "caja": "2 Unidades"
+      },
+      "price": "429.29",
+      "regular_price": "429.29",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5583,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10354,
+      "attributes": {
+        "pa_textura": "na-palmera",
+        "tamano": "2380x1190x20",
+        "caja": "2 Unidades"
+      },
+      "price": "429.29",
+      "regular_price": "429.29",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10385,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10355,
+      "attributes": {
+        "pa_textura": "na-tropical",
+        "tamano": "2380x1190x20",
+        "caja": "2 Unidades"
+      },
+      "price": "429.29",
+      "regular_price": "429.29",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10370,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10356,
+      "attributes": {
+        "pa_textura": "na-hojas",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "849.48",
+      "regular_price": "849.48",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5583,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10352,
+      "attributes": {
+        "pa_textura": "na-palmera",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "849.48",
+      "regular_price": "849.48",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10385,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10353,
+      "attributes": {
+        "pa_textura": "na-tropical",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "849.48",
+      "regular_price": "849.48",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10370,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10350,
+      "attributes": {
+        "pa_textura": "na-hojas",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1691.52",
+      "regular_price": "1691.52",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5583,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10351,
+      "attributes": {
+        "pa_textura": "na-palmera",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1691.52",
+      "regular_price": "1691.52",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10385,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10349,
+      "attributes": {
+        "pa_textura": "na-tropical",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1691.52",
+      "regular_price": "1691.52",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10370,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

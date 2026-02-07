@@ -1,0 +1,898 @@
+{
+  "id": 9020,
+  "name": "Snowall",
+  "slug": "snowall",
+  "permalink": "https://wpadmin.buildmaster.dev/product/snowall/",
+  "date_created": "2024-08-11 20:27:18",
+  "date_modified": "2025-10-28 13:27:25",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Snowall es un revestimiento compuesto por fibras de poliéster al que se aplica un tejido fonoabsorbente Snowsound Fiber a través de un particular sistema de adhesión en caliente. El revestimiento textil de las fibras y la ausencia de huecos entre ambos materiales, reducen significativamente la posibilidad de que se acumule polvo, polen o insectos. Snowall está disponible en tejido Snowsound Fiber 3 Mélange y Fiber 8 Bouclé. Snowall puede pegarse fácilmente a la pared como cualquier tipo de papel pintado textil.</p>\n",
+  "short_description": "",
+  "sku": "CAI-104",
+  "price": "1620",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.960,20&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.341,35&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 1.960,20&nbsp;&euro; hasta 2.341,35&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8694,
+    8206,
+    8661,
+    8689,
+    8666,
+    8672,
+    8185,
+    8681,
+    7574,
+    9026,
+    8591
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9021,
+  "gallery_images": [
+    9022,
+    9023,
+    9024,
+    9025
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    469
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "132cm x 15m"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9809,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9810,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9811,
+      "attributes": {
+        "pa_textura": "melangue-303",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9812,
+      "attributes": {
+        "pa_textura": "melangue-304",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9813,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9814,
+      "attributes": {
+        "pa_textura": "melangue-306",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9815,
+      "attributes": {
+        "pa_textura": "melangue-307",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9816,
+      "attributes": {
+        "pa_textura": "melangue-307",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9817,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9818,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9819,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9820,
+      "attributes": {
+        "pa_textura": "melangue-312",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9821,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9822,
+      "attributes": {
+        "pa_textura": "melangue-314",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9823,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9824,
+      "attributes": {
+        "pa_textura": "melangue-316",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1620",
+      "regular_price": "1620",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9825,
+      "attributes": {
+        "pa_textura": "boucle-800",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9826,
+      "attributes": {
+        "pa_textura": "boucle-801",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9827,
+      "attributes": {
+        "pa_textura": "boucle-802",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9828,
+      "attributes": {
+        "pa_textura": "boucle-803",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9829,
+      "attributes": {
+        "pa_textura": "boucle-804",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9830,
+      "attributes": {
+        "pa_textura": "boucle-805",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9831,
+      "attributes": {
+        "pa_textura": "boucle-806",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9832,
+      "attributes": {
+        "pa_textura": "boucle-807",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9833,
+      "attributes": {
+        "pa_textura": "boucle-808",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9834,
+      "attributes": {
+        "pa_textura": "boucle-809",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9835,
+      "attributes": {
+        "pa_textura": "boucle-810",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9836,
+      "attributes": {
+        "pa_textura": "boucle-811",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9837,
+      "attributes": {
+        "pa_textura": "boucle-812",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9838,
+      "attributes": {
+        "pa_textura": "boucle-813",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9839,
+      "attributes": {
+        "pa_textura": "boucle-814",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9840,
+      "attributes": {
+        "pa_textura": "boucle-815",
+        "dimension": "132cm x 15m"
+      },
+      "price": "1935",
+      "regular_price": "1935",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-104",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9021,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

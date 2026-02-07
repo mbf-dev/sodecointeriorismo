@@ -1,32 +1,98 @@
 ---
-const today = new Date();
+import menus from '../data/wp/menus.json';
+import Logo from './header/Logo.astro';
+import settings from '../data/wp/site-settings.json';
+import { decodeHtmlEntities } from '../utils/formatting';
+
+const footerMenu = menus.footer_menu || [];
+const legalMenu = menus.legal_menu || [];
+const socials = settings.socials || [];
+const currentYear = new Date().getFullYear();
+
+// Footer Settings
+const footerSettings = settings.footer || {};
+const copyrightRaw = footerSettings.copyright || `${currentYear} Sodeco Interiorismo All Rights Reserved.`;
+const bgImage = footerSettings.bg_image?.optimized?.src 
+             || footerSettings.bg_image?.url ;
+
+// Parse Copyright: Replace **text** with home link
+// Matches **content** and renders it as a bold link to /
+const copyrightContent = copyrightRaw.replace(/\*\*(.*?)\*\*/g, '<a href="/" class="hover:text-primary transition-colors font-bold">$1</a>');
+
+// Helper to map network to icon class
+function getSocialIcon(network: string) {
+    const map: Record<string, string> = {
+        'instagram': 'icon-[fa6-brands--instagram]',
+        'facebook': 'icon-[fa6-brands--facebook]',
+        'twitter': 'icon-[fa6-brands--x-twitter]',
+        'linkedin': 'icon-[fa6-brands--linkedin]',
+        'youtube': 'icon-[fa6-brands--youtube]',
+        'tiktok': 'icon-[fa6-brands--tiktok]'
+    };
+    return map[network.toLowerCase()] || 'icon-[heroicons--link]';
+}
 ---
 
-<footer class="footer p-10 bg-neutral text-neutral-content">
-  <aside>
-    <svg width="50" height="50" viewBox="0 0 24 24" fill="none" class="fill-current text-primary mb-4">
-       <!-- Icono Sodeco provisional -->
-       <path d="M12 2L2 7l10 5 10-5-10-5zm0 9l2.5-1.25L12 8.5l-2.5 1.25L12 11zm0 2.5l-5-2.5-5 2.5L12 22l10-8.5-5-2.5-5 2.5z" fill="currentColor"></path>
-    </svg>
-    <p class="font-bold text-lg">Sodeco Interiorismo</p>
-    <p>Diseño acústico y mobiliario de vanguardia.</p>
-    <p class="text-sm opacity-70 mt-4">&copy; {today.getFullYear()} Todos los derechos reservados.</p>
-  </aside> 
-  <nav>
-    <h6 class="footer-title">Servicios</h6> 
-    <a href="/category/proyectos" class="link link-hover">Proyectos</a>
-    <a href="/category/acustica" class="link link-hover">Acústica</a>
-    <a href="/category/mobiliario" class="link link-hover">Mobiliario</a>
-  </nav> 
-  <nav>
-    <h6 class="footer-title">Empresa</h6> 
-    <a href="/about" class="link link-hover">Sobre Nosotros</a>
-    <a href="/contact" class="link link-hover">Contacto</a>
-    <a href="/blog" class="link link-hover">Blog</a>
-  </nav> 
-  <nav>
-    <h6 class="footer-title">Legal</h6> 
-    <a href="/terms" class="link link-hover">Términos de uso</a>
-    <a href="/privacy" class="link link-hover">Política de privacidad</a>
-  </nav>
+<footer class="text-neutral-content bg-neutral relative pt-20 pb-10 font-sans">
+    <!-- Background Image/Overlay -->
+    <div class="pointer-events-none absolute inset-0 z-0 overflow-hidden select-none">
+        <img src={bgImage} alt="Background" class="h-full w-full object-cover   bg-black">
+        <!-- Added generic opacity/bg-black to ensure text legibility as usually implied by dark mode footers with bg images -->
+        <div class="absolute inset-0 bg-neutral/50  "></div>
+    </div>
+    
+    <!-- Top Yellow Decoration -->
+    <div class="bg-primary absolute -top-8 left-1/2 z-20 h-16 w-[7px] -translate-x-1/2 rounded-2xl"></div>
+    
+    <div class="relative z-10 container mx-auto flex flex-col items-center px-6">
+        
+        <!-- Navigation Links (Footer Menu) -->
+        <nav class="mb-14 flex flex-wrap justify-center gap-x-8 gap-y-4">
+            {footerMenu.map((item) => (
+                <a 
+                    href={item.url} 
+                    class="hover:text-primary text-neutral-content text-md font-bold tracking-wide transition-colors"
+                >
+                    {decodeHtmlEntities(item.title)}
+                </a>
+            ))}
+        </nav>
+       
+        <!-- Logo Area -->
+        <Logo class="mb-10" imageClass="w-auto h-10 md:h-12" theme="light"  device="desktop"/>
+       
+        <!-- Social Icons -->
+        <div class="mb-16 flex items-center gap-8">
+            {socials.map((social) => (
+                <a 
+                    href={social.url} 
+                    target="_blank" 
+                    rel="noopener noreferrer" 
+                    class="h-6 w-6 transition-colors hover:text-primary text-neutral-content flex items-center justify-center"
+                    aria-label={`Visítanos en ${social.network}`}
+                >
+                   <span class={`${getSocialIcon(social.network)} size-6`}></span>
+                </a>
+            ))}
+        </div>
+        
+        <!-- Copyright -->
+        <div class="text-neutral-content mb-6 text-sm tracking-wide">
+            <span set:html={copyrightContent} />
+        </div>
+        
+        <!-- Legal Links -->
+        <div class="flex flex-wrap items-center justify-center gap-4 text-sm">
+             {legalMenu.map((item, index) => (
+                <>
+                    <a href={item.url} class="hover:text-primary text-neutral-content transition-colors">
+                        {decodeHtmlEntities(item.title)}
+                    </a>
+                    {index < legalMenu.length - 1 && (
+                         <div class="bg-neutral-content h-4 w-0.5"></div>
+                    )}
+                </>
+             ))}
+        </div>
+    </div>
 </footer>

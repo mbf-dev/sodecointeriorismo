@@ -1,0 +1,99 @@
+{
+  "header_menu": [
+    {
+      "id": 11134,
+      "title": "Paneles Acústicos",
+      "url": "https://wpadmin.buildmaster.dev/product-category/paneles-acusticos/",
+      "target": "",
+      "classes": "",
+      "children": []
+    },
+    {
+      "id": 11548,
+      "title": "Mobiliario",
+      "url": "https://wpadmin.buildmaster.dev/product-category/mobiliario/",
+      "target": "",
+      "classes": "",
+      "children": []
+    },
+    {
+      "id": 10875,
+      "title": "Contacto",
+      "url": "https://wpadmin.buildmaster.dev/contacto/",
+      "target": "",
+      "classes": "",
+      "children": []
+    },
+    {
+      "id": 10789,
+      "title": "Mi cuenta",
+      "url": "https://wpadmin.buildmaster.dev/my-account/",
+      "target": "",
+      "classes": "",
+      "children": []
+    }
+  ],
+  "footer_menu": [
+    {
+      "id": 24085,
+      "title": "Inicio",
+      "url": "https://wpadmin.buildmaster.dev/",
+      "target": "",
+      "classes": "",
+      "children": []
+    },
+    {
+      "id": 24088,
+      "title": "Sobre nosotros",
+      "url": "https://wpadmin.buildmaster.dev/acustica/",
+      "target": "",
+      "classes": "",
+      "children": []
+    },
+    {
+      "id": 24089,
+      "title": "Contacto",
+      "url": "https://wpadmin.buildmaster.dev/contacto/",
+      "target": "",
+      "classes": "",
+      "children": []
+    },
+    {
+      "id": 24090,
+      "title": "Mi cuenta",
+      "url": "https://wpadmin.buildmaster.dev/my-account/",
+      "target": "",
+      "classes": "",
+      "children": []
+    }
+  ],
+  "legal_menu": [
+    {
+      "id": 24083,
+      "title": "Aviso legal",
+      "url": "https://wpadmin.buildmaster.dev/aviso-legal/",
+      "target": "",
+      "classes": "",
+      "children": []
+    },
+    {
+      "id": 24082,
+      "title": "Política de privacidad",
+      "url": "https://wpadmin.buildmaster.dev/politica-de-privacidad/",
+      "target": "",
+      "classes": "",
+      "children": []
+    },
+    {
+      "id": 24084,
+      "title": "Política de cookies",
+      "url": "https://wpadmin.buildmaster.dev/politica-de-cookies/",
+      "target": "",
+      "classes": "",
+      "children": []
+    }
+  ],
+  "footer": [],
+  "header": [],
+  "legal": []
+}

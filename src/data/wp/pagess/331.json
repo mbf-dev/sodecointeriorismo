@@ -1,0 +1,119 @@
+{
+  "id": 331,
+  "title": "Inicio",
+  "blocks": [
+    {
+      "name": "mbf/block-3",
+      "attributes": {
+        "mbf_slides": [
+          {
+            "image": {
+              "id": 18564,
+              "url": "/wp-content/uploads/2025/06/contents-homepage-canary-tiles-xl@Homepage-Vicoustic_1-1600w.avif",
+              "alt": "",
+              "optimized": {
+                "src": "/wp-content/uploads/2025/06/contents-homepage-canary-tiles-xl@Homepage-Vicoustic_1-1600w.avif",
+                "width": 1920,
+                "height": 979,
+                "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAI0lEQVR4nGOY0FW8b03DrKKgmkhzhtBwz+k92cvL3DY1ewEAmKELR01FoI4AAAAASUVORK5CYII=",
+                "sources": [
+                  {
+                    "type": "image/avif",
+                    "srcset": "/wp-content/uploads/2025/06/contents-homepage-canary-tiles-xl@Homepage-Vicoustic_1-640w.avif 640w, /wp-content/uploads/2025/06/contents-homepage-canary-tiles-xl@Homepage-Vicoustic_1-1024w.avif 1024w, /wp-content/uploads/2025/06/contents-homepage-canary-tiles-xl@Homepage-Vicoustic_1-1600w.avif 1600w"
+                  },
+                  {
+                    "type": "image/webp",
+                    "srcset": "/wp-content/uploads/2025/06/contents-homepage-canary-tiles-xl@Homepage-Vicoustic_1-640w.webp 640w, /wp-content/uploads/2025/06/contents-homepage-canary-tiles-xl@Homepage-Vicoustic_1-1024w.webp 1024w, /wp-content/uploads/2025/06/contents-homepage-canary-tiles-xl@Homepage-Vicoustic_1-1600w.webp 1600w"
+                  }
+                ]
+              }
+            },
+            "title": "Hogar &amp; Residencial",
+            "subtitle": "",
+            "description": "",
+            "buttons": [
+              {
+                "text": "Comprar",
+                "url": "#",
+                "variant": "btn-primary"
+              },
+              {
+                "text": "Descubre el catálogo completo",
+                "url": "#",
+                "variant": "btn-secondary"
+              }
+            ]
+          },
+          {
+            "image": {
+              "id": 13748,
+              "url": "/wp-content/uploads/2025/02/181-A-1600w.avif",
+              "alt": "",
+              "optimized": {
+                "src": "/wp-content/uploads/2025/02/181-A-1600w.avif",
+                "width": 1890,
+                "height": 1080,
+                "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAACCAIAAADwyuo0AAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAI0lEQVR4nGPYvn1rVFRUcXHxshUrGBpaW1LS0idM7NuxYxsAplMNEDmBmM0AAAAASUVORK5CYII=",
+                "sources": [
+                  {
+                    "type": "image/avif",
+                    "srcset": "/wp-content/uploads/2025/02/181-A-640w.avif 640w, /wp-content/uploads/2025/02/181-A-1024w.avif 1024w, /wp-content/uploads/2025/02/181-A-1600w.avif 1600w"
+                  },
+                  {
+                    "type": "image/webp",
+                    "srcset": "/wp-content/uploads/2025/02/181-A-640w.webp 640w, /wp-content/uploads/2025/02/181-A-1024w.webp 1024w, /wp-content/uploads/2025/02/181-A-1600w.webp 1600w"
+                  }
+                ]
+              }
+            },
+            "title": "Audio &amp; Home Cinema",
+            "subtitle": "",
+            "description": "",
+            "buttons": [
+              {
+                "text": "Comprar",
+                "url": "#",
+                "variant": "btn-primary"
+              },
+              {
+                "text": "Descubre el catálogo completo",
+                "url": "#",
+                "variant": "btn-secondary"
+              }
+            ]
+          }
+        ],
+        "mbf_height": {
+          "mobile": "h-[75vh]",
+          "tablet": "h-[75vh]",
+          "desktop": "h-auto"
+        },
+        "mbf_padding_top": {
+          "mobile": 10,
+          "tablet": 7,
+          "desktop": 10
+        },
+        "mbf_padding_bottom": {
+          "mobile": 10,
+          "tablet": 10,
+          "desktop": 10
+        },
+        "mbf_margin_top": {
+          "mobile": 0,
+          "tablet": 2,
+          "desktop": 2
+        },
+        "mbf_margin_bottom": {
+          "mobile": 2,
+          "tablet": 2,
+          "desktop": 4
+        }
+      }
+    }
+  ],
+  "excerpt": "",
+  "date": "2023-09-04 06:54:02",
+  "modified": "2026-02-02 19:23:05",
+  "featured_image": null,
+  "slug": "inicio"
+}

@@ -1,0 +1,158 @@
+{
+  "id": 9507,
+  "name": "Cicerone glass",
+  "slug": "cicerone-glass",
+  "permalink": "https://wpadmin.buildmaster.dev/product/cicerone-glass/",
+  "date_created": "2024-08-13 17:57:11",
+  "date_modified": "2025-10-28 13:14:38",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Mesitas con plano disponible en vidrio templado de 12 mm. de grosor y molturado. Columna de acero cromado o recubierto con polvos epoxi. Bases de acero recubiertas con polvos epoxi o revestidas en acero inox brillante. Las bases vienen equipadas para anclarse al suelo. Las repisas de vidrio se aplican a la estructura a través de especiales discos de acero inox. La estructura de apoyo de la repisa de las mesitas Cicerone va equipada con colgadores para bolsos y esta’ realizada en aluminio fundido recubierto con polvo epoxi.</p>\n",
+  "short_description": "<h2>Design Lorenzo Stano</h2>\n",
+  "sku": "CAI-036",
+  "price": "630",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>762,30&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>774,40&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 762,30&nbsp;&euro; hasta 774,40&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    9233,
+    8648,
+    9539,
+    6755,
+    9246,
+    9654,
+    9551,
+    9122,
+    9546,
+    11518,
+    11512
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9508,
+  "gallery_images": [
+    9509,
+    9510,
+    9511,
+    9512
+  ],
+  "categories": [
+    491,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "60x51cm",
+        "60x73cm",
+        "60x105cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 13842,
+      "attributes": {
+        "tamano": "60x51cm"
+      },
+      "price": "630",
+      "regular_price": "630",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-036",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9508,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 13843,
+      "attributes": {
+        "tamano": "60x73cm"
+      },
+      "price": "635",
+      "regular_price": "635",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-036",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9508,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 13844,
+      "attributes": {
+        "tamano": "60x105cm"
+      },
+      "price": "640",
+      "regular_price": "640",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-036",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9508,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "6676",
+  "src": "/wp-content/uploads/2024/07/2-accesorios-1600w.webp",
+  "width": 1440,
+  "height": 1080,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAANklEQVR4nGPwKQlgWLVx4cS5y6d0epb4MzCABPYfP3B63c4Nh7yK/CAC7d2llXWTqotcCzwYADAkFRmPlhaoAAAAAElFTkSuQmCC",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2024/07/2-accesorios-640w.avif 640w, /wp-content/uploads/2024/07/2-accesorios-1024w.avif 1024w, /wp-content/uploads/2024/07/2-accesorios-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2024/07/2-accesorios-640w.webp 640w, /wp-content/uploads/2024/07/2-accesorios-1024w.webp 1024w, /wp-content/uploads/2024/07/2-accesorios-1600w.webp 1600w"
+    }
+  ]
+}

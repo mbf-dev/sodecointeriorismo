@@ -1,0 +1,29 @@
+---
+import HeroSlider from './HeroSlider.svelte';
+
+const { 
+  mbf_slides, 
+  mbf_height, 
+  mbf_autoplay,
+  mbf_padding_top,
+  mbf_padding_bottom,
+  mbf_margin_top,
+  mbf_margin_bottom 
+} = Astro.props;
+
+// Ensure slides is an array
+const slides = Array.isArray(mbf_slides) ? mbf_slides : [];
+---
+
+<div class="w-full">
+  <HeroSlider 
+    slides={slides} 
+    height={mbf_height} 
+    autoplay={mbf_autoplay} 
+    paddingTop={mbf_padding_top}
+    paddingBottom={mbf_padding_bottom}
+    marginTop={mbf_margin_top}
+    marginBottom={mbf_margin_bottom}
+    client:visible 
+  />
+</div>

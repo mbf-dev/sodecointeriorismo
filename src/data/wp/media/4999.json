@@ -1,0 +1,18 @@
+{
+  "id": 4999,
+  "src": "/wp-content/uploads/2024/07/vicycle-variation-images-Vicycle-60-xs@ViCycle-60-1600w.webp",
+  "width": 1438,
+  "height": 1080,
+  "lqip": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADCAYAAAC09K7GAAAACXBIWXMAAAPoAAAD6AG1e1JrAAAAPElEQVR4nGMIaU3KjpxYsCWqP3dCUGOMLUNwc3JL6MTC/1HTyv6Htqe1MwQ3JWSHdGZuCW5LneBfHWELADZ2Fg/Jx2i3AAAAAElFTkSuQmCC",
+  "alt": "",
+  "sources": [
+    {
+      "type": "image/avif",
+      "srcset": "/wp-content/uploads/2024/07/vicycle-variation-images-Vicycle-60-xs@ViCycle-60-640w.avif 640w, /wp-content/uploads/2024/07/vicycle-variation-images-Vicycle-60-xs@ViCycle-60-1024w.avif 1024w, /wp-content/uploads/2024/07/vicycle-variation-images-Vicycle-60-xs@ViCycle-60-1600w.avif 1600w"
+    },
+    {
+      "type": "image/webp",
+      "srcset": "/wp-content/uploads/2024/07/vicycle-variation-images-Vicycle-60-xs@ViCycle-60-640w.webp 640w, /wp-content/uploads/2024/07/vicycle-variation-images-Vicycle-60-xs@ViCycle-60-1024w.webp 1024w, /wp-content/uploads/2024/07/vicycle-variation-images-Vicycle-60-xs@ViCycle-60-1600w.webp 1600w"
+    }
+  ]
+}

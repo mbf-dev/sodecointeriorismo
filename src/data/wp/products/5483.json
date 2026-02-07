@@ -1,0 +1,104 @@
+{
+  "id": 5483,
+  "name": "BulVibro RCH",
+  "slug": "bulvibro-rch",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulvibro-rch/",
+  "date_created": "2024-07-23 10:22:55",
+  "date_modified": "2025-10-28 13:03:51",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "",
+  "short_description": "<h2 class=\"h6\"><b>Soportes antivibración</b></h2>\n<p>Perchas antivibraciones para perfiles comunes. El procedimiento de instalación es extremadamente fácil, acelera el trabajo y reduce los costos de trabajo. Tienen dispositivos de seguridad para garantizar una instalación segura y contienen un nuevo sistema de nivelación rápida. La principal ventaja de esta percha es que puede instalar rápidamente un falso techo, logrando un acabado de alta calidad, con el mínimo esfuerzo y costos. Rendimiento de aislamiento excepcional. Si quieres construir un techo en ángulo, puedes ajustar fácilmente las perchas.</p>\n",
+  "sku": "VIC-059",
+  "price": "211.68",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>256,13&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    5478,
+    5482,
+    5484,
+    5481,
+    5480,
+    5479
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5499,
+  "gallery_images": [],
+  "categories": [
+    478,
+    477,
+    475,
+    476,
+    393,
+    390
+  ],
+  "tags": [
+    376,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "50 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5496,
+      "attributes": {
+        "caja": "50 Unidades"
+      },
+      "price": "211.68",
+      "regular_price": "211.68",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-059",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5499,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

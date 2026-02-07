@@ -1,0 +1,360 @@
+{
+  "id": 6178,
+  "name": "Multifuser Wood mkII",
+  "slug": "multifuser-wood-mkii",
+  "permalink": "https://wpadmin.buildmaster.dev/product/multifuser-wood-mkii/",
+  "date_created": "2024-07-23 11:12:39",
+  "date_modified": "2025-10-28 12:59:45",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Difusor de sonido bidimensional hecho de madera maciza para dispersar el sonido, principalmente en frecuencias medias y bajas. Está disponible en modelos de 36 y 64</p>\n",
+  "short_description": "",
+  "sku": "VIC-042",
+  "price": "372",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>450,12&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6399,
+    6180,
+    6176,
+    6179,
+    6177
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4635,
+  "gallery_images": [
+    4636,
+    4637,
+    4638,
+    4639
+  ],
+  "categories": [
+    478,
+    401,
+    476,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    346,
+    330,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        433,
+        436,
+        437,
+        404,
+        434
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "32",
+        "64"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "1 Unidad"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6199,
+      "attributes": {
+        "pa_color": "negro",
+        "formato": "32",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4640,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6200,
+      "attributes": {
+        "pa_color": "negro",
+        "formato": "64",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4641,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6192,
+      "attributes": {
+        "pa_color": "blanco-mate",
+        "formato": "32",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4642,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6193,
+      "attributes": {
+        "pa_color": "blanco-mate",
+        "formato": "64",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4643,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6194,
+      "attributes": {
+        "pa_color": "madera-natural",
+        "formato": "32",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4644,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6195,
+      "attributes": {
+        "pa_color": "madera-natural",
+        "formato": "64",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4635,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6196,
+      "attributes": {
+        "pa_color": "cobre-metalico",
+        "formato": "32",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4653,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6197,
+      "attributes": {
+        "pa_color": "cobre-metalico",
+        "formato": "64",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4654,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6198,
+      "attributes": {
+        "pa_color": "oro-metalico",
+        "formato": "32",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6191,
+      "attributes": {
+        "pa_color": "oro-metalico",
+        "formato": "64",
+        "caja": "1 Unidad"
+      },
+      "price": "372",
+      "regular_price": "372",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-042",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4656,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

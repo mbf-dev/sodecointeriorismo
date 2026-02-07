@@ -1,0 +1,121 @@
+{
+  "id": 9296,
+  "name": "Oredodici",
+  "slug": "oredodici",
+  "permalink": "https://wpadmin.buildmaster.dev/product/oredodici/",
+  "date_created": "2024-08-12 15:50:17",
+  "date_modified": "2025-10-28 13:19:59",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Reloj de pared de tecnopolímero lacado.</p>\n",
+  "short_description": "<p>Reloj de pared de tecnopolímero lacado.</p>\n",
+  "sku": "CAI-066",
+  "price": "86",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>104,06&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9297,
+  "gallery_images": [
+    9298,
+    9299,
+    9300
+  ],
+  "categories": [
+    481,
+    497
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        422,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12297,
+      "attributes": {
+        "pa_color": "blanco"
+      },
+      "price": "86",
+      "regular_price": "86",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-066",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9297,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12298,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "86",
+      "regular_price": "86",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-066",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9297,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

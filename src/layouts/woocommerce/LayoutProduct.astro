@@ -1,0 +1,148 @@
+---
+import Layout from '../Layout.astro';
+import { getImageMeta } from '../../lib/image-index';
+
+interface Props {
+  product: any;
+}
+
+const { product } = Astro.props;
+
+const imageMeta = await getImageMeta(product.image);
+const galleryMetas = await Promise.all(
+  (product.gallery_images || []).map((id: number) => getImageMeta(id))
+);
+
+// Format price
+function formatPrice(price: string | number) {
+  const num = typeof price === 'string' ? parseFloat(price) : price;
+  return new Intl.NumberFormat('es-ES', {
+    style: 'currency',
+    currency: 'EUR'
+  }).format(num);
+}
+---
+
+<Layout title={product.name}>
+  <div class="container mx-auto px-4 py-8">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+      
+      <!-- Image Gallery -->
+      <div class="space-y-4">
+        {imageMeta ? (
+          <figure class="aspect-square rounded-box overflow-hidden bg-base-200">
+            <picture>
+              {imageMeta.sources?.map((source: any) => (
+                <source type={source.type} srcset={source.srcset} />
+              ))}
+              <img 
+                src={imageMeta.src} 
+                alt={product.name}
+                width={imageMeta.width}
+                height={imageMeta.height}
+                class="w-full h-full object-cover"
+                loading="eager"
+              />
+            </picture>
+          </figure>
+        ) : (
+          <div class="aspect-square rounded-box bg-base-200 flex items-center justify-center">
+            <span class="icon-[heroicons--photo] size-24 opacity-20"></span>
+          </div>
+        )}
+        
+        {galleryMetas.length > 0 && (
+          <div class="grid grid-cols-4 gap-2">
+            {galleryMetas.filter(Boolean).map((meta: any) => (
+              <figure class="aspect-square rounded-btn overflow-hidden bg-base-200 cursor-pointer hover:opacity-80 transition">
+                <img 
+                  src={meta.src} 
+                  alt=""
+                  class="w-full h-full object-cover"
+                  loading="lazy"
+                />
+              </figure>
+            ))}
+          </div>
+        )}
+      </div>
+
+      <!-- Product Info -->
+      <div class="space-y-6">
+        <div>
+          <h1 class="text-3xl md:text-4xl font-bold">{product.name}</h1>
+          {product.sku && (
+            <p class="text-sm opacity-60 mt-1">SKU: {product.sku}</p>
+          )}
+        </div>
+
+        <!-- Price -->
+        <div class="space-y-2">
+          {product.on_sale && product.regular_price ? (
+            <div class="flex items-center gap-3">
+              <span class="text-xl line-through opacity-50">
+                {formatPrice(product.regular_price)}
+              </span>
+              <span class="text-3xl font-bold text-error">
+                {formatPrice(product.price)}
+              </span>
+              <span class="badge badge-error">OFERTA</span>
+            </div>
+          ) : product.price ? (
+            <span class="text-3xl font-bold text-primary">
+              {formatPrice(product.price)}
+            </span>
+          ) : (
+            <span class="text-lg opacity-50">Consultar precio</span>
+          )}
+          <p class="text-sm opacity-60">IVA incluido</p>
+        </div>
+
+        <!-- Short Description -->
+        {product.short_description && (
+          <div class="prose prose-sm max-w-none" set:html={product.short_description} />
+        )}
+
+        <!-- Stock Status -->
+        <div class="flex items-center gap-2">
+          {product.stock_status === 'instock' ? (
+            <>
+              <span class="badge badge-success gap-1">
+                <span class="icon-[heroicons--check-circle] size-4"></span>
+                En stock
+              </span>
+            </>
+          ) : (
+            <span class="badge badge-warning">Bajo pedido</span>
+          )}
+        </div>
+
+        <!-- Add to Cart -->
+        <div class="flex flex-wrap gap-4">
+          <div class="join">
+            <button class="btn join-item">-</button>
+            <input type="number" value="1" min="1" class="input input-bordered join-item w-20 text-center" />
+            <button class="btn join-item">+</button>
+          </div>
+          <button class="btn btn-primary flex-1 md:flex-none md:px-12">
+            <span class="icon-[heroicons--shopping-cart] size-5"></span>
+            Añadir al carrito
+          </button>
+        </div>
+
+        <!-- Description -->
+        {product.description && (
+          <div class="collapse collapse-arrow bg-base-200">
+            <input type="checkbox" checked /> 
+            <div class="collapse-title text-lg font-medium">
+              Descripción
+            </div>
+            <div class="collapse-content">
+              <div class="prose max-w-none" set:html={product.description} />
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  </div>
+</Layout>

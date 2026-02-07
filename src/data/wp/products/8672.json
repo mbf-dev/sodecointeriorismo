@@ -1,0 +1,410 @@
+{
+  "id": 8672,
+  "name": "Fiber 6 Velvet",
+  "slug": "fiber-6-velvet",
+  "permalink": "https://wpadmin.buildmaster.dev/product/fiber-6-velvet/",
+  "date_created": "2024-08-10 18:41:52",
+  "date_modified": "2025-10-28 13:33:01",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>FIBER 6 – Tejido acústico suave y voluminoso de tacto aterciopelado, logrado mediante hilados de chenilla que proporcionan una textura flameada, no homogénea, brillante, con efectos de claro-oscuro. Generalmente se coloca con el flameado dispuesto en posición horizontal.<br />\nTERCIOPELO-CHENILLA – es un tejido que presenta una superficie de pelo tupido perpendicular a la tela, liso, compacto y brillante.<br />\nLa chenilla es un hilado compuesto por un hilo retorcido que sujeta pequeñas matas de pelo vertical y voluminoso insertadas entre sus extremos. Consigue un efecto semejante al del terciopelo (falso terciopelo), pero es más suave.</p>\n",
+  "short_description": "",
+  "sku": "CAI-138",
+  "price": "4950",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>5.989,50&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8694,
+    8206,
+    8661,
+    8689,
+    8666,
+    8185,
+    8681,
+    7574,
+    9020,
+    9026,
+    8591
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8675,
+  "gallery_images": [
+    8676,
+    8677,
+    8678,
+    8679,
+    8680,
+    11005,
+    11006,
+    11007,
+    11008,
+    11009,
+    11010,
+    11011,
+    11012,
+    11013,
+    11014,
+    11015,
+    11016
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    469
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        551,
+        552
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "300cm x 25m"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9797,
+      "attributes": {
+        "pa_textura": "velvet-600",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9798,
+      "attributes": {
+        "pa_textura": "velvet-601",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9799,
+      "attributes": {
+        "pa_textura": "velvet-602",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9800,
+      "attributes": {
+        "pa_textura": "velvet-603",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9801,
+      "attributes": {
+        "pa_textura": "velvet-604",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9802,
+      "attributes": {
+        "pa_textura": "velvet-605",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9803,
+      "attributes": {
+        "pa_textura": "velvet-606",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9804,
+      "attributes": {
+        "pa_textura": "velvet-607",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9808,
+      "attributes": {
+        "pa_textura": "velvet-608",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9805,
+      "attributes": {
+        "pa_textura": "velvet-609",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9806,
+      "attributes": {
+        "pa_textura": "velvet-610",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9807,
+      "attributes": {
+        "pa_textura": "velvet-611",
+        "dimension": "300cm x 25m"
+      },
+      "price": "4950",
+      "regular_price": "4950",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-138",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8675,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

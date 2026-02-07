@@ -1,0 +1,164 @@
+{
+  "id": 5456,
+  "name": "BulSpacer Plus mkII",
+  "slug": "bulspacer-plus",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulspacer-plus/",
+  "date_created": "2024-07-23 10:21:45",
+  "date_modified": "2025-10-28 13:05:30",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>VicSpacer Plus mkII es una actualización del producto estrella Flat Panel VMT de Vicoustic, especialmente desarrollado para mejorar la acústica de cualquier habitación. Esta versión del nuevo VicSpacer incluye <strong>4 paneles de PET adicionales para mejorar aún más el rendimiento de Flat Panel VMT</strong> .</p>\n<p>Mediante el uso de una capa adicional de PET para aumentar la absorción, este nuevo accesorio ayudará a hacer frente a los desafíos acústicos más exigentes, con una solución sostenible hecha principalmente de plástico reciclado. VicSpacer se puede instalar en las paredes y el techo .</p>\n<p>Realizado en madera y acero lacado, fue diseñado para revestir los laterales blancos de Flat Panel VMT de forma elegante y visualmente atractiva, disponible en Blanco, Negro y Gris Mate.</p>\n<p><strong>VicSpacer Plus deberá combinarse con <a href=\"https://shop.vicoustic.com/es-es/collections/flat-panel-vmt\">Flat Panel VMT</a> de 20 mm de espesor (no incluido).</strong></p>\n",
+  "short_description": "<div class=\"product__title\">\n<h2><span class=\"product__text inline-richtext subtitle\">Sistema de fijación para mejorar paneles acústicos. Caja 2 unidades. 1194 x 599 x 66mm</span></h2>\n</div>\n<div id=\"price-template--19044974526811__main\" class=\"no-js-hidden\" role=\"status\">\n<p>&nbsp;</p>\n</div>\n",
+  "sku": "VIC-070",
+  "price": "350",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>423,50&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4284,
+  "gallery_images": [
+    4279,
+    4280,
+    4281
+  ],
+  "categories": [
+    391,
+    478,
+    477,
+    475,
+    476,
+    390
+  ],
+  "tags": [
+    340,
+    331,
+    332,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "Color",
+      "slug": "Color",
+      "options": [
+        "Negro Mate",
+        "Blanco Mate",
+        "Gris Mate"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5464,
+      "attributes": {
+        "color": "Negro Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "350",
+      "regular_price": "350",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-070",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4284,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5462,
+      "attributes": {
+        "color": "Blanco Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "350",
+      "regular_price": "350",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-070",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4285,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5463,
+      "attributes": {
+        "color": "Gris Mate",
+        "caja": "2 Unidades"
+      },
+      "price": "350",
+      "regular_price": "350",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-070",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4286,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "id": 8926,
+  "name": "Giotto Ceiling",
+  "slug": "giotto-ceiling",
+  "permalink": "https://wpadmin.buildmaster.dev/product/giotto-ceiling/",
+  "date_created": "2024-08-11 13:31:54",
+  "date_modified": "2025-10-28 13:35:25",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Giotto es una línea de paneles fonoabsorbentes Snowsound de forma ovalada o circular, que se propone en dos versiones: Giotto ceiling, con un sistema de suspensión fijado al techo mediante cables que permiten regular la altura, y Giotto wall, que presenta una peculiar sujeción a la pared elaborada en acero que sostiene el panel desde el orificio central mediante un sistema de encastre.</p>\n",
+  "short_description": "<h2>Design Sezgin Aksu</h2>\n",
+  "sku": "CAI-153",
+  "price": "678",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>820,38&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.038,18&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 820,38&nbsp;&euro; hasta 1.038,18&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8927,
+  "gallery_images": [
+    8928,
+    8929,
+    8930,
+    8931
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        614,
+        610,
+        612,
+        616
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "119cm",
+        "119 x 159cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9689,
+      "attributes": {
+        "pa_textura": "bianco-0001",
+        "dimension": "119cm"
+      },
+      "price": "678",
+      "regular_price": "678",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-153",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8927,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9690,
+      "attributes": {
+        "pa_textura": "bianco-0001",
+        "dimension": "119 x 159cm"
+      },
+      "price": "858",
+      "regular_price": "858",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-153",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8927,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9691,
+      "attributes": {
+        "pa_textura": "gris-plata-8004",
+        "dimension": "119cm"
+      },
+      "price": "678",
+      "regular_price": "678",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-153",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8927,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9692,
+      "attributes": {
+        "pa_textura": "gris-plata-8004",
+        "dimension": "119 x 159cm"
+      },
+      "price": "858",
+      "regular_price": "858",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-153",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8927,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9693,
+      "attributes": {
+        "pa_textura": "beige-1008",
+        "dimension": "119cm"
+      },
+      "price": "678",
+      "regular_price": "678",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-153",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8927,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9694,
+      "attributes": {
+        "pa_textura": "beige-1008",
+        "dimension": "119 x 159cm"
+      },
+      "price": "858",
+      "regular_price": "858",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-153",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8927,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9695,
+      "attributes": {
+        "pa_textura": "naranja-4030",
+        "dimension": "119cm"
+      },
+      "price": "678",
+      "regular_price": "678",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-153",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8927,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9696,
+      "attributes": {
+        "pa_textura": "naranja-4030",
+        "dimension": "119 x 159cm"
+      },
+      "price": "858",
+      "regular_price": "858",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-153",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8927,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

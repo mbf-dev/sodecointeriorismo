@@ -1,0 +1,98 @@
+{
+  "id": 8956,
+  "name": "Mitesco Magnetic",
+  "slug": "mitesco-magnetic",
+  "permalink": "https://wpadmin.buildmaster.dev/product/mitesco-magnetic/",
+  "date_created": "2024-08-11 13:53:39",
+  "date_modified": "2025-10-28 13:34:52",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Las conexiones magnéticas permiten, gracias también a la ligereza del panel y a la ausencia de marcos rígidos y angulares de aluminio o PVC de aplicar y retirar fácilmente los paneles.</p>\n",
+  "short_description": "<h2>Design Michelle De Lucchi</h2>\n",
+  "sku": "CAI-148",
+  "price": "119",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>143,99&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8957,
+  "gallery_images": [
+    8958,
+    8959
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Cantidad",
+      "slug": "Cantidad",
+      "options": [
+        "4 unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 13431,
+      "attributes": {
+        "cantidad": "4 unidades"
+      },
+      "price": "119",
+      "regular_price": "119",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-148",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8957,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

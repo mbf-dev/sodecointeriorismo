@@ -1,0 +1,1410 @@
+{
+  "id": 9654,
+  "name": "Pegaso Cemento",
+  "slug": "pegaso-cemento",
+  "permalink": "https://wpadmin.buildmaster.dev/product/pegaso-cemento/",
+  "date_created": "2024-08-14 11:33:07",
+  "date_modified": "2025-10-28 13:13:13",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Un diseño riguroso para la mesa Pegaso, estudiado para conseguir grandes dimensiones y propuesto con plano en composito extremadamente ligero, con estructura a “sandwich” que consiste en un núcleo hecho de láminas de madera encerrado entre dos hojas de aluminio recubierto por la parte superior y en los bordes con una lámina de resina acrílica blanca cepillada o recubierto en hormigón donde la artesanía del trabajo hace que cada pieza sea única y exclusiva. La simplicidad y las líneas limpias del plan tanto en la versión de cemento que de resina, contrasta con las formas sinuosas de la estructura, fabricado en aluminio pulido o recubierto.</p>\n",
+  "short_description": "",
+  "sku": "CAI-022",
+  "price": "2660",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>3.218,60&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>6.340,40&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 3.218,60&nbsp;&euro; hasta 6.340,40&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    9507,
+    9233,
+    6755,
+    9246,
+    9551,
+    9122,
+    9546,
+    11518,
+    11512
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9655,
+  "gallery_images": [
+    9656,
+    9657,
+    9658,
+    9659,
+    9660
+  ],
+  "categories": [
+    491,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        630,
+        405,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "Redonda 130cm",
+        "Redonda 150cm",
+        "Cuadrada 140cm",
+        "Rectangular 160x90cm",
+        "Rectangular 180x90cm",
+        "Rectangular 200x90cm",
+        "Rectangular 220x90cm",
+        "Rectangular 240x90cm",
+        "Rectangular 200x100cm",
+        "Rectangular 220x100cm",
+        "Rectangular 240x100cm",
+        "Rectangular 260x100cm",
+        "Rectangular 280x100cm",
+        "Rectangular 300x100cm",
+        "Rectangular 240x120cm",
+        "Rectangular 260x120cm",
+        "Rectangular 280x120cm",
+        "Rectangular 300x120cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 17595,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 200x100cm"
+      },
+      "price": "3270",
+      "regular_price": "3270",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17596,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 220x100cm"
+      },
+      "price": "3570",
+      "regular_price": "3570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17597,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 240x100cm"
+      },
+      "price": "3740",
+      "regular_price": "3740",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17598,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 260x100cm"
+      },
+      "price": "4080",
+      "regular_price": "4080",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17599,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 280x100cm"
+      },
+      "price": "4370",
+      "regular_price": "4370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17600,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 300x100cm"
+      },
+      "price": "4550",
+      "regular_price": "4550",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17601,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 240x120cm"
+      },
+      "price": "3860",
+      "regular_price": "3860",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17602,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 260x120cm"
+      },
+      "price": "4400",
+      "regular_price": "4400",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17603,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 280x120cm"
+      },
+      "price": "4680",
+      "regular_price": "4680",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17604,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 300x120cm"
+      },
+      "price": "4800",
+      "regular_price": "4800",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17545,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Redonda 130cm"
+      },
+      "price": "3170",
+      "regular_price": "3170",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17546,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Redonda 150cm"
+      },
+      "price": "3490",
+      "regular_price": "3490",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17549,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 180x90cm"
+      },
+      "price": "3180",
+      "regular_price": "3180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17547,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Cuadrada 140cm"
+      },
+      "price": "3430",
+      "regular_price": "3430",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17548,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 160x90cm"
+      },
+      "price": "2970",
+      "regular_price": "2970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17550,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 200x90cm"
+      },
+      "price": "3490",
+      "regular_price": "3490",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17551,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 220x90cm"
+      },
+      "price": "4010",
+      "regular_price": "4010",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17552,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 240x90cm"
+      },
+      "price": "4180",
+      "regular_price": "4180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17553,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 200x100cm"
+      },
+      "price": "3580",
+      "regular_price": "3580",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17554,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 220x100cm"
+      },
+      "price": "4010",
+      "regular_price": "4010",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17555,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 240x100cm"
+      },
+      "price": "4180",
+      "regular_price": "4180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17556,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 260x100cm"
+      },
+      "price": "4520",
+      "regular_price": "4520",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17557,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 280x100cm"
+      },
+      "price": "4810",
+      "regular_price": "4810",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17558,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 300x100cm"
+      },
+      "price": "4990",
+      "regular_price": "4990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17559,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 240x120cm"
+      },
+      "price": "4320",
+      "regular_price": "4320",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17560,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 260x120cm"
+      },
+      "price": "4480",
+      "regular_price": "4480",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17561,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 280x120cm"
+      },
+      "price": "5120",
+      "regular_price": "5120",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17562,
+      "attributes": {
+        "pa_color": "aluminio",
+        "tamano": "Rectangular 300x120cm"
+      },
+      "price": "5240",
+      "regular_price": "5240",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17566,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Redonda 130cm"
+      },
+      "price": "2870",
+      "regular_price": "2870",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17567,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Redonda 150cm"
+      },
+      "price": "3190",
+      "regular_price": "3190",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17568,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Cuadrada 140cm"
+      },
+      "price": "3130",
+      "regular_price": "3130",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17569,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 160x90cm"
+      },
+      "price": "2660",
+      "regular_price": "2660",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17570,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 180x90cm"
+      },
+      "price": "2870",
+      "regular_price": "2870",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17571,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 200x90cm"
+      },
+      "price": "3180",
+      "regular_price": "3180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17572,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 220x90cm"
+      },
+      "price": "3480",
+      "regular_price": "3480",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17573,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 240x90cm"
+      },
+      "price": "3570",
+      "regular_price": "3570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17574,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 200x100cm"
+      },
+      "price": "3270",
+      "regular_price": "3270",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17575,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 220x100cm"
+      },
+      "price": "3570",
+      "regular_price": "3570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17576,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 240x100cm"
+      },
+      "price": "3740",
+      "regular_price": "3740",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17577,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 260x100cm"
+      },
+      "price": "4080",
+      "regular_price": "4080",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17578,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 280x100cm"
+      },
+      "price": "4370",
+      "regular_price": "4370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17579,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 300x100cm"
+      },
+      "price": "4550",
+      "regular_price": "4550",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17580,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 240x120cm"
+      },
+      "price": "3860",
+      "regular_price": "3860",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17581,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 260x120cm"
+      },
+      "price": "4400",
+      "regular_price": "4400",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17582,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 280x120cm"
+      },
+      "price": "4680",
+      "regular_price": "4680",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17583,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "Rectangular 300x120cm"
+      },
+      "price": "4800",
+      "regular_price": "4800",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17587,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Redonda 130cm"
+      },
+      "price": "2870",
+      "regular_price": "2870",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17588,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Redonda 150cm"
+      },
+      "price": "3190",
+      "regular_price": "3190",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17589,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Cuadrada 140cm"
+      },
+      "price": "3130",
+      "regular_price": "3130",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17591,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 180x90cm"
+      },
+      "price": "2870",
+      "regular_price": "2870",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17590,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 160x90cm"
+      },
+      "price": "2660",
+      "regular_price": "2660",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17592,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 200x90cm"
+      },
+      "price": "3180",
+      "regular_price": "3180",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17593,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 220x90cm"
+      },
+      "price": "3480",
+      "regular_price": "3480",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17594,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "Rectangular 240x90cm"
+      },
+      "price": "3570",
+      "regular_price": "3570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-022",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9655,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

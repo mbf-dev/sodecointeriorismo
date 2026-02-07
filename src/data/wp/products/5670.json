@@ -1,0 +1,273 @@
+{
+  "id": 5670,
+  "name": "Superbass Extreme Ultra",
+  "slug": "superbass-extreme-ultra",
+  "permalink": "https://wpadmin.buildmaster.dev/product/superbass-extreme-ultra/",
+  "date_created": "2024-07-23 10:37:13",
+  "date_modified": "2025-10-28 13:01:24",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Diseñado para proporcionar una absorción efectiva de baja frecuencia</p>\n<p>El elegante frente de madera de Super Bass Extreme Ultra se basa en el panel Wavewood insignia de Vicoustic. Adecuado para el montaje en esquinas, proporciona una absorción efectiva de baja frecuencia entre 60-125Hz, y ofrece la máxima efectividad entre 75 -100Hz. El panel frontal de madera tiene dos funciones, proporcionando suficiente absorción de frecuencia media-alta para controlar los reflejos de la esquina sin amortiguar el sonido.</p>\n<p>Cuando la presión sonora está en su máximo, la membrana interna de Super Bass Extreme Ultra transforma las fluctuaciones de alta presión en movimiento de aire. La membrana vibra de forma simpática en un rango de frecuencia de 75-100 Hz, haciendo que el aire pase a través de una capa de espuma de alta densidad que absorbe las bajas frecuencias.</p>\n<p>Muy recomendable para habitaciones más pequeñas con problemas de baja frecuencia, Super Bass Extreme Ultra se puede utilizar en diferentes posiciones de esquina. Además de su estética, es extremadamente práctico, con una estructura modular que permite agregar más unidades según lo previsto.</p>\n",
+  "short_description": "",
+  "sku": "VIC-055",
+  "price": "444.9",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>538,33&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "21.4",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6180,
+    5671,
+    5672,
+    8903,
+    5673
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4833,
+  "gallery_images": [
+    4834,
+    4835,
+    4836
+  ],
+  "categories": [
+    478,
+    476,
+    390,
+    400
+  ],
+  "tags": [
+    362,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        433,
+        508,
+        436,
+        437,
+        432,
+        434,
+        505,
+        529
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5677,
+      "attributes": {
+        "pa_color": "negro-mate"
+      },
+      "price": "444.9",
+      "regular_price": "444.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-055",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4837,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5678,
+      "attributes": {
+        "pa_color": "blanco-mate"
+      },
+      "price": "444.9",
+      "regular_price": "444.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-055",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4838,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5679,
+      "attributes": {
+        "pa_color": "wenge-oscuro"
+      },
+      "price": "444.9",
+      "regular_price": "444.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-055",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4839,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5676,
+      "attributes": {
+        "pa_color": "roble-marron"
+      },
+      "price": "444.9",
+      "regular_price": "444.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-055",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4849,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5675,
+      "attributes": {
+        "pa_color": "cereza-locarno"
+      },
+      "price": "444.9",
+      "regular_price": "444.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-055",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4850,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5680,
+      "attributes": {
+        "pa_color": "madera-natural"
+      },
+      "price": "444.9",
+      "regular_price": "444.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-055",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4840,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5681,
+      "attributes": {
+        "pa_color": "cobre-metalico"
+      },
+      "price": "444.9",
+      "regular_price": "444.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-055",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4847,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5682,
+      "attributes": {
+        "pa_color": "oro-metalico"
+      },
+      "price": "444.9",
+      "regular_price": "444.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-055",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4848,
+      "weight": "21.4",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

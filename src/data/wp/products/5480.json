@@ -1,0 +1,106 @@
+{
+  "id": 5480,
+  "name": "BulVibro WS",
+  "slug": "bulvibro-ws",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulvibro-ws/",
+  "date_created": "2024-07-23 10:22:55",
+  "date_modified": "2025-10-28 13:04:28",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Instalación:</p>\n<p>Se instala en los perfiles metálicos del piso o el techo (corredor en U con un ancho de 50, 75 o 100 mm) en correspondencia con los espárragos de la pared o también podría instalarse de forma unificada. Se pueden fijar en los perfiles con pernos y en el suelo o el techo con pernos de expansión. Los espacios libres deben llenarse con material de absorción de sonido (p. ej. Bulcycle, o lana de roca), para sellar cavidades. Parte o la totalidad de las aletas laterales de la base se pueden cortar fácilmente debido a sus incisiones, para aplicaciones con un grosor más pequeño (por ejemplo, una sola placa de yeso) que la longitud de la solapa.</p>\n",
+  "short_description": "<h2 class=\"h6\">Sistema de soporte antivibración.</h2>\n<p>El VicVibro-WS es un sistema de soporte elastomérico antivibración y homogéneo para particiones de placas de yeso. Los orificios transversales proporcionan el espacio necesario para que la expansión del caucho aumente la desviación y, en consecuencia, el aislamiento de la vibración. Las solapas inclinadas de VicVibro WS cubren los pernos de fijación de la base y evitan el posible contacto con la placa de yeso. Disminuye las transmisiones de ruido de flanqueo. Interrumpe los puentes de calor y el aumento de la humedad entre los pisos húmedos y las paredes.</p>\n",
+  "sku": "VIC-062",
+  "price": "350.78",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>424,44&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    5478,
+    5483,
+    5482,
+    5481,
+    5477,
+    5475,
+    5476,
+    5479
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5001,
+  "gallery_images": [],
+  "categories": [
+    478,
+    477,
+    475,
+    476,
+    393,
+    390
+  ],
+  "tags": [
+    376,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "200 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5490,
+      "attributes": {
+        "caja": "200 Unidades"
+      },
+      "price": "350.78",
+      "regular_price": "350.78",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-062",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5001,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

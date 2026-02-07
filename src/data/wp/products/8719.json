@@ -1,0 +1,190 @@
+{
+  "id": 8719,
+  "name": "Snowgems Divider",
+  "slug": "snowgems-divider",
+  "permalink": "https://wpadmin.buildmaster.dev/product/snowgems-divider/",
+  "date_created": "2024-08-10 19:26:05",
+  "date_modified": "2025-10-28 13:32:21",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Sistema fonoabsorbente modular. Consta de paneles con formas y colores inspirados en las piedras preciosas y realizados aplicando la tecnología Snowsound. Los montantes son de acero pintado con polvos epoxi. Se ensamblan entre sí por medio de elementos tubulares, en los que se colocan los paneles fonoabsorbentes. Las estructuras permiten crear biombos o tabiques modulares unidos entre sí.</p>\n<p>«Todo nace del gesto de enhebrar una serie de piedras de diferentes colores y formas en un hilo para crear joyas preciosas, collares y pendientes.» Snowgems es un sistema abierto que da vida a soluciones con formas delicadas, capaces de influir notablemente en la calidad acústica y estética de los espacios.</p>\n",
+  "short_description": "<h2>Design (a+b) Annalisa Dominoni-Benedetto Quaquaro</h2>\n",
+  "sku": "CAI-131",
+  "price": "1452",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.756,92&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8720,
+  "gallery_images": [
+    8721,
+    8722,
+    8723,
+    8724,
+    8725,
+    8726,
+    8727,
+    8728
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    472
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        625,
+        624,
+        611,
+        613
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensiones",
+      "slug": "Dimensiones",
+      "options": [
+        "180x179,5cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12715,
+      "attributes": {
+        "pa_textura": "4067-aquamarina",
+        "dimensiones": "180x179,5cm"
+      },
+      "price": "1452",
+      "regular_price": "1452",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-131",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8720,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12716,
+      "attributes": {
+        "pa_textura": "7074-rosa-quarzo",
+        "dimensiones": "180x179,5cm"
+      },
+      "price": "1452",
+      "regular_price": "1452",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-131",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8720,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12717,
+      "attributes": {
+        "pa_textura": "blanco-frio-8002",
+        "dimensiones": "180x179,5cm"
+      },
+      "price": "1452",
+      "regular_price": "1452",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-131",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8720,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12718,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007",
+        "dimensiones": "180x179,5cm"
+      },
+      "price": "1452",
+      "regular_price": "1452",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-131",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8720,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

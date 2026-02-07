@@ -1,0 +1,466 @@
+{
+  "id": 9861,
+  "name": "Flat Panel VMT Baldosa",
+  "slug": "flat-panel-vmt-baldosa",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flat-panel-vmt-baldosa/",
+  "date_created": "2024-08-20 15:40:56",
+  "date_modified": "2025-11-19 13:58:20",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Panel acústico con gran variedad de acabados</p>\n<p>Flat Panel VMT es un panel acústico decorativo fabricado con VicPET Wool, un material producido principalmente a partir de botellas de plástico recicladas.</p>\n<p>Beneficios acústicos:</p>\n<p>/ Ayudar a aumentar la eficiencia energética en un edificio<br />\n/ Están certificados con <strong>Indoor Advantage™ Gold Building Materials</strong>, por SCS Global Services<br />\n/ Son una manera fácil de crear un sinfín de diseños nuevos y emocionantes<br />\n/ Mejorar la acústica de cualquier estancia<br />\n/ Haz que las habitaciones sean más verdes al estar hecho de materiales sostenibles y reciclables</p>\n<p>Con una innovadora tecnología de teñido, los paneles acústicos Flat Panel VMT pueden simular hormigón, mármol, madera, piedras naturales y otros materiales, consiguiendo un aspecto sorprendente y realista en cualquier ambiente. Las aplicaciones de Flat Panel VMT son infinitas, lo que lo convierte en el panel acústico fonoabsorbente ideal tanto para proyectos de nueva construcción como de rehabilitación.</p>\n<p>&nbsp;</p>\n",
+  "short_description": "",
+  "sku": "VIC-009",
+  "price": "160.92",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>194,71&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.052,56&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 194,71&nbsp;&euro; hasta 2.052,56&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5582,
+  "gallery_images": [
+    5553,
+    5554,
+    5555,
+    5556,
+    5557,
+    5558,
+    5559,
+    5560,
+    5561,
+    5562,
+    5563
+  ],
+  "categories": [
+    395,
+    478,
+    392,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    331,
+    332,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        525,
+        526
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "595x595x20mm",
+        "1190x595x20mm",
+        "2380x1190x20",
+        "595x595x40mm",
+        "1190x595x40mm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades",
+        "4 Unidades",
+        "8 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 10341,
+      "attributes": {
+        "pa_textura": "ba-patron-1",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "160.92",
+      "regular_price": "160.92",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10368,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10348,
+      "attributes": {
+        "pa_textura": "ba-patron-3",
+        "tamano": "595x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "160.92",
+      "regular_price": "160.92",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10369,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10336,
+      "attributes": {
+        "pa_textura": "ba-patron-1",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321.02",
+      "regular_price": "321.02",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10368,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10337,
+      "attributes": {
+        "pa_textura": "ba-patron-3",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321.02",
+      "regular_price": "321.02",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10369,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10338,
+      "attributes": {
+        "pa_textura": "ba-patron-1",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "321.02",
+      "regular_price": "321.02",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5582,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10339,
+      "attributes": {
+        "pa_textura": "ba-patron-3",
+        "tamano": "1190x595x20mm",
+        "caja": "4 Unidades"
+      },
+      "price": "321.02",
+      "regular_price": "321.02",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10367,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10340,
+      "attributes": {
+        "pa_textura": "ba-patron-1",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "641.2",
+      "regular_price": "641.2",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5582,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10333,
+      "attributes": {
+        "pa_textura": "ba-patron-3",
+        "tamano": "1190x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "641.2",
+      "regular_price": "641.2",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10367,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10334,
+      "attributes": {
+        "pa_textura": "ba-patron-1",
+        "tamano": "2380x1190x20",
+        "caja": "2 Unidades"
+      },
+      "price": "430.51",
+      "regular_price": "430.51",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10366,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10335,
+      "attributes": {
+        "pa_textura": "ba-patron-3",
+        "tamano": "2380x1190x20",
+        "caja": "2 Unidades"
+      },
+      "price": "430.51",
+      "regular_price": "430.51",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10347,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10326,
+      "attributes": {
+        "pa_textura": "ba-patron-1",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10366,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10327,
+      "attributes": {
+        "pa_textura": "ba-patron-3",
+        "tamano": "2380x1190x20",
+        "caja": "4 Unidades"
+      },
+      "price": "851.9",
+      "regular_price": "851.9",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10347,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10328,
+      "attributes": {
+        "pa_textura": "ba-patron-1",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10366,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 10325,
+      "attributes": {
+        "pa_textura": "ba-patron-3",
+        "tamano": "2380x1190x20",
+        "caja": "8 Unidades"
+      },
+      "price": "1696.33",
+      "regular_price": "1696.33",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-009",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 10347,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "id": 5485,
+  "name": "BulCork Lat 30",
+  "slug": "bulcork-lat-30",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulcork-lat-30/",
+  "date_created": "2024-07-23 10:22:55",
+  "date_modified": "2025-10-28 13:01:46",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Información Técnica</p>\n<p>Density: 710 kg/m3</p>\n<p>Color: Black</p>\n<p>Temperature Range: Constant (- 10 / + 100oC)</p>\n<p>Tensile Strength: &gt; 0.4 MPa (ASTM F152)</p>\n<p>Elongation at Break*: &gt; 40% (ASTM F152)</p>\n<p>Compression set 50% / 23o / 70h*: &lt; 10% (DIN 53572)</p>\n<p>Compressibility at 2.8 MPa*: 40 &#8211; 60% (ASTM F36)</p>\n<p>Recovery at 2.8 MPa*: &gt; 90% (ASTM F36)</p>\n<p>Shore hardness: 35-45 A ( ASTM D2240)</p>\n<p>* Con respecto a una muestra de material de forma plana.</p>\n<p>Instalación &#8211; Información necesaria para determinar la malla Lat de ViCork:</p>\n<p>Peso del piso flotante que se apoyará;</p>\n<p>Las cargas muertas y vivas impuestas en el suelo flotante;</p>\n<p>El sistema requerido de frecuencia natural o criterios de rendimiento de aislamiento acústico.</p>\n",
+  "short_description": "<h2 class=\"h6\">Sistema de listones de suelo de acero aislado.</h2>\n<p>ViCork Lat es un sistema de listones de piso de acero aislado para el soporte de pisos flotantes y aplicaciones de piso de muelles. Este producto puede soportar una variedad de encofrados y es extremadamente rápido de instalar. Las almohadillas dentro del ViCork Lat se pueden cambiar para cumplir con los requisitos específicos de frecuencia natural y amortiguación del proyecto.</p>\n<p>Dimensiones (L×H×W): 30x30x30mm</p>\n",
+  "sku": "VIC-057",
+  "price": "4.80",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>5,81&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    5478,
+    5480,
+    5477,
+    5475,
+    5476
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5501,
+  "gallery_images": [],
+  "categories": [
+    478,
+    477,
+    475,
+    476,
+    393,
+    390
+  ],
+  "tags": [
+    376,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "3 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5498,
+      "attributes": {
+        "caja": "3 Unidades"
+      },
+      "price": "4.80",
+      "regular_price": "4.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-057",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5501,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

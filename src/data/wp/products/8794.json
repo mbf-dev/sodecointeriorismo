@@ -1,0 +1,400 @@
+{
+  "id": 8794,
+  "name": "Oversize lux",
+  "slug": "oversize-lux",
+  "permalink": "https://wpadmin.buildmaster.dev/product/oversize-lux/",
+  "date_created": "2024-08-10 20:58:39",
+  "date_modified": "2025-10-28 13:38:25",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Oversize lux es un proyecto que fusiona el concepto de iluminación técnica con la tecnología fonoabsorbente Snowsound. Integrando estos ámbitos se crearon verdaderos componentes arquitectónicos, de gran tamaño, con lámparas LED integradas en los paneles fonoabsorbentes. Los cables para colgarlos del techo son ajustables.<br />\nLas lámparas Oversize lux con LED lineales pueden incorporar la tecnología de purificación del aire AIR PURIFICATION que permite incrementar la sostenibilidad energética al reutilizar la energía perdida en forma de calor que ofrecen las fuentes LED. El calor generado por la iluminación crea un flujo de aire ascendente que se canaliza a través de un filtro anodizado con iones de plata capaz de reducir significativamente la carga bacteriana. Las lámparas han sido testadas en un laboratorio de análisis microbiológicos para verificar su capacidad de reducir la carga microbiana presente en el aire.</p>\n",
+  "short_description": "<h2>Design Marc Sadler</h2>\n",
+  "sku": "CAI-176",
+  "price": "1162",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.406,02&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8711,
+    8858,
+    8067,
+    8114,
+    11531,
+    8740,
+    8756,
+    8029,
+    8733,
+    8917
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8795,
+  "gallery_images": [
+    8796,
+    8797,
+    8798,
+    8799,
+    8800,
+    8801
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    470,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "1"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        607,
+        412,
+        420,
+        410,
+        422,
+        405,
+        406,
+        407,
+        414,
+        404,
+        421,
+        409
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12064,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "amarillo"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12065,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "azul"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12066,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "azul-celeste"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12067,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "beige"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12068,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "blanco"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12069,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "blanco-natural"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12070,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "gris"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12071,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "gris-claro"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12072,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "naranja"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12073,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "negro"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12074,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "rojo"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12075,
+      "attributes": {
+        "tamano": "1",
+        "pa_color": "verde-mus"
+      },
+      "price": "1162",
+      "regular_price": "1162",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-176",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8795,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

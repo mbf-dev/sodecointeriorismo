@@ -1,0 +1,339 @@
+{
+  "id": 8981,
+  "name": "V-Flap",
+  "slug": "v-flap",
+  "permalink": "https://wpadmin.buildmaster.dev/product/v-flap/",
+  "date_created": "2024-08-11 20:05:02",
+  "date_modified": "2025-10-28 13:34:23",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>V-Flap se pueden realizar soluciones fonoabsorbentes de notable impacto visual. El bastidor de acero cromado, que cuelga de delgados cables metálicos y los dos paneles fonoabsorbentes colocados inclinados se perciben como dos alas volando en el espacio.</p>\n",
+  "short_description": "<h2>Design Alberto e Francesco Meda</h2>\n",
+  "sku": "CAI-143",
+  "price": "598",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>723,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8982,
+  "gallery_images": [
+    8983,
+    8984,
+    8985
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        622,
+        615,
+        614,
+        610,
+        613,
+        612,
+        616,
+        621,
+        617,
+        623,
+        618
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12847,
+      "attributes": {
+        "pa_textura": "6071-azul"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12848,
+      "attributes": {
+        "pa_textura": "amarillo-3008"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12849,
+      "attributes": {
+        "pa_textura": "beige-1008"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12850,
+      "attributes": {
+        "pa_textura": "bianco-0001"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12851,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12852,
+      "attributes": {
+        "pa_textura": "gris-plata-8004"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12853,
+      "attributes": {
+        "pa_textura": "naranja-4030"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12854,
+      "attributes": {
+        "pa_textura": "negro-8033"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12855,
+      "attributes": {
+        "pa_textura": "rojo-4027"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12856,
+      "attributes": {
+        "pa_textura": "verde-7013"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12857,
+      "attributes": {
+        "pa_textura": "verde-claro-7004"
+      },
+      "price": "598",
+      "regular_price": "598",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-143",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8982,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

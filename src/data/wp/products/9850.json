@@ -1,0 +1,251 @@
+{
+  "id": 9850,
+  "name": "BulDisplay Guitarra&Bajo",
+  "slug": "buldisplay-guitarrabajo",
+  "permalink": "https://wpadmin.buildmaster.dev/product/buldisplay-guitarrabajo/",
+  "date_created": "2024-08-20 15:40:55",
+  "date_modified": "2025-10-28 12:54:29",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Un soporte para guitarras y bajos que también es un panel acústico para paredes. Caja de 2 unidades</p>\n",
+  "short_description": "",
+  "sku": "VIC-018",
+  "price": "189",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>228,69&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4609,
+  "gallery_images": [
+    4610,
+    4611,
+    4612,
+    4613
+  ],
+  "categories": [
+    395,
+    477,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    340,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Instrumento",
+      "slug": "Instrumento",
+      "options": [
+        "Guitarra",
+        "Bajo"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        406,
+        404,
+        421
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9971,
+      "attributes": {
+        "instrumento": "Guitarra",
+        "pa_color": "negro",
+        "caja": "2 Unidades"
+      },
+      "price": "189",
+      "regular_price": "189",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-018",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4614,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9972,
+      "attributes": {
+        "instrumento": "Guitarra",
+        "pa_color": "gris",
+        "caja": "2 Unidades"
+      },
+      "price": "189",
+      "regular_price": "189",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-018",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4615,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9973,
+      "attributes": {
+        "instrumento": "Guitarra",
+        "pa_color": "rojo",
+        "caja": "2 Unidades"
+      },
+      "price": "189",
+      "regular_price": "189",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-018",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4621,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9974,
+      "attributes": {
+        "instrumento": "Bajo",
+        "pa_color": "negro",
+        "caja": "2 Unidades"
+      },
+      "price": "189",
+      "regular_price": "189",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-018",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4622,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9969,
+      "attributes": {
+        "instrumento": "Bajo",
+        "pa_color": "gris",
+        "caja": "2 Unidades"
+      },
+      "price": "189",
+      "regular_price": "189",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-018",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4623,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9970,
+      "attributes": {
+        "instrumento": "Bajo",
+        "pa_color": "rojo",
+        "caja": "2 Unidades"
+      },
+      "price": "189",
+      "regular_price": "189",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-018",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4624,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

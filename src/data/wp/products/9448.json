@@ -1,0 +1,196 @@
+{
+  "id": 9448,
+  "name": "Met’all",
+  "slug": "metall",
+  "permalink": "https://wpadmin.buildmaster.dev/product/metall/",
+  "date_created": "2024-08-13 10:36:26",
+  "date_modified": "2025-10-28 13:17:16",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Perchero de pie realizado en metal. Cabezal de zamak y cilindro central de acero cromado o recubierto con polvos epoxi. Base de acero recubierta con polvos epoxi o en acero inox brillante.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "<h2>Design Sezgin Aksu</h2>\n",
+  "sku": "CAI-044",
+  "price": "228.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>275,88&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>336,38&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 275,88&nbsp;&euro; hasta 336,38&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9449,
+  "gallery_images": [
+    9450,
+    9451,
+    9452,
+    9453,
+    9454,
+    9455
+  ],
+  "categories": [
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        413,
+        405,
+        414,
+        404,
+        434
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12491,
+      "attributes": {
+        "pa_color": "blanco-natural"
+      },
+      "price": "228.00",
+      "regular_price": "228.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12492,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "228.00",
+      "regular_price": "228.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12493,
+      "attributes": {
+        "pa_color": "naranja"
+      },
+      "price": "228.00",
+      "regular_price": "228.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12494,
+      "attributes": {
+        "pa_color": "oro-metalico"
+      },
+      "price": "228.00",
+      "regular_price": "228.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12495,
+      "attributes": {
+        "pa_color": "azul-bondi"
+      },
+      "price": "278.00",
+      "regular_price": "278.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

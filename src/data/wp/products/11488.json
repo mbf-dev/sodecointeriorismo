@@ -1,0 +1,123 @@
+{
+  "id": 11488,
+  "name": "ST Dorfles",
+  "slug": "st-dorfles",
+  "permalink": "https://wpadmin.buildmaster.dev/product/st-dorfles/",
+  "date_created": "2024-09-23 10:40:02",
+  "date_modified": "2025-10-28 13:12:33",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Popularmente conocido en su papel de crítico de arte, pintor y filósofo, Gillo Dorfles también fue autor de numerosos libros y ensayos. “ST Dorfles” constituye un<br />\nhomenaje a la prolífica obra de Gillo Dorfles, tanto en el ámbito cultural como en el literario; un atril que evoca un diseño suyo que ya formaba parte de la colección “Snowsound Art – Per un Gigantismo del Disegno”, de Caimi.</p>\n",
+  "short_description": "",
+  "sku": "CAI-019",
+  "price": "78.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>94,38&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 11489,
+  "gallery_images": [
+    11490,
+    11491
+  ],
+  "categories": [
+    482,
+    477,
+    475,
+    476,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        422,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12138,
+      "attributes": {
+        "pa_color": "blanco"
+      },
+      "price": "78.00",
+      "regular_price": "78.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11489,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12139,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "78.00",
+      "regular_price": "78.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-019",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11489,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

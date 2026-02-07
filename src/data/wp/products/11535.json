@@ -1,0 +1,993 @@
+{
+  "id": 11535,
+  "name": "Shopper",
+  "slug": "shopper-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/shopper-2/",
+  "date_created": "2024-09-23 11:32:47",
+  "date_modified": "2025-10-28 13:11:23",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Su propio nombre, “Shopper”, es una referencia evidente a la índole poco convencional de este asiento. Se trata de un puf que ofrece múltiples usos alternativos gracias a sus cómodas asas, que permiten transportarlo fácilmente. Este elemento, que prácticamente puede “llevarse puesto” gracias a su ligereza, es perfecto para reconfigurar espacios rápidamente. Gracias al peculiar material granular que caracteriza el relleno de Shopper, su asiento ofrece un buen soporte y es garantía de confort. La funda externa extraíble realizada con Snowsound Fiber Textiles enriquece aún más la pieza, dotándola de una capacidad fonoabsorbente. Shopper… mucho más que un simple puf. Shopper también está disponible con exterior en tejido Snowsound Fiber 12, elaborado con ECONYL®. Se trata de un material ecológicamente sostenible, fruto del reciclaje de residuos de nylon, procedente de redes de pesca o moquetas usadas. Mediante el proceso ECONYL® se obtiene un material que puede reciclarse indefinidamente, preservando las mismas características del nylon virgen.</p>\n",
+  "short_description": "",
+  "sku": "CAI-008",
+  "price": "550.00",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>665,50&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>915,97&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 665,50&nbsp;&euro; hasta 915,97&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 11449,
+  "gallery_images": [
+    11450,
+    11451,
+    11452,
+    11453,
+    11454,
+    11455
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    481,
+    390,
+    484,
+    468
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12090,
+      "attributes": {
+        "pa_textura": "boucle-800"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12091,
+      "attributes": {
+        "pa_textura": "boucle-801"
+      },
+      "price": "650",
+      "regular_price": "650",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12092,
+      "attributes": {
+        "pa_textura": "boucle-802"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12093,
+      "attributes": {
+        "pa_textura": "boucle-803"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12094,
+      "attributes": {
+        "pa_textura": "boucle-804"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12095,
+      "attributes": {
+        "pa_textura": "boucle-805"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12096,
+      "attributes": {
+        "pa_textura": "boucle-806"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12097,
+      "attributes": {
+        "pa_textura": "boucle-807"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12098,
+      "attributes": {
+        "pa_textura": "boucle-808"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12099,
+      "attributes": {
+        "pa_textura": "boucle-809"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12100,
+      "attributes": {
+        "pa_textura": "boucle-810"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12101,
+      "attributes": {
+        "pa_textura": "boucle-811"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12102,
+      "attributes": {
+        "pa_textura": "boucle-812"
+      },
+      "price": "650",
+      "regular_price": "650",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12103,
+      "attributes": {
+        "pa_textura": "boucle-813"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12104,
+      "attributes": {
+        "pa_textura": "boucle-814"
+      },
+      "price": "748",
+      "regular_price": "748",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12105,
+      "attributes": {
+        "pa_textura": "boucle-815"
+      },
+      "price": "650",
+      "regular_price": "650",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12106,
+      "attributes": {
+        "pa_textura": "econyl-1200"
+      },
+      "price": "757.00",
+      "regular_price": "757.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12107,
+      "attributes": {
+        "pa_textura": "econyl-1201"
+      },
+      "price": "757.00",
+      "regular_price": "757.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12108,
+      "attributes": {
+        "pa_textura": "econyl-1202"
+      },
+      "price": "757.00",
+      "regular_price": "757.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12109,
+      "attributes": {
+        "pa_textura": "econyl-1203"
+      },
+      "price": "757.00",
+      "regular_price": "757.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12110,
+      "attributes": {
+        "pa_textura": "econyl-1204"
+      },
+      "price": "757.00",
+      "regular_price": "757.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12111,
+      "attributes": {
+        "pa_textura": "econyl-1205"
+      },
+      "price": "757.00",
+      "regular_price": "757.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12112,
+      "attributes": {
+        "pa_textura": "melangue-300"
+      },
+      "price": "550.00",
+      "regular_price": "550.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12113,
+      "attributes": {
+        "pa_textura": "melangue-302"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12114,
+      "attributes": {
+        "pa_textura": "melangue-303"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12115,
+      "attributes": {
+        "pa_textura": "melangue-304"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12116,
+      "attributes": {
+        "pa_textura": "melangue-305"
+      },
+      "price": "550.00",
+      "regular_price": "550.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12117,
+      "attributes": {
+        "pa_textura": "melangue-306"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12118,
+      "attributes": {
+        "pa_textura": "melangue-307"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12119,
+      "attributes": {
+        "pa_textura": "melangue-308"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12120,
+      "attributes": {
+        "pa_textura": "melangue-309"
+      },
+      "price": "550.00",
+      "regular_price": "550.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12121,
+      "attributes": {
+        "pa_textura": "melangue-310"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12122,
+      "attributes": {
+        "pa_textura": "melangue-311"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12123,
+      "attributes": {
+        "pa_textura": "melangue-312"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12124,
+      "attributes": {
+        "pa_textura": "melangue-313"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12125,
+      "attributes": {
+        "pa_textura": "melangue-314"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12126,
+      "attributes": {
+        "pa_textura": "melangue-315"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12127,
+      "attributes": {
+        "pa_textura": "melangue-316"
+      },
+      "price": "633.00",
+      "regular_price": "633.00",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-008",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 11449,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,1040 @@
+{
+  "id": 8574,
+  "name": "Snowcustom",
+  "slug": "snowcustom",
+  "permalink": "https://wpadmin.buildmaster.dev/product/snowcustom/",
+  "date_created": "2024-08-06 18:47:09",
+  "date_modified": "2025-10-28 13:40:05",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<h1 class=\"product_title entry-title \"><span style=\"font-size: 16px;\">design Caimi Lab</span></h1>\n<div class=\"woocommerce-product-details__short-description \">\n<p>Paneles fonoabsorbentes de fibras de poliéster de densidad variable, tapizados con el tejido Snowsound Fiber 0, Fiber 3 Melange o Fiber 8 Bouclé. Están disponibles en la versión de pared y de techo. Su amplia gama de medidas y acabados les permite adaptarse a cualquier tipo de demanda estética y arquitectónica. Los paneles se pueden anclar a la pared mediante placas metálicas. Y suspenderse del techo con estructuras de acero que poseen cables regulables en altura. Para dimensiones, formas y colores no incluidos, póngase en contacto.</p>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-190",
+  "price": "385",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>465,85&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8575,
+  "gallery_images": [
+    8576,
+    8577,
+    8578,
+    8579,
+    8580,
+    8581,
+    8582,
+    8583
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        619,
+        614,
+        611,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        613,
+        612,
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        618
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensiones",
+      "slug": "Dimensiones",
+      "options": [
+        "120x60cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12323,
+      "attributes": {
+        "pa_textura": "azul-claro-6046",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12324,
+      "attributes": {
+        "pa_textura": "beige-1008",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12325,
+      "attributes": {
+        "pa_textura": "blanco-frio-8002",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12326,
+      "attributes": {
+        "pa_textura": "boucle-800",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12327,
+      "attributes": {
+        "pa_textura": "boucle-801",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12328,
+      "attributes": {
+        "pa_textura": "boucle-802",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12329,
+      "attributes": {
+        "pa_textura": "boucle-803",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12330,
+      "attributes": {
+        "pa_textura": "boucle-804",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12331,
+      "attributes": {
+        "pa_textura": "boucle-805",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12332,
+      "attributes": {
+        "pa_textura": "boucle-806",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12333,
+      "attributes": {
+        "pa_textura": "boucle-807",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12334,
+      "attributes": {
+        "pa_textura": "boucle-808",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12335,
+      "attributes": {
+        "pa_textura": "boucle-809",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12336,
+      "attributes": {
+        "pa_textura": "boucle-810",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12337,
+      "attributes": {
+        "pa_textura": "boucle-811",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12338,
+      "attributes": {
+        "pa_textura": "boucle-812",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12339,
+      "attributes": {
+        "pa_textura": "boucle-813",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12340,
+      "attributes": {
+        "pa_textura": "boucle-814",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12341,
+      "attributes": {
+        "pa_textura": "boucle-815",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12342,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12343,
+      "attributes": {
+        "pa_textura": "gris-plata-8004",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12344,
+      "attributes": {
+        "pa_textura": "melangue-300",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12345,
+      "attributes": {
+        "pa_textura": "melangue-302",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12346,
+      "attributes": {
+        "pa_textura": "melangue-303",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12347,
+      "attributes": {
+        "pa_textura": "melangue-304",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12348,
+      "attributes": {
+        "pa_textura": "melangue-305",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12349,
+      "attributes": {
+        "pa_textura": "melangue-306",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12350,
+      "attributes": {
+        "pa_textura": "melangue-307",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12351,
+      "attributes": {
+        "pa_textura": "melangue-308",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12352,
+      "attributes": {
+        "pa_textura": "melangue-309",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12353,
+      "attributes": {
+        "pa_textura": "melangue-310",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12354,
+      "attributes": {
+        "pa_textura": "melangue-311",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12355,
+      "attributes": {
+        "pa_textura": "melangue-312",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12356,
+      "attributes": {
+        "pa_textura": "melangue-313",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12357,
+      "attributes": {
+        "pa_textura": "melangue-314",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12358,
+      "attributes": {
+        "pa_textura": "melangue-315",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12359,
+      "attributes": {
+        "pa_textura": "melangue-316",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12360,
+      "attributes": {
+        "pa_textura": "verde-claro-7004",
+        "dimensiones": "120x60cm"
+      },
+      "price": "385",
+      "regular_price": "385",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-190",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8575,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

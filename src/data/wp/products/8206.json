@@ -1,0 +1,253 @@
+{
+  "id": 8206,
+  "name": "Fiber 12 de hilo de Econyl®",
+  "slug": "fiber-12-de-hilo-de-econyl",
+  "permalink": "https://wpadmin.buildmaster.dev/product/fiber-12-de-hilo-de-econyl/",
+  "date_created": "2024-08-04 20:11:13",
+  "date_modified": "2025-10-28 13:29:58",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>FIBER 12 – Es el primer tejido fonoabsorbente realizado con hilo de ECONYL®, un material obtenido a través de la regeneración de residuos de nailon procedentes de todo el mundo, como redes de pesca, moquetas usadas o plástico industrial. El nailon regenerado ECONYL® seleccionado para crear este nuevo tejido acústico es un material ecosostenible que responde a una innovación responsable ante la creciente demanda de confort acústico y bienestar. Mediante el proceso de regeneración ECONYL® se obtiene un material renovable indefinidamente y que presenta las mismas características del nailon estándar.</p>\n",
+  "short_description": "<p>FIBER 12 – Es el primer tejido fonoabsorbente realizado con hilo de ECONYL®. Rollo 25m x 140cm</p>\n",
+  "sku": "CAI-113",
+  "price": "1725",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>2.087,25&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8694,
+    8661,
+    8689,
+    8666,
+    8672,
+    8185,
+    8681,
+    7574,
+    9020,
+    9026,
+    8591
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8207,
+  "gallery_images": [
+    8208,
+    8209,
+    8210,
+    8211,
+    11025,
+    11026,
+    11027,
+    11028,
+    11029,
+    11030
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    469
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        561,
+        562,
+        563,
+        564,
+        565,
+        566
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "Rollo 25m x 140cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 8212,
+      "attributes": {
+        "pa_textura": "econyl-1200",
+        "formato": "Rollo 25m x 140cm"
+      },
+      "price": "1725",
+      "regular_price": "1725",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-113",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8213,
+      "attributes": {
+        "pa_textura": "econyl-1201",
+        "formato": "Rollo 25m x 140cm"
+      },
+      "price": "1725",
+      "regular_price": "1725",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-113",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8214,
+      "attributes": {
+        "pa_textura": "econyl-1202",
+        "formato": "Rollo 25m x 140cm"
+      },
+      "price": "1725",
+      "regular_price": "1725",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-113",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8215,
+      "attributes": {
+        "pa_textura": "econyl-1203",
+        "formato": "Rollo 25m x 140cm"
+      },
+      "price": "1725",
+      "regular_price": "1725",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-113",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8216,
+      "attributes": {
+        "pa_textura": "econyl-1204",
+        "formato": "Rollo 25m x 140cm"
+      },
+      "price": "1725",
+      "regular_price": "1725",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-113",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8217,
+      "attributes": {
+        "pa_textura": "econyl-1205",
+        "formato": "Rollo 25m x 140cm"
+      },
+      "price": "1725",
+      "regular_price": "1725",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-113",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8207,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

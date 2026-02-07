@@ -1,0 +1,222 @@
+{
+  "id": 8783,
+  "name": "Gio Ponti Art",
+  "slug": "gio-ponti-art",
+  "permalink": "https://wpadmin.buildmaster.dev/product/gio-ponti-art/",
+  "date_created": "2024-08-10 20:41:18",
+  "date_modified": "2025-10-28 13:38:36",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p><em>THE SPLENDOR OF FUTURE<br />\n</em>Snowsound Art es un proyecto de Caimi: un viaje para explorar itinerarios nuevos que compaginen ARTE y DISEÑO. Una forma de concebir el arte, que no es tan sólo una creación única, irrepetible, sino también una “belleza” duplicable en objetos en serie. Un arte que se admira pero también un arte que se disfruta.<br />\nSerie de paneles fonoabsorbentes Snowsound Art en los que se ha duplicado una serie de dibujos de Gio Ponti.</p>\n</div>\n",
+  "short_description": "<h2>Design Gio Ponti</h2>\n",
+  "sku": "CAI-178",
+  "price": "388",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>469,48&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.197,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 469,48&nbsp;&euro; hasta 1.197,90&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8784,
+  "gallery_images": [
+    8785,
+    8786,
+    8787,
+    8788
+  ],
+  "categories": [
+    471,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "diseño",
+      "slug": "diseño",
+      "options": [
+        "7SP1206/1-0001",
+        "7SP1216/1-0001",
+        "7SP0606/1-0001",
+        "7SP0806/1-0001",
+        "7SP0606/2-0001",
+        "7SP1606/1-0001"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12815,
+      "attributes": {
+        "diseno": "7SP1206/1-0001"
+      },
+      "price": "695",
+      "regular_price": "695",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-178",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8784,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12816,
+      "attributes": {
+        "diseno": "7SP1216/1-0001"
+      },
+      "price": "990",
+      "regular_price": "990",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-178",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8784,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12817,
+      "attributes": {
+        "diseno": "7SP0606/1-0001"
+      },
+      "price": "388",
+      "regular_price": "388",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-178",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8784,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12818,
+      "attributes": {
+        "diseno": "7SP0806/1-0001"
+      },
+      "price": "395",
+      "regular_price": "395",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-178",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8784,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12819,
+      "attributes": {
+        "diseno": "7SP0606/2-0001"
+      },
+      "price": "388",
+      "regular_price": "388",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-178",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8784,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12820,
+      "attributes": {
+        "diseno": "7SP1606/1-0001"
+      },
+      "price": "695",
+      "regular_price": "695",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-178",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8784,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

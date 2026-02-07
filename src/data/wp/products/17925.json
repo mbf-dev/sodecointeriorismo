@@ -1,0 +1,920 @@
+{
+  "id": 17925,
+  "name": "CB-SOFA",
+  "slug": "cb-sofa",
+  "permalink": "https://wpadmin.buildmaster.dev/product/cb-sofa/",
+  "date_created": "2025-06-03 14:46:08",
+  "date_modified": "2025-10-28 13:10:40",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<p>Innovador sofá acústico diseñado por Claudio Bellini, caracterizado por sus generosas formas plásticas y líneas redondeadas, que invitan a una experiencia de relajación completa. Fiel a la consolidada experiencia de Caimi en el sector, CB Sofa está diseñado para ofrecer un confort acústico de nivel superior, un auténtico remanso de tranquilidad e intimidad. Su estructura incorpora materiales fonoabsorbentes de máxima calidad revestidos con tejido acústico Snowsound Fiber, garantizando así una reducción eficaz de la reverberación y el ruido ambiental. La cuidada ergonomía del respaldo alto proporciona un entorno idóneo para reuniones confidenciales o actividades que requieran concentración, lo que convierte a CB Sofa en un producto que conjuga diseño y funcionalidad, pensado para quienes buscan un oasis de calma en ambientes dinámicos.</p>\n",
+  "short_description": "",
+  "sku": "CAI-002",
+  "price": "5450",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>6.594,50&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>8.917,70&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 6.594,50&nbsp;&euro; hasta 8.917,70&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 17926,
+  "gallery_images": [
+    17930,
+    17929,
+    17928,
+    17927
+  ],
+  "categories": [
+    478,
+    477,
+    475,
+    476,
+    390,
+    468
+  ],
+  "tags": [
+    466
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        632,
+        633,
+        634,
+        635,
+        636,
+        587,
+        588,
+        589,
+        590,
+        594,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        631
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "230x108x115 cm",
+        "300x108x115 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 17936,
+      "attributes": {
+        "pa_textura": "1401-biosphere",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "6270",
+      "regular_price": "6270",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17937,
+      "attributes": {
+        "pa_textura": "1401-biosphere",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "7370",
+      "regular_price": "7370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17938,
+      "attributes": {
+        "pa_textura": "1402-biosphere",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "6270",
+      "regular_price": "6270",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17939,
+      "attributes": {
+        "pa_textura": "1402-biosphere",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "7370",
+      "regular_price": "7370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17940,
+      "attributes": {
+        "pa_textura": "1404-biosphere",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "6270",
+      "regular_price": "6270",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17941,
+      "attributes": {
+        "pa_textura": "1404-biosphere",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "7370",
+      "regular_price": "7370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17942,
+      "attributes": {
+        "pa_textura": "1405-biosphere",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "6270",
+      "regular_price": "6270",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17971,
+      "attributes": {
+        "pa_textura": "1406-biosphere",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "6270",
+      "regular_price": "6270",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17943,
+      "attributes": {
+        "pa_textura": "1405-biosphere",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "7370",
+      "regular_price": "7370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17970,
+      "attributes": {
+        "pa_textura": "1406-biosphere",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "7370",
+      "regular_price": "7370",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17944,
+      "attributes": {
+        "pa_textura": "boucle-800",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17945,
+      "attributes": {
+        "pa_textura": "boucle-800",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17946,
+      "attributes": {
+        "pa_textura": "boucle-801",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17947,
+      "attributes": {
+        "pa_textura": "boucle-801",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17948,
+      "attributes": {
+        "pa_textura": "boucle-802",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17949,
+      "attributes": {
+        "pa_textura": "boucle-802",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17950,
+      "attributes": {
+        "pa_textura": "boucle-803",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17951,
+      "attributes": {
+        "pa_textura": "boucle-803",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17952,
+      "attributes": {
+        "pa_textura": "boucle-807",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17953,
+      "attributes": {
+        "pa_textura": "boucle-807",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17954,
+      "attributes": {
+        "pa_textura": "boucle-810",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17955,
+      "attributes": {
+        "pa_textura": "boucle-810",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17956,
+      "attributes": {
+        "pa_textura": "boucle-811",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17957,
+      "attributes": {
+        "pa_textura": "boucle-811",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17958,
+      "attributes": {
+        "pa_textura": "boucle-812",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17959,
+      "attributes": {
+        "pa_textura": "boucle-812",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17960,
+      "attributes": {
+        "pa_textura": "boucle-813",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17961,
+      "attributes": {
+        "pa_textura": "boucle-813",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17962,
+      "attributes": {
+        "pa_textura": "boucle-814",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17963,
+      "attributes": {
+        "pa_textura": "boucle-814",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17964,
+      "attributes": {
+        "pa_textura": "boucle-815",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17965,
+      "attributes": {
+        "pa_textura": "boucle-815",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17966,
+      "attributes": {
+        "pa_textura": "boucle-816",
+        "tamano": "230x108x115 cm"
+      },
+      "price": "5450",
+      "regular_price": "5450",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17967,
+      "attributes": {
+        "pa_textura": "boucle-816",
+        "tamano": "300x108x115 cm"
+      },
+      "price": "6570",
+      "regular_price": "6570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-002",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 17926,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

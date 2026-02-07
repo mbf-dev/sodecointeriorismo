@@ -1,0 +1,144 @@
+{
+  "id": 9396,
+  "name": "Hook",
+  "slug": "hook",
+  "permalink": "https://wpadmin.buildmaster.dev/product/hook/",
+  "date_created": "2024-08-13 10:04:28",
+  "date_modified": "2025-10-28 13:17:47",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Percheros de pared modular en acero cromado con ganchos en tecnopolimero o policarbonado.</p>\n",
+  "short_description": "<h2>Design Rafaello Manzoni</h2>\n<p>Percheros de pared modular en acero cromado con ganchos en tecnopolimero o policarbonado.</p>\n",
+  "sku": "CAI-049",
+  "price": "49",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>59,29&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>95,59&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 59,29&nbsp;&euro; hasta 95,59&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9397,
+  "gallery_images": [
+    9398,
+    9399
+  ],
+  "categories": [
+    481,
+    494
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Medida",
+      "slug": "Medida",
+      "options": [
+        "35 cm",
+        "51,50 cm",
+        "68 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12288,
+      "attributes": {
+        "medida": "35 cm"
+      },
+      "price": "49",
+      "regular_price": "49",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9397,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12289,
+      "attributes": {
+        "medida": "51,50 cm"
+      },
+      "price": "68",
+      "regular_price": "68",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9397,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12290,
+      "attributes": {
+        "medida": "68 cm"
+      },
+      "price": "79",
+      "regular_price": "79",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-049",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9397,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

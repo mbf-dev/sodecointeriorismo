@@ -1,0 +1,149 @@
+{
+  "id": 6399,
+  "name": "BulAudiophile VMT Kit",
+  "slug": "bulaudiophile-vmt-kit",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulaudiophile-vmt-kit/",
+  "date_created": "2024-07-23 14:28:34",
+  "date_modified": "2025-10-28 12:58:51",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>No importa lo eficiente que sea un sistema de alta fidelidad, si la acústica de la habitación no se aborda correctamente, terminará escuchando más energía procedente de la habitación que de los altavoces. El kit VicAudiophile VMT se desarrolló para mejorar la acústica de la habitación con 4 VMT de pantalla plana con VicSpacer Plus, para mejorar el rendimiento de absorción, 4 unidades de VicPattern Ultra Wavewood y 2 unidades de Multifuser Wood MKII 64, para la difusión del sonido, disponible en 3 acabados diferentes (Roble natural, roble marrón y blanco mate).</p>\n",
+  "short_description": "<p>Kit acústico desarrollado para audiófilos que desean obtener la mejor experiencia de audio en una sala de alta fidelidad, con una solución completa de tratamiento acústico para la absorción y difusión del sonido.</p>\n",
+  "sku": "VIC-038",
+  "price": "1900",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>2.299,00&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "91.2",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4814,
+  "gallery_images": [
+    4815,
+    4816
+  ],
+  "categories": [
+    478,
+    476,
+    403,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    346,
+    360,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Color",
+      "slug": "Color",
+      "options": [
+        "Roble Natural",
+        "Roble Oscuro",
+        "Blanco Mate"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6410,
+      "attributes": {
+        "color": "Roble Natural"
+      },
+      "price": "1900",
+      "regular_price": "1900",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-038",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4814,
+      "weight": "91.2",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6408,
+      "attributes": {
+        "color": "Roble Oscuro"
+      },
+      "price": "1900",
+      "regular_price": "1900",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-038",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4817,
+      "weight": "91.2",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6409,
+      "attributes": {
+        "color": "Blanco Mate"
+      },
+      "price": "1900",
+      "regular_price": "1900",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-038",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4821,
+      "weight": "91.2",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

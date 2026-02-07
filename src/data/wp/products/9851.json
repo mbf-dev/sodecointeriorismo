@@ -1,0 +1,239 @@
+{
+  "id": 9851,
+  "name": "Wavewood Ultra Lite",
+  "slug": "wavewood-ultra-lite",
+  "permalink": "https://wpadmin.buildmaster.dev/product/wavewood-ultra-lite/",
+  "date_created": "2024-08-20 15:40:55",
+  "date_modified": "2025-11-18 13:51:09",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>La solución económica para equilibrar el sonido de forma profesional. Caja de 8 unidades</p>\n",
+  "short_description": "",
+  "sku": "VIC-017",
+  "price": "740.4",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>895,88&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4661,
+  "gallery_images": [
+    4662,
+    4663,
+    4664,
+    4665
+  ],
+  "categories": [
+    395,
+    478,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    346,
+    330,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        433,
+        508,
+        432,
+        505,
+        504,
+        529
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "8 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9980,
+      "attributes": {
+        "pa_color": "negro-mate",
+        "caja": "8 Unidades"
+      },
+      "price": "740.4",
+      "regular_price": "740.4",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-017",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4676,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9975,
+      "attributes": {
+        "pa_color": "blanco-mate",
+        "caja": "8 Unidades"
+      },
+      "price": "740.4",
+      "regular_price": "740.4",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-017",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4661,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9976,
+      "attributes": {
+        "pa_color": "wenge-oscuro",
+        "caja": "8 Unidades"
+      },
+      "price": "740.4",
+      "regular_price": "740.4",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-017",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4677,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9977,
+      "attributes": {
+        "pa_color": "roble-marron",
+        "caja": "8 Unidades"
+      },
+      "price": "740.4",
+      "regular_price": "740.4",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-017",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4678,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9978,
+      "attributes": {
+        "pa_color": "cereza-locarno",
+        "caja": "8 Unidades"
+      },
+      "price": "740.4",
+      "regular_price": "740.4",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-017",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4683,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9979,
+      "attributes": {
+        "pa_color": "roble-natural",
+        "caja": "8 Unidades"
+      },
+      "price": "740.4",
+      "regular_price": "740.4",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-017",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4684,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

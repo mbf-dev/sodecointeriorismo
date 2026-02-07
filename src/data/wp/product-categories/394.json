@@ -1,0 +1,12 @@
+{
+  "id": 394,
+  "name": "Cabinas",
+  "slug": "cabinas",
+  "description": "9",
+  "parent_id": 390,
+  "count": 2,
+  "image": {
+    "url": "https://wpadmin.buildmaster.dev/wp-content/uploads/2024/07/3-cabina.png",
+    "id": "6678"
+  }
+}

@@ -1,0 +1,913 @@
+{
+  "id": 6418,
+  "name": "BulStrip",
+  "slug": "bulstrip",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulstrip/",
+  "date_created": "2024-07-23 14:29:48",
+  "date_modified": "2025-11-19 13:45:32",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>VicStrip es un nuevo enfoque innovador para los paneles de listones al introducir la lana VicPET laminada libre de madera, haciéndola más sostenible, flexible y liviana. VicStrip se dibujó con las líneas de los paneles de pared decorativos de estilo contemporáneo, para cualquier persona que desee brindar a las oficinas, restaurantes, hoteles y hogares una solución embellecida con diseño en medio del valor agregado de eliminar la reverberación del sonido.</p>\n",
+  "short_description": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+  "sku": "VIC-035",
+  "price": "310.23",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>375,38&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>890,78&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 375,38&nbsp;&euro; hasta 890,78&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4018,
+  "gallery_images": [
+    4019,
+    4020,
+    4021,
+    4022,
+    4023,
+    4024,
+    4025,
+    4026,
+    4027
+  ],
+  "categories": [
+    395,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    330,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        449,
+        451,
+        453,
+        455,
+        457,
+        459,
+        461,
+        463
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "240 x 59.5 x 1.2 cm",
+        "270 x 59.5 x 1.2 cm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 unidades",
+        "4 unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6474,
+      "attributes": {
+        "pa_textura": "swatch_natural_oak-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "310.23",
+      "regular_price": "310.23",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5007,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6475,
+      "attributes": {
+        "pa_textura": "swatch_natural_oak-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "612.17",
+      "regular_price": "612.17",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5007,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6471,
+      "attributes": {
+        "pa_textura": "swatch_natural_oak-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "366.22",
+      "regular_price": "366.22",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5007,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6472,
+      "attributes": {
+        "pa_textura": "swatch_natural_oak-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "736.18",
+      "regular_price": "736.18",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5007,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6467,
+      "attributes": {
+        "pa_textura": "swatch_brown_oak-bk",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "612.17",
+      "regular_price": "612.17",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5005,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6463,
+      "attributes": {
+        "pa_textura": "swatch_brown_oak-bk",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "366.22",
+      "regular_price": "366.22",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5005,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6464,
+      "attributes": {
+        "pa_textura": "swatch_brown_oak-bk",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "736.18",
+      "regular_price": "736.18",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5005,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6466,
+      "attributes": {
+        "pa_textura": "swatch_brown_oak-bk",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "310.23",
+      "regular_price": "310.23",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5005,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6529,
+      "attributes": {
+        "pa_textura": "swatch_natural_walnut-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "612.17",
+      "regular_price": "612.17",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5078,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6528,
+      "attributes": {
+        "pa_textura": "swatch_dark_walnut-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "736.18",
+      "regular_price": "736.18",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5077,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6531,
+      "attributes": {
+        "pa_textura": "swatch_natural_walnut-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "736.18",
+      "regular_price": "736.18",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5078,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6526,
+      "attributes": {
+        "pa_textura": "swatch_dark_walnut-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "612.17",
+      "regular_price": "612.17",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5077,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6537,
+      "attributes": {
+        "pa_textura": "swatch_natural_walnut-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "310.23",
+      "regular_price": "310.23",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5078,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6527,
+      "attributes": {
+        "pa_textura": "swatch_dark_walnut-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "366.22",
+      "regular_price": "366.22",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5077,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6530,
+      "attributes": {
+        "pa_textura": "swatch_natural_walnut-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "366.22",
+      "regular_price": "366.22",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5078,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6518,
+      "attributes": {
+        "pa_textura": "swatch_black_matte-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "310.23",
+      "regular_price": "310.23",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5044,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6519,
+      "attributes": {
+        "pa_textura": "swatch_black_matte-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "612.17",
+      "regular_price": "612.17",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5044,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6520,
+      "attributes": {
+        "pa_textura": "swatch_black_matte-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "366.22",
+      "regular_price": "366.22",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5044,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6525,
+      "attributes": {
+        "pa_textura": "swatch_dark_walnut-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "310.23",
+      "regular_price": "310.23",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5077,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6513,
+      "attributes": {
+        "pa_textura": "swatch_black_matte-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "736.18",
+      "regular_price": "736.18",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5044,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6511,
+      "attributes": {
+        "pa_textura": "swatch_white_matte-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "310.23",
+      "regular_price": "310.23",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5042,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6512,
+      "attributes": {
+        "pa_textura": "swatch_white_matte-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "612.17",
+      "regular_price": "612.17",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5042,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6506,
+      "attributes": {
+        "pa_textura": "swatch_white_matte-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "366.22",
+      "regular_price": "366.22",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5042,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6500,
+      "attributes": {
+        "pa_textura": "swatch_garnet_red-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "310.23",
+      "regular_price": "310.23",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5040,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6507,
+      "attributes": {
+        "pa_textura": "swatch_white_matte-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "736.18",
+      "regular_price": "736.18",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5042,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6501,
+      "attributes": {
+        "pa_textura": "swatch_garnet_red-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "612.17",
+      "regular_price": "612.17",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5040,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6502,
+      "attributes": {
+        "pa_textura": "swatch_garnet_red-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "366.22",
+      "regular_price": "366.22",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5040,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6503,
+      "attributes": {
+        "pa_textura": "swatch_garnet_red-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "736.18",
+      "regular_price": "736.18",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5040,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6493,
+      "attributes": {
+        "pa_textura": "swatch_reed_green-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "310.23",
+      "regular_price": "310.23",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4018,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6495,
+      "attributes": {
+        "pa_textura": "swatch_reed_green-bk_pet",
+        "tamano": "240 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "612.17",
+      "regular_price": "612.17",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4018,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6496,
+      "attributes": {
+        "pa_textura": "swatch_reed_green-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "2 unidades"
+      },
+      "price": "366.22",
+      "regular_price": "366.22",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4018,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6489,
+      "attributes": {
+        "pa_textura": "swatch_reed_green-bk_pet",
+        "tamano": "270 x 59.5 x 1.2 cm",
+        "caja": "4 unidades"
+      },
+      "price": "736.18",
+      "regular_price": "736.18",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-035",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4018,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

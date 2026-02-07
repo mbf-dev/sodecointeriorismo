@@ -1,0 +1,339 @@
+{
+  "id": 6425,
+  "name": "Nube Penray 01",
+  "slug": "nube-penray-01-4",
+  "permalink": "https://wpadmin.buildmaster.dev/product/nube-penray-01-4/",
+  "date_created": "2024-07-23 14:29:49",
+  "date_modified": "2025-11-19 13:55:58",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Nube acústica decorativa</p>\n<p>La nube que redefine el concepto tradicional de nubes acústicas. Una estructura generativa que permite crear un juego de combinaciones que no solo optimizan el ambiente acústico sino que añaden valores estéticos a cualquier espacio.</p>\n<p>Sostenible y extremadamente duradero, PENRAY 01 Cloud puede reducir significativamente el exceso de ruido en varios entornos, agregando un activo innovador de diseño de interiores a un proyecto arquitectónico. Además, al ser un elemento acústico suspendido, presenta el doble de área de material absorbente expuesta junto a un panel acústico común.</p>\n<h3>Modular para combinaciones variadas</h3>\n<p>PENRAY 01 es una combinación perfecta entre propiedades funcionales y estéticas. Basados en una estrategia modular podemos crear diferentes combinaciones de diseño de interiores con una sola unidad. El uso inteligente del color y el potencial del efecto 3D refuerzan el potencial de este patrón generativo. GEN_VMT PENRAY 01 Cloud se presenta en cajas unitarias, con 10 colores a juego con los utilizados en los Azulejos GEN_VMT PENRAY 02, ofreciendo la posibilidad de realizar infinitas combinaciones para la decoración de paredes y techos.</p>\n<p>Características:<br />\n/ Lana VicPET premium de alta densidad<br />\n/ Sostenible, mayoritariamente fabricado a partir de botellas de plástico recicladas<br />\n/ Alto Rendimiento en medias y altas frecuencias<br />\n/ Ligero<br />\n/ Fácil de instalar<br />\n/ Fácil de limpiar y mantener</p>\n",
+  "short_description": "<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+  "sku": "VIC-028",
+  "price": "239",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>289,19&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4138,
+  "gallery_images": [
+    4139,
+    4140,
+    4141,
+    4142
+  ],
+  "categories": [
+    395,
+    392,
+    477,
+    475,
+    390,
+    397
+  ],
+  "tags": [
+    329,
+    332,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        423,
+        424,
+        425,
+        405,
+        429,
+        430,
+        431,
+        426,
+        427,
+        428
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "1 Unidad"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6590,
+      "attributes": {
+        "pa_color": "azul-bondi-1",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4143,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6591,
+      "attributes": {
+        "pa_color": "azul-bondi-2",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4144,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6592,
+      "attributes": {
+        "pa_color": "azul-bondi-3",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4138,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6593,
+      "attributes": {
+        "pa_color": "verde-musgo-1",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4145,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6584,
+      "attributes": {
+        "pa_color": "verde-musgo-2",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4146,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6585,
+      "attributes": {
+        "pa_color": "verde-musgo-3",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4154,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6586,
+      "attributes": {
+        "pa_color": "coral-1",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4155,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6587,
+      "attributes": {
+        "pa_color": "coral-2",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4156,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6588,
+      "attributes": {
+        "pa_color": "coral-3",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4157,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6589,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "caja": "1 Unidad"
+      },
+      "price": "239",
+      "regular_price": "239",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-028",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4158,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

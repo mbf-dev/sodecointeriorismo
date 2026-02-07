@@ -1,0 +1,141 @@
+{
+  "id": 5482,
+  "name": "BulVibro RWM",
+  "slug": "bulvibro-rwm",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulvibro-rwm/",
+  "date_created": "2024-07-23 10:22:55",
+  "date_modified": "2025-10-28 13:04:16",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Estas unidades son imprescindibles cuando se construyen paredes con una dimensión considerable. Un dispositivo de seguridad está integrado para evitar el colapso en caso de incendio: los aislantes tienen un eje central roscado en una placa de suela de metal que se fija a la pared, el cuerpo de EPDM eventualmente será destruido. El aislador se recomienda para superficies de baldosas de cerámica o paredes de cavidad.</p>\n<p>Instalación: La primera unidad debe aplicarse a 1,50 m del suelo. La segunda unidad debe aplicarse a 3,00 m del suelo. Y así sucesivamente. La última unidad debe aplicarse entre 10 y 30 cm del techo acústico. Recuerde que la instalación de los soportes de pared debe ser en una secuencia cruzada (consulte las hojas de procedimientos de instalación).</p>\n",
+  "short_description": "<h2 class=\"h6\">Montajes de pared antivibración.</h2>\n<p>Montajes de pared antivibración para evitar la transmisión estructural a través de las paredes. Muy recomendable para lograr la estabilidad estructural de las paredes de doble hoja y, al mismo tiempo, evitar la transmisión de sonido no deseada a las habitaciones adyacentes.</p>\n",
+  "sku": "VIC-060",
+  "price": "320.26",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>387,51&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>397,19&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 387,51&nbsp;&euro; hasta 397,19&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    5478,
+    5483,
+    5481,
+    5480,
+    5477,
+    5475,
+    5476,
+    5479
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5003,
+  "gallery_images": [],
+  "categories": [
+    478,
+    477,
+    475,
+    476,
+    393,
+    390
+  ],
+  "tags": [
+    376,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "BulVibro RWM1.01",
+        "BulVibro RWM2.03"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "50 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5494,
+      "attributes": {
+        "modelo": "BulVibro RWM1.01",
+        "caja": "50 Unidades"
+      },
+      "price": "320.26",
+      "regular_price": "320.26",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-060",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5495,
+      "attributes": {
+        "modelo": "BulVibro RWM2.03",
+        "caja": "50 Unidades"
+      },
+      "price": "328.26",
+      "regular_price": "328.26",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-060",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5506,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

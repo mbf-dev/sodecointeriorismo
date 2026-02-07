@@ -1,0 +1,144 @@
+{
+  "id": 8917,
+  "name": "TL",
+  "slug": "tl",
+  "permalink": "https://wpadmin.buildmaster.dev/product/tl/",
+  "date_created": "2024-08-11 13:23:35",
+  "date_modified": "2025-10-28 13:35:38",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Elementos fonoabsorbentes tridimensionales fijados al techo, realizados con tecnología Snowsound, propuestos con o sin luz LED integrada. Cada elemento dispone de 3 cables de acero cromado para la suspensión del techo unidos a una única placa central. La línea extremadamente liviana de TL esconde en su interior la tecnología Snowsound que hace posible la absorción del ruido. TL surge de un proyecto de Gio Ponti que en 1959 proyecta el auditorio del Time Life Building en Nueva York, y diseña para el techo elementos cónicos que hoy propone Caimi también como elementos individuales.</p>\n",
+  "short_description": "<h2>Design Gio Ponti</h2>\n",
+  "sku": "CAI-155",
+  "price": "298",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>360,58&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>578,38&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 360,58&nbsp;&euro; hasta 578,38&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8711,
+    8858,
+    8067,
+    8114,
+    11531,
+    8740,
+    8756,
+    8733
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8918,
+  "gallery_images": [
+    8919,
+    8920
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    470,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Iluminación",
+      "slug": "Iluminación",
+      "options": [
+        "Si",
+        "No"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9715,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "iluminacion": "Si"
+      },
+      "price": "478",
+      "regular_price": "478",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-155",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8918,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9716,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "iluminacion": "No"
+      },
+      "price": "298",
+      "regular_price": "298",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-155",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8918,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

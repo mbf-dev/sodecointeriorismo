@@ -1,0 +1,230 @@
+{
+  "id": 9233,
+  "name": "Cicerone HPL",
+  "slug": "cicerone-hpl",
+  "permalink": "https://wpadmin.buildmaster.dev/product/cicerone-hpl/",
+  "date_created": "2024-08-12 12:34:18",
+  "date_modified": "2025-10-28 13:21:02",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Mesitas con plano disponible en laminado HPL. Columna de acero cromado o recubierto con polvos epoxi. Bases de acero recubiertas con polvos epoxi o revestidas en acero inox brillante. Las bases vienen equipadas para anclarse al suelo. La estructura de apoyo de la repisa de las mesitas Cicerone va equipada con colgadores para bolsos y esta’ realizada en aluminio fundido recubierto con polvo epoxi.</p>\n",
+  "short_description": "<h2>Design Lorenzo Stano</h2>\n",
+  "sku": "CAI-076",
+  "price": "530",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>641,30&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>895,40&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 641,30&nbsp;&euro; hasta 895,40&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    9507,
+    8648,
+    9539,
+    6755,
+    9246,
+    9654,
+    9551,
+    9122,
+    9546,
+    11518,
+    11512
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9234,
+  "gallery_images": [
+    9235,
+    9236,
+    9237,
+    9238
+  ],
+  "categories": [
+    491,
+    481
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "Modelo",
+      "slug": "Modelo",
+      "options": [
+        "60x49,5cm Blanca",
+        "60x75,5cm Blanca",
+        "60x103,5cm Blanca",
+        "80x50cm Blanca",
+        "80x72cm Blanca",
+        "80x104cm Blanca"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 17524,
+      "attributes": {
+        "modelo": "60x49,5cm Blanca"
+      },
+      "price": "530",
+      "regular_price": "530",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-076",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9234,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17525,
+      "attributes": {
+        "modelo": "60x75,5cm Blanca"
+      },
+      "price": "535",
+      "regular_price": "535",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-076",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9234,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17526,
+      "attributes": {
+        "modelo": "60x103,5cm Blanca"
+      },
+      "price": "540",
+      "regular_price": "540",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-076",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9234,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17527,
+      "attributes": {
+        "modelo": "80x50cm Blanca"
+      },
+      "price": "730",
+      "regular_price": "730",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-076",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9234,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17528,
+      "attributes": {
+        "modelo": "80x72cm Blanca"
+      },
+      "price": "735",
+      "regular_price": "735",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-076",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9234,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 17529,
+      "attributes": {
+        "modelo": "80x104cm Blanca"
+      },
+      "price": "740",
+      "regular_price": "740",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-076",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9234,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

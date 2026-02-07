@@ -1,0 +1,1266 @@
+{
+  "id": 8245,
+  "name": "Napwork",
+  "slug": "napwork",
+  "permalink": "https://wpadmin.buildmaster.dev/product/napwork/",
+  "date_created": "2024-08-04 20:41:30",
+  "date_modified": "2025-10-28 13:29:45",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<h1 class=\"product_title entry-title \"></h1>\n<div class=\"wpb_text_column wpb_content_element \">\n<div class=\"wpb_wrapper\">\n<p class=\"caimi_design_txt_single\">Paola Navone &#8211; Otto studio</p>\n</div>\n</div>\n<div class=\"woocommerce-product-details__short-description \">\n<p>Sofá acústico con estructura de material de madera y revestimiento compuesto por acolchado interior de tecnopolímero fonoabsorbente, revestimiento exterior de tejido Snowsound-Fiber 3 Melange o 8 Bouclè. Desenfundable.</p>\n<p>“Módulos hexagonales y lineales de aspecto informal componen un sistema modular de asientos acústicos, potencialmente infinitos. Tanto en su versión individual para decorar espacios pequeños o múltiple para grandes zonas comunes, desde un pequeño salón a grandes ambientes, el sistema combina el bienestar acústico con el placer de un cómodo asiento.”<br />\n(Paola Navone)</p>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-111",
+  "price": "4880",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>5.904,80&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>7.223,70&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 5.904,80&nbsp;&euro; hasta 7.223,70&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    8383,
+    8648,
+    6755,
+    8637,
+    8616
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8246,
+  "gallery_images": [
+    8247,
+    8248,
+    8249,
+    8250,
+    8251,
+    8252,
+    8253,
+    8254
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    468
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Sofá",
+      "slug": "Sofá",
+      "options": [
+        "Módulo 140cm x 180cm x 75cm",
+        "Módulo 140cm x 180cm x 115cm",
+        "Módulo Central 182cm x 170cm x 75cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 18337,
+      "attributes": {
+        "pa_textura": "boucle-800",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18338,
+      "attributes": {
+        "pa_textura": "boucle-800",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18339,
+      "attributes": {
+        "pa_textura": "boucle-800",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18340,
+      "attributes": {
+        "pa_textura": "boucle-801",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18341,
+      "attributes": {
+        "pa_textura": "boucle-801",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18342,
+      "attributes": {
+        "pa_textura": "boucle-801",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18343,
+      "attributes": {
+        "pa_textura": "boucle-802",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18344,
+      "attributes": {
+        "pa_textura": "boucle-802",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18345,
+      "attributes": {
+        "pa_textura": "boucle-802",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18346,
+      "attributes": {
+        "pa_textura": "boucle-803",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18347,
+      "attributes": {
+        "pa_textura": "boucle-803",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18348,
+      "attributes": {
+        "pa_textura": "boucle-803",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18349,
+      "attributes": {
+        "pa_textura": "boucle-804",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18350,
+      "attributes": {
+        "pa_textura": "boucle-804",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18351,
+      "attributes": {
+        "pa_textura": "boucle-804",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18352,
+      "attributes": {
+        "pa_textura": "boucle-805",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18353,
+      "attributes": {
+        "pa_textura": "boucle-805",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18354,
+      "attributes": {
+        "pa_textura": "boucle-805",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18355,
+      "attributes": {
+        "pa_textura": "boucle-806",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18356,
+      "attributes": {
+        "pa_textura": "boucle-806",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18357,
+      "attributes": {
+        "pa_textura": "boucle-806",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18358,
+      "attributes": {
+        "pa_textura": "boucle-807",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18359,
+      "attributes": {
+        "pa_textura": "boucle-807",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18360,
+      "attributes": {
+        "pa_textura": "boucle-807",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18361,
+      "attributes": {
+        "pa_textura": "boucle-808",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18362,
+      "attributes": {
+        "pa_textura": "boucle-808",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18363,
+      "attributes": {
+        "pa_textura": "boucle-808",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18364,
+      "attributes": {
+        "pa_textura": "boucle-809",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18365,
+      "attributes": {
+        "pa_textura": "boucle-809",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18366,
+      "attributes": {
+        "pa_textura": "boucle-809",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18367,
+      "attributes": {
+        "pa_textura": "boucle-810",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18368,
+      "attributes": {
+        "pa_textura": "boucle-810",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18369,
+      "attributes": {
+        "pa_textura": "boucle-810",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18370,
+      "attributes": {
+        "pa_textura": "boucle-811",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18371,
+      "attributes": {
+        "pa_textura": "boucle-811",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18372,
+      "attributes": {
+        "pa_textura": "boucle-811",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18373,
+      "attributes": {
+        "pa_textura": "boucle-812",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18374,
+      "attributes": {
+        "pa_textura": "boucle-812",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18375,
+      "attributes": {
+        "pa_textura": "boucle-812",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18376,
+      "attributes": {
+        "pa_textura": "boucle-813",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18377,
+      "attributes": {
+        "pa_textura": "boucle-813",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18378,
+      "attributes": {
+        "pa_textura": "boucle-813",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18379,
+      "attributes": {
+        "pa_textura": "boucle-814",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18380,
+      "attributes": {
+        "pa_textura": "boucle-814",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18381,
+      "attributes": {
+        "pa_textura": "boucle-814",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18382,
+      "attributes": {
+        "pa_textura": "boucle-815",
+        "sofa": "Módulo 140cm x 180cm x 75cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18383,
+      "attributes": {
+        "pa_textura": "boucle-815",
+        "sofa": "Módulo 140cm x 180cm x 115cm"
+      },
+      "price": "4880",
+      "regular_price": "4880",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18384,
+      "attributes": {
+        "pa_textura": "boucle-815",
+        "sofa": "Módulo Central 182cm x 170cm x 75cm"
+      },
+      "price": "5970",
+      "regular_price": "5970",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-111",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

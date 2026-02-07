@@ -1,0 +1,170 @@
+{
+  "id": 9091,
+  "name": "Swing waste bin",
+  "slug": "swing-waste-bin",
+  "permalink": "https://wpadmin.buildmaster.dev/product/swing-waste-bin/",
+  "date_created": "2024-08-11 22:31:30",
+  "date_modified": "2025-10-28 13:25:51",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "",
+  "short_description": "<h2>Design Claudio Bellini</h2>\n<p>Papelera de tecnopolímero brillante.</p>\n",
+  "sku": "CAI-095",
+  "price": "26.80",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>32,43&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>34,49&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 32,43&nbsp;&euro; hasta 34,49&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9092,
+  "gallery_images": [
+    9093,
+    9094,
+    9095,
+    9096
+  ],
+  "categories": [
+    481,
+    492
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        420,
+        422,
+        404,
+        421
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12146,
+      "attributes": {
+        "pa_color": "azul-celeste"
+      },
+      "price": "28.5",
+      "regular_price": "28.5",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-095",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9092,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12147,
+      "attributes": {
+        "pa_color": "blanco"
+      },
+      "price": "28.50",
+      "regular_price": "28.50",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-095",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9092,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12148,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "26.80",
+      "regular_price": "26.80",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-095",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9092,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12149,
+      "attributes": {
+        "pa_color": "rojo"
+      },
+      "price": "28.5",
+      "regular_price": "28.5",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-095",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9092,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

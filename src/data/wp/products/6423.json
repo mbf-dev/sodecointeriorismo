@@ -1,0 +1,188 @@
+{
+  "id": 6423,
+  "name": "Baldosa Penray 01",
+  "slug": "baldosa-penray-01-3",
+  "permalink": "https://wpadmin.buildmaster.dev/product/baldosa-penray-01-3/",
+  "date_created": "2024-07-23 14:29:49",
+  "date_modified": "2025-11-19 13:54:04",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Baldosas acústicas de diseño premiado</p>\n<p>Colección VMT, solución excepcional para rellenar grandes superficies.</p>\n<p>Sostenibles y extremadamente duraderas, las losas acústicas PENRAY 01 son una combinación perfecta entre propiedades funcionales y estéticas. A partir de una estrategia modular podemos crear diferentes combinaciones de interiorismo. El uso inteligente del color y el potencial del efecto 3D refuerzan el potencial de este patrón generativo.</p>\n<p>&nbsp;</p>\n<p><strong><br />\nCaracterísticas</strong><br />\n/ Lana VicPET premium de alta densidad<br />\n/ Alto Rendimiento en medias y altas frecuencias<br />\n/ Están certificados con <strong>Indoor Advantage™ Gold Building Materials</strong>, por SCS Global Services<br />\n/ Ligero<br />\n/ Fácil de instalar<br />\n/ Fácil de limpiar y mantener</p>\n<p>Este juego de baldosas de la colección GEN_VMT, ganadora del premio Red Dot Product Design Award 2020, es muy eficaz para reducir el exceso de ruido en varios entornos, añadiendo un innovador activo de diseño de interiores a un proyecto arquitectónico.</p>\n<p>GEN_VMT PENRAY 01 Los azulejos vienen en 12 unidades por caja, en dos tamaños diferentes. Con 6 unidades de mosaico 01.1 y 6 unidades de mosaico 01.2, el grupo completo de 12 unidades ocupa un área de 1,14 m2.</p>\n",
+  "short_description": "",
+  "sku": "VIC-030",
+  "price": "130.03",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>157,34&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4101,
+  "gallery_images": [
+    4102,
+    4103,
+    4104
+  ],
+  "categories": [
+    395,
+    392,
+    477,
+    475,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    331,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        413,
+        405,
+        415,
+        408
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "12 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6578,
+      "attributes": {
+        "pa_color": "verde-musgo",
+        "caja": "12 Unidades"
+      },
+      "price": "130.03",
+      "regular_price": "130.03",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4101,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6579,
+      "attributes": {
+        "pa_color": "azul-bondi",
+        "caja": "12 Unidades"
+      },
+      "price": "130.03",
+      "regular_price": "130.03",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4115,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6576,
+      "attributes": {
+        "pa_color": "coral",
+        "caja": "12 Unidades"
+      },
+      "price": "130.03",
+      "regular_price": "130.03",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4116,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6577,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "caja": "12 Unidades"
+      },
+      "price": "130.03",
+      "regular_price": "130.03",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-030",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4117,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "id": 5881,
+  "name": "Suspended Baffle Set",
+  "slug": "suspended-baffle-set-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/suspended-baffle-set-2/",
+  "date_created": "2024-07-23 10:42:08",
+  "date_modified": "2025-11-19 13:56:19",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Una versátil solución acústica suspendida en el techo  y fácil de instalar para diferentes espacios.</p>\n<p>Dos juegos de deflectores de techo para diferentes espacios.</p>\n<p>Una colección de deflectores de techo diseñados para resolver problemas acústicos en interiores, caracterizados por su sencillo sistema de instalación. Hecho de PET sostenible producido principalmente a partir de plástico reciclado, el juego de deflectores suspendidos viene en dos configuraciones:</p>\n<p>La versión de 3 deflectores con dimensiones de 1200x600x40 mm, una solución eficiente para espacios públicos o industriales (como aulas, comedores y fábricas), donde necesita controlar la acumulación de ruido.</p>\n<p>La versión de 12 deflectores con dimensiones de 1200x1200x40mm es una solución eficiente y rentable para aplicaciones de voz y música (pabellones deportivos, estadios o arenas). Es más eficiente de usar en espacios más grandes y extenderá el rendimiento de absorción de sonido en rangos de frecuencia más bajos, en comparación con una sola unidad.</p>\n<p>Gracias a su innovador sistema de fijación, los deflectores se pueden colocar secuencialmente con las fijaciones distribuidas en intervalos más espaciados de lo habitual, utilizando menos ganchos de fijación y agujeros de perforación. Para instalaciones grandes, un conector opcional permite combinar varios conjuntos de deflectores y reducir la necesidad de ganchos de fijación.</p>\n<p>Características del juego de deflector suspendido:</p>\n<ul>\n<li>Marco de metal para mejorar la estabilidad del producto</li>\n<li>Lana PET de alta densidad de primera calidad</li>\n<li>Alto rendimiento en frecuencias medias y altas</li>\n<li>Peso ligero</li>\n<li>Fácil de instalar</li>\n<li>Fácil de limpiar y mantener</li>\n</ul>\n<p>&nbsp;</p>\n",
+  "short_description": "",
+  "sku": "VIC-050",
+  "price": "399",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>482,79&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.560,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 482,79&nbsp;&euro; hasta 1.560,90&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5585,
+  "gallery_images": [
+    5586,
+    5587,
+    5588
+  ],
+  "categories": [
+    395,
+    477,
+    475,
+    390,
+    397
+  ],
+  "tags": [
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamaño",
+      "slug": "Tamaño",
+      "options": [
+        "1200x600 (3 Unidades)",
+        "1200x1200 (12 Unidades)"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "1 Unidad"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5904,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "1200x600 (3 Unidades)",
+        "caja": "1 Unidad"
+      },
+      "price": "399",
+      "regular_price": "399",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-050",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5908,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5905,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "1200x1200 (12 Unidades)",
+        "caja": "1 Unidad"
+      },
+      "price": "1290",
+      "regular_price": "1290",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-050",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5909,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5906,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "1200x600 (3 Unidades)",
+        "caja": "1 Unidad"
+      },
+      "price": "399",
+      "regular_price": "399",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-050",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5585,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5907,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "1200x1200 (12 Unidades)",
+        "caja": "1 Unidad"
+      },
+      "price": "1290",
+      "regular_price": "1290",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-050",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5910,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

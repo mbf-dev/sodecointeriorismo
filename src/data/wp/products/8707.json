@@ -1,0 +1,184 @@
+{
+  "id": 8707,
+  "name": "Snowgems Ceiling",
+  "slug": "snowgems-ceiling",
+  "permalink": "https://wpadmin.buildmaster.dev/product/snowgems-ceiling/",
+  "date_created": "2024-08-10 19:16:32",
+  "date_modified": "2025-10-28 13:32:31",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<p>Sistema fonoabsorbente modular. Consta de paneles con formas y colores inspirados en las piedras preciosas y realizados aplicando la tecnología Snowsound. Los bastidores de techo se construyen con travesaños de acero cromado, que se ensamblan por medio de elementos tubulares de acero. En estos últimos se colocan los paneles fonoabsorbentes. Las estructuras son modulares y se pueden ensamblar unas con otras. El sistema cuelga del techo a través de cables regulables en altura.</p>\n<p>«Todo nace del gesto de enhebrar una serie de piedras de diferentes colores y formas en un hilo para crear joyas preciosas, collares y pendientes.» Snowgems es un sistema abierto que da vida a soluciones con formas delicadas, capaces de influir notablemente en la calidad acústica y estética de los espacios.</p>\n",
+  "short_description": "<h2>Design (a+b) Annalisa Dominoni-Benedetto Quaquaro</h2>\n",
+  "sku": "CAI-133",
+  "price": "1290",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.560,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8708,
+  "gallery_images": [
+    8709,
+    8710
+  ],
+  "categories": [
+    477,
+    475,
+    476,
+    390,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        625,
+        624,
+        611,
+        613
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensiones",
+      "slug": "Dimensiones",
+      "options": [
+        "90x168cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12711,
+      "attributes": {
+        "pa_textura": "4067-aquamarina",
+        "dimensiones": "90x168cm"
+      },
+      "price": "1290",
+      "regular_price": "1290",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-133",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8708,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12712,
+      "attributes": {
+        "pa_textura": "7074-rosa-quarzo",
+        "dimensiones": "90x168cm"
+      },
+      "price": "1290",
+      "regular_price": "1290",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-133",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8708,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12713,
+      "attributes": {
+        "pa_textura": "blanco-frio-8002",
+        "dimensiones": "90x168cm"
+      },
+      "price": "1290",
+      "regular_price": "1290",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-133",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8708,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12714,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007",
+        "dimensiones": "90x168cm"
+      },
+      "price": "1290",
+      "regular_price": "1290",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-133",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8708,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

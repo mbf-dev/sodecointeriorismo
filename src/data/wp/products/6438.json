@@ -1,0 +1,302 @@
+{
+  "id": 6438,
+  "name": "Flat Panel PET",
+  "slug": "flat-panel-pet",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flat-panel-pet/",
+  "date_created": "2024-07-23 14:29:51",
+  "date_modified": "2025-11-19 13:58:36",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Una solución económica para tratar las frecuencias medias y altas. Caja 8 unidades</p>\n",
+  "short_description": "",
+  "sku": "VIC-026",
+  "price": "180.88",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>218,86&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>521,89&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 218,86&nbsp;&euro; hasta 521,89&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4720,
+  "gallery_images": [
+    4721,
+    4722,
+    4723
+  ],
+  "categories": [
+    395,
+    477,
+    475,
+    402,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    329,
+    331,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        405,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "595x595x20",
+        "1190x595x20",
+        "595x595x40",
+        "1190x595x40"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "8 unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6663,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "595x595x20",
+        "caja": "8 unidades"
+      },
+      "price": "180.88",
+      "regular_price": "180.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4728,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6664,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "1190x595x20",
+        "caja": "8 unidades"
+      },
+      "price": "340.64",
+      "regular_price": "340.64",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4729,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6665,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "595x595x40",
+        "caja": "8 unidades"
+      },
+      "price": "218.29",
+      "regular_price": "218.29",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4728,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6666,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "1190x595x40",
+        "caja": "8 unidades"
+      },
+      "price": "431.31",
+      "regular_price": "431.31",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4728,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6667,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "595x595x20",
+        "caja": "8 unidades"
+      },
+      "price": "180.88",
+      "regular_price": "180.88",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4720,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6660,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "1190x595x20",
+        "caja": "8 unidades"
+      },
+      "price": "340.64",
+      "regular_price": "340.64",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6661,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "595x595x40",
+        "caja": "8 unidades"
+      },
+      "price": "218.29",
+      "regular_price": "218.29",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4720,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6662,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "1190x595x40",
+        "caja": "8 unidades"
+      },
+      "price": "431.31",
+      "regular_price": "431.31",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-026",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4732,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": 9853,
+  "name": "Bulstrip Spacer Kit",
+  "slug": "bulstrip-spacer-kit",
+  "permalink": "https://wpadmin.buildmaster.dev/product/bulstrip-spacer-kit/",
+  "date_created": "2024-08-20 15:40:55",
+  "date_modified": "2025-11-19 13:47:24",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>El innovador panel de listones con marco.</p>\n<p>Se mejora con una capa adicional de PET y un VicSpacer con un espacio de aire para mejorar el rendimiento acústico en las instalaciones de pared.</p>\n<p>&nbsp;</p>\n<p><strong><br />\nPrincipales características</strong></p>\n<ul>\n<li>Lana VicPET laminada de alta densidad resistente al fuego</li>\n<li>Ligero, fácil de transportar, aplicar, cortar y reajustar</li>\n<li>Se puede pegar o atornillar a paredes y techos</li>\n<li>Libre de madera, clavos de metal y con juntas casi invisibles</li>\n<li>Sostenible, producido principalmente a partir de botellas de plástico recicladas</li>\n<li>Material de bajas emisiones, para una buena calidad del aire</li>\n</ul>\n<p>Material de bajas emisiones, para una buena calidad del aire. VicStrip Square está disponible en un tamaño de 595x595x12mm y en seis patrones: roble natural, roble marrón, nogal natural, nogal Lincoln, blanco mate y negro mate.</p>\n",
+  "short_description": "",
+  "sku": "",
+  "price": "901.45",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.090,75&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4701,
+  "gallery_images": [
+    4702,
+    4703,
+    4704,
+    4705,
+    4706,
+    4707,
+    4708
+  ],
+  "categories": [
+    395,
+    476,
+    390
+  ],
+  "tags": [
+    329,
+    330,
+    331
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        449,
+        451,
+        453,
+        455,
+        457,
+        459,
+        461,
+        463
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9993,
+      "attributes": {
+        "pa_textura": "swatch_natural_oak-bk_pet"
+      },
+      "price": "901.45",
+      "regular_price": "901.45",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4701,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9994,
+      "attributes": {
+        "pa_textura": "swatch_brown_oak-bk"
+      },
+      "price": "901.45",
+      "regular_price": "901.45",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4709,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9989,
+      "attributes": {
+        "pa_textura": "swatch_natural_walnut-bk_pet"
+      },
+      "price": "901.45",
+      "regular_price": "901.45",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4710,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9990,
+      "attributes": {
+        "pa_textura": "swatch_dark_walnut-bk_pet"
+      },
+      "price": "901.45",
+      "regular_price": "901.45",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4717,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9991,
+      "attributes": {
+        "pa_textura": "swatch_black_matte-bk_pet"
+      },
+      "price": "901.45",
+      "regular_price": "901.45",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4718,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9992,
+      "attributes": {
+        "pa_textura": "swatch_white_matte-bk_pet"
+      },
+      "price": "901.45",
+      "regular_price": "901.45",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4719,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9987,
+      "attributes": {
+        "pa_textura": "swatch_garnet_red-bk_pet"
+      },
+      "price": "901.45",
+      "regular_price": "901.45",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9998,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9988,
+      "attributes": {
+        "pa_textura": "swatch_reed_green-bk_pet"
+      },
+      "price": "901.45",
+      "regular_price": "901.45",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9999,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

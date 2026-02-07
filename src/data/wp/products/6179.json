@@ -1,0 +1,608 @@
+{
+  "id": 6179,
+  "name": "Flexiwave Ultra",
+  "slug": "flexiwave-ultra",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flexiwave-ultra/",
+  "date_created": "2024-07-23 11:12:39",
+  "date_modified": "2025-10-28 13:08:42",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Panel acústico híbrido revolucionario</p>\n<p>El revolucionario panel acústico Flexi Wave aporta rendimiento y diseño a nuestros hogares. Este panel acústico híbrido actúa como absorbente y difusor simultáneamente.</p>\n<p><strong><br />\nDimensiones</strong> (L×H×W): 595 x 156 x 100mm/1190 x 156 x 100mm /<strong><br />\nCaracterísticas:</strong></p>\n<p>&#8211; Absorción y difusión acústica en un solo panel</p>\n<p>&#8211; Libre de poliuretano</p>\n<p>&#8211; MDF de alta calidad con laminado de alta presión antiarañazos</p>\n<p>&#8211; Absorción de PET en el interior</p>\n<p>&#8211; Sistema de fijación profesional</p>\n<p>&nbsp;</p>\n",
+  "short_description": "",
+  "sku": "VIC-074",
+  "price": "370.57",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>448,39&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>728,09&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 448,39&nbsp;&euro; hasta 728,09&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6180,
+    6176,
+    6177,
+    6178
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 6206,
+  "gallery_images": [
+    6207,
+    6208,
+    6209,
+    6210
+  ],
+  "categories": [
+    395,
+    401,
+    390
+  ],
+  "tags": [
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        433,
+        508,
+        436,
+        432,
+        530,
+        531,
+        434,
+        505,
+        504,
+        529
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "595",
+        "1190"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "6 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6229,
+      "attributes": {
+        "pa_color": "negro-mate",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6253,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6230,
+      "attributes": {
+        "pa_color": "blanco-mate",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6254,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6224,
+      "attributes": {
+        "pa_color": "roble-natural",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6250,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6225,
+      "attributes": {
+        "pa_color": "roble-marron",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6251,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6226,
+      "attributes": {
+        "pa_color": "nogal-natural",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6252,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6227,
+      "attributes": {
+        "pa_color": "nogal-oscuro",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6228,
+      "attributes": {
+        "pa_color": "cereza-locarno",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6247,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6219,
+      "attributes": {
+        "pa_color": "wenge-oscuro",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6248,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6220,
+      "attributes": {
+        "pa_color": "cobre-metalico",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6211,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6221,
+      "attributes": {
+        "pa_color": "oro-metalico",
+        "tamano": "595",
+        "caja": "6 Unidades"
+      },
+      "price": "370.57",
+      "regular_price": "370.57",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6212,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6222,
+      "attributes": {
+        "pa_color": "negro-mate",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6249,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6223,
+      "attributes": {
+        "pa_color": "blanco-mate",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6206,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6203,
+      "attributes": {
+        "pa_color": "roble-natural",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6213,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6204,
+      "attributes": {
+        "pa_color": "roble-marron",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6214,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6205,
+      "attributes": {
+        "pa_color": "nogal-natural",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6215,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6216,
+      "attributes": {
+        "pa_color": "nogal-oscuro",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6217,
+      "attributes": {
+        "pa_color": "cereza-locarno",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6247,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6218,
+      "attributes": {
+        "pa_color": "wenge-oscuro",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6248,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6201,
+      "attributes": {
+        "pa_color": "cobre-metalico",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6211,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6202,
+      "attributes": {
+        "pa_color": "oro-metalico",
+        "tamano": "1190",
+        "caja": "6 Unidades"
+      },
+      "price": "601.73",
+      "regular_price": "601.73",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-074",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6212,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

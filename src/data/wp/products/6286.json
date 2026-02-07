@@ -1,0 +1,124 @@
+{
+  "id": 6286,
+  "name": "Kit de Muestra Flat Panel VMT",
+  "slug": "kit-de-muestra-flat-panel-vmt-2",
+  "permalink": "https://wpadmin.buildmaster.dev/product/kit-de-muestra-flat-panel-vmt-2/",
+  "date_created": "2024-07-23 14:02:16",
+  "date_modified": "2025-10-28 12:59:32",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "",
+  "short_description": "<p>Los kits de muestra Flat Panel VMT son perfectos para determinar qué color o patrón se adapta mejor al espacio que desea tratar acústicamente. Hay dos kits disponibles: uno con 8 muestras de colores VMT y otro con 8 muestras de patrones VMT.</p>\n<p>Cada muestra mide aproximadamente 132&#215;102 mm.</p>\n",
+  "sku": "VIC-040",
+  "price": "24.5",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>29,65&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4240,
+  "gallery_images": [],
+  "categories": [
+    478,
+    392,
+    477,
+    475,
+    476,
+    398,
+    390,
+    480
+  ],
+  "tags": [
+    342,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "Acabado",
+      "slug": "Acabado",
+      "options": [
+        "Colores",
+        "Patrones"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6336,
+      "attributes": {
+        "acabado": "Colores"
+      },
+      "price": "24.5",
+      "regular_price": "24.5",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-040",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4246,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6337,
+      "attributes": {
+        "acabado": "Patrones"
+      },
+      "price": "24.5",
+      "regular_price": "24.5",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-040",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4240,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

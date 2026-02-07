@@ -1,0 +1,294 @@
+{
+  "id": 6176,
+  "name": "Cinema Round Ultra Fuser",
+  "slug": "cinema-round-ultra-fuser",
+  "permalink": "https://wpadmin.buildmaster.dev/product/cinema-round-ultra-fuser/",
+  "date_created": "2024-07-23 11:12:39",
+  "date_modified": "2025-10-28 12:59:58",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Un difusor premium para paredes y techos. Cine en casa, salas hifi y audio profesional. 2 unidades caja.</p>\n",
+  "short_description": "<p>Un difusor con estilo&#8230; Cinema Round Ultra Fuser trae una gama de características a la mesa para su cine en casa, sistema de alta fidelidad y salas de audio profesional. Este producto es fácil de instalar tanto en la pared como en el techo, mezclando las mejores características de nuestros productos galardonados Polywood Fuser, Cinema Round y VicTotem.</p>\n<p>Cinema Round Ultra Fuser está disponible en 8 colores laminados.</p>\n",
+  "sku": "VIC-044",
+  "price": "334",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>404,14&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6180,
+    6179,
+    6177,
+    6178
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4307,
+  "gallery_images": [
+    4308,
+    4309,
+    4310,
+    4311
+  ],
+  "categories": [
+    478,
+    401,
+    476,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    346,
+    331,
+    332,
+    465
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        433,
+        508,
+        436,
+        432,
+        434,
+        505,
+        504,
+        529
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6188,
+      "attributes": {
+        "pa_color": "negro-mate",
+        "caja": "2 Unidades"
+      },
+      "price": "334",
+      "regular_price": "334",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4312,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6181,
+      "attributes": {
+        "pa_color": "blanco-mate",
+        "caja": "2 Unidades"
+      },
+      "price": "334",
+      "regular_price": "334",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4313,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6182,
+      "attributes": {
+        "pa_color": "wenge-oscuro",
+        "caja": "2 Unidades"
+      },
+      "price": "334",
+      "regular_price": "334",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4314,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6183,
+      "attributes": {
+        "pa_color": "roble-marron",
+        "caja": "2 Unidades"
+      },
+      "price": "334",
+      "regular_price": "334",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4307,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6184,
+      "attributes": {
+        "pa_color": "cereza-locarno",
+        "caja": "2 Unidades"
+      },
+      "price": "334",
+      "regular_price": "334",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4315,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6185,
+      "attributes": {
+        "pa_color": "roble-natural",
+        "caja": "2 Unidades"
+      },
+      "price": "334",
+      "regular_price": "334",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4322,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6186,
+      "attributes": {
+        "pa_color": "cobre-metalico",
+        "caja": "2 Unidades"
+      },
+      "price": "334",
+      "regular_price": "334",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4323,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6187,
+      "attributes": {
+        "pa_color": "oro-metalico",
+        "caja": "2 Unidades"
+      },
+      "price": "334",
+      "regular_price": "334",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-044",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4324,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

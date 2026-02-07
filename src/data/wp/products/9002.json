@@ -1,0 +1,305 @@
+{
+  "id": 9002,
+  "name": "Botanica Wall-Ceiling",
+  "slug": "botanica-wall-ceiling",
+  "permalink": "https://wpadmin.buildmaster.dev/product/botanica-wall-ceiling/",
+  "date_created": "2024-08-11 20:17:57",
+  "date_modified": "2025-10-28 13:27:42",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p><em>“Botanica se posa y trepa como una planta que protege y aísla el ambiente. El viento sopla pero no se siente, hay luz pero no se ve. El resultado es una atmósfera atenuada y distendida, el silencio a distintos niveles que se escucha en los bosques, en los que los sonidos se dispersan en la serena inmensidad de la naturaleza.”</em>(Mario Trimarchi)<br />\nEl sistema de elementos fonoabsorbentes Botanica está compuesto por un panel en forma de hoja sujeto por un soporte en metal cromado que puede fijarse con distintas inclinaciones y se propone en combinación con distintas estructuras de soporte.<br />\nEn la versión individual, el panel puede fijarse a la pared o al techo mediante un soporte en acero cromado.<br />\nMarco de longitud modulable destinado a fijarse en la pared o el techo, realizado en tubular de acero cromado caracterizado por la curvatura tridimensional del tubo.</p>\n",
+  "short_description": "<h2>Design Mario Trimarchi</h2>\n",
+  "sku": "CAI-107",
+  "price": "1350",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.633,50&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>2.165,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 1.633,50&nbsp;&euro; hasta 2.165,90&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9003,
+  "gallery_images": [
+    9004,
+    9005
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "pa_textura",
+      "slug": "pa_textura",
+      "options": [
+        626,
+        613,
+        618
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Dimensión",
+      "slug": "Dimensión",
+      "options": [
+        "208x105cm",
+        "169x105cm",
+        "Módulo 4 hojas"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 9726,
+      "attributes": {
+        "pa_textura": "blanc-0012",
+        "dimension": "208x105cm"
+      },
+      "price": "1790",
+      "regular_price": "1790",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-107",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9727,
+      "attributes": {
+        "pa_textura": "blanc-0012",
+        "dimension": "169x105cm"
+      },
+      "price": "1570",
+      "regular_price": "1570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-107",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9728,
+      "attributes": {
+        "pa_textura": "verde-claro-7004",
+        "dimension": "208x105cm"
+      },
+      "price": "1790",
+      "regular_price": "1790",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-107",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9729,
+      "attributes": {
+        "pa_textura": "verde-claro-7004",
+        "dimension": "169x105cm"
+      },
+      "price": "1570",
+      "regular_price": "1570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-107",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9730,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007",
+        "dimension": "208x105cm"
+      },
+      "price": "1790",
+      "regular_price": "1790",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-107",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9731,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007",
+        "dimension": "169x105cm"
+      },
+      "price": "1570",
+      "regular_price": "1570",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-107",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9734,
+      "attributes": {
+        "pa_textura": "blanc-0012",
+        "dimension": "Módulo 4 hojas"
+      },
+      "price": "1350",
+      "regular_price": "1350",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-107",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9733,
+      "attributes": {
+        "pa_textura": "verde-claro-7004",
+        "dimension": "Módulo 4 hojas"
+      },
+      "price": "1350",
+      "regular_price": "1350",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-107",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 9732,
+      "attributes": {
+        "pa_textura": "gris-oscuro-8007",
+        "dimension": "Módulo 4 hojas"
+      },
+      "price": "1350",
+      "regular_price": "1350",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-107",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9003,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

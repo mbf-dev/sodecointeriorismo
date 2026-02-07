@@ -1,0 +1,61 @@
+{
+  "id": 9400,
+  "name": "Divido",
+  "slug": "divido",
+  "permalink": "https://wpadmin.buildmaster.dev/product/divido/",
+  "date_created": "2024-08-13 10:06:32",
+  "date_modified": "2025-10-28 13:17:42",
+  "type": "simple",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Cesto completamente de tecnopolímero para la separación de residuos. Se suministra con un divisorio interno y la correspondiente sujeción superior de serie. Estos pueden encajarse libremente, pudiendo así obtener los espacios con la capacidad necesaria.</p>\n",
+  "short_description": "",
+  "sku": "CAI-048",
+  "price": "49.50",
+  "regular_price": "49.50",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>59,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9401,
+  "gallery_images": [
+    9402,
+    9403
+  ],
+  "categories": [
+    481,
+    492
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": []
+}

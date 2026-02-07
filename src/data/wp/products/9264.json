@@ -1,0 +1,674 @@
+{
+  "id": 9264,
+  "name": "Ulisse",
+  "slug": "ulisse",
+  "permalink": "https://wpadmin.buildmaster.dev/product/ulisse/",
+  "date_created": "2024-08-12 12:50:47",
+  "date_modified": "2025-10-28 13:20:32",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>Sistema de asientos modulares con armazones y mesas de chapa de acero perforada recubierta con polvo epoxi. Los soportes, las vigas y las peculiares bases cónicas son de acero recubierto con polvo epoxi. Apoyabrazo en aluminio recubierto con polvo epoxi.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-071",
+  "price": "819",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>990,99&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.764,18&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 990,99&nbsp;&euro; hasta 1.764,18&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9265,
+  "gallery_images": [
+    9266,
+    9267,
+    9268,
+    9269,
+    9270,
+    9271,
+    9272,
+    9273,
+    9274
+  ],
+  "categories": [
+    481,
+    484
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        406,
+        404,
+        421
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "5 plazas",
+        "4 plazas",
+        "3 plazas",
+        "2 plazas",
+        "4 plazas + mesa",
+        "3 plazas + mesa",
+        "2 plazas + mesa",
+        "1 plaza + mesa"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12547,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "5 plazas"
+      },
+      "price": "1458",
+      "regular_price": "1458",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12548,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "4 plazas"
+      },
+      "price": "1245",
+      "regular_price": "1245",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12549,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "3 plazas"
+      },
+      "price": "1032",
+      "regular_price": "1032",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12550,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "2 plazas"
+      },
+      "price": "819",
+      "regular_price": "819",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12551,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "4 plazas + mesa"
+      },
+      "price": "1458",
+      "regular_price": "1458",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12552,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "3 plazas + mesa"
+      },
+      "price": "1245",
+      "regular_price": "1245",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12553,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "2 plazas + mesa"
+      },
+      "price": "1032",
+      "regular_price": "1032",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12554,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "1 plaza + mesa"
+      },
+      "price": "819",
+      "regular_price": "819",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12555,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "5 plazas"
+      },
+      "price": "1458",
+      "regular_price": "1458",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12556,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "4 plazas"
+      },
+      "price": "1245",
+      "regular_price": "1245",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12557,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "3 plazas"
+      },
+      "price": "1032",
+      "regular_price": "1032",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12558,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "2 plazas"
+      },
+      "price": "819",
+      "regular_price": "819",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12559,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "4 plazas + mesa"
+      },
+      "price": "1458",
+      "regular_price": "1458",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12560,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "3 plazas + mesa"
+      },
+      "price": "1245",
+      "regular_price": "1245",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12561,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "2 plazas + mesa"
+      },
+      "price": "1032",
+      "regular_price": "1032",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12562,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "1 plaza + mesa"
+      },
+      "price": "819",
+      "regular_price": "819",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12563,
+      "attributes": {
+        "pa_color": "rojo",
+        "tamano": "5 plazas"
+      },
+      "price": "1458",
+      "regular_price": "1458",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12564,
+      "attributes": {
+        "pa_color": "rojo",
+        "tamano": "4 plazas"
+      },
+      "price": "1245",
+      "regular_price": "1245",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12565,
+      "attributes": {
+        "pa_color": "rojo",
+        "tamano": "3 plazas"
+      },
+      "price": "1032",
+      "regular_price": "1032",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12566,
+      "attributes": {
+        "pa_color": "rojo",
+        "tamano": "2 plazas"
+      },
+      "price": "819",
+      "regular_price": "819",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12567,
+      "attributes": {
+        "pa_color": "rojo",
+        "tamano": "4 plazas + mesa"
+      },
+      "price": "1458",
+      "regular_price": "1458",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12568,
+      "attributes": {
+        "pa_color": "rojo",
+        "tamano": "3 plazas + mesa"
+      },
+      "price": "1245",
+      "regular_price": "1245",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12569,
+      "attributes": {
+        "pa_color": "rojo",
+        "tamano": "2 plazas + mesa"
+      },
+      "price": "1032",
+      "regular_price": "1032",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12570,
+      "attributes": {
+        "pa_color": "rojo",
+        "tamano": "1 plaza + mesa"
+      },
+      "price": "819",
+      "regular_price": "819",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-071",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9265,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

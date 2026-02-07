@@ -1,5 +1,8 @@
 {
+  "id": 69,
   "name": "Buying",
   "slug": "buying",
-  "id": 69
+  "description": "",
+  "parent_id": 0,
+  "count": 1
 }

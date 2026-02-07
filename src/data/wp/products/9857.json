@@ -1,0 +1,446 @@
+{
+  "id": 9857,
+  "name": "Flat Panel VMT Colores Sólidos",
+  "slug": "flat-panel-vmt-colores-solidos",
+  "permalink": "https://wpadmin.buildmaster.dev/product/flat-panel-vmt-colores-solidos/",
+  "date_created": "2024-08-20 15:40:56",
+  "date_modified": "2025-11-19 13:50:15",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Panel acústico con gran variedad de acabados</p>\n<p>Flat Panel VMT es un panel acústico decorativo fabricado con BulPET Wool, un material producido principalmente a partir de botellas de plástico recicladas.</p>\n<p>Beneficios acústicos:</p>\n<p>/ Ayudar a aumentar la eficiencia energética en un edificio<br />\n/ Están certificados con <strong>Indoor Advantage™ Gold Building Materials</strong>, por SCS Global Services<br />\n/ Son una manera fácil de crear un sinfín de diseños nuevos y emocionantes<br />\n/ Mejorar la acústica de cualquier estancia<br />\n/ Haz que las habitaciones sean más verdes al estar hecho de materiales sostenibles y reciclables</p>\n<p>Con una innovadora tecnología de teñido, los paneles acústicos Flat Panel VMT pueden simular hormigón, mármol, madera, piedras naturales y otros materiales, consiguiendo un aspecto sorprendente y realista en cualquier ambiente. Las aplicaciones de Flat Panel VMT son infinitas, lo que lo convierte en el panel acústico fonoabsorbente ideal tanto para proyectos de nueva construcción como de rehabilitación.</p>\n<p>&nbsp;</p>\n",
+  "short_description": "",
+  "sku": "VIC-013",
+  "price": "321",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>388,41&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 5552,
+  "gallery_images": [
+    5553,
+    5554,
+    5555,
+    5556,
+    5557,
+    5558,
+    5559,
+    5560,
+    5561,
+    5562,
+    5563
+  ],
+  "categories": [
+    395,
+    478,
+    392,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    329,
+    331,
+    332,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        412,
+        413,
+        410,
+        405,
+        415,
+        406,
+        407,
+        411,
+        414,
+        404,
+        416,
+        409,
+        408
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Tamańo",
+      "slug": "Tamańo",
+      "options": [
+        "595x595x20mm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "8 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 18335,
+      "attributes": {
+        "pa_color": "verde-mus",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18336,
+      "attributes": {
+        "pa_color": "verde-musgo",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18324,
+      "attributes": {
+        "pa_color": "azul",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18325,
+      "attributes": {
+        "pa_color": "azul-bondi",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18326,
+      "attributes": {
+        "pa_color": "beige",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18327,
+      "attributes": {
+        "pa_color": "blanco-natural",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18328,
+      "attributes": {
+        "pa_color": "coral",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18329,
+      "attributes": {
+        "pa_color": "gris",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18330,
+      "attributes": {
+        "pa_color": "gris-claro",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18331,
+      "attributes": {
+        "pa_color": "marron",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18332,
+      "attributes": {
+        "pa_color": "naranja",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18333,
+      "attributes": {
+        "pa_color": "negro",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 18334,
+      "attributes": {
+        "pa_color": "verde-croma",
+        "tamano": "595x595x20mm",
+        "caja": "8 Unidades"
+      },
+      "price": "321",
+      "regular_price": "321",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-013",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 5552,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

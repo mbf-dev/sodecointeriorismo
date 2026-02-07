@@ -1,0 +1,122 @@
+{
+  "id": 9212,
+  "name": "Set Displays",
+  "slug": "set-displays",
+  "permalink": "https://wpadmin.buildmaster.dev/product/set-displays/",
+  "date_created": "2024-08-12 12:24:11",
+  "date_modified": "2025-10-28 13:21:31",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<div class=\"woocommerce-product-details__short-description \">\n<p>SET está formada por un poste de acero inoxidable satinado con base circular, disponible con acabados en acero inoxidable satinado o recubierta en color negro gofrado. El cabezal del poste está dotado de un innovador sistema de fijación que permite enganchar y desenganchar los accesorios de forma sencilla y rápida. Al enganchar y desenganchar los accesorios,<br />\nse consigue redefinir los postes fácilmente modificando o añadiendo funciones.</p>\n</div>\n<div class=\"product_family\">\n<div class=\"product_family_element\"></div>\n</div>\n",
+  "short_description": "",
+  "sku": "CAI-079",
+  "price": "218",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>263,78&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>275,88&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 263,78&nbsp;&euro; hasta 275,88&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 9213,
+  "gallery_images": [
+    9214,
+    9215,
+    9216
+  ],
+  "categories": [
+    481,
+    496,
+    498
+  ],
+  "tags": [
+    466,
+    474
+  ],
+  "attributes": [
+    {
+      "name": "pa_color",
+      "slug": "pa_color",
+      "options": [
+        406,
+        404
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 12483,
+      "attributes": {
+        "pa_color": "gris"
+      },
+      "price": "228",
+      "regular_price": "228",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-079",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9213,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 12484,
+      "attributes": {
+        "pa_color": "negro"
+      },
+      "price": "218",
+      "regular_price": "218",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-079",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 9213,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

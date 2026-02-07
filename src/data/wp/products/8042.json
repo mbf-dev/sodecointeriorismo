@@ -1,0 +1,351 @@
+{
+  "id": 8042,
+  "name": "Industrial",
+  "slug": "industrial",
+  "permalink": "https://wpadmin.buildmaster.dev/product/industrial/",
+  "date_created": "2024-08-04 01:32:59",
+  "date_modified": "2025-10-28 13:30:31",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Línea de paneles fonoabsorbentes con elevadas prestaciones acústicas (clase A de absorción acústica) específicamente diseñados para formar parte de proyectos de gran escala en los ámbitos educativo, comercial e industrial. Realizados en poliéster en densidad variable, no poseen revestimiento exterior y están dotados de soportes que permiten su fijación al techo, así como su colocación en suspensión con cables o en la pared.</p>\n",
+  "short_description": "",
+  "sku": "CAI-117",
+  "price": "544",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>658,24&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span> <span aria-hidden=\"true\">-</span> <span class=\"woocommerce-Price-amount amount\" aria-hidden=\"true\"><bdi>1.248,72&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span><span class=\"screen-reader-text\">Rango de precios: desde 658,24&nbsp;&euro; hasta 1.248,72&nbsp;&euro;</span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 8063,
+  "gallery_images": [
+    8066,
+    8065,
+    8064
+  ],
+  "categories": [
+    477,
+    475,
+    390,
+    480,
+    397
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Formato",
+      "slug": "Formato",
+      "options": [
+        "120x20cm",
+        "160x20cm",
+        "160x40cm",
+        "160x60cm",
+        "120x80cm"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Suspensión techo",
+      "slug": "Suspensión techo",
+      "options": [
+        "Si",
+        "No"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Uds por caja",
+      "slug": "Uds por caja",
+      "options": [
+        "8",
+        "4"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 8043,
+      "attributes": {
+        "formato": "120x20cm",
+        "suspension-techo": "Si",
+        "uds-por-caja": "8"
+      },
+      "price": "872",
+      "regular_price": "872",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8044,
+      "attributes": {
+        "formato": "120x20cm",
+        "suspension-techo": "No",
+        "uds-por-caja": "8"
+      },
+      "price": "608",
+      "regular_price": "608",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8045,
+      "attributes": {
+        "formato": "160x20cm",
+        "suspension-techo": "Si",
+        "uds-por-caja": "8"
+      },
+      "price": "1032",
+      "regular_price": "1032",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8046,
+      "attributes": {
+        "formato": "160x20cm",
+        "suspension-techo": "No",
+        "uds-por-caja": "8"
+      },
+      "price": "768",
+      "regular_price": "768",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8047,
+      "attributes": {
+        "formato": "160x40cm",
+        "suspension-techo": "Si",
+        "uds-por-caja": "4"
+      },
+      "price": "676",
+      "regular_price": "676",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8048,
+      "attributes": {
+        "formato": "160x40cm",
+        "suspension-techo": "No",
+        "uds-por-caja": "4"
+      },
+      "price": "544",
+      "regular_price": "544",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8049,
+      "attributes": {
+        "formato": "160x60cm",
+        "suspension-techo": "Si",
+        "uds-por-caja": "4"
+      },
+      "price": "832",
+      "regular_price": "832",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8050,
+      "attributes": {
+        "formato": "160x60cm",
+        "suspension-techo": "No",
+        "uds-por-caja": "4"
+      },
+      "price": "700",
+      "regular_price": "700",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8051,
+      "attributes": {
+        "formato": "120x80cm",
+        "suspension-techo": "Si",
+        "uds-por-caja": "4"
+      },
+      "price": "832",
+      "regular_price": "832",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 8052,
+      "attributes": {
+        "formato": "120x80cm",
+        "suspension-techo": "No",
+        "uds-por-caja": "4"
+      },
+      "price": "700",
+      "regular_price": "700",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-117",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 8063,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

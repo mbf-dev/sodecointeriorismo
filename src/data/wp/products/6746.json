@@ -1,0 +1,159 @@
+{
+  "id": 6746,
+  "name": "Mario Trimachi Art",
+  "slug": "mario-trimachi-art",
+  "permalink": "https://wpadmin.buildmaster.dev/product/mario-trimachi-art/",
+  "date_created": "2024-08-03 20:43:55",
+  "date_modified": "2025-10-28 13:30:55",
+  "type": "variable",
+  "status": "publish",
+  "featured": true,
+  "catalog_visibility": "visible",
+  "description": "<p>SILENCIO</p>\n<p>&nbsp;</p>\n<p>Snowsound Art es un proyecto de Caimi que tiene como objetivo un viaje de descubrimiento de nuevos caminos para hacer dialogar ARTE y DISEÑO. Una forma de ver el arte, no sólo como una creación única, no repetible, sino como una “belleza” reproducible en objetos en serie. El arte no sólo para contemplar, el arte para disfrutar. Serie de paneles fonoabsorbentes Snowsound Art en los que se reproducen una serie de dibujos de Mario Trimarchi.</p>\n",
+  "short_description": "<p>Serie de paneles fonoabsorbentes Snowsound Art en los que se reproducen una serie de dibujos de Mario Trimarchi.</p>\n",
+  "sku": "CAI-121",
+  "price": "890",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>1.076,90&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 6747,
+  "gallery_images": [
+    6752
+  ],
+  "categories": [
+    471,
+    477,
+    475,
+    476,
+    390,
+    480
+  ],
+  "tags": [
+    466,
+    473
+  ],
+  "attributes": [
+    {
+      "name": "Color",
+      "slug": "Color",
+      "options": [
+        "Iris",
+        "Papavero",
+        "Paeonia"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Unidades",
+      "slug": "Unidades",
+      "options": [
+        "1 unidad 117cm"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 6748,
+      "attributes": {
+        "color": "Iris",
+        "unidades": "1 unidad 117cm"
+      },
+      "price": "890",
+      "regular_price": "890",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-121",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6751,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6749,
+      "attributes": {
+        "color": "Papavero",
+        "unidades": "1 unidad 117cm"
+      },
+      "price": "890",
+      "regular_price": "890",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-121",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6753,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 6750,
+      "attributes": {
+        "color": "Paeonia",
+        "unidades": "1 unidad 117cm"
+      },
+      "price": "890",
+      "regular_price": "890",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "CAI-121",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 6754,
+      "weight": "",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}

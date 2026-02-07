@@ -1,0 +1,485 @@
+{
+  "id": 5672,
+  "name": "Mega Bass Trap VMT XXL",
+  "slug": "mega-bass-trap-vmt-xxl",
+  "permalink": "https://wpadmin.buildmaster.dev/product/mega-bass-trap-vmt-xxl/",
+  "date_created": "2024-07-23 10:37:14",
+  "date_modified": "2025-10-28 13:01:11",
+  "type": "variable",
+  "status": "publish",
+  "featured": false,
+  "catalog_visibility": "visible",
+  "description": "<p>Su enorme rendimiento a partir de los 50 Hz para controlar la mayor parte del rango de frecuencias audible hace que Mega Bass Trap VMT XXL sea probablemente la mejor solución de ingeniería de valor disponible en el mercado hoy en día.</p>\n<p>La ventaja significativa de una trampa de graves de banda ancha es que le ayudará a lidiar con las frecuencias de gama baja y, al mismo tiempo, con las frecuencias medias y altas. Esto significa que con un solo producto se tendrá en cuenta la mayoría de las frecuencias audibles. Como todo el mundo sabe, si uno realmente quiere una buena habitación para trabajar, y para disfrutar de la música o para ver una película, definitivamente tendrá que tener en cuenta todos los espectros de frecuencia audible y no solo el extremo inferior.</p>\n<p>&nbsp;</p>\n",
+  "short_description": "<p>La nueva trampa de graves de banda ancha que se ocupa de frecuencias de 50 Hz en adelante</p>\n<p>&nbsp;</p>\n",
+  "sku": "VIC-053",
+  "price": "2196",
+  "regular_price": "",
+  "sale_price": "",
+  "date_on_sale_from": null,
+  "date_on_sale_to": null,
+  "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>2.657,16&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+  "on_sale": false,
+  "purchasable": true,
+  "virtual": false,
+  "downloadable": false,
+  "external_url": "",
+  "button_text": "",
+  "tax_status": "taxable",
+  "tax_class": "",
+  "manage_stock": false,
+  "stock_quantity": null,
+  "stock_status": "instock",
+  "backorders": "no",
+  "low_stock_amount": "",
+  "sold_individually": false,
+  "weight": "68.5",
+  "dimensions": {
+    "length": "",
+    "width": "",
+    "height": ""
+  },
+  "average_rating": "0",
+  "review_count": 0,
+  "upsell_ids": [
+    6180,
+    5671,
+    8903,
+    5673,
+    5670
+  ],
+  "cross_sell_ids": [],
+  "parent_id": 0,
+  "purchase_note": "",
+  "image": 4899,
+  "gallery_images": [
+    4900,
+    4901,
+    4867
+  ],
+  "categories": [
+    478,
+    392,
+    476,
+    390,
+    400
+  ],
+  "tags": [
+    329,
+    331,
+    362,
+    465,
+    335
+  ],
+  "attributes": [
+    {
+      "name": "Color VMT",
+      "slug": "Color VMT",
+      "options": [
+        "Blanco Natural",
+        "Beige",
+        "Gris Claro",
+        "Gris",
+        "Negro"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Color del marco",
+      "slug": "Color del marco",
+      "options": [
+        "Blanco",
+        "Gris",
+        "Negro"
+      ],
+      "valiation": true,
+      "visible": true
+    },
+    {
+      "name": "Caja",
+      "slug": "Caja",
+      "options": [
+        "2 Unidades"
+      ],
+      "valiation": true,
+      "visible": true
+    }
+  ],
+  "variations": [
+    {
+      "id": 5716,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Blanco",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4905,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5717,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Blanco",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4906,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5712,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Blanco",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4907,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5713,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Blanco",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4911,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5714,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Blanco",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4912,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5715,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Gris",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4915,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5708,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Gris",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4916,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5709,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Gris",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4917,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5710,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Gris",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4921,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5711,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Gris",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4922,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5699,
+      "attributes": {
+        "color-vmt": "Blanco Natural",
+        "color-del-marco": "Negro",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4923,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5705,
+      "attributes": {
+        "color-vmt": "Beige",
+        "color-del-marco": "Negro",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4927,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5706,
+      "attributes": {
+        "color-vmt": "Gris Claro",
+        "color-del-marco": "Negro",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4928,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5707,
+      "attributes": {
+        "color-vmt": "Gris",
+        "color-del-marco": "Negro",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4931,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    },
+    {
+      "id": 5698,
+      "attributes": {
+        "color-vmt": "Negro",
+        "color-del-marco": "Negro",
+        "caja": "2 Unidades"
+      },
+      "price": "2196",
+      "regular_price": "2196",
+      "sale_price": "",
+      "date_on_sale_from": null,
+      "date_on_sale_to": null,
+      "on_sale": false,
+      "sku": "VIC-053",
+      "stock_quantity": null,
+      "stock_status": "instock",
+      "image": 4899,
+      "weight": "68.5",
+      "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+      },
+      "description": ""
+    }
+  ]
+}
